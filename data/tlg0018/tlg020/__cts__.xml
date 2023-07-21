@@ -1,0 +1,13 @@
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0018" xml:lang="grc" urn="urn:cts:greekLit:tlg0018.tlg020">
+  <ti:title xml:lang="lat">De Abrahamo</ti:title>
+  <ti:edition urn="urn:cts:greekLit:tlg0018.tlg020.opp-grc1" workUrn="urn:cts:greekLit:tlg0018.tlg020">
+    <ti:label xml:lang="lat">De Abrahamo</ti:label>
+    <ti:description xml:lang="mul">Philo Judaeus. Cohn, Leonard, editor. Opera quae supersunt, Volume 4. Berlin: Reimer, 1902.</ti:description>
+  </ti:edition>
+
+<ti:translation urn="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" xml:lang="eng" workUrn="urn:cts:greekLit:tlg0018.tlg020">
+    <ti:label xml:lang="lat">De Abrahamo</ti:label>
+    <ti:description xml:lang="eng">Philo of Alexandria, "A TREATISE ON THE LIFE OF THE WISE MAN MADE PERFECT BY INSTRUCTION OR, ON THE UNWRITTEN LAW, THAT IS TO SAY, ON ABRAHAM," translator: Charles Duke Yonge (George Bell and Sons, London, 1854)</ti:description>
+</ti:translation>
+
+</ti:work>
