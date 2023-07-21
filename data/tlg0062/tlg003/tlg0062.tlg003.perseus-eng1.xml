@@ -70,7 +70,7 @@
 <div type="translation" n="urn:cts:greekLit:tlg0062.tlg003.perseus-eng1" xml:lang="eng">
 <head>Dionysus: an Introduction<note>In Lucian’s time it became the custom to introduce a formal piece of rhetorical fireworks with an informal talk, usually more or less personal. See A. Stock, de prolaliarum usu rhetorico, Konigsberg, 1911. It is the general belief that the ‘Dionysus’ introduced Book ii. of the ‘True Story.’
 </note></head>
-<div type="textpart" subtype=" section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg003.perseus-eng1" subtype="section" n="1"><p>
 When Dionysus led his host against the men of
 Ind (surely there is nothing to prevent my telling
 you a tale of Bacchus !), he was held at first in such

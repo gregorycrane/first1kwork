@@ -69,7 +69,7 @@
 <body>
 <div type="translation" n="urn:cts:greekLit:tlg0062.tlg005.perseus-eng1" xml:lang="eng">
 <head>Amber, or the Swan<note>The introduction to a lecture, evidently familiar to Lucian’s public under two names.</note></head>
-<div type="textpart" subtype=" section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng1" subtype="section" n="1"><p>
 With regard to amber, you doubtless share the
 general belief in the story that poplars on the banks
 of the river Eridanus shed tears of it in grief over ‘

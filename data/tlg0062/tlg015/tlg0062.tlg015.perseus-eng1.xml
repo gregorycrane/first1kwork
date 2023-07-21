@@ -74,7 +74,7 @@ of Peirithous, which ended in a hand-to-hand encounter
 between the Centaurs and the Lapiths. The piece is thought
 to Be modelled on the Symposium of Menippus, the Cynic
 satirist.</note></head>
-<div type="textpart" subtype=" section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="1"><p>
 
 They say you had all kinds of sport yesterday,
 Lycinus, at the house of Aristaenetus, at dinner, and
@@ -145,7 +145,9 @@ And Dionicus did not do
 right, either, to blab it all to Charinus and besprinkle philosophers with the copious dregs of their
 stale cups. As for me—get out with you! I shan’t
 tell you anything of the kind !</p>
+</div>
 
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="4">
 <p><label>PHILO</label>
 That is all put on, Lycinus. But you needn’t have
 acted that way with me, for I know very well that
@@ -169,16 +171,16 @@ yourself!</p>
 <p><label>LYCINUS</label>
 Don’t get angry! I will tell you, since you
 are so anxious, but don’t you tell a lot of people.</p>
+</div>
 
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="5">
 <p><label>PHILO</label>
 If I have not forgotten all I know of you, Lycinus,
 you will do that better than I can, and you will
 lose no time in telling everybody, so that I shan’t be
 needed.
 
-</p></div>
-
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="4"><p>
+</p><p>
 
 But first tell me one thing—was it to
 celebrate the wedding of his son Zeno that
@@ -211,11 +213,10 @@ at dinner ?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="6"><p>
 
 <label>LYCINUS</label>
-Why should I tell you all of them? The philoso- .
-phers and literary men, whom, I suppose, you
+Why should I tell you all of them? The philosophers and literary men, whom, I suppose, you
 are most eager to hear about, were Zenothemis, the
 old man of the Porch,
 <note n="1">The Porch: where Zeno the Stoic used to teach.</note> and along with him Diphilus,
@@ -235,7 +236,7 @@ Dionysodorus.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="7"><p>
 
 Then, too, on account of Chaereas, the
 bridegroom, Ion the Platonic philosopher, who is his
@@ -255,7 +256,7 @@ divine visitation, the advent of Ion the marvellous.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="8"><p>
 
 By that time we had to take our places, for almost
 everyone was there. On the right as you enter, the
@@ -268,7 +269,7 @@ held.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="9"><p>
 
 Opposite the women, the first was Eucritus,
 and then Aristaenetus. Then a question was raised
@@ -297,7 +298,7 @@ Dionysodorus and the grammarian Histiaeus,
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="10"><p>
 
 <label>PHILO</label>
 Heavens, Lycinus, it’s a learned academy, this dinner
@@ -317,7 +318,7 @@ spends the better part of his time with these people.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="11"><p>
 
 Well, we dined peacefully at first, and were served
 with all sorts of dishes, but I don’t suppose there is
@@ -337,7 +338,7 @@ some time ago.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="12"><p>
 Just as Cleodemus said that, Alcidamas the Cynic
 romped in uninvited, getting off the commonplace
 joke about Menelaus coming of his own accord.
@@ -365,7 +366,11 @@ for they all feared Alcidamas, who was really “good
 at the war-cry,”
 <note n="3">Like Menelaus: Iliad 2, 408.</note> and the noisiest of all the Cynic
 barkers, for which reason he was considered a
-superior person and was a great terror to everybody.
+superior person and was a great terror to everybody.</p>
+</div>
+
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="13">
+<p>
 Aristaenetus commended him and bade him take
 a chair and sit beside Histiaeus and Dionysodorus.
 “Get out with you!” said he. “What you tell me
@@ -380,7 +385,11 @@ of him.” “Very well,” said Aristaenetus ; “if you
 prefer it that way.” Then Alcidamas began to
 circle about for his dinner, shifting 1o richer
 pasturage as the Scythians do, and following the
-orbits of the waiters. But even while he was eating
+orbits of the waiters. </p>
+</div>
+
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="14">
+<p>But even while he was eating
 he was not idle, for he talked of virtue and vice all
 the time, and scoffed at the gold and silver plate;
 for example, he asked Aristaenetus what was the use
@@ -406,7 +415,7 @@ the painters.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="15"><p>
 
 By this time the cup was going round continually
 among the rest of the party, there were toasts and
@@ -447,7 +456,7 @@ performance.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="16"><p>
 
 The Cynic Alcidamas, who was tipsy by this time,
 enquired the name of the bride, and then, after
@@ -459,16 +468,19 @@ earth, that I gave the bride a toast to our god
 Heracles? I’d have you to know that if she doesn’t
 accept the bowl from me, she will never have a son
 like me, invincible in courage, unfettered in intellect
-and as strong in body as I am,’ and with that
+and as strong in body as I am,” and with that
 he bared himself still more, in the most shameless
 way. Again the guests laughed at all this, and he
 got up in anger with a fierce, wild look, clearly
-‘ not intending to keep the peace any longer. Per-.
-haps he would have hit someone with his staff if just
+not intending to keep the peace any longer. Perhaps he would have hit someone with his staff if just
 in the nick of time a huge cake had not been
 brought in; but when he set eyes on that, he
 became calmer, put away his wrath, and began
-to walk about and stuff himself. Most of the
+to walk about and stuff himself. </p>
+</div>
+
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="17">
+<p>Most of the
 
 
 <pb n="431"/>
@@ -494,7 +506,11 @@ and
 meaning perfectly.</note></cit>
 
 But Zenothemis was reading aloud from a closely
-written book that he had taken from his attendant.
+written book that he had taken from his attendant.</p>
+</div>
+
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="18">
+<p>
 When, as often happens, the service of the waiters
 was interrupted for a while, Aristaenetus planned
 to prevent even that period from being unentertaining and empty, and ordered the clown to come
@@ -506,7 +522,11 @@ danced, doubling himself up and twisting himself
 about to cut a more ridiculous figure; then he beat
 time and recited scurrilous verses in an Egyptian
 brogue, and finally he began to poke fun at the
-guests. The rest laughed when they were made
+guests. </p>
+</div>
+
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="19">
+<p>The rest laughed when they were made
 fun of, but when he took a fling at Alcidamas in
 
 
@@ -535,7 +555,7 @@ little dwarf. So they got roundly laughed at.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="20"><p>
 
 
 At that point Dionicus, the doctor, came in, not
@@ -571,7 +591,7 @@ very useful in what followed.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="21"><p>
 
 You see, a servant
 came into the midst of us, saying that he was from
@@ -588,7 +608,9 @@ often write such pieces.</p>
 
 <p><label>LYCINUS</label>
 Of course we ourselves expected something of the
-sort, but it was far from that: its contents were :</p>
+sort, but it was far from that: its contents were :</p></div>
+
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="22">
 <p>"Hetoemocles the philosopher to Aristaenetus.</p>
 <p>“How I feel about dining out, my whole past life
 can testify; for although every day I am pestered
@@ -615,7 +637,7 @@ you, fool that I was.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="23"><p>
 You, however, have given me
 the go-by and are entertaining others. No wonder,
 for you are even yet unable to distinguish between
@@ -643,7 +665,11 @@ in "Philosophers for Sale,” 22. </note>
 
 “Well, much may your philosophers profit you !
 Holding as I do that only what is honourable is good,
-I shall easily stand the slight. But you need not
+I shall easily stand the slight. </p>
+</div>
+
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="24">
+<p>But you need not
 think you can afterwards take refuge in the plea
 that you forgot me in all the confusion and bother,
 for I spoke to you twice to-day, not only in the morning at your house, but later in the day, when you
@@ -653,7 +679,7 @@ your guests.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="25"><p>
 
 But if you think that I am angry over
 a mere dinner, call to mind the story of Oeneus and
@@ -679,7 +705,7 @@ And Sophocles:
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="26"><p>
 “I bring to your attention only these few points
 out of many, so that you may learn what sort of man
 you have left out in favour of Diphilus, whom you
@@ -703,7 +729,7 @@ herself.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="27"><p>
 
 “I have directed my servant, in case you offer him
 a portion of boar’s flesh or venison or sesame-cake to
@@ -713,7 +739,7 @@ him with that in view.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="28"><p>
 
 While all that was being read, my dear fellow, the
 sweat poured off me for shame, and to quote the
@@ -727,7 +753,11 @@ features. It was my notion that Aristaenetus
 had not carelessly overlooked him, but that, not
 thinking he would accept if invited, he would not
 expose himself to any such treatment, and so thought
-best not to try him at all. When at last the slave
+best not to try him at all.</p>
+</div>
+
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="29">
+<p> When at last the slave
 stopped reading, the whole party looked at Zeno and
 Diphilus, who were frightened and pale, and by the
 distress in their faces acknowledged the truth of the
@@ -746,7 +776,7 @@ his father.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="30"><p>
 
 Cleodemus had long been looking for an opportunity, as he wanted to pitch into the Stoics and was
 ready to burst because he could not find a satisfactory
@@ -762,7 +792,7 @@ thing for a festive occasion!”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="22"><p> “Yes,” said Hermon,
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="31"><p> “Yes,” said Hermon,
 from his place above Cleodemus, “I suppose he had
 heard that Aristaenetus had a boar ready for the
 dinner, so that he thought it not inopportune to
@@ -780,7 +810,7 @@ bad, which were to be shunned; and the indifferent, or
 unimportant, which were neither to be sought nor shunned.</note>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="32"><p>
 
 
 <pb n="445"/>
@@ -813,7 +843,7 @@ his father!”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="33"><p>
 
 And with that, being in the act of
 drinking, he flung on the pair all that was left in the
@@ -836,7 +866,7 @@ them keep the peace with him for a dividing-wall.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="25"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="34"><p>
 While all this was going -on, Philo, various
 thoughts were in my mind; for example, the very
 obvious one that it is no good knowing the liberal
@@ -858,7 +888,7 @@ food or drink.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="26"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="35"><p>
 
 The tables were turned, then, and
 the unlettered folk were manifestly dining i in great
@@ -891,7 +921,7 @@ as those of the Iliad.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="27"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="36"><p>
 
 The friends of Zenothemis and Cleodemus did not
 stop quarrelling when Aristaenetus came between
@@ -923,7 +953,7 @@ did not let him.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="28"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="37"><p>
 
 “Bravo, Cleodemus,” said Hermon;
 “let them tell why they inveigh against pleasure
@@ -945,7 +975,7 @@ trusting that peace had been made.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="29"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="38"><p>
 
 At the same
 time we were served with what they call the “Full
@@ -971,7 +1001,7 @@ ed
 I shall remember, of course.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="30"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="39"><p>
 <label>LYCINUS</label>
 Well, Ion said: “Then I will begin first, if you
 like”; and after a little pause: “Perhaps with men of
@@ -983,7 +1013,10 @@ I shall take the topic of marriage and say what is
 fitting. It were best not to need marriage, but to
 follow Plato and Socrates and be content with friendship: at all events only such as they can attain perfection in virtue. But if we must marry, we should
 have our wives in common, as Plato held, so as to be
-devoid of envy.”
+devoid of envy.”</p></div>
+
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="40">
+<p>
 These remarks gave rise to laughter, because
 they were made out of season. But Dionysodorus
 said : “Stop your outlandish jabbering! Where can
@@ -993,7 +1026,11 @@ of ζηλοτυπία, ‘ jealousy in love.’</note> “What, do you dare open
 you scum of the earth?” said Ion, and Dionysodorus
 began to give him back his abuse in due form.
 But the grammarian Histiaeus (simple soul!) said:
-“Stop, and I will read you a wedding-song,” and
+“Stop, and I will read you a wedding-song,””</p>
+</div>
+
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="41">
+<p> and
 began to read. The verses were these, if I remember
 right :
 <quote>
@@ -1024,7 +1061,7 @@ original : it could not, be worse.</note></l>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="31"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="42"><p>
 
 That caused a laugh, as you can imagine; and
 then it was time to take what was set before us.
@@ -1044,7 +1081,7 @@ had been done the greatest possible wrong.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="32"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="43"><p>
 
 Hermon and Zenothemis were lying side by side,
 as I have said, Zenothemis above and Hermon below
@@ -1071,7 +1108,7 @@ with one, and some with the other, except Ion alone.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="33"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="44"><p>
 
 That man
 kept himself neutral, and they pitched in
@@ -1106,7 +1143,7 @@ he threw him head first from the couch.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="34"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="45"><p>
 
 Histiaeus
 the grammarian was wounded, too, in trying to
@@ -1130,7 +1167,7 @@ tables going over, blood flowing and cups flying.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="35"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="46"><p>
 
 
 At last Alcidamas knocked over the lamp-stand
@@ -1155,7 +1192,7 @@ so.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="36"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="47"><p>
 
 Thereupon the dinner-party broke up. After the
 tears, it had ended in a new burst of laughter over
@@ -1181,7 +1218,11 @@ the couch and gone to sleep.
 
 
 <pb n="463"/>
+</p>
+</div>
 
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg015.perseus-eng1" subtype="section" n="48">
+<p>
 Well, Philo, that was the end of the dinner-party:
 it would be better, though, to say at the close as
 they do in the plays of Euripides:

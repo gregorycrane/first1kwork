@@ -71,7 +71,7 @@
 <head>Phalaris<note>This piece and its fellow should not be taken as a serious attempt to whitewash Phalaris and to excuse Delphi for accepting a tainted gift. They are good specimens of the stock of a rhetorician, and something more. To put yourself in another man’s shoes and say what he would have said was a regular exercise of the schools, but to laugh in your sleeve as you said it was not the way of the ordinary rhetorician.</note></head>
 <div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="book" n="1">
 <head>I</head>
-<div type="textpart" subtype=" section" n="1">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="1">
 <p>
 Men of Delphi, we have been sent by our ruler
 Phalaris to bring your god this bull, and to say to
@@ -443,7 +443,7 @@ most fitting.
 
 <div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1:14" subtype="book" n="2">
 <head>II</head>
-<div type="textpart" subtype=" section" n="1">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="1">
 
 
 <p>

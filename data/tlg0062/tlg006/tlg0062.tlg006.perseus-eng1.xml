@@ -69,7 +69,7 @@
 <body>
 <div type="translation" n="urn:cts:greekLit:tlg0062.tlg006.perseus-eng1" xml:lang="eng">
 <head>The Fly<note>It need hardly be said that this belongs to the domain of belles lettres, not of science. Like the Italian poets of the Renaissance, the rhetoricians of the decadence delighted to show their cunning by “praising” all manner of things good, bad, and indifferent.</note></head>
-<div type="textpart" subtype=" section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng1" subtype="section" n="1"><p>
 The fly is not the smallest of winged creatures, at
 least in comparison with gnats and midges and things
 still tinier. On the contrary, she is as much larger

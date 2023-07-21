@@ -74,7 +74,7 @@ treatment of the same theme is to be found in the Controversiae
 of Seneca Rhetor (IV, 5). In the Lucianic piece, the speaker’s
 references to his stepmother constitute a notable example of
 sustained irony as a rhetorical device.1</p></note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg052.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg052.perseus-eng1" subtype="section" n="0"><p>
 
 
 A son who had been disowned studied medicine. When his
@@ -82,12 +82,15 @@ father became insane and had been given up by the other
 doctors, he cured him by administering a remedy, and was again
 received into the family. After that, he was ordered to
 cure his stepmother, who was insane, and as he refused to do so,
-he is now being disowned again.<ref n="477.1"/>
-There is nothing novel or surprising, gentlemen of
+he is now being disowned again.<note n="v.5.p.477.n.1"><p>The words in italics are supplied to give the approximate sense of those lost in the Greek text. </p></note>
+</p></div>
+
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg052.perseus-eng1" subtype="section" n="1">
+    <p>There is nothing novel or surprising, gentlemen of
 the jury, in my father’s present course, and this is
 not the first time that he has displayed such anger ;
 on the contrary, he keeps this law always in readiness
-and resorts to this court by habit.<ref n="477.2"/>, There is, however,
+and resorts to this court by habit.<note n="v.5.p.477.n.2"><p>The law permitting a father to disown his son, and the court before which his complaint had to be presented. No certain case of disownment at Athens is known; but Dionysius of Halicarnassus (Arch., II, 26) says that provisions for it were included in the codes of Solon, Pittacus, and Charondas, there is one in Plato’s Laws (XI, 928D; it involves a family council), and Egyptian documents attest it. P. M. Meyer, in publishing one of them (Juristische Papyri, No. XI) cites Cod. Just., VIII, 46, 6: abdicatio, quae Graeco more ad alienandos liberos usurpatur et apoceryxis dicebatur, Romanis legibus non comprobatur. </p></note>, There is, however,
 something of novelty in my present plight, in that I
 am under no personal charge, but am in jeopardy of
 punishment on behalf of my profession because it
@@ -96,26 +99,10 @@ could be more absurd than to give treatment under
 orders, in accordance, not with the powers of the profession, but with the desires of my father? I could
 wish, to be sure, that medical science had a remedy
 
-<note n="477.1"><p>The words in italics are supplied to give the approximate
-sense of those lost in the Greek text.
-</p></note>
-
-<note n="477.2"><p>The law permitting a father to disown his son, and the
-court before which his complaint had to be presented. No
-certain case of disownment at Athens is known; but Dionysius
-of Halicarnassus (Arch., II, 26) says that provisions for it
-were included in the codes of Solon, Pittacus, and Charondas,
-there is one in Plato’s Laws (XI, 928D; it involves a family
-council), and Egyptian documents attest it. P. M. Meyer,
-in publishing one of them (Juristische Papyri, No. XI) cites
-Cod. Just., VIII, 46, 6: abdicatio, quae Graeco more ad
-alienandos liberos usurpatur et apoceryxis dicebatur, Romanis
-legibus non comprobatur.
-
-</p></note>
 
 
-<pb n="479"/>
+
+<pb n="v.5.p.479"/>
 
 of such sort that it could check not only insanity
 but unjust anger, in order that I might cure my
@@ -157,7 +144,7 @@ The charges on which he disowned me before
 can be readily understood from the present situation.
 To those charges I have made a sufficient answer, I
 
-<pb n="481"/>
+<pb n="v.5.p.481"/>
 
 think, by my subsequent life, and these accusations
 which he now brings I shall dispose of to the best of
@@ -196,7 +183,7 @@ labour and insistent zeal thoroughly mastered the
 art. On my return I found my father by then defin-
 
 
-<pb n="483"/>
+<pb n="v.5.p.483"/>
 
 itively insane and given up by the local physicians, who
 had not profound insight and could not accurately distinguish different forms of disease. Yet I did as was
@@ -215,7 +202,7 @@ every effort to save the patient; but if we see that
 the ailment already has the upper hand and is victorious, we do not touch it at all, observing an ancient
 law of the progenitors of the art of medicine, who
 say that one must not lay hand to those who are
-overmastered.<ref n="483.1"/></p>
+overmastered.<note n="v.5.p.483.n.1"><p>Hippocrates, de Arte, 3. </p></note></p>
 
 <p>
 Since I saw that my father was still within hope
@@ -234,12 +221,9 @@ panic-stricken and distrustful, not because she hated
 me but because she was fearful and well aware that
 he was in a bad way; she knew it because she alone
 associated exclusively with him and lived side by
-<note n="483.1"><p>Hippocrates, de Arte, 3.
-
-</p></note>
 
 
-<pb n="485"/>
+<pb n="v.5.p.485"/>
 
 side with his disorder. Nevertheless, without any
 timidity (for I knew that the symptoms would not
@@ -283,7 +267,7 @@ after a short time my stepmother suddenly began
 to be afflicted, gentlemen of the jury, with an ailment
 which was severe and unusual. I observed the
 
-<pb n="487"/>
+<pb n="v.5.p.487"/>
 
 affliction constantly from the moment when it began,
 Her form of insanity was not simple or superficial ;
@@ -324,7 +308,7 @@ the best of my ability against him, not only for myself
 but for my art.
 
 
-<pb n="489"/>
+<pb n="v.5.p.489"/>
 </p></div>
 
 <div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg052.perseus-eng1" subtype="section" n="8"><p>
@@ -348,7 +332,7 @@ anger; that one believes a malicious falsehood, while
 another relies upon a servant or an unfriendly female.
 It was not his idea, therefore, that the thing should
 go untried or that sons should at once lose their case
-by default. Water is measured,<ref n="489.1"/> a hearing is given,
+by default. Water is measured,<note n="v.5.p.489.n.1"><p>Time for speaking is apportioned to each side by the waterclock (κλέψυδρα). </p></note> a hearing is given,
 and nothing is left uninvestigated.
 </p></div>
 
@@ -362,12 +346,9 @@ whether he should still be allowed to disown a son
 when, after once for all disowning him, using the
 privilege that derives from the law and exercising to
 the full this paternal suzerainty, he has subsequently
-<note n="489.1"><p>Time for speaking is apportioned to each side by the waterclock (κλέψυδρα).
-
-</p></note>
 
 
-<pb n="491"/>
+<pb n="v.5.p.491"/>
 
 taken him back again and annulled the disownment.
 I say that such a thing is most unjust—for punishments, precisely in the case of children, to be interminable, their condemnations numerous, and their
@@ -407,7 +388,7 @@ Why did you nullify the law? You were free and
 at liberty not to do this. Surely it cannot be conceded that you should make sport of the laws and that
 
 
-<pb n="493"/>
+<pb n="v.5.p.493"/>
 
 the courts should be convened to suit your changes
 of mind, that the laws should be relaxed one moment
@@ -442,7 +423,7 @@ of his lineage need never have been taken back, but
 one whom you have pronounced good and taken
 
 
-<pb n="495"/>
+<pb n="v.5.p.495"/>
 
 back again you will not thereafter be able to disown ;
 for you yourself have borne witness that he does not
@@ -486,7 +467,7 @@ nevertheless, I shall make an end.
 But consider
 what manner of man he will now be disowning. I do
 
-<pb n="497"/>
+<pb n="v.5.p.497"/>
 
 not mean that then I was but a layman, whereas
 now I am a physician, for my profession would avail
@@ -527,7 +508,7 @@ you back to your former sanity. Truly it is not just
 that I should receive such a recompense for it, or that
 
 
-<pb n="499"/>
+<pb n="v.5.p.499"/>
 
 you should employ your reason only against me.
 That I have done you no little good is clear from the
@@ -571,7 +552,7 @@ malady.
 My benefaction, I think, is the greater because,
 
 
-<pb n="501"/>
+<pb n="v.5.p.501"/>
 
 although I was not his son at that time and had no
 imperative reason to take the case but was free
@@ -612,7 +593,7 @@ Let no one, hearing this, be quick to remark:
 remedy?”’ Many things must precede this; one
 must prepare the way for the medicine, make the
 
-<pb n="503"/>
+<pb n="v.5.p.503"/>
 
 body easy to cure, and take thought for the patient’s
 whole condition, purging him, reducing him, nourishing him with the proper foods, rousing him as
@@ -649,7 +630,7 @@ hates his son unjustly! To think of a son that loves his
 father still more unjustly! For I bring it as a charge
 
 
-<pb n="505"/>
+<pb n="v.5.p.505"/>
 
 against myself, since my father constrains me to do
 so, that I who am hated love when I should not and
@@ -689,9 +670,9 @@ surely, as a menace to those who have done no
 wrong. Indeed, the laws permit suit to be brought
 on the charge of ingratitude against persons who do
 
-<pb n="507"/>
+<pb n="v.5.p.507"/>
 
-not help those who have helped them.<ref n="507.1"/>_ But when a
+not help those who have helped them.<note n="v.5.p.507.n.1"><p>The existence of a law making ingratitude (dyapio7ia) actionable was part of the accepted tradition of the Greek rhetorical seHnee (Sopater in Walz, Rhetores Graect, VIII, 175 and 239; Cyrus, tbsd., 391; cf. Seneca, de Benef., III, 6, 1). For its existence outside the schools the evidence is conflicting. The name of the action is included in the list given by Pollux, VIII, 31, and Valerius Maximus (V, 3, ext. 3) says that Athens had such a law. On the other hand, Xenophon puts into the mouth of Socrates (Mem., II, 2,13; ef. Cyrop. I, 2,7) the statement that Athens took no cognisance of ingratitude except toward parents, and Seneca (loc. cit.) says that no nation except the Macedonians had a law against it, </p></note>_ But when a
 man, besides failing to render like for like, even
 deems it right to inflict punishment in return for
 the very benefits that he has received, think whether
@@ -726,21 +707,9 @@ just and sufficient grounds or not. This, then, is
 what you should now look into. And IJ shall begin
 with what immediately followed his insanity.
 
-<note n="507.1"><p>The existence of a law making ingratitude (dyapio7ia)
-actionable was part of the accepted tradition of the Greek
-rhetorical seHnee (Sopater in Walz, Rhetores Graect, VIII,
-175 and 239; Cyrus, tbsd., 391; cf. Seneca, de Benef., III, 6, 1).
-For its existence outside the schools the evidence is conflicting. The name of the action is included in the list given by
-Pollux, VIII, 31, and Valerius Maximus (V, 3, ext. 3) says that
-Athens had such a law. On the other hand, Xenophon
-puts into the mouth of Socrates (Mem., II, 2,13; ef. Cyrop. I,
-2,7) the statement that Athens took no cognisance of ingratitude except toward parents, and Seneca (loc. cit.) says that
-no nation except the Macedonians had a law against it,
-
-</p></note>
 
 
-<pb n="509"/>
+<pb n="v.5.p.509"/>
 </p></div>
 
 <div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg052.perseus-eng1" subtype="section" n="21"><p>
@@ -780,7 +749,7 @@ censure. But these other matters are within the discretion of us children, belon
 callings and the exercise of them; particularly if
 the father himself is in no way wronged. For
 
-<pb n="511"/>
+<pb n="v.5.p.511"/>
 
 really, if a scribe’s father gives him the order,
 “Write this, my boy, not that,” or a musician’s
@@ -816,7 +785,7 @@ of his own accord. Surely his calling is exempt
 from paternal compulsion in view of the fact that
 
 
-<pb n="513"/>
+<pb n="v.5.p.513"/>
 
 physicians have honours, precedence, immunities,
 and privileges publicly bestowed on them by states.
@@ -858,7 +827,7 @@ will; neither should it become customary that once a
 those whom his former patient wishes him to treat.
 Under those conditions we should have elected our
 
-<pb n="515"/>
+<pb n="v.5.p.515"/>
 
 patients to be our masters, paying them, too, by
 playing slave to them and executing all their orders.
@@ -898,7 +867,7 @@ In the first place, the natures and temperaments of
 human bodies are not the same, although they are
 
 
-<pb n="517"/>
+<pb n="v.5.p.517"/>
 
 admittedly composed of the same elements, but
 some contain more, or perhaps less, of this, others
@@ -936,7 +905,7 @@ easy to grasp the fact that the bodies of women differ
 very widely from those of men, both in respect to
 
 
-<pb n="519"/>
+<pb n="v.5.p.519"/>
 
 the dissimilarity of their diseases and in respect to
 one’s hopefulness or despair of a cure. For the
@@ -970,7 +939,7 @@ patient’s body, what quality predominates in it,
 whether it is inclined to be hot or cold, whether it is
 
 
-<pb n="521"/>
+<pb n="v.5.p.521"/>
 
 vigorous or senile, tall or short, fat or lean, and
 everything of that sort. In short, if a man examines
@@ -1009,7 +978,7 @@ If anyone else should engage to do it, if anyone —
 should relieve her, you may then hate me as offending
 
 
-<pb n="523"/>
+<pb n="v.5.p.523"/>
 
 against you. Indeed, father, I shall not hesitate to
 say further that even if her case were not so wholly
@@ -1045,7 +1014,7 @@ mind, may I expect you some day to take me back
 again? Look! even now by these actions of yours
 you are bringing on the disorder and provoking the
 
-<pb n="525"/>
+<pb n="v.5.p.525"/>
 
 ailment. You have only just recovered from that
 terrible plight, and yet you strain your lungs shouting; more than that, you are angry, you take to

@@ -69,7 +69,7 @@
 <body>
 <div type="translation" n="urn:cts:greekLit:tlg0062.tlg004.perseus-eng1" xml:lang="eng">
 <head>Heracles: an Introduction</head>
-<div type="textpart" subtype=" section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg004.perseus-eng1" subtype="section" n="1"><p>
 The Celts call Heracles Ogmios in their native tongue, and they portray the god in a very peculiar way. To their notion, he is extremely old, baldheaded, except for a few lingering hairs which are quite gray, his skin is wrinkled, and he is burned as black as can be, like an old sea-dog. You would think him a Charon. or a sub-Tartarean Iapetus<note n="1">Chief of the Titans, who warred on Zeus and after their defeat were buried for ever in the bowels of the earth, below
 Tartarus.</note>—
 anything but Heracles! Yet, in spite of his looks,
