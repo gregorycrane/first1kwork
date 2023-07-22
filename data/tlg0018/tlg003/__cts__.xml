@@ -6,8 +6,11 @@
   </ti:edition>
 
 <ti:translation urn="urn:cts:greekLit:tlg0018.tlg003.1st1K-eng1" xml:lang="eng" workUrn="urn:cts:greekLit:tlg0018.tlg003">
-    <ti:label xml:lang="lat">De Cherubim</ti:label>
-    <ti:description xml:lang="eng">Philo of Alexandria, "A TREATISE ON THE CHERUBIM; AND ON THE FLAMING SWORD; AND ON THE FIRST-BORN CHILD OF MAN, CAIN," translator: Charles Duke Yonge (George Bell and Sons, London, 1854)</ti:description>
+<ti:label xml:lang="eng">On the Cherubim; and on the Flaming Sword; and on the First-Born Child of Man, Cain</ti:label>
+<ti:description xml:lang="eng">The works of Philo Judaeus, the contemporary of Josephus, volume 1. Yonge, C. D., translator. London: Bohn. 1854.</ti:description>
+
 </ti:translation>
 
 </ti:work>
+
+
