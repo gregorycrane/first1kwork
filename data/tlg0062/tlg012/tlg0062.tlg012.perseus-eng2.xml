@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">A True Story</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg012.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">1</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604153">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianha01luciuoft/page/248/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604153?urlappend=%3Bseq=260">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -50,15 +52,9 @@
 <encodingDesc>
 <p>Text encoded in accordance with the latest EpiDoc standards</p>
 <refsDecl n="CTS">
-
-    <cRefPattern matchPattern="(\w+).(\w+)"
-        replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
-        <p>This pointer pattern extracts book and section.</p>
-    </cRefPattern>
-    <cRefPattern matchPattern="(\w+)"
-        replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
-        <p>This pointer pattern extracts book.</p>
-    </cRefPattern>
+<cRefPattern n="section" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+<p>This pointer pattern extracts section.</p>
+</cRefPattern>
 </refsDecl>
 </encodingDesc>
 <profileDesc>
@@ -73,16 +69,17 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" xml:lang="eng">
-<head>A True Story<note>It is unfortunate that we cannot enjoy the full bouquet of
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" xml:lang="eng">
+<pb n="v.1.p.249"/>
+<head>A True Story<note xml:lang="eng">It is unfortunate that we cannot enjoy the full bouquet of
 this good wine because so many of the works which Lucian
 parodies here are lost. The little that remains of his
 originals has been gathered by A. Stengel (De Luciani Veris
 Historiis, Berlin 1911, from whom I cite as much as space
 permits).</note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="book" n="1">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="book" n="1">
 <head>I</head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="1"><p>
 
 Men interested in athletics and in the care of
 their bodies think not only of condition and exercise
@@ -94,7 +91,7 @@ put them in better trim for future labour.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="2"><p>
 It
 would be appropriate recreation for them if they
 were to take up the sort of reading that, instead of
@@ -109,7 +106,7 @@ and specious way, but also because everything in my
 story is a more or less comical parody of one or
 
 
-<pb n="251"/>
+<pb n="v.1.p.251"/>
 
 another of the poets, historians and philosophers of
 old, who have written much that smacks of miracles
@@ -119,7 +116,7 @@ your reading.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="3"><p>
 One of them is Ctesias, son of
 Ctesiochus, of Cnidos, who wrote a great deal about
 India and its characteristics that he had never seen
@@ -128,7 +125,7 @@ for truthfulness. Iambulus also wrote much that
 was strange about the countries in the great sea: he
 made up a falsehood that is patent to everybody, but
 wrote a story that is not uninteresting for all that.
-<note n="1">The writings of Ctesias and Iambulus are lost; also those
+<note xml:lang="eng" n="1">The writings of Ctesias and Iambulus are lost; also those
 of Antonius Diogenes, whose story, On the Wonders beyond
 Thule, was according to Photius (Bibb., cod. 166, 111 b) the
 fountain-head of Lucian’s tale.</note>
@@ -145,12 +142,12 @@ with!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="4"><p>
 
 Well, on reading all these authors, I did
 not find much fault with them for their lying, as I
 saw that this was already a common practice even
-among men who profess philosophy.<note n="2">A slap at Plato’s Republic (x. 614 A seg.), as the scholiast
+among men who profess philosophy.<note xml:lang="eng" n="2">A slap at Plato’s Republic (x. 614 A seg.), as the scholiast
 says.</note>
 I did wonder,
 though, that they thought that they could write untruths and not get caught at it. Therefore, as I myself,
@@ -159,7 +156,7 @@ thanks to my vanity, was eager to hand something
 
 
 
-<pb n="253"/>
+<pb n="v.1.p.253"/>
 
 down to posterity, that I might not be the only one
 excluded from the privileges of poetic licence, and
@@ -173,14 +170,14 @@ understood, then, that I am writing about things
 which I have neither seen nor had to do with nor
 learned from others—which, in fact, do not exist at
 all and, in the nature of things, cannot exist.
-<note n="1">Compare the protestations of Ctesias and of Antonius
+<note xml:lang="eng" n="1">Compare the protestations of Ctesias and of Antonius
 Diogenes (Phot. cod. 72, 49-50; 166, 109 b).</note>
 Therefore my readers should on no account believe
 in them.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="5"><p>
 
 Once upon a time, setting out from the Pillars
 of Hercules and heading for the western ocean with
@@ -198,7 +195,7 @@ for a long and difficult voyage.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="6"><p>
 
 Well, for a day and
 a night we sailed before the wind without making
@@ -207,7 +204,7 @@ at sunrise on the second day the wind freshened, the -
 
 
 
-<pb n="255"/>
+<pb n="v.1.p.255"/>
 
 sea rose, darkness came on, and before we knew it we
 could no longer even get our canvas in. Committing
@@ -217,7 +214,7 @@ the sun came out suddenly and at no great distance
 we saw a high, wooded island ringed about with
 sounding surf, which, however, was not rough, as
 already the worst of the storm was abating.
-<note n="1">This paragraph is based on Iambulus (Diod. 2. 55).</note></p>
+<note xml:lang="eng" n="1">This paragraph is based on Iambulus (Diod. 2. 55).</note></p>
 
 <p>Putting in and going ashore, we lay on the ground
 for some time in consequence of our long misery, but
@@ -227,7 +224,7 @@ me and look over the island.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="7"><p>
 
 When we had gone
 forward through the wood about three furlongs from
@@ -238,11 +235,11 @@ were also two footprints in the rock close by, one of
 which was a hundred feet long, the other less—to
 my thinking, the smaller one was left by Dionysus,
 the other by Hercules.
-<note n="2">Cf. Herod. 4, 82; a footprint of Hercules, two cubits
+<note xml:lang="eng" n="2">Cf. Herod. 4, 82; a footprint of Hercules, two cubits
 long.</note>  We did obeisance and
 went on, but had not gone far when we came upon a
 river of wine, just as like as could be to Chian.
-<note n="3">Cf. Ctesias (Phot. cod. 72, 46 a).</note>
+<note xml:lang="eng" n="3">Cf. Ctesias (Phot. cod. 72, 46 a).</note>
 
 The
 stream was large and full, so that in places it was
@@ -253,7 +250,7 @@ seeing the evidence of Dionysus’ visit. I resolved
 
 
 
-<pb n="257"/>
+<pb n="v.1.p.257"/>
 
 to find out where the river took its rise, and
 went up along the stream. What I found was
@@ -271,7 +268,7 @@ wine.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="8"><p>
 
 Next, after crossing the river at a place where
 it was fordable, we found something wonderful in
@@ -292,7 +289,7 @@ us to embrace them, and two of my comrades complied, but could not get away agai
 ‘held fast by the part which had touched them, for it
 
 
-<pb n="259"/>
+<pb n="v.1.p.259"/>
 
 had grown in and struck root. Already branches
 had grown from their fingers, tendrils entwined
@@ -300,7 +297,7 @@ them, and they were on the point of bearing fruit
 like the others any minute.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="9"><p>
 
 Leaving them in the
 lurch, we made off to the boat, and on getting there,
@@ -320,7 +317,7 @@ sails and drove her ahead with bellying canvas.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="10"><p>
 
 For
 seven days and seven nights we sailed the air, and on
@@ -336,14 +333,14 @@ cities in it and rivers and seas and forests and
 mountains, This we inferred to be our own world.</p>
 </div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="11">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="11">
 <p>
 We determined to go still further inland, but
 we met what they call the Vulture Dragoons,
 and were arrested. These are men riding on large
 
 
-<pb n="261"/>
+<pb n="v.1.p.261"/>
 
 vultures and using the birds for horses. The
 vultures are large and for the most part have
@@ -351,7 +348,7 @@ three heads : you can judge of their size from the
 fact that the mast of a large merchantman is not
 so long or so thick as the smallest of the quills they
 have.
-<note n="1">Cf. Odyss. 9, 322f.</note>
+<note xml:lang="eng" n="1">Cf. Odyss. 9, 322f.</note>
 The Vulture Dragoons are commissioned to
 fly about the country and bring before the king any
 stranger they may find, so of course they arrested us
@@ -370,7 +367,7 @@ been ravished from our country in his sleep, and on
 coming there had been made king of the land. He
 said that his country was the moon that shines down
 on us.
-<note n="2">The story of Antonius Diogenes included a description of
+<note xml:lang="eng" n="2">The story of Antonius Diogenes included a description of
 a trip to the moon (Phot. 1lla). Compare also Tucian’s
 own Icaromenippus.</note>
 He urged us to take heart, however, and
@@ -379,18 +376,18 @@ that we required.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="12"><p>
 “And if I succeed,” said he,
 “in the war which I am now making on the people
 of the sun, you shall lead the happiest of lives with
 me.” We asked whothe enemy were, and what the
 quarrel was about. “Phaethon,’ said he, “the king
 of the inhabitants of the sun—for it is inhabited,
-<note n="3">Cf. Lactantius 3, 23, 41: “Seneca says that there have
+<note xml:lang="eng" n="3">Cf. Lactantius 3, 23, 41: “Seneca says that there have
 been Stoics who raised the question of ascribing to the sun
 a population of its own."</note>
 
-<pb n="263"/>
+<pb n="v.1.p.263"/>
 
 you know, as well as the moon—has been at war with
 us for a long time now. It began in this way. Once
@@ -410,7 +407,7 @@ said I, “since you think it best.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="13"><p>
 
 
 That night we stopped there as his guests, but
@@ -428,7 +425,7 @@ Bear—thirty thousand Flea-archers and fifty thousand
 Volplaneurs. The Flea-archers ride on great fleas,
 
 
-<pb n="265"/>
+<pb n="v.1.p.265"/>
 
 from which they get their name; the fleas are as
 large as twelve elephants. The Volplaneurs are
@@ -444,12 +441,12 @@ Dragoons. I did not get a look at them, as they did
 not come, so I have not ventured to write about
 their characteristics, for the stories about them were
 wonderful and incredible.
-<note n="1">Compare the reticence of Herodotus (1, 193), Thucydides
+<note xml:lang="eng" n="1">Compare the reticence of Herodotus (1, 193), Thucydides
 (3, 113, 6), and Tacitus (Germ. 46).</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="14"><p>
 
 
 These were the forces of Endymion. They all
@@ -462,7 +459,7 @@ and swords of the Greek pattern.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="15"><p>
 When the time
 came, they took position thus; on the right wing,
 the Vulture Dragoons and the king, with the bravest
@@ -475,7 +472,7 @@ far larger than the Cyclades islands. They were
 
 
 
-<pb n="267"/>
+<pb n="v.1.p.267"/>
 
 commissioned by the king to span the air between
 the Moon and the Morning Star with a web, and as
@@ -485,7 +482,7 @@ Owlett son of Fairweather, and two others.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="16"><p>
 
 
 As to the enemy, on the left were the Ant
@@ -493,7 +490,7 @@ Dragoons, with whom was Phaethon. They are very
 large beasts with wings, like the ants that we have,
 except in size: the largest one was two hundred feet
 long.
-<note n="1">Herodotus (3, 102) tells of ants bigger than foxes.</note>
+<note xml:lang="eng" n="1">Herodotus (3, 102) tells of ants bigger than foxes.</note>
 They themselves fought, as well as their
 riders, and made especially good use of their feelers.
 They were said to number about fifty thousand. On
@@ -513,11 +510,11 @@ for shields and stalks of asparagus for spears. Near
 them stood the Puppycorns, who were sent him by
 the inhabitants of the Dog-star, five thousand dogfaced men who fight on the back of winged acorns.
 
-<note n="2">Herodotus (4, 191) tells of dog-headed men and of
+<note xml:lang="eng" n="2">Herodotus (4, 191) tells of dog-headed men and of
 headless men with eyes in their breasts.</note>
 
 
-<pb n="269"/>
+<pb n="v.1.p.269"/>
 
 It was said that there were tardy allies in Phaethon’s
 tase, too—the slingers whom he had summoned from
@@ -530,7 +527,7 @@ ravaged their country with fire.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="17"><p>
 
 This, then, was the array with which Phaethon
 came on. Joining battle when the flags had been
@@ -551,10 +548,10 @@ dripped down on the earth that I wonder whether
 something of the sort did not take place in the sky
 long ago, when Homer supposed that Zeus had sent
 a rain of blood on account of the death of Sarpedon.1
-<note n="1">Il. 16, 459.</note>
+<note xml:lang="eng" n="1">Il. 16, 459.</note>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="18"><p>
 
 When we had returned from.the pursuit we set up
 two trophies, one on the spider-webs for the infantry
@@ -562,7 +559,7 @@ battle and the other, for the sky battle, on the clouds.
 
 
 
-<pb n="271"/>
+<pb n="v.1.p.271"/>
 
 We were just doing this when the scouts reported
 that the Cloud-centaurs, who should have come to
@@ -592,7 +589,7 @@ spider-web.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="19"><p>
 
 The enemy decided not to lay siege
 to the city, but on their way back they built a
@@ -602,7 +599,7 @@ double, made of cloud, so that a genuine eclipse of the
 moon took place, and she was completely enshrouded
 
 
-<pb n="273"/>
+<pb n="v.1.p.273"/>
 
 in unbroken night. Hard pressed by this, Endymion
 sent and begged them to pull down the construction
@@ -613,11 +610,11 @@ for all this. Phaethon and his people held two
 assemblies ; on the first day they did not lay aside a
 particle of ‘their anger, but on the second day they
 softened, and the peace was made on these terms:
-<note n="1">Compare the Athenian-Spartan treaty, Thuc. 5, 18.</note>
+<note xml:lang="eng" n="1">Compare the Athenian-Spartan treaty, Thuc. 5, 18.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="20"><p>
 
 
 On the following conditions the Sunites and their
@@ -673,12 +670,12 @@ Allbright
 
 
 
-<pb n="275"/>
+<pb n="v.1.p.275"/>
 
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="21"><p>
 On those terms peace was made, and then the wall
 was torn down at once and we prisoners were restored.
 When we reached the moon we were met and tearfully
@@ -692,7 +689,7 @@ entertaining us for seven days.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="22"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="22"><p>
 
 In the interval, while I was living on the moon,
 I observed some strange and wonderful things
@@ -708,7 +705,7 @@ and deliver the child dead, and then they bring it
 to life by putting it in the wind with its mouth
 open. It seems to me that the term “belly of the
 leg"
-<note n="1">i.e, calf of the leg. </note> came to us Greeks from there, since the leg
+<note xml:lang="eng" n="1">i.e, calf of the leg. </note> came to us Greeks from there, since the leg
 performs the function of a belly with them. But I
 will tell you something else, still more wonderful.
 They have a kind of men whom they call the
@@ -718,7 +715,7 @@ in the ground. From it grows a very large tree of
 
 
 
-<pb n="277"/>
+<pb n="v.1.p.277"/>
 
 flesh, resembling the emblem of Priapus: it has
 branches and leaves; and its fruit is acorns a cubit
@@ -730,7 +727,7 @@ their intercourse.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="23"><p>
 
 When a man grows old, he does
 not die, but is dissolved like smoke and turns into
@@ -739,7 +736,7 @@ and cook frogs on the coals—they have quantities of
 frogs, that fly about in the air—and while they are
 cooking, they sit about them as if at table, snuff up
 the rising smoke and gorge themselves.
-<note n="1">Cf. Herod. 1, 202; 4, 75; Strabo 15, 1, 57.</note> This is
+<note xml:lang="eng" n="1">Cf. Herod. 1, 202; 4, 75; Strabo 15, 1, 57.</note> This is
 the food they eat, and their drink is air, which is
 squeezed into a cup and yields a liquid like dew.
 They are not subject to calls of nature, which, in
@@ -753,7 +750,7 @@ A man is thought beautiful in that country if
 he is bald and hairless, and they quite detest long-haired people. It is different on the comets, where
 they think long-haired people beautiful—there were
 visitors in the moon who told us about them.
-<note n="2">The point of this is that κομήτης, whence our word comet,
+<note xml:lang="eng" n="2">The point of this is that κομήτης, whence our word comet,
 means long-haired.</note>
 Another point—they have beards that grow a little
 above the knee, and they have no toe-nails, but are
@@ -763,13 +760,13 @@ cabbage-leaf, like a tail, which is always green and
 
 
 
-<pb n="279"/>
+<pb n="v.1.p.279"/>
 
 does not break if he falls on his back.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="24"><p>
 
 Their noses
 run honey of great pungency, and when they work
@@ -789,9 +786,9 @@ cold.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="25"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="25"><p>
 The clothing of the rich is malleable glass
-<note n="1">Lucian’s glass clothing (ὑαλίνη) is a punning parody on
+<note xml:lang="eng" n="1">Lucian’s glass clothing (ὑαλίνη) is a punning parody on
 wooden clothing (ξυλίνη), i.e. cotton (Herod. 7, 65).</note>
 and
 that of the poor, spun bronze; for that region is
@@ -807,17 +804,17 @@ people’s to see with, and the rich folk keep a quantity
 
 
 
-<pb n="281"/>
+<pb n="v.1.p.281"/>
 
 stored up.
-<note n="1">Compare the story of the Graeae.</note>
+<note xml:lang="eng" n="1">Compare the story of the Graeae.</note>
 For ears they have plane-leaves, except
 only the acorn-men, who have wocden ones. In
 the royal purlieus I saw another marvel.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="26"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="26"><p>
 A large
 looking-glass is fixed above a well, which is not very
 deep. If a man goes down into the well, he hears
@@ -831,7 +828,7 @@ does not believe ‘this is so will find, if ever he gets
 there himself, that I am telling the truth.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="27"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="27"><p>
 
 To go back to my story, we embraced the king and
 his friends, went aboard, and put off. Endymion even
@@ -842,7 +839,7 @@ Vulture Dragoons with us to escort us for sixty miles.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="28"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="28"><p>
 
 On our way ‘we passed many countries and put
 in at the Morning Star, which was just being
@@ -855,14 +852,14 @@ country was green and fertile and well-watered, and
 full of untold good things. On seeing us, the Cloudcentaurs, who had entered the service of Phaethon,
 
 
-<pb n="283"/>
+<pb n="v.1.p.283"/>
 
 flew up to the ship and then went away again when
 they found out that the treaty protected us.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="29"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="29"><p>
 
 The
 Vulture Dragoons had already left us.
@@ -894,11 +891,11 @@ That night we stopped there, but on the next day
 we set sail and continued our voyage. By this time
 
 
-<pb n="285"/>
+<pb n="v.1.p.285"/>
 
 we were near the clouds. There we saw the city
 of Cloudcuckootown,
-<note n="1">The capital of Birdland in Aristophanes’ play, The Birds.</note>
+<note xml:lang="eng" n="1">The capital of Birdland in Aristophanes’ play, The Birds.</note>
 and wondered at it, but did
 not visit it, as the wind did not permit. The king,
 however, was said to be Crow Dawson. It made me
@@ -912,7 +909,7 @@ set down on the sea.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="30"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="30"><p>
 When we touched the water
 we were marvellously pleased and happy, made as
 merry as.we could in every way, and went over the
@@ -929,14 +926,14 @@ fifty miles long. He came at us with open mouth,
 dashing up the sea far in advance, foam-washed,
 showing teeth much larger than the emblems of
 Dionysus in our country,
-<note n="2">On the size of these, see Lucian’s Syrian Goddess, 28.</note> and all sharp as calthrops
+<note xml:lang="eng" n="2">On the size of these, see Lucian’s Syrian Goddess, 28.</note> and all sharp as calthrops
 and white as ivory. We said good-bye to one
 another, embraced, and waited. He was there in an
 
 
 
 
-<pb n="287"/>
+<pb n="v.1.p.287"/>
 
 instant, and with a gulp swallowed us down, ship
 and all. He just missed crushing us with his teeth,
@@ -945,7 +942,7 @@ them into the interior.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="31"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="31"><p>
 
 When we were inside, it
 was dark at first, and we could not see anything,
@@ -962,13 +959,13 @@ it, garden stuff had come up, and_ everything
 appeared to be under cultivation. The coast of the
 island was twenty-seven miles long. Sea-birds were
 to be seen nesting on the trees, gulls and kingfishers.
-<note n="1">This story of the whale is no longer considered a parody
+<note xml:lang="eng" n="1">This story of the whale is no longer considered a parody
 on Jonah’s adventure, as there were other versions of the
 tale afloat in antiquity.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="32"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="32"><p>
 
 
 At first we shed tears for a long time, and then
@@ -985,7 +982,7 @@ to all parts of the sea. When at Jength we became
 
 
 
-<pb n="289"/>
+<pb n="v.1.p.289"/>
 
 wonted to our abiding-place, I took seven of my
 comrades and went into the forest, wishing to have
@@ -999,7 +996,7 @@ out something like a farmhouse, too.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="33"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="33"><p>
 
 
 Advancing eagerly, we came upon an old man
@@ -1027,7 +1024,7 @@ would neither tell us nor question us before giving.
 us what entertainment he could command, and he
 
 
-<pb n="291"/>
+<pb n="v.1.p.291"/>
 
 took us with him to the house. It was a commodious structure, had bunks built in it and was fully
 furnished in other ways. He set before us vegetables,
@@ -1041,7 +1038,7 @@ into the whale.
 </p>
 </div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="34">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="34">
 <p>
 
 He expressed huge wonder, and then told us his
@@ -1068,7 +1065,7 @@ going into the gills of the animal. We also bathe
 there when we care to. Another thing, there is a
 
 
-<pb n="293"/>
+<pb n="v.1.p.293"/>
 
 Jake not far off, twenty furlongs in circumference,
 with all kinds of fish in it, where we swim and sail
@@ -1077,7 +1074,7 @@ years since we were swallowed.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="35"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="35"><p>
 
 Everything else is
 perhaps endurable, but our neighbours and fellowcountrymen are extremely quarrelsome and unpleas-_
@@ -1089,7 +1086,7 @@ forest, the tail part, live the Broilers, an eel-eyed,
 lobster-faced people that are warlike and bold, and
 carnivorous. On one side, by the starboard wall,
 live the Mergoats,
-<note n="1">According to Herodotus (2, 46), uévdns was Egyptian for
+<note xml:lang="eng" n="1">According to Herodotus (2, 46), uévdns was Egyptian for
 goat ; but there is nothing goatish in the Tritonomendetes as
 Lucian describes them.</note>
 like men above and catfish below :
@@ -1105,7 +1102,7 @@ hundred oysters a year.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="36"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="36"><p>
 Such being the nature
 of the country, it is for you to see how we can fight
 with all these tribes and how we are to get a living.”
@@ -1115,7 +1112,7 @@ weapons have they?” “Nothing but fishbones,”
 
 
 
-<pb n="295"/>
+<pb n="v.1.p.295"/>
 
 he said. “Then our best plan,” said I, “would be
 to meet them in battle, as they are unarmed and
@@ -1132,7 +1129,7 @@ Crawfish, incensed at Scintharus—for that was his
 name—came on with a great uproar.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="37"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="37"><p>
 
 Anticipating their attack, we were waiting under arms,
 having previously posted in our front a squad
@@ -1151,7 +1148,7 @@ the midriff with a mullet-rib.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="38"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="38"><p>
 That day and night
 we bivouacked on the field and made a trophy
 by setting up the dry spine of a dolphin. On the
@@ -1160,7 +1157,7 @@ appeared, with the Broilers, led by Tom Cod, on the
 right wing, the Codheads on the left, and the
 
 
-<pb n="297"/>
+<pb n="v.1.p.297"/>
 
 Crabclaws in the centre. The Mergoats did not
 take the field, choosing not to ally themselves with
@@ -1172,7 +1169,7 @@ forest, we were thenceforth masters of the land.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="39"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="39"><p>
 
 
 Not long afterwards they sent heralds and were
@@ -1193,7 +1190,7 @@ out of.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="40"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="40"><p>
 
 
 For a year and eight months we lived in this way,
@@ -1202,14 +1199,14 @@ second mouth-opening—for the whale did it once an
 hour, so that we told time by the openings—about the
 second opening, as I said, much shouting and commotion suddenly made itself heard, and what seemed
 to be commands and oar-beats.
-<note n="1">Compare the description of the sea-fight between Corinth
+<note xml:lang="eng" n="1">Compare the description of the sea-fight between Corinth
 and Corcyra in Thucydides 1. 48.</note>
 Excitedly we crept
 up to the very mouth of the animal, and standing
 
 
 
-<pb n="299"/>
+<pb n="v.1.p.299"/>
 
 inside the teeth we saw the most unparallelled of all
 the sights that ever I saw—huge men, fully half
@@ -1222,7 +1219,7 @@ twenty of those men were cruising, some of whom,
 sitting along each side of the island one behind the
 other, were rowing with huge cypress trees for oars—
 branches, leaves and all!
-<note n="1">Herodotus (2, 156) speaks of a floating island in Egypt.</note>
+<note xml:lang="eng" n="1">Herodotus (2, 156) speaks of a floating island in Egypt.</note>
 Aft at the stern, as I
 suppose you would call it, stood the master on a high
 hill, holding a bronze tiller five furlongs in length.
@@ -1230,7 +1227,7 @@ At the bow, about forty of them under arms were
 fighting ; they were like men in all but their hair,
 which was fire and blazed up, so that they had no
 need of plumes.
-<note n="2">Cf. Il. 5,4; ‘ And tireless flames did burn on crest and
+<note xml:lang="eng" n="2">Cf. Il. 5,4; ‘ And tireless flames did burn on crest and
 shield.”</note>  In lieu of sails, the wind struck the
 forest, which was dense on each of the islands, filled
 this and carried the island wherever the helmsman
@@ -1239,7 +1236,7 @@ the oarsmen in time, and the islands moved swiftly
 under the rowing, like war-galleys.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="41"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="41"><p>
 
 At first we only saw two or three, but later on
 about six hundred made their appearance. Taking
@@ -1248,7 +1245,7 @@ collided with one another bows on, and miany
 
 
 
-<pb n="301"/>
+<pb n="v.1.p.301"/>
 
 were rammed amidships and sunk. Some, grappling one another, put up a stout fight and were
 slow to cast off, for those stationed at the bows
@@ -1262,7 +1259,7 @@ with hundred-foot sponges.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="42"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="42"><p>
 
 The leader of one
 side was Aeolocentaur, of the other, Brinedrinker.
@@ -1285,13 +1282,13 @@ slept on shipboard around the animal, making their:
 shore lines fast to him and riding at anchor just off
 him ; for they had anchors, large and strong, made
 of glass.
-<note n="1">Very likely a punning reference to some traveller’s
+<note xml:lang="eng" n="1">Very likely a punning reference to some traveller’s
 account of wooden (ξυλίναις) anchors.</note>
 On the following day they performed
 
 
 
-<pb n="303"/>
+<pb n="v.1.p.303"/>
 
 sacrifice on the whale, buried their. friends on
 him, and sailed off rejoicing and apparently singing
@@ -1300,9 +1297,9 @@ isle-fight.
 </p></div>
 </div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1:42" subtype="book" n="2">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2:42" subtype="book" n="2">
 <head>BOOK II</head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="1">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="1">
 <p>
 From that time on, as I could no longer endure
 the life in the whale and was discontented with the
@@ -1325,14 +1322,14 @@ moment, then, we propped the mouth open with
 great beams and made our boat ready, putting aboard
 
 
-<pb n="305"/>
+<pb n="v.1.p.305"/>
 
 all the water we could and the other provisions.
 Our sailing-master was to be Scintharus.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="2"><p>
 
 On the next day the whale was dead at last.
 We dragged the boat up, took her through the gaps,
@@ -1360,17 +1357,17 @@ it was warm again, the ice broke up and everything
 turned to water once more.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="3"><p>
 After sailing about three hundred furlongs we
 
 
-<pb n="307"/>
+<pb n="v.1.p.307"/>
 
 ran in at a small desert island, where we got water—
 which had failed by this time—and shot two wild
 bulls, and then sailed away. These bulls did not
 have their horns on their head but under their eyes,
-as Momus wanted.<note n="1">Momus suggested this in order that the animal might see
+as Momus wanted.<note xml:lang="eng" n="1">Momus suggested this in order that the animal might see
 what he was doing with his horns.</note> Not long afterwards we entered
 a sea of milk, not of water, and in it a white island,
 full of grapevines, came in sight. The island was
@@ -1386,12 +1383,12 @@ bread and meat and the milk from the grapes our
 drink. Theruler of that region was said to be Tyro,
 daughter of Salmoneus, who after departure from
 home received this guerdon from Poseidon.
-<note n="2">As gala is milk and tyros cheese, the goddess and the
+<note xml:lang="eng" n="2">As gala is milk and tyros cheese, the goddess and the
 queen of the island are fitly chosen.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="4"><p>
 After stopping five days on the island we started
 out on the sixth, with a bit of breeze propelling
 us over a rippling sea. On the eighth day, by which
@@ -1404,7 +1401,7 @@ of cork: that is why they were called Corkfeet, if I
 
 
 
-<pb n="309"/>
+<pb n="v.1.p.309"/>
 
 am not mistaken. We were amazed to see that they
 did not go under, but stayed on the top of the waves
@@ -1417,7 +1414,7 @@ went their way, wishing us luck on our voyage.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="5"><p>
 In a little while many islands came in sight.
 Near us, to port, was Cork, where the men were
 going, a city built on a great round cork. Ata
@@ -1427,7 +1424,7 @@ blazing up. Dead ahead was one that was. flat
 and low-lying, not less than five hundred furlongs
 off. When at length we were near it, a wonderful
 breeze blew about us, sweet and fragrant, like the
-one that, on the word of the historian Herodotus,<note>3, 113.</note>
+one that, on the word of the historian Herodotus,<note xml:lang="eng">3, 113.</note>
 breathes perfume from Araby the blest. The sweetness that met us was as if it came from roses and
 narcissi and hyacinths and lilies and violets, from
 myrrh and laurel and vines in bloom. Delighted with
@@ -1441,7 +1438,7 @@ enfolded the place, and sweet breezes with their
 
 
 
-<pb n="311"/>
+<pb n="v.1.p.311"/>
 
 blowing stirred the woods gently, so that from the
 moving branches came a whisper of delightful,
@@ -1454,7 +1451,7 @@ the flute or the lyre.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="6"><p>
 
 Enchanted with all this,
 we put in, anchored our boat and landed, leaving
@@ -1471,7 +1468,7 @@ trial.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="7"><p>
 
 The first case was that of Ajax,son of Telamon,
 to decide whether he should be allowed to associate
@@ -1479,13 +1476,13 @@ with the heroes or not: he was accused of having
 gone mad and killed himself. At last, when much
 had been said, Rhadamanthus gave judgment that
 for the present he should be given in charge of Hippocrates, the Coan physician, to take the hellebore
-treatment,<note n="1">A remedy for madness; Hor. Sat. 2. 3. 82.</note> and that later on, when he had recovered
+treatment,<note xml:lang="eng" n="1">A remedy for madness; Hor. Sat. 2. 3. 82.</note> and that later on, when he had recovered
 his wits, he should have a place at the table of
 the heroes.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="8"><p>The second case was a love-affair—Theseus and Menelaus at law over Helen, to
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="8"><p>The second case was a love-affair—Theseus and Menelaus at law over Helen, to
 determine which of the two she should live with.
 Rhadamanthus pronounced that she should live with
 Menelaus, because he had undergone so much toil,
@@ -1493,15 +1490,15 @@ and danger on account of his marriage: then too,
 
 
 
-<pb n="313"/>
+<pb n="v.1.p.313"/>
 
-Theseus had other wives, the. Amazon<note n="1">Hippolyta.</note>
+Theseus had other wives, the. Amazon<note xml:lang="eng" n="1">Hippolyta.</note>
 and the
-daughters of Minos.<note n="2">Ariadne and Phaedra.</note>
+daughters of Minos.<note xml:lang="eng" n="2">Ariadne and Phaedra.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="9"><p>
 
 The third judgment was given
 in a matter of precedence between Alexander,
@@ -1509,11 +1506,11 @@ son of Philip, and Hannibal of Carthage, and the
 decision was that Alexander outranked Hannibal,
 so his chair was placed next the elder Cyrus of
 Persia.
-<note n="3">Cf. Dialogues of the Dead, 25.</note>
+<note xml:lang="eng" n="3">Cf. Dialogues of the Dead, 25.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="10"><p>
 
 We were brought up fourth; and he asked
 us how it was that we trod on holy ground while still
@@ -1531,13 +1528,13 @@ stay at not more than seven months.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="11"><p>
 
 Thereupon our garlands fell away of themselves,
 and we were set free and taken into the city
 and to the table of the blessed. The city itself is
 all of gold and the wall around it of emerald.
-<note n="4">Lucian’s city is not necessarily a paredy on the New
+<note xml:lang="eng" n="4">Lucian’s city is not necessarily a paredy on the New
 Jerusalem, though the scholiast so understood it.</note> It
 has seven gates, all of single planks of cinnamon.
 The foundations of the city and the ground within
@@ -1550,7 +1547,7 @@ altars of amethyst, on which they make their great
 
 
 
-<pb n="315"/>
+<pb n="v.1.p.315"/>
 
 burnt-offerings. Around the city runs a river of
 the finest myrrh, a hundred royal cubits wide and
@@ -1561,7 +1558,7 @@ dew in the tubs.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="12"><p>
 
 For clothing they use delicate
 purple spider-webs. As for themselves, they have
@@ -1583,11 +1580,11 @@ and the only wind that blows there is Zephyr.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="13"><p>
 
 The country abounds in flowers and plants of all
 kinds, -cultivated and otherwise.
-<note n="1">Lucian makes a villainous pun here, contrasting hemeros (cultivated) with skieros (fond of darkness), as if the former
+<note xml:lang="eng" n="1">Lucian makes a villainous pun here, contrasting hemeros (cultivated) with skieros (fond of darkness), as if the former
 word meant-‘fond of daylight.’ (hemera)!</note> The grape-vines
 yield twelve vintages a year, bearing every month;
 the pomegranates, apples and other fruit-trees were
@@ -1597,7 +1594,7 @@ loaves of bread all baked grow on the tops of the
 
 
 
-<pb n="317"/>
+<pb n="v.1.p.317"/>
 
 halms, so that they Jook like mushrooms. In the
 neighbourhood of the city there are three handed
@@ -1606,7 +1603,7 @@ five hundred of myrrh—much smaller, however—seven rivers of milk and eight o
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="14"><p>
 Their table is spread outside. the city in the Elysian
 Fields, a very beautiful mead with thick woods of
 all sorts round about it, overshadowing the feasters.
@@ -1629,7 +1626,7 @@ delicate dew.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="15"><p>
 
 At the board they pass their time
 with poetry and song. For the most part they
@@ -1638,13 +1635,13 @@ shares the revelry, lying at table in the place above
 Odysseus. Their choruses are of boys and gnris, fed
 
 
-<pb n="319"/>
+<pb n="v.1.p.319"/>
 
 and accompanied by Eunomus of Locris, Arion of
 Lesbos, Anacreon and Stesichorus. There can be
 no doubt about the latter, for I saw him there—by
 that time Helen had forgiven him.
-<note n="1">Stesichorus had said harsh words of Helen, and was
+<note xml:lang="eng" n="1">Stesichorus had said harsh words of Helen, and was
 blinded by Castor and Pollux for his presumption. He
 recanted in a famous Palinode, of which some lines are still
 preserved (Plato, Phaedrus, 243), and so recovered his eyesight.</note> When they
@@ -1654,7 +1651,7 @@ sing the whole wood renders the accompaniment,
 with the winds leading.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="16"><p>
 
 But the greatest thing
 that they have for ensuring a good time is that
@@ -1665,7 +1662,7 @@ themselves and laugh all the while.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="17"><p>
 
 But I desire to mention the famous men whom
 I saw there. There were all the demigods and
@@ -1685,7 +1682,7 @@ he refuted himi most. It was said that Rhadamanthus
 
 
 
-<pb n="321"/>
+<pb n="v.1.p.321"/>
 
 was angry at Socrates and had often threatened to
 banish him from the island if he kept up his nonsense
@@ -1696,7 +1693,7 @@ that he himself wrote.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="18"><p>
 
 The followers of Aristippus and
 Epicurus were in the highest favour among the heroes
@@ -1711,7 +1708,7 @@ the way up the steep hill of virtue. With regard to
 Chrysippus, we heard tell that he is not permitted
 to set foot on the island until he submits himself to
 the hellebore treatment for the fourth time.
-<note n="1">See the Philosophers for Sale for another jest at Chrysippus’ insanity.</note>
+<note xml:lang="eng" n="1">See the Philosophers for Sale for another jest at Chrysippus’ insanity.</note>
 They
 said that the Academicians wanted to come but were
 still holding off and debating, for they could not
@@ -1727,14 +1724,14 @@ These were the most conspicuous of those present.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="19"><p>
 
 They render especial honours to Achilles and after
 him to Theseus. About love-making their attitude
 
 
 
-<pb n="323"/>
+<pb n="v.1.p.323"/>
 
 is such that they bill-and-coo openly, in plain sight
 of everyone, without any discrimination, and think
@@ -1749,7 +1746,7 @@ this point they out-Plato Plato. Complaisance is the
 universal rule.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="20"><p>
 Hardly two or three days had passed before I
 went up to Homer the poet when we were both at
 leisure, and questioned him about everything.
@@ -1771,7 +1768,7 @@ Achilles; and he said that it just came into his
 head that way, without any study. Moreover, I
 wanted to know whether he wrote the Odyssey
 before the Iliad, as most people say: he said no.
-<pb n="325"/>
+<pb n="v.1.p.325"/>
 
 That he was not blind, as they say, I understood at
 once—I saw it,and so had no need toask. Often again
@@ -1785,7 +1782,7 @@ lawyer.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="21"><p>
 
 
 At about this time arrived Pythagoras of Samos
@@ -1796,12 +1793,12 @@ member of their community, but when I left
 the point was still at issue whether he ought to be
 called Pythagoras or Euphorbus. Empedocles came
 too, all burned and his body completely cooked,
-<note n="1">From his leap into the crater of Aetna,</note> but
+<note xml:lang="eng" n="1">From his leap into the crater of Aetna,</note> but
 he was not received in spite of his many entreaties.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="22"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="22"><p>
 As time went on their games came round, the
 Games of the Dead. The referees were Achilles,
 serving for the fifth time, and Theseus for the
@@ -1814,7 +1811,7 @@ For combined boxing and wrestling they offer no
 
 
 
-<pb n="327"/>
+<pb n="v.1.p.327"/>
 
 prizes. In the foot-race I do not remember who
 won and in poetry, Homer was really far the best
@@ -1823,7 +1820,7 @@ a crown that was plaited of peacock feathers.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="23"><p>
 Hardly had the games been concluded when
 word came that those who were under punishment
 in the place of the wicked had burst their bonds, had
@@ -1845,7 +1842,7 @@ he named the place the Academy of the Dead.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="24"><p>
 
 Arresting the losers and putting them in irons,
 they sent them off to be punished still more severely
@@ -1858,9 +1855,9 @@ it along with everything else. The poem began:
 heroes in battle !</l></quote>
 
 
-<pb n="329"/>
+<pb n="v.1.p.329"/>
 
-But to return—they cooked beans,<note n="1">An allusion to the Pyanepsia, the Athenian Beanfeast.</note>
+But to return—they cooked beans,<note xml:lang="eng" n="1">An allusion to the Pyanepsia, the Athenian Beanfeast.</note>
 as is their
 custom when they are successful at war, hdd a feast
 in honour of the victory and made a great holiday.
@@ -1869,7 +1866,7 @@ in it; he sat by himself and went dinnerless
 because he detested beans.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="25"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="25"><p>
 Six months had passed and it was about the
 middle of the seventh when sedition arose. Cinyras,
 the son of Scintharus, a tall and handsome lad, had
@@ -1892,7 +1889,7 @@ rest they carried Helen off and put to sea in haste.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="26"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="26"><p>
 
 About midnight, when Menelaus woke up, and
 found that his wife was not in bed, he made a
@@ -1903,7 +1900,7 @@ Then Rhadamanthus put fifty of the heroes aboard a
 
 
 
-<pb n="331"/>
+<pb n="v.1.p.331"/>
 
 ship made of a single log of asphodel and ordered
 them to give chase. Rowing with a will, they overtook them about noon, just as they were entering
@@ -1919,7 +1916,7 @@ had been first scourged with mallow.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="27"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="27"><p>
 
 The heroes
 voted, too, that we be dismissed from the island
@@ -1945,7 +1942,7 @@ all the smoke arising: the sixth yonder is the City
 of Dreams. Next comes the island of Calypso, but
 
 
-<pb n="333"/>
+<pb n="v.1.p.333"/>
 
 you cannot see it yet. When you have sailed by
 these, you will finally come to the great continent
@@ -1957,14 +1954,14 @@ reach the other continent.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="28"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="28"><p>
 With these words he plucked a root of mallow
 from the ground and handed it to me, telling me to
 pray to it in my greatest straits. And he advised me
 if ever I reached this country, neither to stir the fire
 with a sword-blade nor to eat lupines nor to make
 love to anyone over eighteen,
-<note n="1">The first is a real Pythagorean precept, or what passed
+<note xml:lang="eng" n="1">The first is a real Pythagorean precept, or what passed
 for such (Plut. Mor, 128) ; the other two are parodies.</note> saying that if I bore
 these points in mind I might have good hopes of
 getting back to the island.
@@ -1981,7 +1978,7 @@ harbour and had the couplet carved-onit. It was:
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="29"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="29"><p>
 
 I stayed that day, too, and put to sea on the
 next, escorted by the heroes. At that juncture
@@ -1992,7 +1989,7 @@ Nauplius with me, so that if we touched at the
 
 
 
-<pb n="335"/>
+<pb n="v.1.p.335"/>
 
 islands no one might arrest us, thinking we were
 putting in on another errand.</p>
@@ -2007,7 +2004,7 @@ heard the noise of scourge$ and the wailing of many
 men.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="30"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="30"><p>
 
 The other islands’ we did not touch at,
 but the one on which we landed was precipitous and
@@ -2028,7 +2025,7 @@ to live coals. They called them candlefish.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="31"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="31"><p>
 
 There was a single narrow way leading in, past all
 the rivers, and the warder set there was Timon ot
@@ -2038,7 +2035,7 @@ undergoing punishment, and many commoners too.
 Some of them we even recognized, and we saw Cinyras
 
 
-<pb n="337"/>
+<pb n="v.1.p.337"/>
 
 triced up as aforesaid in the smoke of a slow fire.,
 The guides told the life of each, and the crimes for
@@ -2052,7 +2049,7 @@ of.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="32"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="32"><p>
 
 Well, I turned back to the ship quickly, for
 I could not endure the sight, said good-bye to
@@ -2071,11 +2068,11 @@ dreams of all sorts. But first I desire to speak of the
 city itself, since no one else has written about it, and
 Homer, the only one to mention it at all, was not
 quite accurate in what he said.
-<note n="1">Odyss. 19, 560 ff.</note>
+<note xml:lang="eng" n="1">Odyss. 19, 560 ff.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="33"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="33"><p>
 
 On all sides of
 it is a wood, in which the trees are tall poppies and
@@ -2085,7 +2082,7 @@ island. A river flows near which they call Sleepwalker, and there are two spring
 
 
 
-<pb n="339"/>
+<pb n="v.1.p.339"/>
 
 named Soundly and Eight-hours. The wall of the
 city is high and parti-coloured, very like a rainbow
@@ -2111,7 +2108,7 @@ office from Sleep.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="34"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="34"><p>
 
 As to the dreams themselves,
 they differ from one another both in nature and in
@@ -2125,7 +2122,7 @@ the sort. We actually recognised many of them,
 whom we had seen long ago at home. These came
 
 
-<pb n="341"/>
+<pb n="v.1.p.341"/>
 
 up to us and greeted us like old acquaintances, took
 us with them, put us to sleep and entertained us
@@ -2137,7 +2134,7 @@ families and brought us back the same day.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="35"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="35"><p>
 
 For
 thirty days and thirty nights we stopped with them
@@ -2166,31 +2163,31 @@ In addition to this, the letter said. that she was to
 entertain us.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="36"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="36"><p>
 
 On going a short way from the
 sea I found the cave, which was as Homer described
 it,
-<note n="1">Odyss. 5, 55 ff.</note>
+<note xml:lang="eng" n="1">Odyss. 5, 55 ff.</note>
 and found Calypso herself working wool. When
 
 
 
-<pb n="343"/>
+<pb n="v.1.p.343"/>
 
 she had taken the letter and read it, she wept a long
 time at first, and then she asked us in to enjoy her hospitality, gave us a splendid feast and enquired about
 Odysseus and Penelope—how she looked and
 whether she was prudent, as Odysseus used to boast
 in old times.
-<note n="1">Odyss. 5, 201 ff.</note> We made her such answers as we
+<note xml:lang="eng" n="1">Odyss. 5, 201 ff.</note> We made her such answers as we
 thought would please her.</p>
 <p>
 After that, we went back to the ship and slept
 beside it on the shore.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="37"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="37"><p>
 Early in the morning
 we put to sea in a rising wind. We were stormtossed for two days, and on the third we fell in with
 the Pumpkin-pirates. They are savages from the
@@ -2212,13 +2209,13 @@ and fled, leaving them fighting.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="38"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="38"><p>
 It was evident that
 the Nut-sailors would win, as they were in greater
 
 
 
-<pb n="345"/>
+<pb n="v.1.p.345"/>
 
 numbers—they had five crews—and fought from
 stouter ships. Their boats were the halves of empty
@@ -2231,7 +2228,7 @@ did not look in vain.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="39"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="39"><p>
 
 In fact, the sun had not yet
 gone down when from a desert island there came out
@@ -2246,7 +2243,7 @@ but fled to the island, most of them wounded.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="40"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="40"><p>
 About midnight, while it was calm, we unexpectedly ran aground on an enormous kingfisher’s
 nest; really, it was sixty furlongs in circumference.
 The female was sailing on it, keeping her eggs
@@ -2260,19 +2257,19 @@ Chian wine-jar, and the chicks were already visible
 inside them and were chirping. We cut open one
 
 
-<pb n="347"/>
+<pb n="v.1.p.347"/>
 
 of the eggs with axes and took from the shell a
 featherless chick fatter than twenty vultures.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="41"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="41"><p>
 
 When we had sailed a distance of two hundred
 furlongs from the nest, great and wonderful signs
 manifested themselves to us. The gooseneck
-<note n="1">In ancient ships the gooseneck was an ornament on the
+<note xml:lang="eng" n="1">In ancient ships the gooseneck was an ornament on the
 stem, or (as here) on the stern, Nowadays it is a device for
 fastening a spar to a mast.</note>
 suddenly grew feathers and started cackling, the sailing-master, Scintharus, who was already bald, became
@@ -2280,7 +2277,7 @@ the owner of long hair, and what was strangest of all,
 the ship’s mast budded, branched, and bore fruit at
 the summit! The fruit consisted of figs and black
 raisin-grapes, which were not yet ripe.
-<note n="2">A parody on the experience of the Pirates who carried
+<note xml:lang="eng" n="2">A parody on the experience of the Pirates who carried
 off Dionysus (Hymn. Hom. 7, 38).</note>
 On seeing
 this, we were disturbed, as well we might be, and
@@ -2289,7 +2286,7 @@ strangeness of the manifestation.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="42"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="42"><p>
 
 We had not
 yet gone five hundred’ furlongs when we saw a very
@@ -2310,7 +2307,7 @@ another ocean lay beyond. So we resolved to lift the
 
 
 
-<pb n="349"/>
+<pb n="v.1.p.349"/>
 
 ship on to the tree-tops, which were thick, and cross
 over, if we could, to the farther side ; and that is what
@@ -2327,7 +2324,7 @@ poet Antimachus came into my head; he says somewhere or other:
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="43"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="43"><p>
 
 We managed the wood in spite of everything
 and reached the water. Lowering the ship again
@@ -2348,14 +2345,14 @@ we should never do it.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="44"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="44"><p>
 
 Then we came to a smooth sea and an island
 of no great size that was easily accessible and was
 inhabited. -It was peopled by savages, the Bullheads, who have horns in the style that the
 
 
-<pb n="351"/>
+<pb n="v.1.p.351"/>
 
 Minotaur is represented at home. Landing, we
 went up country to get water and food if we could,
@@ -2387,14 +2384,14 @@ there a single day we put to sea.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="45"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="45"><p>
 
 Already we began to see fish, birds flew by and
 all the other signs that land was near made their
 appearance. In a little while we saw men who were
 
 
-<pb n="353"/>
+<pb n="v.1.p.353"/>
 
 following a novel mode of sailing, being at once
 sailors and ships. Let me tell you how they did it:
@@ -2411,7 +2408,7 @@ examining her from all sides.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="46"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="46"><p>
 
 In the evening we touched at another island of
 no great size. It was inhabited by women—or so
@@ -2420,7 +2417,7 @@ to us, welcomed and embraced us. They were got
 up just like courtezans and were all beautiful and
 young, with tunics that swept on the ground. The
 island was called Witchery, and the city Watertown.
-<note n="1">Both names are uncertain in the Greck.</note>
+<note xml:lang="eng" n="1">Both names are uncertain in the Greck.</note>
 Each of the women took one of us home with her
 and made him her guest. But I excused myself for
 a moment—I had misgivings—and on looking about
@@ -2435,7 +2432,7 @@ an ass. Then I drew my sword, caught and bound
 
 
 
-<pb n="355"/>
+<pb n="v.1.p.355"/>
 
 her and questioned her about the whole thing.
 Against her will she told me that they were women
@@ -2452,7 +2449,7 @@ to blood.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng1" subtype="section" n="47"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg012.perseus-eng2" subtype="section" n="47"><p>
 
 With all speed we went back to the ship and
 sailed away. When the light of day began to show,
@@ -2473,18 +2470,17 @@ Thus far I have told you what happened to me
 until I reached the other world, first at sea, then
 
 
-<pb n="357"/>
+<pb n="v.1.p.357"/>
 
 during my voyage among the islands and in the air, then
 in the whale, and after we left it, among the heroes
 and the dreams, and finally among the Bullheads
 and the Asslegs. What happened in the other world
 I shall tell you in the succeeding books.
-<note n="1">The biggest lie of all, as a disgruntled Greek scribe
+<note xml:lang="eng" n="1">The biggest lie of all, as a disgruntled Greek scribe
 remarks in the margin!</note>
 
 
-<pb n="361"/>
 </p></div></div></div>
 
 </body></text></TEI>

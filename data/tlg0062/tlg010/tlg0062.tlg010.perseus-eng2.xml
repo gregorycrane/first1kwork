@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">My Native Land</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg010.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">1</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604153">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianha01luciuoft/page/210/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604153?urlappend=%3Bseq=222">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,11 +69,12 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg010.perseus-eng1" xml:lang="eng">
-<head>My Native Land<note>If this piece had not come down to us among the works of
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg010.perseus-eng2" xml:lang="eng">
+<pb n="v.1.p.211"/>
+<head>My Native Land<note xml:lang="eng">If this piece had not come down to us among the works of
 rime nobody would ever have thought of attributing it
 to him.</note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng2" subtype="section" n="1"><p>
 
 <cit><quote><l>“Nothing sweeter than one’s native land”</l>
 </quote>
@@ -90,7 +93,7 @@ in other countries.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng2" subtype="section" n="2"><p>
 
 Therefore a man who prides
 himself on being citizen of a prosperous state does
@@ -108,7 +111,7 @@ what it was. Upright children and good fathers do
 
 
 
-<pb n="213"/>
+<pb n="v.1.p.213"/>
 
 just the same thing. A lad of birth and breeding
 would not honour anyone else above his father, and
@@ -121,7 +124,7 @@ One who does not judge his son in this spirit does
 not seem to me to have a father’s eyes.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng2" subtype="section" n="3"><p>
 
 In the first place, then, the name of fatherland
 is closer to one’s heart than all else, for there is
@@ -134,7 +137,7 @@ until it reaches the father-gods.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng2" subtype="section" n="4"><p>
 
 Even the gods
 have countries that they rejoice in, and although
@@ -151,7 +154,7 @@ should it not be far more so with mankind?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng2" subtype="section" n="5"><p>
 
 Each
 of us had his first sight of the sun from his native
@@ -160,7 +163,7 @@ nevertheless accounted by everyone a home-god, because of the place from which h
 Moreover, each of us began to speak there, learning
 
 
-<pb n="215"/>
+<pb n="v.1.p.215"/>
 
 first to talk his native dialect, and came to know the
 gods there. If a man’s lot has been cast in such a
@@ -172,7 +175,7 @@ him that there was such a thing.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng2" subtype="section" n="6"><p>
 
 
 The reason, I take it, for which men amass
@@ -193,7 +196,7 @@ knowledge of the law itself.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng2" subtype="section" n="7"><p>
 
 No one was ever known to be so forgetful of
 his country as to care nothing for it when he was
@@ -209,7 +212,7 @@ their years abroad have, become illustrious through
 acquirement of wealth, through renown from office-
 
 
-<pb n="217"/>
+<pb n="v.1.p.217"/>
 
 holding, through testimony to their culture, or
 through praise of their bravery, can be seen hurrying
@@ -221,14 +224,14 @@ the more eager is he to regain his own country.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng2" subtype="section" n="8"><p>
 Even the young love their native land; but
 aged men, being wiser, love it more. In fact, every
 aged man yearns and prays to end his life in it,
 that there in the place where he began to live he
 may </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng1" subtype="section" n="9"><p>€posit his body in the earth which nurtured
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng2" subtype="section" n="9"><p>€posit his body in the earth which nurtured
 him: and may share the graves of his fathers. He
 thinks it a calamity to be guilty of being an
 alien even after death, through lying buried in a
@@ -236,7 +239,7 @@ strange land.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng2" subtype="section" n="10"><p>
 
 How much affection real, true citizens have
 for their native land can be learned only among a
@@ -257,8 +260,8 @@ plains and prairies diversified with all manner of
 growing things, they themselves do not forget the
 
 
-<note n="1">Cf. Thucydides 1, 1.</note>
-<pb n="219"/>
+<note xml:lang="eng" n="1">Cf. Thucydides 1, 1.</note>
+<pb n="v.1.p.219"/>
 
 merits of their own country, and pass over its fitness
 for breeding horses to praise its fitness for breeding
@@ -266,7 +269,7 @@ men.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng2" subtype="section" n="11"><p>
 
 One hastens to his native land though he be
 an islander, and though he could lead a life of ease
@@ -274,7 +277,7 @@ elsewhere. If immortality be offered him he will not
 accept it, preferring a grave in his native land, and
 the smoke thereof is brighter to his eyes than fire
 elsewhere.
-<note n="1">This passage is full of allusions to the Odyssey. Ithaca,
+<note xml:lang="eng" n="1">This passage is full of allusions to the Odyssey. Ithaca,
 “rough, but good for breeding men” (9, 27), is not fit for
 horses (4, 601). Odysseus, the islander, who might have been
 happy, even immortal, with Circe (5, 135; 2U8), will not
@@ -284,7 +287,7 @@ arising from it (1, 57).</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg010.perseus-eng2" subtype="section" n="12"><p>
 
 To such an extent do all men seem to prize
 their own country that lawgivers everywhere, as one
@@ -298,11 +301,10 @@ name of native land makes even the dastard brave.
 
 
 
-<pb n="221"/>
+<pb n="v.1.p.221"/>
 
-<note>This treatise (evidently compiled in haste for a special
+<note xml:lang="eng">This treatise (evidently compiled in haste for a special
 occasion) cannot fairly be fathered on Lucian. It is valuable,
 however, as a document, and not uninteresting in spots.</note>
-<pb n="223"/>
 </p></div></div>
 </body></text></TEI>

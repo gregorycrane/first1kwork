@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">The Double Indictment</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg026.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">3</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/osu.32435024202137">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianhar03luciuoft/page/84/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/osu.32435024202137?urlappend=%3Bseq=96">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,8 +69,9 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" xml:lang="eng">
-<head>The Double Indictment<note><p>Again we have a reply to criticism, this time largely of an
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" xml:lang="eng">
+<pb n="v.3.p.85"/>
+<head>The Double Indictment<note xml:lang="eng"><p>Again we have a reply to criticism, this time largely of an
 aesthetic nature. Lucian had been assailed from both sides,
 by the rhetoricians for abandoning speech-making and essay writing and going over to dialogue, consecrated, since Plato’s
 time, to the service of Philosophy, and by the philosophers
@@ -92,7 +95,7 @@ public opinion, are laughed out of court.</p>
 The Dialogue was composed, Lucian tells us (§ 32), when
 he was about forty years old, therefore probably not far from
 the year165 A.D.</p></note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="1"><p>
 
 <label>ZEUS</label>
 Plague take all philosophers who say that bliss is
@@ -128,11 +131,11 @@ else it is all up with his reputation in the profession.
 I say nothing of the devices they get up to test his
 powers of divination, cooking mutton and turtle
 together, so that if he had not a good nose, that
-Lydian would have gone off laughing at him.<note n="v.3.p.87.n.1"><p>Croesus, who got up the device, according to Herodotus, to see which oracle was-the most trustworthy (Herod. 1,46-40. </p></note> As
+Lydian would have gone off laughing at him.<note xml:lang="eng" n="v.3.p.87.n.1"><p>Croesus, who got up the device, according to Herodotus, to see which oracle was-the most trustworthy (Herod. 1,46-40. </p></note> As
 for Asclepius, he is pestered by the sick: “Dire
 sights he sees, and touches what he loathes, and
 in the woes of others finds a crop of sorrow for
-himself.”<note n="v.3.p.87.n.2"><p>Hippocrates de Flatibus, 1, 6 ; said of the physician. </p></note> Why should I refer either to the Winds,
+himself.”<note xml:lang="eng" n="v.3.p.87.n.2"><p>Hippocrates de Flatibus, 1, 6 ; said of the physician. </p></note> Why should I refer either to the Winds,
 that aid the crops and speed the ships on their
 courses and blow upon the winnowers, or to Sleep,
 that wings his way to everyone, or to Jack-of-dreams,
@@ -142,7 +145,7 @@ of love for man, each contributing to life on earth.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="2"><p>
 
 And yet the others are not so badly off in
 comparison with myself. I am the monarch and
@@ -166,7 +169,7 @@ and lightning, and that then I am through, being
 dispensed from thinking of details. No, not only
 must I do all that, but I must look in all directions
 at the same time and keep an eye on everybody,
-just like the herdsman at Nemea,<note n="v.3.p.89.n.1"><p>Argus. </p></note> to see who is
+just like the herdsman at Nemea,<note xml:lang="eng" n="v.3.p.89.n.1"><p>Argus. </p></note> to see who is
 stealing, who is committing perjury, who is offering
 sacrifice, whether anybody has poured a drinkoffering, from what quarter the steam and the smoke
 of burnt-offerings rise, who has called upon me in
@@ -179,7 +182,7 @@ At that, it is not easy to escape criticism. It often
 happens that the others, “the gods and the warriors
 crested with horse-tails,” sleep all through the night,
 while I, though Zeus, am not “held in the sweetness
-of slumber,”<note n="v.3.p.89.n.2"><p>Partial paraphrase of Iliad 2, 1-2  </p></note> for if I drowse off, even for an instant,
+of slumber,”<note xml:lang="eng" n="v.3.p.89.n.2"><p>Partial paraphrase of Iliad 2, 1-2  </p></note> for if I drowse off, even for an instant,
 Epicurus is instantly confirmed in his assertion that
 we exercise no providence over what happens on
 earth. And we cannot make light of the danger if
@@ -198,12 +201,12 @@ gets drunk, perhaps, and goes to sleep, whereas I,
 <pb n="v.3.p.91"/>
 
 without closing my eyes or eating, “ponder in heart
-and in soul”<note n="v.3.p.91.n.1"><p>Iliad2,3, </p></note> for the benefit of all, rewarded only
+and in soul”<note xml:lang="eng" n="v.3.p.91.n.1"><p>Iliad2,3, </p></note> for the benefit of all, rewarded only
 by being considered captain.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="3"><p>
 So I should like to
 ask the philosophers, who say that only the gods are
 happy, when they suppose we really find leisure for
@@ -214,7 +217,7 @@ time we are keeping all these stale lawsuits filed
 away, already spoiled by mildew and spiders’ webs,
 especially those brought against certain persons
 by the sciences and the arts—some of these are very
-antiquated.<note n="v.3.p.91.n.2"><p>What these are becomes clear later (p. 109).  </p></note> People are making an outcry on all
+antiquated.<note xml:lang="eng" n="v.3.p.91.n.2"><p>What these are becomes clear later (p. 109).  </p></note> People are making an outcry on all
 sides and losing patience and hurling reproaches at
 Justice.and blaming me for my slowness, not knowing that the hearings have not been postponed,
 as it happens, on account of our negligence, but on
@@ -223,7 +226,7 @@ for that is what they call our press of business.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="4"><p>
 
 <label>HERMES</label>
 I myself hear a great many complaints of that sort
@@ -259,12 +262,12 @@ involved ; and if anyone thinks that his hearing has
 been unjust, he is to be allowed to appeal to me and
 have the case tried afresh, just as if it had not been
 tried at all. (Zo Justice) Daughter, take your place
-beside the Dread Goddesses,<note n="v.3.p.93.n.1"><p>The Eumenides, since the trial of Orestes, had an altar on the Areopagus. </p></note> empanel the juries and
+beside the Dread Goddesses,<note xml:lang="eng" n="v.3.p.93.n.1"><p>The Eumenides, since the trial of Orestes, had an altar on the Areopagus. </p></note> empanel the juries and
 have an eye on the trials.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="5"><p>
 
 <label>JUSTICE</label>
 Back to earth once more, to be driven off by them
@@ -275,7 +278,7 @@ stand being laughed at by Injustice ?
 You must be of good hope. Certainly by now the
 philosophers have persuaded them to regard you
 more highly than Injustice; especially the son of
-Sophroniscus,<note n="v.3.p.93.n.2"><p>Socrates.  </p></note> who praised just dealing to the skies
+Sophroniscus,<note xml:lang="eng" n="v.3.p.93.n.2"><p>Socrates.  </p></note> who praised just dealing to the skies
 and declared it the greatest of blessings.
 </p>
 <p><label>JUSTICE</label>
@@ -288,13 +291,13 @@ fellow, before he had even paid that cock to
 
 <pb n="v.3.p.95"/>
 
-Asclepius ;<note n="v.3.p.95.n.1"><p>His last words were: “Crito, we owe a cock to Asclepius. Do pay it without fail.” (End of Phaedo).  </p></note> so much the better of the argument had
+Asclepius ;<note xml:lang="eng" n="v.3.p.95.n.1"><p>His last words were: “Crito, we owe a cock to Asclepius. Do pay it without fail.” (End of Phaedo).  </p></note> so much the better of the argument had
 his accusers, whose philosophy was directly opposed
 to his, and favoured Injustice.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="6"><p>
 
 <label>ZEUS</label>
 The people were still unfamiliar with the teachings of philosophy at that time, and there were few
@@ -317,7 +320,7 @@ for your eye to miss a philosopher wherever it looks.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="7"><p>
 
 <label>JUSTICE</label>
 Yes, but those very men frighten me, Zeus, by
@@ -339,13 +342,13 @@ so that a few cases, at least, may be heard to-day.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="8"><p>
 
 
 <label>HERMES</label>
 Let us set out in this direction, Justice, straight for
 Sunium, not far from the foot of Hymettus, to the left
-of Parnes, where you see those two heights<note n="v.3.p.97.n.1"><p>Lycabettus and the Acropolis. The promontory of Sunium is the most conspicuous landmark because Hermes and Justice are coming down from above, and from seaward (cf. below, ἐν δεξιᾷ). Lucian’s gods live in Heaven, not on Olympus or Ida.  </p></note>; you
+of Parnes, where you see those two heights<note xml:lang="eng" n="v.3.p.97.n.1"><p>Lycabettus and the Acropolis. The promontory of Sunium is the most conspicuous landmark because Hermes and Justice are coming down from above, and from seaward (cf. below, ἐν δεξιᾷ). Lucian’s gods live in Heaven, not on Olympus or Ida.  </p></note>; you
 have probably forgotten the way long since. But why
 are you crying and taking it hard? Don't be afraid:
 things are no longer the same in life. All those
@@ -397,7 +400,7 @@ the best of them.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="9"><p>
 
 But in the course of our talk we are already drawing near to Attica, so let us leave Sunium on our
 right, and now let us glide down to the Acropolis.
@@ -417,18 +420,18 @@ shepherd’s pipe and the hairy legs.
 
 <label>HERMES</label>
 What! Don’t you know Pan, the most bacchanalian of the servants of Dionysus? He formerly lived
-on Parthenion,<note n="v.3.p.101.n.1"><p>A mountain in Arcadia. </p></note> but at the time of the approach of
+on Parthenion,<note xml:lang="eng" n="v.3.p.101.n.1"><p>A mountain in Arcadia. </p></note> but at the time of the approach of
 Datis by sea and the landing of the barbarians at
 Marathon, he came unasked to fight on the side of
 the Athenians ; and since then, accepting this cavern
-under the Acropolis, a little above the Pelasgicon,<note n="v.3.p.101.n.2"><p>The cave of Pan, being in the N.W. corner of the Acropolis, can be pointed out (ταύτην) trom the Areopagus, which is close by (ἐκ γειτόνων). For the bit of the prehistoric wall below it (Pelasgicon), see p. 63, note 1, and p. 71.  </p></note>
+under the Acropolis, a little above the Pelasgicon,<note xml:lang="eng" n="v.3.p.101.n.2"><p>The cave of Pan, being in the N.W. corner of the Acropolis, can be pointed out (ταύτην) trom the Areopagus, which is close by (ἐκ γειτόνων). For the bit of the prehistoric wall below it (Pelasgicon), see p. 63, note 1, and p. 71.  </p></note>
 he lives in it, paying the usual tax as a resident
 alien. Very likely he has seen us near and is coming
 up to greet us.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="10"><p>
 
 <label>PAN</label>
 Good day to you, Hermes and Justice.
@@ -468,7 +471,7 @@ fun afford me some amusement.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="11"><p>
 
 
 <label>JUSTICE</label>
@@ -522,7 +525,7 @@ dark of the evening—
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="12"><p>
 <label>JUSTICE</label>
 Hush, Pan ; didn’t it seem to you that Hermes is
 making a proclamation ?
@@ -533,7 +536,7 @@ Why, yes.
 <p><label>HERMES</label>
 Oyez, oyez! Under the blessing of Heaven, we
 shall hold a session of court to-day, the seventh of
-Elaphebolion.<note n="v.3.p.105.n.1"><p>The seventh of Elaphebolion was not far from the first of April.  </p></note> All who have entered suits are to come
+Elaphebolion.<note xml:lang="eng" n="v.3.p.105.n.1"><p>The seventh of Elaphebolion was not far from the first of April.  </p></note> All who have entered suits are to come
 to the Areopagus, where Justice will empanel the juries
 
 
@@ -563,7 +566,7 @@ the Areopagus every day.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="13"><p>
 
 <label>HERMES</label>
 Come, Justice, let’s call them to the bar.
@@ -602,16 +605,16 @@ Do you know what we ought to do, Hermes? Let
 us put off the rest of. the cases until to-morrow, and
 to-day let us provide only for those entered by
 professions or pursuits or sciences against men. Pass
-me up the writs of that description.<note n="v.3.p.109.n.1"><p>As Hermes gives each writ to Justice, he reads the heading and she tells him how many jurors are to be drawn. Her orders are carried out in silence, and the juries are all in readiness when the first case is called, which is not until she has filled the docket for the day (§ 15). </p></note>
+me up the writs of that description.<note xml:lang="eng" n="v.3.p.109.n.1"><p>As Hermes gives each writ to Justice, he reads the heading and she tells him how many jurors are to be drawn. Her orders are carried out in silence, and the juries are all in readiness when the first case is called, which is not until she has filled the docket for the day (§ 15). </p></note>
 <label>HERMES</label>
 Intemperance v. the Academy in re Polemo:
-kidnapping.<note n="v.3.p.109.n.2"><p>Polemo, intemperate in his youth, went to a lecture by Xenocrates to create a disturbance, but was converted to philosophy by what he heard. He succeeded Xenocrates as ead of the Academy (Diog. L. iv. 1 ff.). </p></note>
+kidnapping.<note xml:lang="eng" n="v.3.p.109.n.2"><p>Polemo, intemperate in his youth, went to a lecture by Xenocrates to create a disturbance, but was converted to philosophy by what he heard. He succeeded Xenocrates as ead of the Academy (Diog. L. iv. 1 ff.). </p></note>
 <label>JUSTICE</label>
 Draw seven jurors.
 </p>
 <p><label>HERMES</label>
 Stoa v. Pleasure: alienation of affections— because
-Pleasure coaxed away her lover, Dionysius.<note n="v.3.p.109.n.3"><p>Dionyaius the Convert was a pupil of Zeno, but became a Cyrenaic, “being converted to pleasure ; for sore eyes gave him so much trouble that he could not bring himself to μaintain any longer that pain did not matter” (Diog. L. vii. 1, 31; cf. vii. 4).  </p></note>
+Pleasure coaxed away her lover, Dionysius.<note xml:lang="eng" n="v.3.p.109.n.3"><p>Dionyaius the Convert was a pupil of Zeno, but became a Cyrenaic, “being converted to pleasure ; for sore eyes gave him so much trouble that he could not bring himself to μaintain any longer that pain did not matter” (Diog. L. vii. 1, 31; cf. vii. 4).  </p></note>
 <label>JUSTICE</label>
 Five will do.
 
@@ -622,28 +625,28 @@ Five will do.
 <pb n="v.3.p.111"/>
 
 <label>HERMES</label>
-High-living v. Virtue, re Aristippus.<note n="v.3.p.111.n.1"><p>Follower of Socrates; later, founder of the Cyrenaic School. </p></note>
+High-living v. Virtue, re Aristippus.<note xml:lang="eng" n="v.3.p.111.n.1"><p>Follower of Socrates; later, founder of the Cyrenaic School. </p></note>
 <label>JUSTICE</label>
 Let five sit in this case too.
 </p>
 <p><label>HERMES</label>
-Banking v. Diogenes: absconding.<note n="v.3.p.111.n.2"><p>Diogenes the Cynic was son and partner of the banker Hicesias in Sinope. They were caught muking counterfeit coin ; the father was put to death, and the son fled to Athens (Diog. L. vii. 2, 1). </p></note>
+Banking v. Diogenes: absconding.<note xml:lang="eng" n="v.3.p.111.n.2"><p>Diogenes the Cynic was son and partner of the banker Hicesias in Sinope. They were caught muking counterfeit coin ; the father was put to death, and the son fled to Athens (Diog. L. vii. 2, 1). </p></note>
 <label>JUSTICE</label>
 Draw only three.
 </p>
 <p><label>HERMES</label>
-Painting v. Pyrrho: breach of contract.<note n="v.3.p.111.n.3"><p>Pyrrho the Sceptic began life as an artist (Diog. L. ix. 11). </p></note>
+Painting v. Pyrrho: breach of contract.<note xml:lang="eng" n="v.3.p.111.n.3"><p>Pyrrho the Sceptic began life as an artist (Diog. L. ix. 11). </p></note>
 <label>JUSTICE</label>
 Let nine sit on jury.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="14"><p>
 
 <label>HERMES</label>
 Do you want us to provide juries for these two
 cases also, recorded yesterday against the public
-speaker ?<note n="v.3.p.111.n.4"><p>Lucian ; coming from Samosata on the Euphrates, he is presently called “the Syrian.”  </p></note>
+speaker ?<note xml:lang="eng" n="v.3.p.111.n.4"><p>Lucian ; coming from Samosata on the Euphrates, he is presently called “the Syrian.”  </p></note>
 <label>JUSTICE</label>
 Let us first finish up the cases of long-standing ;
 these can go over until to-morrow for trial.
@@ -693,7 +696,7 @@ in jury-fees.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="15"><p>
 <label>JUSTICE</label>
 Let the first jury sit, in the“case of the Academy
 v. Intemperance. Fill the water-clock. Plead first,
@@ -737,7 +740,7 @@ speeches, Academy, since it is easy for you.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="16"><p>
 
 <label>ACADEMY</label>
 Listen first, gentlemen of the jury, to the plea of
@@ -782,7 +785,7 @@ Anyhow, pour in the same amount for her in turn.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="17"><p>
 
 <label>ACADEMY</label>
 Heard casually, gentlemen of the jury, the plea
@@ -844,7 +847,7 @@ of us it was better for him to associate with.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="18"><p>
 
 <label>JUSTICE</label>
 Come, now, do not delay ; cast your ballots and get
@@ -858,17 +861,17 @@ It is not at all surprising that there should be
 one man to vote for Intemperance.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="19"><p>
 
 Take your seats,
 you who have been drawn to hear Stoa v. Pleasure
 in re a lover. The clock is filled. You with the
 paint upon you and the gaudy colours, make your
-plea now.<note n="v.3.p.121.n.1"><p>An allusion to the famous frescoes of the Painted Porch ; Polygnotus’ Taking of Troy, Theseus and the Amazons, and Battle of Marathon. Lucian brings in a bit of fun by deliberately using language which suggests a painted face and a gay dress and is in this sense so incongruous as to be comical.  </p></note>
+plea now.<note xml:lang="eng" n="v.3.p.121.n.1"><p>An allusion to the famous frescoes of the Painted Porch ; Polygnotus’ Taking of Troy, Theseus and the Amazons, and Battle of Marathon. Lucian brings in a bit of fun by deliberately using language which suggests a painted face and a gay dress and is in this sense so incongruous as to be comical.  </p></note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="20"><p>
 
 <label>STOA</label>
 I am not unaware, gentlemen of the jury, that I
@@ -924,7 +927,7 @@ semper putas, Graecia !
 
 advocate, such contempt does she show the court! ;
 But see here—ask her what kind of men she thinks
-Heracles and your own<note n="v.3.p.125.n.1"><p>Athenian.  </p></note> Theseus would have been if
+Heracles and your own<note xml:lang="eng" n="v.3.p.125.n.1"><p>Athenian.  </p></note> Theseus would have been if
 they had allied themselves to Pleasure and had
 shirked pain and toil. Nothing would hinder the
 earth from being full of wrong-doing if they had
@@ -945,7 +948,7 @@ Stand aside. Epicurus, speak for Pleasure.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="21"><p>
 
 <label>EPICURUS</label>
 I shall not address you at length, gentlemen of the
@@ -976,7 +979,7 @@ mercy of her dilemmas in spite of the fact that he
 was seeking asylum with Pleasure like a suppliant at
 the Altar of Mercy—in order that he might climb
 “the steep” with copious sweat, cast eyes upon
-that famous Virtue,<note n="v.3.p.127.n.1"><p>For the Hill of Virtue, see Hesiod, Works and Days, 289 ff., and Simonides, 41.  </p></note> and then, after toiling painfully
+that famous Virtue,<note xml:lang="eng" n="v.3.p.127.n.1"><p>For the Hill of Virtue, see Hesiod, Works and Days, 289 ff., and Simonides, 41.  </p></note> and then, after toiling painfully
 his whole life long, be happy when life is over?</p>
 
 <p>
@@ -1026,7 +1029,7 @@ I have done. Cast your ballots with this understanding of the case.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="22"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="22"><p>
 
 <label>STOA</label>
 No, no! Let me cross-question him a little.
@@ -1048,7 +1051,7 @@ Certainly.
 </p>
 <p><label>STOA</label>
 Well, do you know the meaning of “material” and
-“immaterial,” of ‘approved” and “disapproved” ?<note n="v.3.p.129.n.1"><p>Stoic technical terms: see vol. ii, p. 488. Stoa intends to prove that pleasure and pain are alike “immaterial,” and neither “approved” nor “disapproved,” because they neither help nor hinder the effort to attain Virtue.   </p></note>
+“immaterial,” of ‘approved” and “disapproved” ?<note xml:lang="eng" n="v.3.p.129.n.1"><p>Stoic technical terms: see vol. ii, p. 488. Stoa intends to prove that pleasure and pain are alike “immaterial,” and neither “approved” nor “disapproved,” because they neither help nor hinder the effort to attain Virtue.   </p></note>
 
 
 
@@ -1064,7 +1067,7 @@ dissyllabic questions, so be silent ; they are voting.
 </p>
 <p><label>STOA</label>
 I should have won if I had put him a question in
-the form of the “third indemonstrable.”<note n="v.3.p.131.n.1"><p>The five “indemonstrables” of Chrysippus, so called because they are self-evident and require no proof, were all hypothetical or disjunctive syllogisms ; examples are: (1) “if it is day, it is light ; it is light, —> it is day”; (2) “if it is day, it is light ; it is dark, —> it is not day”; (3) “Plato is not both dead and alive; he is dead,  —> he is not alive” ; (4) “it is either day or night; it is day,  —> it is not night”; (5) “it is either day or night; it is not night,  —> it is day.” Cf. Diog. Laert. Vit, Phil. 7, 1, 49; Sext. Emp. adv. Math. 7. </p></note>
+the form of the “third indemonstrable.”<note xml:lang="eng" n="v.3.p.131.n.1"><p>The five “indemonstrables” of Chrysippus, so called because they are self-evident and require no proof, were all hypothetical or disjunctive syllogisms ; examples are: (1) “if it is day, it is light ; it is light, —> it is day”; (2) “if it is day, it is light ; it is dark, —> it is not day”; (3) “Plato is not both dead and alive; he is dead,  —> he is not alive” ; (4) “it is either day or night; it is day,  —> it is not night”; (5) “it is either day or night; it is not night,  —> it is day.” Cf. Diog. Laert. Vit, Phil. 7, 1, 49; Sext. Emp. adv. Math. 7. </p></note>
 <label>JUSTICE</label>
 Who won?
 </p>
@@ -1079,7 +1082,7 @@ Good luck to you! Hermes, call another case.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="23"><p>
 
 <label>HERMES</label>
 Virtue v. High-living, im re Aristippus. Let Aristippus appear in person.
@@ -1113,7 +1116,7 @@ ways; don’t be angry, you shall serve another day.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="24"><p>
 
 
 <label>HERMES</label>
@@ -1136,7 +1139,7 @@ Pyrrho,
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="25"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="25"><p>
 
 <label>HERMES</label>
 Painting is here, Justice, but Pyrrho has not come
@@ -1170,7 +1173,7 @@ crowds to court. But do begin your speech, Oratory.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="26"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="26"><p>
 
 <label>ORATORY</label>
 In the first place, men of Athens, I pray the
@@ -1190,13 +1193,13 @@ that I hear, for the speeches that he will make to
 you will be as like as can be to mine, but his
 actions, as you shall see, have gone so far that
 measures must be taken to prevent my experiencing
-worse injury at his hands<note n="v.3.p.137.n.1"><p>Oratory, more concerned about form than content, borrows her prooemium from Demosthenes, adding the first sentence of the Third Olynthiac to the first sentence of the oration on the Crown, and adapting both as best she can.  </p></note> . . . But not to prolong
+worse injury at his hands<note xml:lang="eng" n="v.3.p.137.n.1"><p>Oratory, more concerned about form than content, borrows her prooemium from Demosthenes, adding the first sentence of the Third Olynthiac to the first sentence of the oration on the Crown, and adapting both as best she can.  </p></note> . . . But not to prolong
 my introduction when the water has been running
 freely this long time, I will begin my complaint.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="27"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="27"><p>
 
 When this man was a mere boy, gentlemen of the
 jury, still speaking with a foreign accent and I might
@@ -1236,7 +1239,7 @@ single night away from home:
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="28"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="28"><p>
 
 but when he had laid
 in plenty of the sinews of war and thought that he
@@ -1262,7 +1265,7 @@ favourite, either, but insults him in the same way.
 <pb n="v.3.p.141"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="29"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="29"><p>
 Is he not, then, ungrateful and subject to punishment under the laws that concern desertion, inasmuch
 as he so disgracefully abandoned his lawful wife,
 from whom he received so much and through whom
@@ -1293,7 +1296,7 @@ you did.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="30"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="30"><p>
 
 THE SYRIAN
 Gentlemen of the jury, as my opponent was
@@ -1316,7 +1319,7 @@ any falsehood for the sake of advantage.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="31"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="31"><p>
 
 Seeing that she was no longer modest and did not
 continue to clothe herself in the respectable way
@@ -1341,7 +1344,7 @@ and requested him to take me in.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="32"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="32"><p>
 
 That is the great injustice that I have done
 Oratory. After all, even if she had not acted as she
@@ -1373,7 +1376,7 @@ vote against him.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="33"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="33"><p>
 Let Dialogue plead before the
 same jury. (To the Jurors) Wait, and you shall get
 double pay for the two cases.
@@ -1388,15 +1391,15 @@ consider this my introduction.
 The wrongs done me and the insults put upon me
 by this man are these. I was formerly dignified, and
 pondered upon the gods and nature and the cycle of
-the universe, treading the air<note n="v.3.p.145.n.1"><p>In the Clouds of Aristophanes (225) Socrates says: “I tread the air and contemplate the sun.”  </p></note> high up above the
+the universe, treading the air<note xml:lang="eng" n="v.3.p.145.n.1"><p>In the Clouds of Aristophanes (225) Socrates says: “I tread the air and contemplate the sun.”  </p></note> high up above the
 
 
 <pb n="v.3.p.147"/>
 
 clouds where “great Zeus in heaven driving his
-winged car”<note n="v.3.p.147.n.1"><p>Plato, Phuedrus246 ¥. </p></note> sweeps on; but he dragged me down
+winged car”<note xml:lang="eng" n="v.3.p.147.n.1"><p>Plato, Phuedrus246 ¥. </p></note> sweeps on; but he dragged me down
 when I was already soaring above the zenith. and
-mounting on “heaven’s back,”<note n="v.3.p.147.n.2"><p>Plato, Phaedrus 247 B. </p></note> and broke my wings,
+mounting on “heaven’s back,”<note xml:lang="eng" n="v.3.p.147.n.2"><p>Plato, Phaedrus 247 B. </p></note> and broke my wings,
 putting me on the same level as the common herd.
 Moreover, he took away from me the respectable
 tragic mask that I had, and put another upon me that
@@ -1405,7 +1408,7 @@ unceremoniously permed me up with Jest and Satire
 and Cynicism and Eupolis and Aristophanes, terrible
 men for mocking all that is holy and scoffing at all
 that is right. At last he even dug up and thrust in
-upon me Menippus, a prehistoric dog,<note n="v.3.p.147.n.3"><p>Cynic. </p></note> with a very
+upon me Menippus, a prehistoric dog,<note xml:lang="eng" n="v.3.p.147.n.3"><p>Cynic. </p></note> with a very
 loud bark, it seems, and sharp fangs, a really dreadful
 dog who bites unexpectedly because he grins when
 he bites.
@@ -1416,11 +1419,11 @@ him? What is most monstrous of all, I have been
 turned into a surprising blend, for I am neither afoot
 nor ahorseback, neither prose nor verse, but seem
 to my hearers a strange phenomenon made up of.
-different elements, like a Centaur.<note n="v.3.p.147.n.4"><p>This refers to the practice of mingling verse and prose, borrowed by Lucian from Menippus. For good illustrations see the beginning of Zeus Rants and of The Double Indictment.  </p></note>
+different elements, like a Centaur.<note xml:lang="eng" n="v.3.p.147.n.4"><p>This refers to the practice of mingling verse and prose, borrowed by Lucian from Menippus. For good illustrations see the beginning of Zeus Rants and of The Double Indictment.  </p></note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="34"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="34"><p>
 
 <label>HERMES</label>
 What are you going to say to this, Master Syrian?
@@ -1456,10 +1459,10 @@ that I do not sit and quibble with him about those
 obscure, subtle themes of his, like “whether the soul
 is immortal,” and “when God made the world, how
 many pints of pure, changeless substance he poured
-into the vessel in which he concocted the universe,”<note n="v.3.p.149.n.1"><p>Cf. Plato, Timaeus354 and41D. </p></note>
+into the vessel in which he concocted the universe,”<note xml:lang="eng" n="v.3.p.149.n.1"><p>Cf. Plato, Timaeus354 and41D. </p></note>
 and “whether rhetoric is the false counterpart of a
 subdivision of political science, the fourth form of
-parasitic occupation.”<note n="v.3.p.149.n.2"><p>Cf. Plato, Gorgias 463 B, D, 465C.  </p></note> Somehow he delights in
+parasitic occupation.”<note xml:lang="eng" n="v.3.p.149.n.2"><p>Cf. Plato, Gorgias 463 B, D, 465C.  </p></note> Somehow he delights in
 dissecting such problems, just as people like to scratch
 where it itches. Reflection is sweet to him, and he
 sets great store by himself if they say that not everyone can grasp his penetrating speculations about
@@ -1485,18 +1488,16 @@ cast the same ballot as before.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng1" subtype="section" n="35"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg026.perseus-eng2" subtype="section" n="35"><p>
 <label>HERMES</label>
 Well, well! You win by all of ten votes! The
 same one who voted against you before will not
 vote as the rest even now. Without doubt it is a
 habit, and the man always casts the ballot that has a
-hole in it.<note n="v.3.p.151.n.1"><p>Each juror was given two ballots of metal shaped like a Japanese top, a flat circular disk, pierced perpendicularly at its centre by a cylindrical axis, which in the one for acquittal was solid, in the other, tubular.  </p></note> I hope he will keep onenvying men of
+hole in it.<note xml:lang="eng" n="v.3.p.151.n.1"><p>Each juror was given two ballots of metal shaped like a Japanese top, a flat circular disk, pierced perpendicularly at its centre by a cylindrical axis, which in the one for acquittal was solid, in the other, tubular.  </p></note> I hope he will keep onenvying men of
 standing. Well, go your ways, and good luck to you.
 To-morrow we shall try the rest of the cases.
 
-
-<pb n="v.3.p.155"/>
 
 </p></div></div>
 </body></text></TEI>

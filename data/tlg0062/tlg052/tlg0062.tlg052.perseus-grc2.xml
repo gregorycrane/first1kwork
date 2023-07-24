@@ -7,7 +7,7 @@
  <title xml:lang="grc">Ἀποκηρυττόμενος</title>
 
 <author>Lucian</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor>Austin Morris Harmon</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
 <principal>Gregory Crane</principal>
 <respStmt>
@@ -38,7 +38,7 @@
 <monogr>
 <author>Lucian</author>
 <title>Lucian</title>
- <editor>Austin Morris Harmon, 1878-1950</editor>
+ <editor>Austin Morris Harmon</editor>
 <imprint>
 <pubPlace>Cambridge, MA</pubPlace>
 <publisher>Harvard University Press</publisher>
@@ -79,6 +79,7 @@
 </profileDesc>
   <revisionDesc>
    <change who="Lisa Cerrato" when="2023-04-28">EpiDoc and CTS conversion and other cleanup</change>
+   <change who="Gregory Crane" when="2023-07-21">(1) extracted notes from the 1st1K version of these files and added them here; (2) used access to a second version of the Greek edition to compare the two and correct errors here.</change>
   </revisionDesc>
  </teiHeader>
 

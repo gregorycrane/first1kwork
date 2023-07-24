@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">The Hall</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg009.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">1</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604153">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianha01luciuoft/page/176/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604153?urlappend=%3Bseq=188">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,11 +69,12 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" xml:lang="eng">
-<head>The Hall<note>The concluding words of this piece show that, like
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" xml:lang="eng">
+<pb n="v.1.p.177"/>
+<head>The Hall<note xml:lang="eng">The concluding words of this piece show that, like
 Dionysus, Heracles, and Amber, it was the introduction to a
 lecture or a course of lectures.</note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="1"><p>
 
 
 Alexander longed to bathe in the Cydnus on
@@ -95,7 +98,7 @@ of intercourse, as if he were dumb or else out of illwill had resolved to hold h
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="2"><p>
 
 Heracles! such
 conduct would not be that of a connoisseur or a
@@ -108,7 +111,7 @@ it is enough to do the usual thing—just to see, to
 look about, to cast their eyes everywhere, to crane
 
 
-<pb n="179"/>
+<pb n="v.1.p.179"/>
 
 their necks at the ceiling, to gesticulate and to take
 their joy in silence for fear of not being able to say
@@ -122,12 +125,12 @@ in speech.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="3"><p>
 
 And such a return does not consist
 simply in praising the hall. No doubt it was fitting -
 for Homer's island boy
-<note n="1">Telemachus (Odyss. 4, 71): he compares the house of
+<note xml:lang="eng" n="1">Telemachus (Odyss. 4, 71): he compares the house of
 Menelaus to the palaces of the gods.</note>
 to be astounded at the house
 of Menelaus and to compare its ivory and gold to the
@@ -149,14 +152,14 @@ it is a maid who answers all who sing and shout,
 
 
 
-<pb n="181"/>
+<pb n="v.1.p.181"/>
 
 abiding somewhere in the heart of the cliffs and
 talking from the inside of the crags.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="4"><p>
 
 To me, at least, it seems that a splendid hall
 excites the speaker's fancy and stirs it to speech, as
@@ -166,7 +169,7 @@ eyes into the soul, and then fashions into the likeness of itself the words that
 case of Achilles, the sight of his armour enhanced
 his anger at the Trojans, and when he put it on to
 try it, he was inspired and transported with the lust
-of battle.<note n="1">Iliad, 19, 16; 384.</note>
+of battle.<note xml:lang="eng" n="1">Iliad, 19, 16; 384.</note>
 Then are we to believe that the passion
 for speech is not enhanced by beautiful surroundings? Socrates was satisfied with a fine plane-tree
 and lush grass and a spring of clear water.not far from
@@ -178,31 +181,31 @@ sequestered spot and take part in the debate on
 love, and thinking no shame, old as he was, to invite
 maids to join him in amorous ditties.
 
-<note n="3">Herod. 7, 27.</note>
+<note xml:lang="eng" n="3">Herod. 7, 27.</note>
 May we not
 suppose that they would come to a place as beautiful
 as this, even without an invitation ?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="5"><p>
 In truth, our shelter is not to be compared with
 mere shade or with the beauty of a plane-tree, not
 even if you pass over the one on the Ilissus and
-mention the Great King’s golden plane.<note n="2">Plato, Phaedrus, 229 seq.</note> That was
+mention the Great King’s golden plane.<note xml:lang="eng" n="2">Plato, Phaedrus, 229 seq.</note> That was
 wonderful only on account of its cost ; there was no
 
 
 
 
 
-<pb n="183"/>
+<pb n="v.1.p.183"/>
 
 craftsmanship or beauty or charm or symmetry or
 grace wrought into the gold or combined with it.
 The thing was barbarous, nothing but money, a
 source of envy to those who saw it, and of felicitation to those who owned it. There was nothing
-praiseworthy about it. The Arsacids<note n="1">Anachronism ; the possessors of the tree were the Achaemenid princes.</note>
+praiseworthy about it. The Arsacids<note xml:lang="eng" n="1">Anachronism ; the possessors of the tree were the Achaemenid princes.</note>
 neither cared
 for beauty nor aimed at attractiveness in making
 their display nor minded whether the spectators
@@ -210,7 +213,7 @@ praised or not,as long as they were astounded.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="6"><p>
 
 The
 barbarians are not beauty-levers; they are moneylovers. On the contrary, the beauty of this hall
@@ -230,7 +233,7 @@ all this attractive and praiseworthy ?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="7"><p>
 
 One might also admire the ceiling for its reserved
 modelling, its flawless decoration, and the refined -
@@ -239,7 +242,7 @@ symmetry of its gilding, which is not unnecessarily
 
 
 
-<pb n="185"/>
+<pb n="v.1.p.185"/>
 
 lavish, but only in such degree as would suffice a
 modest and beautiful woman to set off her beauty—
@@ -264,7 +267,7 @@ unadorned.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="8"><p>
 
 The ceiling of this hall—call it the face if you
 will—well-featured itself, is as much embellished by
@@ -276,7 +279,7 @@ purposeless, and not intermingled with the rest of the
 decorations for its own charm alone. It shines witha
 
 
-<pb n="187"/>
+<pb n="v.1.p.187"/>
 
 sweet radiance, and colours the whole hall with its
 flush ; for when the light, striking the gold, lays
@@ -285,16 +288,16 @@ and make the flush doubly brilliant.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="9"><p>
 
 Such is the top, the summit of the hall: it
 needs a Homer to praise it by calling it “highceiled” like the chamber of Helen
-<note n="1">Il. 3, 423; Od. 4. 121.</note><note n="1">Il. 3, 423; Od. 4. 121.</note>
+<note xml:lang="eng" n="1">Il. 3, 423; Od. 4. 121.</note><note xml:lang="eng" n="1">Il. 3, 423; Od. 4. 121.</note>
 
 or “dazzling” like
 Olympus.
 
-<note n="2">Il. 1, 253; 13, 243; Od. 20, 103.</note>
+<note xml:lang="eng" n="2">Il. 1, 253; 13, 243; Od. 20, 103.</note>
 The rest of the decoration, the frescoes
 on the walls, the beauty of their colours, and the
 vividness, exactitude, and truth of each detail might
@@ -307,7 +310,7 @@ sweetness of what it sees.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="10"><p>
 
 Who would not be charmed with the sight or
 all these beautiful things? Who would not want to
@@ -324,13 +327,13 @@ of the plain.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="11"><p>
 
 The peacock, too, at the opening
 
 
 
-<pb n="189"/>
+<pb n="v.1.p.189"/>
 
 of spring goes to a field at the time when the
 biossoms which it puts out are not only lovelier, but,
@@ -352,7 +355,7 @@ plumage alter with the light!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="12"><p>
 
 For you know without my telling you that the sea has power to invite
 and provoke longing when it is calm. At such a
@@ -365,7 +368,7 @@ along, little by little, over the crest of the waves.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="13"><p>
 
 Certainly, then, the beauty. of this hall has
 power to rouse a man to speech, to spur him on in
@@ -373,7 +376,7 @@ speaking and to make him succeed in every- way. I
 for my part am trusting in all this and have already
 
 
-<pb n="191"/>
+<pb n="v.1.p.191"/>
 
 trusted in it; in coming to the hall to speak, I was
 attracted by its beauty as by a magic wheel or a
@@ -383,7 +386,7 @@ beautiful if adorned, so to speak, in fine clothing.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="14"><p>
 
 There is, however, another point of view, not
 insignificant but very important, if you take Mr. Point
@@ -404,7 +407,7 @@ ield to him for a time.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="15"><p>
 
 “Well, gentlemen of the jury,” says Mr. Point
 o’ View, “the last speaker has made many striking
@@ -424,7 +427,7 @@ jewelry and gold, permit me also to make use of the
 comparison. I assert that, far from contributing to
 the good looks of a beautiful woman, abundant
 
-<pb n="193"/>
+<pb n="v.1.p.193"/>
 
 jewelry is actually a detriment. Everyone who
 meets her is dazzled by her gold and her expensive
@@ -438,7 +441,7 @@ her compliments and think her looks a side-issue.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="16"><p>
 
 The same thing is bound to happen, I think, to a man
 who tries to show his eloquence among works of art
@@ -459,7 +462,7 @@ all that is weaker.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="17"><p>
 "As to the other point which my opponent made,
 that a beautiful hall spurs a speaker on and makes
 him more ambitious, I think it does the opposite.
@@ -468,14 +471,14 @@ and makes him more timid, for he reflects that it is
 disgraceful beyond everything that his discourse
 
 
-<pb n="195"/>
+<pb n="v.1.p.195"/>
 
 should not match a place so beautiful. For such surroundings put a man most clearly to the proof. It is
 ’ asif he should put on a handsome coat of mail and then
 take to his heels.before the rest, making his cowardice
 only the more conspicuous for his armour. This,
 ‘I think, is the consideration which causes Homer's
-famous orator<note n="1">Odysseus: Il. 3, 219.</note> to think very little of good-looks and
+famous orator<note xml:lang="eng" n="1">Odysseus: Il. 3, 219.</note> to think very little of good-looks and
 even make himself appear ‘ an utter know-nothing’ in
 order that the beauty of his words may seem more
 striking by comparison with that which is uglier.
@@ -489,7 +492,7 @@ spirit he is busied with the praise of all that he sees?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="18"><p>
 
 “I forbear to say that even those who are
 present and have been invited to the lecture become
@@ -498,14 +501,14 @@ hall as this, and no speaker is enough of a Demodocus, a Phemius, a Thamyris, an
 Orpheus to distract their minds from looking. Why,
 every one of them is flooded with beauty the instant
 he crosses the threshold, and does not give the least
-sign of hearing <note n="2">Il, 23, 430.</note> what the speaker says or anything
+sign of hearing <note xml:lang="eng" n="2">Il, 23, 430.</note> what the speaker says or anything
 else, but is all absorbed in what he sees, unless he is
 stone-blind or like the court of the Areopagus,
 listens in the dark!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="19"><p>
 
 That the power of the tongue
 is no match for the eyes, one can learn by comparing
@@ -514,7 +517,7 @@ is no match for the eyes, one can learn by comparing
 
 
 
-<pb n="197"/>
+<pb n="v.1.p.197"/>
 
 the story of the Sirens with the one about the
 Gorgons. The Sirens charmed passing voyagers by
@@ -537,7 +540,7 @@ over to him, bidding a long farewell to their songs.
 So invincible, it seems, is the delight of the eyes!
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="20"><p>
 
 If you wish, I will produce you a witness in the
 person of a sage, who will testify on the spot that
@@ -551,10 +554,10 @@ Ionic, to which he is accustomed.
 Believe whatso he sayeth to this matter, esteeming
 sight over hearing, for in sooth ears be less trusty
 than eyes.’
-<note n="1">Only the last clause is really Herodotean (I, 8, 3).</note>
+<note xml:lang="eng" n="1">Only the last clause is really Herodotean (I, 8, 3).</note>
 
 
-<pb n="199"/>
+<pb n="v.1.p.199"/>
 
 “Do you hear what the witness says, that he gives
 the palm to sight? With reason, for words are
@@ -564,7 +567,7 @@ present and lasting and entices the spectator, will
 he, nill he.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="21"><p>
 
 "Is not then a hall so beautiful and admirable
 a dangerous adversary to a speaker? But I ,have
@@ -589,11 +592,11 @@ the task is patent, to represent so many pictures without colour, form or space.
 bald thing.
 
 
-<pb n="201"/>
+<pb n="v.1.p.201"/>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="22"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="22"><p>
 “On the right as you come in, you have a‘ combination of Argolic myth and Ethiopian romance.
 Perseus is killing the sea-monster and freeing
 Andromeda ; in a little while he will marry her and
@@ -609,18 +612,18 @@ with his right assails him with the sword: the part
 of the monster which has seen the Medusa is already
 stone, and the part that is still alive is feeling the
 hanger’s edge.
-<note n="1">Cf. Claudian (Gigantom. 113), of a giant slain by Athena:
+<note xml:lang="eng" n="1">Cf. Claudian (Gigantom. 113), of a giant slain by Athena:
 pars moritur ferro, partes periere videndo. An echo of the
 same source? </note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="23"><p>
 
 “Next to this picture is portrayed another righteous deed, for which the painter derived his model,
 I suppose, from Euripides or Sophocles, inasmuch as
 they have portrayed the subject in the same way.
-<note n="2">In the Electra of each. But tais description is modelled
+<note xml:lang="eng" n="2">In the Electra of each. But tais description is modelled
 on Sophocles (1424 ff.).</note>
 The two youthful comrades Pylades of Phocis and
 Orestes (supposed to be dead) have secretly entered
@@ -635,14 +638,14 @@ element in the undertaking and pass it over as an
 
 
 
-<pb n="203"/>
+<pb n="v.1.p.203"/>
 
 accomplished fact, and to represent the young men
 lingering over the slaying of the adulterer/
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="24"><p>
 
 “Next is a handsome god and a pretty boy, a
 scene of fond foolery. Branchus, sitting on a rock,
@@ -653,7 +656,7 @@ of the lad and the efforts of the dog.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="25"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="25"><p>
 
 “Then comes Perseus again, in the adventure:
 which preceded the sea-monster. He is cutting off
@@ -664,26 +667,26 @@ for he knows the cost of looking at the reality.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="26"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="26"><p>
 
-“In the middle of the wall, above the postern<note n="1">Or perhaps, “rear window.”</note>
+“In the middle of the wall, above the postern<note xml:lang="eng" n="1">Or perhaps, “rear window.”</note>
 is constructed a shrine of Athena. The goddess is
 ‘of marble, and is not in harness but as a war-goddess.
 would appear when at peace.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="27"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="27"><p>
 
 “Then we have another Athena, not of marble
 this time, but in colours as before. Hephaestus is
 pursuing her amorously; she is running away and
 Erichthonius is being engendered of the chase.
-<note n="2">Mother Earth gave birth to him, not Athena.</note>
+<note xml:lang="eng" n="2">Mother Earth gave birth to him, not Athena.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="28"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="28"><p>
 "On this there follows another prehistoric picture.
 Orion, who is blind, is carrying Cedalion, and the
 latter, riding on his back, is showing him the way
@@ -691,24 +694,24 @@ to the sunlight.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="29"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="29"><p>
 "The rising sun is healing the
 blindness of Orion, and Hephaestus views the incident from Lemnos.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="30"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="30"><p>
 “Odysseus is next, feigning madness because
 
 
 
 
-<pb n="205"/>
+<pb n="v.1.p.205"/>
 
 he does not want to make the campaign with the
 sons of Atreus. The ambassadors are there to
 summon him, All the details of his pretence are
 true to life—the wagon, the ill-matched team,
-<note n="1">He yoked an ass and an ox together.</note>
+<note xml:lang="eng" n="1">He yoked an ass and an ox together.</note>
 the
 folly of his actions. He is shown up, however, by
 means of his child. Palamedes, son of Nauplius,
@@ -720,7 +723,7 @@ sane, becomes a father and abandons his pretence.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="31"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="31"><p>
 
 “Last of all Medea is pictured aflame with
 jealousy, looking askance at her two boys with a
@@ -731,7 +734,7 @@ see the sword in her hands.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng1" subtype="section" n="32"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg009.perseus-eng2" subtype="section" n="32"><p>
 
 “Do you not see, gentlemen of the jury, how
 all these things attract the hearer and turn him away
@@ -746,7 +749,7 @@ Even under these circumstances, when he has you
 
 
 
-<pb n="207"/>
+<pb n="v.1.p.207"/>
 
 as supporters, not judges, it will be just barely possible for him to avoid being thought altogether unworthy of the splendour of the hall. Do not be
 surprised that I make this request in behalf of an
@@ -754,13 +757,12 @@ adversary, for on account of my fondness for the hall
 I should like anyone who may speak in it, no matter
 who he is, to be successful.”
 
-<pb n="209"/>
+<pb n="v.1.p.209"/>
 
-<note>If this piece had not come down to us among the works of
+<note xml:lang="eng">If this piece had not come down to us among the works of
 rime nobody would ever have thought of attributing it
 to him.</note>
 
-<pb n="211"/>
 </p></div></div>
 
 </body></text></TEI>

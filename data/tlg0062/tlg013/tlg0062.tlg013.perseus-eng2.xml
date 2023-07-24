@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">Slander: on not Being Quick to Put Faith in it</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg013.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">1</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604153">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianha01luciuoft/page/360/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604153?urlappend=%3Bseq=372">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,13 +69,14 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" xml:lang="eng">
-<head>Slander: on not Being Quick to Put Faith in it<note>This essay is rhetoric pure and simple, and was probably
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" xml:lang="eng">
+<pb n="v.1.p.361"/>
+<head>Slander: on not Being Quick to Put Faith in it<note xml:lang="eng">This essay is rhetoric pure and simple, and was probably
 written early in Lucian’s career. It is famous because it
 contains a vivid description of a picture by Apelles, which
 was again translated into paint by Botticelli in “La
 Calunnia.”</note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="1"><p>
 
 
 It is really a terrible thing, is ignorance, a cause
@@ -90,7 +93,7 @@ plenty of missteps. For this redson the writers of
 tragedy have found in this universal truth many and
 many a motive for their dramas—take for example,
 the house of Labdacus,
-<note n="1">King of Thebes, father of Laius.</note> the house of Pelops and their
+<note xml:lang="eng" n="1">King of Thebes, father of Laius.</note> the house of Pelops and their
 like. Indeed, most of the troubles that.are put on
 the stage are supplied to the poets, you will find, by
 ignorance, as though it were a sort of tragic divinity.
@@ -101,7 +104,7 @@ have utterly perished, fathers have been driven mad
 
 
 
-<pb n="363"/>
+<pb n="v.1.p.363"/>
 
 against their children, brothers against own brothers,
 children against their parents and lovers against
@@ -110,7 +113,7 @@ parted and many an oath broken through belief in
 slander.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="2"><p>
 
 In order, then, that we may as far as
 possible avoid being involved in it, I wish to show in
@@ -126,7 +129,7 @@ Apelles had never set eyes on Tyre and did not
 know who Theodotas was, beyond having heard that
 he was one of Ptolemy’s governors, in charge of affairs
 in Phoenicia.
-<note n="1">The story is apocryphal, as Apelles must have been in
+<note xml:lang="eng" n="1">The story is apocryphal, as Apelles must have been in
 his grave nearly a hundred years when Theodotus (not
 Theodotas) betrayed Ptolemy Philopator (219 3.c.).</note>
 Nevertheless, one of his rivals named
@@ -140,7 +143,7 @@ had taken place on the advice of Apelles.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="3"><p>
 
 Ptolemy, who in general was not particularly sound
 of judgment, but had been brought up in the midst
@@ -148,7 +151,7 @@ of courtly flattery, was so inflamed and upset by this
 
 
 
-<pb n="365"/>
+<pb n="v.1.p.365"/>
 
 surprising charge that he did not take into account
 any of the probabilities, not considering either that
@@ -170,7 +173,7 @@ without being himself to blame for them in any way.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="4"><p>
 
 Ptolemy is said to have been so ashamed of the
 affair that he presented Apelles with a hundred
@@ -180,7 +183,7 @@ run, hit back at slander in a painting.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="5"><p>
 
 On the right
 of it sits a man with very large ears, almost like
@@ -195,7 +198,7 @@ torch and with the other dragging by the hair a
 young man who stretches out his hands to heaven
 
 
-<pb n="367"/>
+<pb n="v.1.p.367"/>
 
 and calls the gods to witness his innocence, She is ©
 conducted by a pale ugly man who has a piercing
@@ -215,7 +218,7 @@ the painting his own hairbreadth escape.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="6"><p>
 
 Come,
 suppose we too, if you like, following the lead of the
@@ -229,18 +232,18 @@ leading characters in slander as in comedy—the
 slanderér, the slandered person, and the hearer of
 the slander,—let us consider what is ukely to happen
 in the case of each of them.
-<note n="1">This partition, derived from Herodotus (7, 10), is not at
+<note xml:lang="eng" n="1">This partition, derived from Herodotus (7, 10), is not at
 all strictly followed by Lucian in developing his theme.</note>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="7"><p>
 In the first place, if you like, let us bring on the
 star of the play, I mean the author of the slander.
 That he is not a good man admits of no doubt, I am
 
 
 
-<pb n="369"/>
+<pb n="v.1.p.369"/>
 
 sure, because no good man would make trouble for
 his neighbour. On the contrary, it is characteristic
@@ -251,7 +254,7 @@ hated.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="8"><p>
 
 Furthermore, that such a man is unjust, lawless,
 impious and harmful to his associates is easy to see.
@@ -275,14 +278,14 @@ the defence against the complaint would, they
 thought, be altogether impious and irreligious. In
 truth, we may say that the very gods would be angry
 if we should permit the plaintiff to say his say
-unhampered, but should stop our ears to the defendant or silence him,<note n="1">The Greek is here corrupt. The translation merely
+unhampered, but should stop our ears to the defendant or silence him,<note xml:lang="eng" n="1">The Greek is here corrupt. The translation merely
 gives the probable sense of the passage.</note>
 
 and then condemn him,
 
 
 
-<pb n="371"/>
+<pb n="v.1.p.371"/>
 
 conquered by the'first plea. It may be said, then, that
 slander does not accord with what is just and legal,
@@ -290,7 +293,7 @@ and what the jurors swear to do. But. if anybody
 thinks that the lawgivers, who regommend that verdicts be so just and impartial, are not good authority,
 I shall cite the best of poets in support of my contention. He makes a very admirable pronouncement
 — indeed, lays down a law—on this point, saying :
-<note n="1">Though this verse was frequently quoted in antiquity,
+<note xml:lang="eng" n="1">Though this verse was frequently quoted in antiquity,
 its authorship was unknown even then, and it was variously,
 attributed to Phocylides, Hesiod, and Pittheus. See Bergk,
 Poet. Lyr. Graec. ii, p. 93.</note>
@@ -309,7 +312,7 @@ the secrecy of his accusation.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="9"><p>
 
 Of course, all such men are also disingenuous and
 cowardly ; they do nothing in the open, but shoot
@@ -327,12 +330,12 @@ ambushes and tricks against the enemy.
 
 
 
-<pb n="373"/>
+<pb n="v.1.p.373"/>
 
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="10"><p>
 For the most part, such men may be seen enjoying
 high favour in the courts of kings and among the
 friends of governors and princes, where envy is great,
@@ -363,12 +366,12 @@ but leads to a sorry, tragic ending, beset with many
 accidents.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="11"><p>
 Yet this is not an insignificant or a simple thing,
 as one might suppose; it requires much skill, no
 little shrewdness, and some degree of close study.
 
-<pb n="375"/>
+<pb n="v.1.p.375"/>
 
 For slander would not do so much harm if it were
 not set afoot in a plausible way, and it would not
@@ -379,7 +382,7 @@ its hearers.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="12"><p>
 
 
 Generally speaking, slander is most often directed
@@ -391,7 +394,7 @@ expects to be first himself when he has routed his
 chief and ousted him from favour. Something of
 the same sort happens in the athletic games, in footraces. A good runner fram the moment that the
 barrier falls
-<note n="1">Races were started in antiquity by the dropping of a
+<note xml:lang="eng" n="1">Races were started in antiquity by the dropping of a
 rope or bar.</note>
 thinks only of getting forward, sets
 his mind on the finish and counts on his legs to
@@ -411,13 +414,13 @@ appeared to be doing to others.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="13"><p>
 
 As for the verisimilitude of their slander, calum-
 
 
 
-<pb n="377"/>
+<pb n="v.1.p.377"/>
 
 niators are not careless in thinking out that point;
 all their work centres on it, for they are afraid to
@@ -430,7 +433,7 @@ that a courtier is a traitor.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="14"><p>
 
 
 Sometimes, however, the hearer himself suggests
@@ -453,7 +456,7 @@ proof.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="15"><p>
 
 In short, they think out and say the sort of
 thing that they know to be best adapted to provoke
@@ -465,19 +468,19 @@ thereafter be free to get at the truth; indeed, however much a slandered man may
 himself, he will not let him do so, because he is
 
 
-<pb n="379"/>
+<pb n="v.1.p.379"/>
 
 prejudiced by the surprising nature of what he has’
 heard, just as if that made it true.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="16"><p>
 
 
 A very effective form of slander is the one that is
 based on opposition to the hearer’s tastes. For instance, in the court of the Ptolemy who was called
-Dionysus<note n="1">Probably Ptolemy Auletes, father of Cleopatra, who
+Dionysus<note xml:lang="eng" n="1">Probably Ptolemy Auletes, father of Cleopatra, who
 styled himself "the new Dionysus.”</note> there was once a man who accused Demetrius, the Platonic philosopher, of drinking nothing
 but water and of being the only person who did not
 wear women’s clothes during the feast of Dionysus.
@@ -489,7 +492,7 @@ an opponent of Ptolemy’s luxury.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="17"><p>
 
 In the court of Alexander it was once the greatest
 of all slanderous charges to say that a man did not
@@ -510,10 +513,10 @@ and accrediting him with prophecies; and at last
 
 
 
-<pb n="381"/>
+<pb n="v.1.p.381"/>
 
 they began to sacrifice to him as “‘ Coadjutor” and
-"Saviour.”<note n="1">In this way they made him out the associate of Apollo.</note>
+"Saviour.”<note xml:lang="eng" n="1">In this way they made him out the associate of Apollo.</note>
 Alexander liked to hear all this, and
 at length believed it, and was very proud of himself for being, as he thought, not only the son of
 a god but also able to make gods. Well, how many
@@ -524,7 +527,7 @@ deprived of the king’s favour?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="18"><p>
 
 It was then that
 Agathocles of Samos, one of Alexander’s captains
@@ -542,7 +545,7 @@ of their old-time friendship.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="19"><p>
 
 
 As you see, flattery and slander were most likely
@@ -559,7 +562,7 @@ access, bringing their siege-engines to bear on it
 
 
 
-<pb n="383"/>
+<pb n="v.1.p.383"/>
 
 and finally capturing it, as no one opposes them or
 notices their assault. Then, when they are once
@@ -570,7 +573,7 @@ bondage.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="20"><p>
 The engines that they use against the hearer
 are deceit, lying, perjury, insistence, impudence, and
 a thousand other unprincipled means; but the most
@@ -583,7 +586,7 @@ foundations sapped by slander.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="21"><p>
 
 All this is on the
 outside, while on the inside there are many traitors
@@ -600,11 +603,11 @@ having their ears titillated with slander as some do
 from being tickled with feathers.
 
 
-<pb n="385"/>
+<pb n="v.1.p.385"/>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="22"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="22"><p>
 Therefore, when the enemy falls on with all these
 forces in league with him, he takes the fort by storm,
 I suppose, and his victory cannot even prove difficult,
@@ -617,7 +620,7 @@ the night.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="23"><p>
 The saddest thing of all is that the slandered
 man, unaware of all that has taken place, meets his
 friend cheerfully, not being conscious of any misdeed,
@@ -630,13 +633,13 @@ friend for nothing.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="24"><p>
 
 But if he is ignoble and mean
 he welcomes him and smiles at him out of the
 corner of his mouth, while all the time he hates
 him and secretly grinds his teeth and broods, as the
-poet says<note n="1">Homer; the word is frequent in the Odyssey (e.g. 9, 316 ; 17, 66).</note> on his anger. Yet nothing, I think, is
+poet says<note xml:lang="eng" n="1">Homer; the word is frequent in the Odyssey (e.g. 9, 316 ; 17, 66).</note> on his anger. Yet nothing, I think, is
 more unjust or more contemptible than to bite
 your lips and nurse your bitterness, to lock your
 hatred up within yourself and nourish it, thinking
@@ -651,7 +654,7 @@ the person slandered, and yet does what he does.
 
 
 
-<pb n="387"/>
+<pb n="v.1.p.387"/>
 
 In that case they are no longer willing even
 to hear the voice of the men slandered or of those
@@ -673,7 +676,7 @@ to help them.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="25"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="25"><p>
 
 There are people who, even if they afterwards
 learn that their friends have been unjustly accused
@@ -685,7 +688,7 @@ others were doing no wrong at all!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="26"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="26"><p>
 
 It follows, then, that life has been filled with
 troubles in abundance through the slanderous stories
@@ -699,7 +702,7 @@ that have been believed so readily and so unquestioningly. Anteia says:
 <bibl>Homer, Iliad 6, 164.</bibl></cit>
 when she herself had made the first move and had
 
-<pb n="389"/>
+<pb n="v.1.p.389"/>
 
 been scorned. So the young man came near getting
 killed in the encounter with the Chimaera, and was
@@ -708,12 +711,12 @@ host by being plotted against by a wanton. As for
 Phaedra, she too made a similar charge against her
 stepson and so brought it about that Hippolytus was
 cursed by his father
-<note n="1">Theseus: the story is told in the Hippolytus of Euripides.</note>
+<note xml:lang="eng" n="1">Theseus: the story is told in the Hippolytus of Euripides.</note>
 when he had done nothing
 impious—good Heavens, nothing !
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="27"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="27"><p>
 
 “Yes,” somebody will say, “but now and then
 the man who brings a personal charge deserves
@@ -730,21 +733,21 @@ occasion.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="28"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="28"><p>
 
 And if the story of Palamedes is true, the
 most sensible of the Greeks and the best of them in
 other ways stands convicted of having, through envy,
 framed a plot and an ambush to trap a kinsman and
 a friend, who had sailed away from home to front
-the same peril as he<note n="2">Odysseus trapped Palamedes by getting a forged letter
+the same peril as he<note xml:lang="eng" n="2">Odysseus trapped Palamedes by getting a forged letter
 from Priam hidden in his tent and then pretending to
 discover it.</note>; so true is it that to err in this
 direction is inborn in all mankind.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="29"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="29"><p>
 
 Why should I
 mention Socrates, who was unjustly slandered to the
@@ -753,7 +756,7 @@ Athenians as an irreligious man and a traitor? or
 
 
 
-<pb n="391"/>
+<pb n="v.1.p.391"/>
 
 Themistocles and Miltiades, both of whom, after
 all their victories, came to be suspected of treason
@@ -762,7 +765,7 @@ are already for the most part well known.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="30"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="30"><p>
 
 “Then what should a man do, if he has sense
 and lays claim to probity or truthfulness?.” In my
@@ -779,7 +782,7 @@ wide open.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng1" subtype="section" n="31"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg013.perseus-eng2" subtype="section" n="31"><p>
 
 Therefore, when a man comes and tells
 you a thing of this sort, you must investigate the
@@ -790,7 +793,7 @@ closer your investigation should be. You should not,
 then, put faith in another's judgment, or rather
 (as you would be doing), in the accuser’s want of
 judgment,
-<note n="1">Literally, "in the accuser’s hatred.” To secure something like the word-play in the Greek, the sense had to
+<note xml:lang="eng" n="1">Literally, "in the accuser’s hatred.” To secure something like the word-play in the Greek, the sense had to
 suffer slightly.</note>
 but should reserve to yourself the province
 of investigating the truth, accrediting the slanderer
@@ -801,7 +804,7 @@ the proof. To do so before that time, influenced
 by the first breath of slander—Heavens! how
 
 
-<pb n="393"/>
+<pb n="v.1.p.393"/>
 
 childish, how base and, beyond everything, how unjust! But the cause of this and all the rest of it, as
 I said in the beginning, is ignorance, and the fact
@@ -811,8 +814,6 @@ only unveil our lives, Slander would vanish away
 to limbo, having no place left, since everything would
 be illumined by Truth.
 
-
-<pb n="397"/>
 
 </p></div></div>
 

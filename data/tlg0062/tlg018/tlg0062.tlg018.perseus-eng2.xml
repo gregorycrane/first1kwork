@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">Zeus Rants</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg018.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">2</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604154">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianhar02luciuoft/page/90/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604154?urlappend=%3Bseq=104">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,8 +69,9 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" xml:lang="eng">
-<head>Zeus Rants<note>This dialogue is an elaboration of the theme treated in
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" xml:lang="eng">
+<pb n="v.2.p.91"/>
+<head>Zeus Rants<note xml:lang="eng">This dialogue is an elaboration of the theme treated in
 Zeus Catechized. We meet in it the curious interlarding
 of prose with verse which characterized the writings of
 Menippus and his imitators. We also find a good deal of
@@ -77,7 +80,7 @@ please modern readers ; but it is hardly fair to censure him,
 for one piece may have been read in Athens and another in
 Antioch, and he may never have had an opportunity to
 tevise his collected works.</note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="1"><p>
 
 <label>HERMES</label>
 <l>What ails you, Zeus, in lone soliloquy</l>
@@ -89,13 +92,13 @@ tevise his collected works.</note></head>
 <l>Here at thy knees I beseech it, the grey-eyed Tritogeneia :</l>
 <l>Speak thy thought, let it not lie hid in thy mind, let us know it.</l>
 <l>What is the care that consumeth thy heart and thy soul with its gnawing?</l>
-<l>Wherefore thy deep, deep groans, and the pallor that preys on thy features ?<note n="v.2.p.91.n.1">Compare this parody on Homer with Iliad 1, 363 (=Od. 1, 45); 8, 31; 3. 35.</note></l>
+<l>Wherefore thy deep, deep groans, and the pallor that preys on thy features ?<note xml:lang="eng" n="v.2.p.91.n.1">Compare this parody on Homer with Iliad 1, 363 (=Od. 1, 45); 8, 31; 3. 35.</note></l>
 <label>ZEUS</label>
 <l>There’s nothing dreadful to express in speech,</l>
 <l>No cruel hap, no stage catastrophe</l>
-<l>That I do not surpass a dozen lines!<note n="v.2.p.91.n.2">A parody on the opening lines of the Orestes of Euripides.</note></l>
+<l>That I do not surpass a dozen lines!<note xml:lang="eng" n="v.2.p.91.n.2">A parody on the opening lines of the Orestes of Euripides.</note></l>
 <label>ATHENA</label>
-<l>Apollo ! what a prelude to your speech !<note n="v.2.p.91.n.3">Euripides, Hercules Furens 538.</note></l>
+<l>Apollo ! what a prelude to your speech !<note xml:lang="eng" n="v.2.p.91.n.3">Euripides, Hercules Furens 538.</note></l>
 
 <pb n="v.2.p.93"/>
 
@@ -114,14 +117,14 @@ able to play up to you in your tragedy réle.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="2"><p>
 
 Do you
 suppose we don’t know the reason of your. anguish ?
 </p>
 <p><label>ZEUS</label>
 <l>You know not: otherwise you ‘Id shriek and</l>
-scream.<note n="v.2.p.93.n.1">From Euripides, according to Porson.</note>
+scream.<note xml:lang="eng" n="v.2.p.93.n.1">From Euripides, according to Porson.</note>
 <label>HERA</label>
 I know that the sum and substance of your troubles
 is a love-affair; I don’t shriek and scream, though,
@@ -145,7 +148,7 @@ Aren’t you Zeus?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="3"><p>
 
 <label>ZEUS</label>
 Why, Hera, the circumstances of the gods are as
@@ -162,16 +165,16 @@ more taking up arms against us?
 </p>
 <p><label>ZEUS</label>
 <quote><l>Take heart: the gods have naught to fear from
-Hell.<note n="v.2.p.95.n.1">A parody on Euripides, Phoenissae 117.</note></l></quote>
+Hell.<note xml:lang="eng" n="v.2.p.95.n.1">A parody on Euripides, Phoenissae 117.</note></l></quote>
 <label>HERA</label>
 Then what else that is terrible can happen?
 Unless something of that sort is worrying you, I
 don’t see why you should behave in our presence
-like a Polus or an Aristodemus<note n="v.2.p.95.n.2">Famous actors in tragedy, contemporaries of Demosthenes.</note> instead of Zeus.
+like a Polus or an Aristodemus<note xml:lang="eng" n="v.2.p.95.n.2">Famous actors in tragedy, contemporaries of Demosthenes.</note> instead of Zeus.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="4"><p>
 <label>ZEUS</label>
 Why, Hera, Timocles the Stoic and Damis the
 Epicurean had a dispute about Providence yesterday
@@ -199,7 +202,7 @@ gets the better of it in the argument.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="5"><p>
 
 <label>HERA</label>
 A dreadful situation in all conscience and it wasn’t
@@ -236,7 +239,7 @@ common concern to all.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="6"><p>
 
 <label>ZEUS</label>
 Well then, make a proclamation and let everyone
@@ -295,7 +298,7 @@ I'll have a try at it anyway :
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="7"><p>
 
 <label>ZEUS</label>
 Splendid, Hermes! an excellent proclamation,
@@ -326,7 +329,7 @@ or is precedence to be given to the art?
 It ought to be that way, but gold must have precedence all the same.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="8">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="8">
 <p><label>HERMES</label>
 I understand : you tell me to seat them in order
 of wealth, not in order of merit; by valuation.
@@ -350,10 +353,10 @@ indeed.
 <pb n="v.2.p.105"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="9"><p>
 <label>POSEIDON</label>
 Now why is it right, Hermes, for this dog-faced
-fellow from Egypt<note n="v.2.p.105.n.1">Anubis.</note> to sit in front of me when I am
+fellow from Egypt<note xml:lang="eng" n="v.2.p.105.n.1">Anubis.</note> to sit in front of me when I am
 Poseidon?
 </p>
 <p><label>HERMES</label>
@@ -365,7 +368,7 @@ thrust aside and not be angry if one who has such
 a snout of gold is preferred before you.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="10"><p>
 
 <label>APHRODITE</label>
 Well then, Hermes, take me and seat me in the
@@ -393,7 +396,7 @@ classed with the common herd in the meeting.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="11"><p>
 <label>COLOSSUS OF RHODES</label>
 But who would make bold to rival me, when I ain
 Helius and so great in size? If the Rhodians had
@@ -422,7 +425,7 @@ the assembly.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="12"><p>
 <label>HERMES</label>
 Here is still another question that is hard to solve.
 Both of them are of bronze and of the same artistic
@@ -443,7 +446,7 @@ precedence should be fixed in their case.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="13"><p>
 <label>HERMES</label>
 Heracles ! what a row they are making with their
 usual daily shouts: “Give us our shares!”’ “Where
@@ -466,7 +469,7 @@ Do so.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="14"><p>
 
 <label>HERMES</label>
 Good! There you have them, quieter than the
@@ -487,7 +490,7 @@ Yes, and I used to be frightened when I heard
 you making a speech, above all when you threatened
 to pull up the earth and the sea from their
 foundations, with the gods to boot, letting down
-that cord of gold.<note n="v.2.p.111.n.1">Iliad, 8, 24; compare Zeus Catechized, 4.</note>
+that cord of gold.<note xml:lang="eng" n="v.2.p.111.n.1">Iliad, 8, 24; compare Zeus Catechized, 4.</note>
 <label>ZEUS</label>
 But now, my boy, I don’t know whether because
 of the greatness of the impending disasters or
@@ -497,7 +500,7 @@ confused in the head and trembly and my tongue
 seems to be tied ; and what is strangest of all, I have
 forgotten the introduction to the whole matter, which
 I prepared in order that my beginning might present
-them “a countenance most fair.”<note n="v.2.p.111.n.2">Pindar, Olymp. 6, 4.</note>
+them “a countenance most fair.”<note xml:lang="eng" n="v.2.p.111.n.2">Pindar, Olymp. 6, 4.</note>
 <label>HERMES</label>
 You have spoiled everything, Zeus. They are
 suspicious of your silence and expect to hear
@@ -513,7 +516,7 @@ Which one?
 </p>
 <p><label>ZEUS</label>
 "Hark to me, all of the gods, and all the goddesses
-likewise.”<note n="v.2.p.111.n.3">Iliad 8, 5.</note>
+likewise.”<note xml:lang="eng" n="v.2.p.111.n.3">Iliad 8, 5.</note>
 
 <pb n="v.2.p.113"/>
 
@@ -532,7 +535,7 @@ say.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="15"><p>
 
 <label>HERMES</label>
 Do begin, then.
@@ -545,7 +548,7 @@ behoves you to give my words an attentive hearing.
 The present crisis, gods, all but breaks out in
 speech and says that we must grapple stoutly with
 the issues of the day, but we, it seems to me, are
-treating them with great indifference.<note n="v.2.p.113.n.1">Compare the beginning of Demosthenes’ first Olynthiac.</note> I now
+treating them with great indifference.<note xml:lang="eng" n="v.2.p.113.n.1">Compare the beginning of Demosthenes’ first Olynthiac.</note> I now
 Jesire—my Demosthenes is running short, you see
 —to tell you plainly what it was that disturbed me
 nd mmade me call the meeting.
@@ -569,7 +572,7 @@ while the ship was drifting on the rock and was
 inside the ledges.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="16"><p>
 
 But when, thus reflecting, I had reached the
 Painted Porch, I saw a great number of men gathered
@@ -590,7 +593,7 @@ Damnis with his sardonic laughter was making him
 more and more excited.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="17"><p>
 
 Their whole discussion was about us. That confounded Damis asserted that we do not exercise any
 providence in behalf of men and do not oversee
@@ -621,7 +624,7 @@ see what Timocles would say the next day.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="18"><p>
 
 That is why I called you together, gods, and it is
 no trivial reason if you consider that all our honour
@@ -652,10 +655,10 @@ dumfounded by the greatness of the issues presented,
 that you hold your tongues?
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="19"><p>
 <label>MOMUS</label>
 <cit><quote><l>Marry, you others may all into water and earth be
-converted;<note n="v.2.p.119.n.1">addressed to the Greeks by Menelaus when they were reluctant to take up the challenge of Hector.</note></l></quote>
+converted;<note xml:lang="eng" n="v.2.p.119.n.1">addressed to the Greeks by Menelaus when they were reluctant to take up the challenge of Hector.</note></l></quote>
 <bibl>Iliad7, 99.</bibl></cit>
 
 but as for me, if I were privileged to speak frankly,
@@ -689,7 +692,7 @@ cross or the scourge ?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="20"><p>
 
 It is natural, then, that on seeing this they
 think of us as if we were nothing at all, especially
@@ -699,7 +702,7 @@ without indicating whether he will destroy his own
 or that of the enemy ; and again
 
 <cit><quote><l>“Glorious Salamis, death shalt thou bring to the
-children of women,<note n="v.2.p.121.n.1">From the famous oracle about the ‘* wooden wall,” which Themistocles interpreted for the Athenians.</note></l></quote>
+children of women,<note xml:lang="eng" n="v.2.p.121.n.1">From the famous oracle about the ‘* wooden wall,” which Themistocles interpreted for the Athenians.</note></l></quote>
 <bibl>Herod. 7, 140 ff.</bibl></cit>
 
 for surely both Persians and Greeks were the
@@ -716,7 +719,7 @@ glad if any of them continue to sacrifice to us,
 offending as we do.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="21"><p>
 
 I beg you here and now, Zeus, as we are alone and
 there is no man in our gathering except Heracles
@@ -737,14 +740,14 @@ luxury by slaughtering wayfarers. Andif Eurystheus,
 an upright man, full of providence, had not out of
 the love he bore his fellow men looked into the
 conditions everywhere and sent out this servant
-of his,<note n="v.2.p.123.n.1">Heracles.</note> a hard-working fellow eager for tasks, you,
+of his,<note xml:lang="eng" n="v.2.p.123.n.1">Heracles.</note> a hard-working fellow eager for tasks, you,
 Zeus, would have paid little heed to the Hydra and
 the Stymphalian birds and the Thracian mares and
 the insolence and wantonness of the Centaurs.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="22"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="22"><p>
 If you would have me speak the truth, we sit
 here considering just one question, whether anybody is slaying victims and burning incense at our
 altars ; everything else drifts with the current, swept
@@ -764,7 +767,7 @@ sacrifices.
 <pb n="v.2.p.125"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="23"><p>
 
 <label>ZEUS</label>
 Let us ignore this fellow’s nonsense, gods; he is
@@ -776,7 +779,7 @@ wise counsellor; and this is what the rest of you
 will do, I am very sure, even if Momus says nothing.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="24"><p>
 <label>POSEIDON</label>
 For my part I am pretty much subaqueous, as you
 know, and live by myself in the depths, doing my
@@ -791,7 +794,7 @@ fellow. At the same time we'll show them how we
 punish people who say such things against us.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="25"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="25"><p>
 <label>ZEUS</label>
 Are you joking, Poseidon, or have you completely
 forgotten that nothing of the sort is in our power,
@@ -829,7 +832,7 @@ else that is better, since you relegate my ideas to the
 stockfish in that fashion.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="26"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="26"><p>
 
 <label>APOLLO</label>
 If we young fellows without beards were permitted
@@ -868,7 +871,7 @@ Speak, my boy: I give you permission.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="27"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="27"><p>
 
 <label>APOLLO</label>
 This Timocles is an upright, God-fearing man and
@@ -899,7 +902,7 @@ pains to be understood by the hearers.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="28"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="28"><p>
 
 <label>MOMUS</label>
 You were right, Apollo, in praising people who
@@ -913,7 +916,7 @@ Timocles’ helplessness in debate ?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="29"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="29"><p>
 
 <label>APOLLO</label>
 To give him a spokesman if possible, Momus, one of
@@ -935,7 +938,7 @@ think of some other way to manage this thing.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="30"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="30"><p>
 
 But
 as for you, my admirable friend, since you claim to
@@ -993,7 +996,7 @@ mysteries.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="31"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="31"><p>
 
 <label>APOLLO</label>
 <l>Hark to the words of the prophet, oracular words of Apollo,</l>
@@ -1020,7 +1023,7 @@ it means.
 </p>
 <p><label>MOMUS</label>
 It is quite manifest, so that we shan’t need a
-Themistocles.<note n="v.2.p.135.n.1">See p. 121, note.</note>. The prophecy says as plainly as you
+Themistocles.<note xml:lang="eng" n="v.2.p.135.n.1">See p. 121, note.</note>. The prophecy says as plainly as you
 
 <pb n="v.2.p.137"/>
 
@@ -1030,7 +1033,7 @@ as much sense as grasshoppers.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="32"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="32"><p>
 
 <label>HERACLES</label>
 As for me, father, though I am but an alien I.shall
@@ -1047,9 +1050,9 @@ In the name of Heracles! that was a loutish,
 horribly Boeotian thing you said, Heracles, to involve
 so many honest men in the destruction of a single
 rascal, and the porch too, with its Marathon and
-Miltiades and Cynegirus!<note n="v.2.p.137.n.1">The porch in question was the Painted Porch, with its fresco representing the battle of Marathon.</note> If they should collapse
+Miltiades and Cynegirus!<note xml:lang="eng" n="v.2.p.137.n.1">The porch in question was the Painted Porch, with its fresco representing the battle of Marathon.</note> If they should collapse
 how could the orators orate any more? They would
-be robbed of their principal topic for speeches.<note n="v.2.p.137.n.2">Compare The Orators’ Coach (Rhet. Praec.), 18.</note>
+be robbed of their principal topic for speeches.<note xml:lang="eng" n="v.2.p.137.n.2">Compare The Orators’ Coach (Rhet. Praec.), 18.</note>
 Moreover, although while you were alive you could
 no doubt have done something of the sort, since you
 have become a god you have found out, I suppose,
@@ -1093,13 +1096,13 @@ that.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="33"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="33"><p>
 
 But who is this coming up in hot haste, the
 one of bronze, with the fine tooling and the fine
 contours, with his hair tied up in the old-fashioned
 way ? Oh yes, it is your brother, Hermes, the
-one of the public square, beside the Painted Porch.<note n="v.2.p.139.n.1">"As you go toward the portico that is called Poikile because of its paintings, there is a bronze Hermes, called Agoraios (of the square), and a gate close by” (Pausan. 1, 15,1). Playing upon "Hermes Agoraios,” Zeus dubs him Hermagoras, after a well-known rhetorician.</note>
+one of the public square, beside the Painted Porch.<note xml:lang="eng" n="v.2.p.139.n.1">"As you go toward the portico that is called Poikile because of its paintings, there is a bronze Hermes, called Agoraios (of the square), and a gate close by” (Pausan. 1, 15,1). Playing upon "Hermes Agoraios,” Zeus dubs him Hermagoras, after a well-known rhetorician.</note>
 At any rate he is all covered with pitch from being
 cast every day by the sculptors. My lad, what brings
 
@@ -1126,7 +1129,7 @@ else in the way of conspiracy.
 <l>To take the full impression of the bronze.</l>
 <l>I saw a crowd advancing with a pair</l>
 <l>Of sallow bawlers, warriors with words,</l>
-<l>Hight Damis, one—<note n="v.2.p.141.n.1">A parody on Euripides; compare Orest. 866, 871, 880.</note></l>
+<l>Hight Damis, one—<note xml:lang="eng" n="v.2.p.141.n.1">A parody on Euripides; compare Orest. 866, 871, 880.</note></l>
 </quote>
 
 
@@ -1140,7 +1143,7 @@ Not very; they were still skirmishing, slinging
 abuse at each other at long range.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="34">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="34">
 <p><label>ZEUS</label>
 Then what else remains to be done, gods, except
 to stoop over and listen to them? So let the Hours
@@ -1160,12 +1163,12 @@ that he won’t even be able to square off at Danis.
 But let’s do the very utmost that we can and pray
 for him,
 Silently, each to himself, so that Damis may not be
-the wiser.<note n="v.2.p.143.n.1">A parody on Iliad 7, 195.</note>
+the wiser.<note xml:lang="eng" n="v.2.p.143.n.1">A parody on Iliad 7, 195.</note>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="35"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="35"><p>
 
-<label>TIMOCLES</label><note n="v.2.p.143.n.2">At this point the scene becomes double ; down below are the philosophers disputing in the Stoa, and up above are the gods, listening eagerly with occasional comments.</note>
+<label>TIMOCLES</label><note xml:lang="eng" n="v.2.p.143.n.2">At this point the scene becomes double ; down below are the philosophers disputing in the Stoa, and up above are the gods, listening eagerly with occasional comments.</note>
 Damis, you sacrilegious wretch, why do you say
 that the gods do not exist and do not show providence in behalf of men?
 </p>
@@ -1198,7 +1201,7 @@ have won with that oath of yours. But no abuse,
 please.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="36"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="36"><p>
 <label>TIMOCLES</label>
 Very well. Tell me then, you scoundrel, don’t
 you think the gods exercise any providence ?
@@ -1245,7 +1248,7 @@ punish you some day in the hereafter.
 <pb n="v.2.p.147"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="37"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="37"><p>
 <label>DAMIS</label>
 And when can they find time for me, when they
 have so many cares, you say, and manage all creation,
@@ -1257,12 +1260,12 @@ and yet I don’t see what better manifestation of
 their providence they could have made than to crush
 your life out miserably, miserable sinner that you are!
 But it is clear that they are away from home, across
-the Ocean, no doubt, visiting the guileless Ethiopians.<note n="v.2.p.147.n.1">Iliad, 1, 423.</note> At any rate it is their custom to go and dine
+the Ocean, no doubt, visiting the guileless Ethiopians.<note xml:lang="eng" n="v.2.p.147.n.1">Iliad, 1, 423.</note> At any rate it is their custom to go and dine
 with them continually, even self-invited at times.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="38"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="38"><p>
 <label>TIMOCLES</label>
 What can I say in reply to all this impudence,
 Damis ?
@@ -1293,7 +1296,7 @@ I myself would say that recurrent phenomena are
 as you describe them, I need not, however, at once
 admit a conviction that they recur by some sort of
 providence, for it is possible that they began at
-random<note n="v.2.p.149.n.1">In my opinion ἄλλως contrasts with ὁμοίως καὶ κατὰ ταὐτά, not with ὑπό τινος προμηθείας. The idea is more fully and clearly presented in Lucretius 1, 1024-1028.</note> and now take place with uniformity and
+random<note xml:lang="eng" n="v.2.p.149.n.1">In my opinion ἄλλως contrasts with ὁμοίως καὶ κατὰ ταὐτά, not with ὑπό τινος προμηθείας. The idea is more fully and clearly presented in Lucretius 1, 1024-1028.</note> and now take place with uniformity and
 regularity. But you call necessity “order” and then,
 forsooth, get angry if anyone does not follow you
 when you catalogue and extol the characteristics of
@@ -1304,7 +1307,7 @@ of the comic poet,
 <l>That’s but a sorry answer ; try again.</l></quote>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="39"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="39"><p>
 
 <label>TIMOCLES</label>
 For my part I don’t think that any further proof is
@@ -1332,39 +1335,39 @@ them with fables and in a word do anything to give
 pleasure.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="40"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="40"><p>
 
 However, I should like to know what it
 was of Homer’s that convinced you most. What he
 says about Zeus, how his daughter and his brother
-and his wife made a plot to fetter him?<note n="v.2.p.151.n.1">Iliad 1, 396.</note> If Thetis
+and his wife made a plot to fetter him?<note xml:lang="eng" n="v.2.p.151.n.1">Iliad 1, 396.</note> If Thetis
 had not summoned Briareus, our excellent Zeus would
 have been caught and put in chains. For this he
 returned thanks to Thetis by deceiving Agamemnon,
 sending a false vision to him, in order that many of
-the Achaeans might lose their lives.<note n="v.2.p.151.n.2">Iliad 2, 5.</note> Don’t you see,
+the Achaeans might lose their lives.<note xml:lang="eng" n="v.2.p.151.n.2">Iliad 2, 5.</note> Don’t you see,
 it was impossible for him to hurl a thunderbolt and
 burn. up Agamemnon himself without making
 himself out a liar? Or perhaps you were most inclined to believe when you heard how Diomed
 wounded Aphrodite and then even Ares himself at
-the suggestion of Athena,<note n="v.2.p.151.n.3">Iliad 5, 335, 855.</note> and how shortly afterwards
+the suggestion of Athena,<note xml:lang="eng" n="v.2.p.151.n.3">Iliad 5, 335, 855.</note> and how shortly afterwards
 the gods themselves fell to and began duelling
-promiscuously, males and females ;<note n="v.2.p.151.n.4">Iliad 20, 54.</note> Athena defeated
+promiscuously, males and females ;<note xml:lang="eng" n="v.2.p.151.n.4">Iliad 20, 54.</note> Athena defeated
 Ares, already overtaxed, no doubt by the wound he
-had received from Diomed,<note n="v.2.p.151.n.5">Iliad 21, 403.</note> and
+had received from Diomed,<note xml:lang="eng" n="v.2.p.151.n.5">Iliad 21, 403.</note> and
 
 
 "Leto fought against Hermes, the stalwart god of
-good fortune.”<note n="v.2.p.151.n.6">Iliad 20, 72.</note>
+good fortune.”<note xml:lang="eng" n="v.2.p.151.n.6">Iliad 20, 72.</note>
 Or perhaps you thought the tale about Artemis
 credible, that, being a fault-finding person, she got
 angry when she was not invited to a feast by Oeneus
 and so turned loose on his land a monstrous boar of
-irresistible strength.<note n="v.2.p.151.n.7">Iliad 9, 533.</note> Did Homer convince you by
+irresistible strength.<note xml:lang="eng" n="v.2.p.151.n.7">Iliad 9, 533.</note> Did Homer convince you by
 saying that sort of thing?
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="41"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="41"><p>
 
 <label>ZEUS</label>
 I say, gods! what a shout the crowd raised,
@@ -1409,7 +1412,7 @@ and so on.
 <pb n="v.2.p.155"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="42"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="42"><p>
 <label>TIMOCLES</label>
 Well ‘then, all men and all nations have been mistaken in believing in gods and celebrating festivals ?
 </p>
@@ -1433,7 +1436,7 @@ cup or dish. Isn’t that matter for laughter, good
 Timocles?
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="43">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="43">
 <p><label>MOMUS</label>
 Didn't I tell you, gods, that all this would come
 out and be thoroughly looked into ?
@@ -1475,7 +1478,7 @@ You are boring us to extinction, Momus, with yout
 untimely eriticism.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="44"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="44"><p>
 
 <label>TIMOCLES</label>
 Take care what you are doing, Damis, you miscreant! You are all but upsetting the very temples
@@ -1509,7 +1512,7 @@ soon fasten on a certain person of prominence.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="45"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="45"><p>
 
 <label>TIMOCLES</label>
 Then can’t you even hear Zeus when he thunders,
@@ -1554,7 +1557,7 @@ into the bargain.</l></quote>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="46"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="46"><p>
 <label>TIMOCLES</label>
 Tell me, you scoundrel, have you ever made a
 voyage ?
@@ -1582,7 +1585,7 @@ Good! Timocles put that very shrewdly, with a
 valid illustration.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="47">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="47">
 <p><label>DAMIS</label>
 Why, Timocles, you superlative admirer of the gods,
 in the one case you would have seen the captain
@@ -1606,7 +1609,7 @@ are unsightly.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="48"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="48"><p>
 Among the sailors themselves you
 will see that one who is lazy and lubberly and has
 no heart for his work has a warrant or evena
@@ -1629,7 +1632,7 @@ hand what favours Callias and Midias and Sardanapalus enjoyed, rolling in luxury
 those beneath them !
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="49"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="49"><p>
 
 That is what goes on in your ship, Timocles, you
 
@@ -1656,7 +1659,7 @@ of the ship would seem to have capsized for the want
 of a good captain.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="50"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="50"><p>
 <label>MOMUS</label>
 Things are going finely for Damis now, and he is
 driving under full sail to victory.
@@ -1668,7 +1671,7 @@ commonplace, every-day arguments one after another,
 all of them easy to capsize.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="51"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="51"><p>
 <label>TIMOCLES</label>
 Well then, as my comparison of the ship did not
 seem to you very valid, attend now to my sheetanchor, as they call it, which you can’t by any possibility cut away.
@@ -1703,7 +1706,7 @@ have no better sheet-anchor than this, let's be
 going.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="52"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="52"><p>
 
 <label>TIMOCLES</label>
 You admit your defeat, then, by going away first ?
@@ -1730,7 +1733,7 @@ from me before you go! Ill brain you right now
 with this brickbat, dirty miscreant that you are!
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng1" subtype="section" n="53"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg018.perseus-eng2" subtype="section" n="53"><p>
 <label>ZEUS</label>
 One is going away laughing, gods, and the other
 is following him up with abuse, because he can’t
@@ -1755,9 +1758,7 @@ mY
 Yes, Hermes, but what Darius said about Zopyrus
 is very much in point too. I myself had rather have
 this man Damis alone on my side than possess a
-thousand Babylons.<note n="v.2.p.169.n.1">See Herodotus 3, 153 ff.</note>
-
-<pb n="v.2.p.173"/>
+thousand Babylons.<note xml:lang="eng" n="v.2.p.169.n.1">See Herodotus 3, 153 ff.</note>
 
 </p></div></div>
 

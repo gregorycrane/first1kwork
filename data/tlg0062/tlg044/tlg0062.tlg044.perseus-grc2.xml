@@ -6,7 +6,7 @@
 <titleStmt>
  <title xml:lang="grc">Τόξαρις ἢ Φιλία</title>
 <author>Lucian</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
 <principal>Gregory Crane</principal>
 <respStmt>
@@ -37,7 +37,7 @@
     <monogr>
      <author>Lucian</author>
      <title>Lucian</title>
-     <editor>Austin Morris Harmon, 1878-1950</editor>
+     <editor role="translator">Austin Morris Harmon</editor>
      <imprint>
       <pubPlace>London</pubPlace>
       <publisher>William Heinemann Ltd.</publisher>

@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">Philosophies for Sale</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg024.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">2</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604154">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianhar02luciuoft/page/450/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604154?urlappend=%3Bseq=464">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,14 +69,15 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" xml:lang="eng">
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" xml:lang="eng">
+<pb n="v.2.p.451"/>
 
-<head>Philosophies for Sale<note><p>This is not a sale of philosophers, nor yet, in any ordinary sense, a sale of lives; it is a sale of various types of the philosophic life, which are to serve their buyers as models for the shaping of their own careers. For a convenient rendering, perhaps "philosophies” will do as well as any
+<head>Philosophies for Sale<note xml:lang="eng"><p>This is not a sale of philosophers, nor yet, in any ordinary sense, a sale of lives; it is a sale of various types of the philosophic life, which are to serve their buyers as models for the shaping of their own careers. For a convenient rendering, perhaps "philosophies” will do as well as any
 other single word.</p>
 <p>Although Lucian makes it perfectly plain that he is not selling specific philosophers, some, if not all, the manuscripts and all the editors ascribe the words of the different types to definite individuals, whereby they not only introduce confusion into the dialogue (working special havoc in the case of the Academic or Platonist type), but they completely stultify the plea which Lucian puts forward in his own defence in the Fisherman, urging that he had not criticized the leading lights of philosophy, but only the common herd of pretended philosophers. This plea is rather specious, it must be admitted, for Lucian vivifies his types again and again with biographical traits ; but we should leave him a leg to stand on, and not make him sell Pythagoras, Chrysippus and the rest in their own persons. Therefore I have substituted the names of schools for the names of individual philosophers throughout, but only in the English version: for in the Greek I have not ventured to do this without commanding fuller evidence from the manuscripts.</p>
 <p>Diogenes was once taken by pirates and sold into slavery, they say, and Menippus is known to have written a Sale of Diogenes. It may be that Lucian read it and took a hint from it: he could not have taken more.</p>
 <p>The order in which the different types are brought on is very effective, as Helm points out, and well deserves attention as one reads. Interesting too are the prices which they bring.</p></note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="1"><p>
 <label>ZEUS</label>
 (To an attendant.) You arrange the benches and
 make the place ready for the men that are coming.
@@ -92,7 +95,7 @@ name a surety and pay next year.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="2"><p>
 
 <label>ZEUS</label>
 Many are gathering, so we must avoid wasting
@@ -137,13 +140,13 @@ Yes, and good luck to you!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="3"><p>
 
 <label>BUYER</label>
 Where are you from?
 </p>
 <p><label>PYTHAGOREAN</label>
-From Samos.<note n="v.2.p.453.n.1">The birthplace of Pythagoras. Hence the “‘ Pythagorean philosophy” talks Ionic Greek.</note>
+From Samos.<note xml:lang="eng" n="v.2.p.453.n.1">The birthplace of Pythagoras. Hence the “‘ Pythagorean philosophy” talks Ionic Greek.</note>
 <label>BUYER</label>
 Where were you educated ?
 </p>
@@ -156,7 +159,7 @@ In Egypt, with the sages there.
 Come now, if I buy you, what will you teach me?
 </p>
 <p><label>PYTHAGOREAN</label>
-I shall teach thee nothing, but make thee remember.<note n="v.2.p.455.n.1">Before centering upon its round of transmigrations, the soul was all-wise ; learning is merely remembering. Socrates expounds this theory in Plato’s Jeno.</note>
+I shall teach thee nothing, but make thee remember.<note xml:lang="eng" n="v.2.p.455.n.1">Before centering upon its round of transmigrations, the soul was all-wise ; learning is merely remembering. Socrates expounds this theory in Plato’s Jeno.</note>
 <label>BUYER</label>
 How will you make me remember ?
 </p>
@@ -174,7 +177,7 @@ and for five entire years no word of talk.
 </p>
 <p><label>BUYER</label>
 My good man, you had better teach the son of
-Croesus!?<note n="v.2.p.455.n.2">One of the sons of Crocsus was mute: Herod. 1. 34, 85.</note> I want to be talkative, not a graven
+Croesus!?<note xml:lang="eng" n="v.2.p.455.n.2">One of the sons of Crocsus was mute: Herod. 1. 34, 85.</note> I want to be talkative, not a graven
 image. However, what comes after the silence and
 the five years?
 </p>
@@ -186,7 +189,7 @@ That is delightful ; I am to become a fiddler before
 being wise!
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="4"><p>
 
 <label>PYTHAGOREAN</label>
 Then, in addition to this, in counting.
@@ -204,7 +207,7 @@ One, two, three, four—
 </p>
 <p><label>PYTHAGOREAN</label>
 Lo! what thou thinkest four is ten, and a perfect
-triangle, and our oath.<note n="v.2.p.457.n.1">Four is ten, because it contains three, two and one, and 1 2 3 4 10.  The perfect triangle is <figure/></note>
+triangle, and our oath.<note xml:lang="eng" n="v.2.p.457.n.1">Four is ten, because it contains three, two and one, and 1 2 3 4 10.  The perfect triangle is <figure/></note>
 <label>BUYER</label>
 Well, by your greatest oath, by Four, I never
 heard diviner doctrines or more esoteric.
@@ -228,7 +231,7 @@ What you say is wonderful.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="5"><p>
 
 <label>PYTHAGOREAN</label>
 And beside all that I have said, thou shalt learn
@@ -253,7 +256,7 @@ many forms? But enough of this.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="6"><p>
 
 How do you
 stand in the matter of diet ?
@@ -274,7 +277,7 @@ man ; and again, if thou cook it and set it in the
 light of the moon for a fixed number of nights, thou
 wilt make blood. But more than this, the
 Athenians are wont to choose their magistrates with
-beans.<note n="v.2.p.459.n.1">The offices were filled by lot, and beans were used for lots. This appears to be Lucian’s own contribution to the Pythagorean mysticism, but the other particulars are not very remote from the actual teachings of the Neo-Pythagoreans, Cf. Porphyr. Vit. Pythag., 44.</note>
+beans.<note xml:lang="eng" n="v.2.p.459.n.1">The offices were filled by lot, and beans were used for lots. This appears to be Lucian’s own contribution to the Pythagorean mysticism, but the other particulars are not very remote from the actual teachings of the Neo-Pythagoreans, Cf. Porphyr. Vit. Pythag., 44.</note>
 
 <pb n="v.2.p.461"/>
 
@@ -300,16 +303,16 @@ who live in the neighbourhood of Croton and
 Tarentum and the Greek settlements in that
 quarter of the world. But there is more than one
 buyer; about three hundred have bought him in
-shares.<note n="v.2.p.461.n.1">A reference to the brotherhood founded by Pythagoras in Magna Grecia, which wielded great political power until it was extirpated in a general revolt about fifty years after the death of Pythagoras.</note>
+shares.<note xml:lang="eng" n="v.2.p.461.n.1">A reference to the brotherhood founded by Pythagoras in Magna Grecia, which wielded great political power until it was extirpated in a general revolt about fifty years after the death of Pythagoras.</note>
 <label>ZEUS</label>
 Let them take him away ; let us bring on another.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="7"><p>
 
 <label>HERMES</label>
 Do you want the dirty one over yonder, from the
-Black Sea ?<note n="v.2.p.461.n.2">Diogenes, chief of the Cynics, came from Sinope.</note>
+Black Sea ?<note xml:lang="eng" n="v.2.p.461.n.2">Diogenes, chief of the Cynics, came from Sinope.</note>
 <label>ZEUS</label>
 By all means.
 </p>
@@ -346,7 +349,7 @@ might be made a shoveller or a drawer of water.
 <p><label>HERMES</label>
 Not only that, but if you make him doorkeeper,
 you will find him far more trusty than a dog. In
-tact, he is even called a dog.<note n="v.2.p.463.n.1">The name of the sect in Greek means doggish.</note>
+tact, he is even called a dog.<note xml:lang="eng" n="v.2.p.463.n.1">The name of the sect in Greek means doggish.</note>
 <label>BUYER</label>
 Where is he from, and what creed does he profess ?
 </p>
@@ -368,7 +371,7 @@ Don’t be afraid ; he is gentle.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="8"><p>
 
 <label>BUYER</label>
 First of all, my friend, where are you from?
@@ -410,7 +413,7 @@ and free speech.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="9"><p>
 
 <label>BUVER</label>
 Very good, interpreter! But if IT buy you, what
@@ -428,7 +431,7 @@ will throw it into the sea forthwith. You will take
 no thought for marriage or children or native land:
 all that will be sheer nonsense to you, and you will
 leave the house of your fathers and make your home
-in atomb or a deserted tower or even a jar.<note n="v.2.p.467.n.1">As did Diogenes ; for his “tub” was really a jar.</note> Your
+in atomb or a deserted tower or even a jar.<note xml:lang="eng" n="v.2.p.467.n.1">As did Diogenes ; for his “tub” was really a jar.</note> Your
 wallet will be full of lupines, and of papyrus rolls
 written on both sides. Leading this life you
 will say that you are happier than the Great King ;
@@ -450,10 +453,10 @@ What saying?
 <pb n="v.2.p.469"/>
 
 <label>CYNIC</label>
-Your mind will suffer, but your tongue will not.<note n="v.2.p.469.n.1">Hippol. 612: ἡ γλῶσσ᾽ ὀμώμοχ᾽, ἡ δὲ φρὴν ἀνώμοτος. (My tongue took oath ; my mind has taken none).</note>
+Your mind will suffer, but your tongue will not.<note xml:lang="eng" n="v.2.p.469.n.1">Hippol. 612: ἡ γλῶσσ᾽ ὀμώμοχ᾽, ἡ δὲ φρὴν ἀνώμοτος. (My tongue took oath ; my mind has taken none).</note>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="10"><p>
 The traits that you should possess in particular are
 these : you should be impudent and bold, and should
 abuse all and each, both kings and commoners, for
@@ -465,16 +468,16 @@ bestial and savage. Put off modesty, decency and
 moderation, and wipe away blushes from your face
 completely. Frequent the most crowded place, and
 in those very places desire to be solitary and uncommunicative, greeting nor friend nor stranger; for to
-do so is abdication of the empire.<note n="v.2.p.469.n.2">Cynic and Stoic cant, meaning that a man cannot mingle with his fellows freely and still be captain of his soul.</note> Do boldly in full
+do so is abdication of the empire.<note xml:lang="eng" n="v.2.p.469.n.2">Cynic and Stoic cant, meaning that a man cannot mingle with his fellows freely and still be captain of his soul.</note> Do boldly in full
 view of all what another would not do in secret ;
 choose the most ridiculous ways of satisfying your
 lust ; and at the last, if you like, eat a raw devilfish
-or squid, and die.<note n="v.2.p.469.n.3">See Downward Journey, 7, and the note (p. 15).</note> That is the bliss we vouchsafe
+or squid, and die.<note xml:lang="eng" n="v.2.p.469.n.3">See Downward Journey, 7, and the note (p. 15).</note> That is the bliss we vouchsafe
 you.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="11"><p>
 
 <label>BUYER</label>
 Get out with you! The life you talk of is
@@ -505,10 +508,10 @@ and insults and abuses everybody without exception.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="12"><p>
 <label>ZEUS</label>
 Call another; the Cyrenaic in the purple cloak,
-with the wreath on his head.<note n="v.2.p.471.n.1">The Cyrenaic school, which made pleasure the highest good, was founded by Aristippus, who furnished a detail or two to this caricature.</note>
+with the wreath on his head.<note xml:lang="eng" n="v.2.p.471.n.1">The Cyrenaic school, which made pleasure the highest good, was founded by Aristippus, who furnished a detail or two to this caricature.</note>
 <label>HERMES</label>
 Come now, attend, everyone! Here we have
 high-priced wares, wanting a rich buyer. Here you
@@ -557,12 +560,12 @@ hands, Zeus.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="13"><p>
 
 <label>ZEUS</label>
 Remove him ; bring on another—stay ! those two,
 the one from Abdera who laughs and the one from
-Ephesus who cries, for I want to sell them together.<note n="v.2.p.473.n.1">The Schools of Democritus of Abdera, the propounder of the atomic theory, and of Heraclitus of Ephesus, who originated the doctrine of the flux; he held that fire is the first principle, and its manifestations continually change, so that nothing isstable. Both representatives talk Ionic Greck.</note>
+Ephesus who cries, for I want to sell them together.<note xml:lang="eng" n="v.2.p.473.n.1">The Schools of Democritus of Abdera, the propounder of the atomic theory, and of Heraclitus of Ephesus, who originated the doctrine of the flux; he held that fire is the first principle, and its manifestations continually change, so that nothing isstable. Both representatives talk Ionic Greck.</note>
 
 <pb n="v.2.p.475"/>
 
@@ -597,7 +600,7 @@ in very truth and an infinite ass.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="14"><p>
 
 Oh, what effrontery! Will you never stop laughing? (Zo the other.)
 But you, why do youcry? For I think it is much
@@ -637,7 +640,7 @@ Immortal men.
 </p>
 <p><label>BUYER</label>
 Are you telling riddles, man, or making conundrums? You are just like Apollo, for you say
-nothing plainly.<note n="v.2.p.477.n.1">Heraclitus was nicknamed ὁ σκοτεινός, “the Obscure.”</note>
+nothing plainly.<note xml:lang="eng" n="v.2.p.477.n.1">Heraclitus was nicknamed ὁ σκοτεινός, “the Obscure.”</note>
 <label>HERACLITEAN</label>
 Because you matter naught to me.
 </p>
@@ -662,10 +665,10 @@ They are left unsold also.
 Put up another.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="15"><p>
 <label>HERMES</label>
 Do you want the Athenian over there, who has so
-much to say?<note n="v.2.p.479.n.1">Both Socrates and Plato contribute to the picture of the typical Academic. Consequently some editors, misled by the manuscripts (see introductory note) ascribe the part of Academic to Socrates, some to Plato, and some divide it between the two.</note>
+much to say?<note xml:lang="eng" n="v.2.p.479.n.1">Both Socrates and Plato contribute to the picture of the typical Academic. Consequently some editors, misled by the manuscripts (see introductory note) ascribe the part of Academic to Socrates, some to Plato, and some divide it between the two.</note>
 <label>ZEUS</label>
 By all means.
 </p>
@@ -693,7 +696,7 @@ is the soul that I hold beautiful. As a matter of
 
 fact, even if they lie beneath the same cloak with
 me, they will tell you that I have done them no
-wrong.<note n="v.2.p.481.n.1">See Plato’s Symposium, particularly 216 p-219 D.</note>
+wrong.<note xml:lang="eng" n="v.2.p.481.n.1">See Plato’s Symposium, particularly 216 p-219 D.</note>
 <label>BUYER</label>
 I can’t believe what you say, that you, though a
 lover, take no interest in anything beyond the soul,
@@ -701,7 +704,7 @@ even when you have the opportunity, lying beneath
 the same cloak.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="16"><p>
 
 <label>ACADEMIC</label>
 But I swear to you by the dog and the plane-tree
@@ -718,7 +721,7 @@ Cerberus in the world below ?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="17"><p>
 <label>BUYER</label>
 Quite right ; I was entirely mistaken. But what
 is your manner of life?
@@ -726,7 +729,7 @@ is your manner of life?
 <p><label>ACADEMIC</label>
 I dwell in a city that I created for myself, using
 an imported constitution and enacting statutes of
-my own.<note n="v.2.p.481.n.2">The allusion is to Plato’s Republic.</note>
+my own.<note xml:lang="eng" n="v.2.p.481.n.2">The allusion is to Plato’s Republic.</note>
 <label>BUYER</label>
 I should like to hear one of your enactments.
 </p>
@@ -756,7 +759,7 @@ Their kisses shall be a guerdon for the bravest
 after they have done some splendid, reckless deed.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="18">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="18">
 <p><label>BUYER</label>
 My word, what generosity! And what is the gist
 of your wisdom ?
@@ -772,7 +775,7 @@ Where do they exist ?
 </p>
 <p><label>ACADEMIC</label>
 Nowhere ; for if they were anywhere, they would
-not be.<note n="v.2.p.483.n.1">As space cannot be predicated of anything outside the univerge, it cannot be predicated of the Platonic Ideas. To do so would be to make them phenomena instead of realities, for nothing in the universe is real.</note>
+not be.<note xml:lang="eng" n="v.2.p.483.n.1">As space cannot be predicated of anything outside the univerge, it cannot be predicated of the Platonic Ideas. To do so would be to make them phenomena instead of realities, for nothing in the universe is real.</note>
 <label>BUYER</label>
 I do not see these patterns that you speak of.
 
@@ -798,17 +801,17 @@ I will pay the money later on.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="19"><p>
 <label>HERMES</label>
 What is your name?
 </p>
 <p><label>BUYER</label>
-Dion of Syracuse.<note n="v.2.p.485.n.1">Chosen for mention, because he was Plato’s pupil.</note>
+Dion of Syracuse.<note xml:lang="eng" n="v.2.p.485.n.1">Chosen for mention, because he was Plato’s pupil.</note>
 <label>HERMES</label>
 He is yours; take him, with good luck to you.
 Epicurean, I want you now. Who will buy him?
 He is a pupil of the laugher yonder and of the
-drunkard, both of whom we put up a short time ago.<note n="v.2.p.485.n.2">The Epicureans took over the atomic theory from Democritus and the idea that pleasure is the highest good from the Cyrenaics.</note>
+drunkard, both of whom we put up a short time ago.<note xml:lang="eng" n="v.2.p.485.n.2">The Epicureans took over the atomic theory from Democritus and the idea that pleasure is the highest good from the Cyrenaics.</note>
 In one way, however, he knows more than they,
 because he is more impious. Besides, he is agreeable
 and fond of good eating.
@@ -834,7 +837,7 @@ No trouble about that; we shall buy him cakes of
 pressed figs from Caria.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="20"><p>
 <label>ZEUS</label>
 Call another, the one over there with the cropped
 head, the dismal fellow from the Porch.
@@ -842,7 +845,7 @@ head, the dismal fellow from the Porch.
 <p><label>HERMES</label>
 Quite right; at all events it looks as if the men
 who frequent the public square were waiting for him
-in great numbers.<note n="v.2.p.487.n.1">Lucian means that the Stoic philosophy was in high favour with statesmen, lawyers, and men of affairs generally.</note> I sell virtue itself, the most
+in great numbers.<note xml:lang="eng" n="v.2.p.487.n.1">Lucian means that the Stoic philosophy was in high favour with statesmen, lawyers, and men of affairs generally.</note> I sell virtue itself, the most
 perfect of philosophies. Who wants to be the only
 one to know everything ?
 </p>
@@ -853,7 +856,7 @@ What do you mean by that?
 That he is the only wise man, the only handsome
 man, the only just man, brave man, king, orator,
 rich man, lawgiver, and everything else that
-there is.<note n="v.2.p.487.n.2">Compare <cit><quote><l>Ad summam: sapiens uno minor est Jove, dives,</l> <l>Liber, honoratus, pulcher, rex denique regum,</l> <l>Praecipue sanus,— nisi cum pituita molestast !</l></quote> <bibl>Horace, Epp. 1, I 106 ff</bibl></cit></note>
+there is.<note xml:lang="eng" n="v.2.p.487.n.2">Compare <cit><quote><l>Ad summam: sapiens uno minor est Jove, dives,</l> <l>Liber, honoratus, pulcher, rex denique regum,</l> <l>Praecipue sanus,— nisi cum pituita molestast !</l></quote> <bibl>Horace, Epp. 1, I 106 ff</bibl></cit></note>
 <label>BUYER</label>
 Then he is the only cook,—yes and the only
 tanner or carpenter, and so forth ?
@@ -866,7 +869,7 @@ So it appears.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="21"><p>
 <label>BUYER</label>
 Come here, my good fellow, and tell your buyer
 what you are like, and first of all whether you are
@@ -882,7 +885,7 @@ I don’t understand what you mean by this.
 <p><label>STOIC</label>
 What, you do not understand that of such things
 some are “approved,” and some, to the contrary,
-“disapproved”’ ?<note n="v.2.p.489.n.1"> Just as things "in our control” were divided into the good and the bad, so those "not in our control” were divided into the “approved” and the "disapproved,” according as they helped or hindered in the acquirement of virtue.</note>
+“disapproved”’ ?<note xml:lang="eng" n="v.2.p.489.n.1"> Just as things "in our control” were divided into the good and the bad, so those "not in our control” were divided into the “approved” and the "disapproved,” according as they helped or hindered in the acquirement of virtue.</note>
 <label>BUYER</label>
 Even now I do not understand.
 </p>
@@ -891,7 +894,7 @@ Of course not, for you are not familiar with our
 vocabulary and have not the faculty of forming concepts; but a scholar who has mastered the science of
 logic knows not only this, but what predicaments
 and bye-predicaments are, and how they differ from
-each other.<note n="v.2.p.489.n.2">The hair-splitting Stoics distinguished four forms of predication according to the case of the (logical) subject and the logical completeness of the predicate : the direct, complete predicate, or σύμβαμα (predicament), i.e. Σωκράτης βαδίζει; the indirect, complete predicate, or παρασύμβαμα (bye-predicament), i.e. Σωκράτει μεταμέλει ; the direct, incomplete predicate, e.g. Σωκράτης φιλεῖ, and the indirect, incomplete predicate, i.e. Σωκράτει μέλει.</note>
+each other.<note xml:lang="eng" n="v.2.p.489.n.2">The hair-splitting Stoics distinguished four forms of predication according to the case of the (logical) subject and the logical completeness of the predicate : the direct, complete predicate, or σύμβαμα (predicament), i.e. Σωκράτης βαδίζει; the indirect, complete predicate, or παρασύμβαμα (bye-predicament), i.e. Σωκράτει μεταμέλει ; the direct, incomplete predicate, e.g. Σωκράτης φιλεῖ, and the indirect, incomplete predicate, i.e. Σωκράτει μέλει.</note>
 <label>BUYER</label>
 In the name of wisdom, don’t begrudge telling me
 
@@ -912,7 +915,7 @@ his injury he gets into a bye-predicament too.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="22"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="22"><p>
 
 <label>BUYER</label>
 Oh, what subtlety! And what else do you claim to
@@ -923,7 +926,7 @@ The word-snares with which I entangle those who
 converse with me and stop their mouths and make
 them hold their peace, putting a very muzzle on
 them. This power is called the syllogism of wide
-renown.<note n="v.2.p.491.n.1">The Stoics were noted for their attention to logic and in especial to fallacies. Chrysippus wrote a book on syllogisms, mentioned in the Icuromenippus (311).</note>
+renown.<note xml:lang="eng" n="v.2.p.491.n.1">The Stoics were noted for their attention to logic and in especial to fallacies. Chrysippus wrote a book on syllogisms, mentioned in the Icuromenippus (311).</note>
 <label>BUYER</label>
 Heracles! An invincible and mighty thing, by
 what you say.
@@ -942,7 +945,7 @@ back to you if you told him truly what he intended
 <pb n="v.2.p.493"/>
 
 to do about giving it back, what would you say he
-had made up his mind to do?<note n="v.2.p.493.n.1">The commentators do not seem to have noticed that Lucian has (intentionally) spoiled the sophism by using the words δέδοικα and ἐγνωκέναι. It is perfectly possible for the father to guess what the crocodile “had made up his mind” to do, and so to get the child back: for an intention need not be executed. The crocodile should ask, ‘* Am I going to (μέλλω) give up the child?” Then, if the father answers “Yes,” he will say ‘ You are wrong,” and eat it: and if the father says “No,” he will reply “You are right; therefore I am not going to give it up.”</note>
+had made up his mind to do?<note xml:lang="eng" n="v.2.p.493.n.1">The commentators do not seem to have noticed that Lucian has (intentionally) spoiled the sophism by using the words δέδοικα and ἐγνωκέναι. It is perfectly possible for the father to guess what the crocodile “had made up his mind” to do, and so to get the child back: for an intention need not be executed. The crocodile should ask, ‘* Am I going to (μέλλω) give up the child?” Then, if the father answers “Yes,” he will say ‘ You are wrong,” and eat it: and if the father says “No,” he will reply “You are right; therefore I am not going to give it up.”</note>
 <label>BUYER</label>
 Your question is hard to answer, for I don’t know
 which alternative I should follow in my reply, in
@@ -958,7 +961,7 @@ wonderful.
 What are they ?
 </p>
 <p><label>STOIC</label>
-The Reaper, the Master,<note n="v.2.p.493.n.2">Neither of these are accurately known. The Reaper was based on the fallacious employment of the negative, and proved that a man who was going to reap a field could not possibly reap it. Zeno, the founder of the Stoic school, is said to have paid 200 minas to a logician who taught him seven varieties of this fallacy. The Master consisted of four propositions, of which you could take any three and disprove the fourth.</note> and above all, the Electra
+The Reaper, the Master,<note xml:lang="eng" n="v.2.p.493.n.2">Neither of these are accurately known. The Reaper was based on the fallacious employment of the negative, and proved that a man who was going to reap a field could not possibly reap it. Zeno, the founder of the Stoic school, is said to have paid 200 minas to a logician who taught him seven varieties of this fallacy. The Master consisted of four propositions, of which you could take any three and disprove the fourth.</note> and above all, the Electra
 and the Veiled Figure.
 </p>
 <p><label>BUYER</label>
@@ -975,7 +978,7 @@ before the recognition she knew that Orestes was
 
 <pb n="v.2.p.495"/>
 
-her brother, but did not know that this was Orestes.<note n="v.2.p.495.n.1">Here again Lucian does scant justice to the fallacy, which he really gives away by his statement of it. It should run: ‘she at once knew and did not know that Orestes was her brother, for she did not know that this man was her brother; but this man was Orestes.”</note>
+her brother, but did not know that this was Orestes.<note xml:lang="eng" n="v.2.p.495.n.1">Here again Lucian does scant justice to the fallacy, which he really gives away by his statement of it. It should run: ‘she at once knew and did not know that Orestes was her brother, for she did not know that this man was her brother; but this man was Orestes.”</note>
 As to the Veiled Figure, you shall hear a very
 wonderful argument. Tell me, do you know your
 own father ?
@@ -992,7 +995,7 @@ That I don’t, of course.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="23"><p>
 
 <label>STOIC</label>
 But the veiled figure turns out to be your own
@@ -1007,7 +1010,7 @@ summit of virtue ?
 </p>
 <p><label>STOIC</label>
 I shall then devote myself to the chief natural
-goods, I mean wealth, health, and the like.<note n="v.2.p.495.n.2">As the Stoics set great store by “living in harmony with nature,” they divided “things which did not matter” into the “acceptable” and the ‘ unacceptable” according  as they were in or out of harmony with the natural wants of man. This did not supersede the classification alluded to above, but was convenient because it enabled them to dispose of certain things which were hard to classify on the other basis. For instance, a good complexion is neither “approved” nor "disapproved” as an aid to the acquirement of virtue, but it is in harmony with nature, and therefore “‘ acceptable.” Hence the Stoics were often accused (as they are constantly accused by indirection in this dialogue) of setting up a double standard.</note> But
+goods, I mean wealth, health, and the like.<note xml:lang="eng" n="v.2.p.495.n.2">As the Stoics set great store by “living in harmony with nature,” they divided “things which did not matter” into the “acceptable” and the ‘ unacceptable” according  as they were in or out of harmony with the natural wants of man. This did not supersede the classification alluded to above, but was convenient because it enabled them to dispose of certain things which were hard to classify on the other basis. For instance, a good complexion is neither “approved” nor "disapproved” as an aid to the acquirement of virtue, but it is in harmony with nature, and therefore “‘ acceptable.” Hence the Stoics were often accused (as they are constantly accused by indirection in this dialogue) of setting up a double standard.</note> But
 first I must go through many preparatory toils,
 whetting my eyesight with closely-written books,
 
@@ -1018,7 +1021,7 @@ whetting my eyesight with closely-written books,
 collecting learned comments and stufting myself with
 solecisms and uncouth words; and to cap all, a man
 may not become wise until he has taken the hellebore
-treatment three times running.<note n="v.2.p.497.n.1">A hit at Chrysippus. Hellebore was the specific for insanity, and rumour said that Chrysippus had taken the treatment three times (cf. True Story, 2, 18).</note>
+treatment three times running.<note xml:lang="eng" n="v.2.p.497.n.1">A hit at Chrysippus. Hellebore was the specific for insanity, and rumour said that Chrysippus had taken the treatment three times (cf. True Story, 2, 18).</note>
 <label>BUYER</label>
 These projects of yours are noble and dreadfully
 courageous. But tobe a Gnipho and a usurer—for I
@@ -1035,14 +1038,14 @@ the one, like the other, belongs particularly to the
 scholar: and not only getting simple interest, like
 other people, but interest upon interest. For don’t
 you know that there is a first interest and a second
-interest, the offspring,<note n="v.2.p.497.n.2">A play upon τάκος, which is literally "offspring.”</note> as it were, of the first? And
+interest, the offspring,<note xml:lang="eng" n="v.2.p.497.n.2">A play upon τάκος, which is literally "offspring.”</note> as it were, of the first? And
 you surely perceive what logic says: “If he gets
 the first interest, he will get the second; but he
 will get the first, ergo he will get the second.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="24"><p>
 
 <label>BUYER</label>
 Then we are to say the same of the fees that you
@@ -1066,7 +1069,7 @@ receptive and you, who alone are rich, disbursive !
 </p>
 <p><label>STOIC</label>
 You are joking, man. Look out that I don’t shoot
-you with my indemonstrable syllogism.<note n="v.2.p.499.n.1">Indemonstrable in the sense that its propositions do not require demonstration, or indeed admit of it.</note>
+you with my indemonstrable syllogism.<note xml:lang="eng" n="v.2.p.499.n.1">Indemonstrable in the sense that its propositions do not require demonstration, or indeed admit of it.</note>
 <label>BUYER</label>
 What have I to fear from that shaft ?
 </p>
@@ -1075,7 +1078,7 @@ Perplexity and aphasia and a sprained intellect.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="25"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="25"><p>
 
 But the great thing is that if I wish I can turn you
 into a stone forthwith.
@@ -1165,7 +1168,7 @@ fellows, fit associates for the Reaper.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="26"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="26"><p>
 <label>ZEUS</label>
 Don’t delay ; call another, the Peripatetic.
 </p>
@@ -1198,7 +1201,7 @@ What does he know best ?
 
 <label>HERMES</label>
 That goods are threefold, in the soul, in the body,
-and in things external.<note n="v.2.p.505.n.1">Aristotle, Hth. Nicom. A, 8, 1098 b.</note>
+and in things external.<note xml:lang="eng" n="v.2.p.505.n.1">Aristotle, Hth. Nicom. A, 8, 1098 b.</note>
 <label>BUYER</label>
 He has common sense. How much is he?
 </p>
@@ -1232,7 +1235,7 @@ of, so I shall buy him for the twenty minas.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng1" subtype="section" n="27"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng2" subtype="section" n="27"><p>
 
 <label>HERMES</label>
 Very well.
@@ -1243,7 +1246,7 @@ Whom have we left ?
 <pb n="v.2.p.507"/>
 
 <label>HERMES</label>
-This Sceptic is still on our hands. Reddy,<note n="v.2.p.507.n.1">Pyrrhias (Reddy) is a slave name, brought in for the sake of the pun on the name of the founder of the Sceptic school, Pyrrho.</note> come
+This Sceptic is still on our hands. Reddy,<note xml:lang="eng" n="v.2.p.507.n.1">Pyrrhias (Reddy) is a slave name, brought in for the sake of the pun on the name of the founder of the Sceptic school, Pyrrho.</note> come
 here and be put up without delay. The crowd
 is already drifting away, and there will be but few
 at his sale. However,—who'll buy this one?
@@ -1296,7 +1299,7 @@ Why can’t you do that?
 </p>
 <p><label>SCEPTIC</label>
 Because, my dear sir, I am unable to apprehend
-anything.<note n="v.2.p.509.n.1">The same joke is cracked by Lucian in the True Story, 2, 18, at the expense of the New Academy.</note>
+anything.<note xml:lang="eng" n="v.2.p.509.n.1">The same joke is cracked by Lucian in the True Story, 2, 18, at the expense of the New Academy.</note>
 <label>BUYER</label>
 Of course, for you look to be slow and lazy. But
 what is the upshot of your wisdom ?

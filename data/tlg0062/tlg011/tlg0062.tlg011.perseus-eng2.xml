@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">Octogenerians</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg011.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">1</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604153">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianha01luciuoft/page/222/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604153?urlappend=%3Bseq=234">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,11 +69,12 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" xml:lang="eng">
-<head>Octogenerians<note>This treatise (evidently compiled in haste for a special
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" xml:lang="eng">
+<pb n="v.1.p.223"/>
+<head>Octogenerians<note xml:lang="eng">This treatise (evidently compiled in haste for a special
 occasion) cannot fairly be fathered on Lucian. It is valuable,
 however, as a document, and not uninteresting in spots.</note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="1"><p>
 
 At the behest of a dream, illustrious Quintillus,
 I make you a present of the “Octogenarians.” I
@@ -88,7 +91,7 @@ predicted for me by the god.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="2"><p>
 
 But as I thought the
 matter over by myself, I hit upon the idea that very
@@ -104,30 +107,30 @@ and on the other hand, instruction by examples, if
 you observe that it is the men who have paid most
 
 
-<pb n="225"/>
+<pb n="v.1.p.225"/>
 
 attention to body and mind that have reached an
 advanced age in full health.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="3"><p>
 
 Nestor, you know,
 the wisest of the Achaeans, outlasted three genera-
 tions, Homer says:
-<note n="1">Il, 1, 250; Odyss. 3, 245.</note>
+<note xml:lang="eng" n="1">Il, 1, 250; Odyss. 3, 245.</note>
 and he tells us that he was
 splendidly trained. in mind and in body. ‘Likewise
 Teiresias the seer outlasted six generations, tragedy
-says:<note n="2">The source is unknown.</note>
+says:<note xml:lang="eng" n="2">The source is unknown.</note>
 and one may well believe that a man
 consecrated to the gods, following a simpler diet,
 lives very long.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="4"><p>
 
 Moreover, it is related that, owing
 to their diet, whole castes of men live long like
@@ -142,7 +145,7 @@ account of practising magic, for they diet very scrupulously.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="5"><p>
 Indeed, there are even whole nations that
 are very long-lived, like the Seres, who are said to live
 three hundred years: some attribute their old age to
@@ -157,11 +160,11 @@ vigorous than those of the rest of mankind.
 
 
 
-<pb n="227"/>
+<pb n="v.1.p.227"/>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="6"><p>
 But this must suffice in regard to the long-lived
 castes and nations who are said to exist for a
 very long period either on account of their soil and
@@ -173,7 +176,7 @@ suitable for health have been long-lived.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="7"><p>
 
 I shall
 base the principal division of my treatise on their
@@ -182,7 +185,7 @@ generals, one of whom the gracious dispensation of a
 great and godlike emperor has brought to the
 highest rank, thereby conferring a mighty boon upon
 the emperor’s world.
-<note n="1">The man is unknown: the emperor has been thought
+<note xml:lang="eng" n="1">The man is unknown: the emperor has been thought
 to be Antoninus Pius, Caracalla, and many another. The
 language, which suggests a period much later than Lucian,
 is so obscure that the meaning is doubtful.</note>
@@ -195,7 +198,7 @@ degree.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="8"><p>
 
 Numa Pompilius, most fortunate of the kings
 of Rome and most devoted to the worship of the
@@ -206,14 +209,14 @@ the last king of Rome, who was driven into exile
 
 
 
-<pb n="229"/>
+<pb n="v.1.p.229"/>
 
 and dwelt at Cumae, is said to have lived more than
 ninety years in the most sturdy health.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="9"><p>
 These are
 the kings of Rome, to whom I shall join such other
 kings as have attained great age, and after them
@@ -229,17 +232,17 @@ and peaceful age, sufficing unto the demands of his
 world even in advanced years.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="10"><p>
 Arganthonius, king of the Tartessians, lived a
 hundred and fifty years according to Herodotus the
 historian and Anacreon the song-writer,
-<note n="1">Our author did not verify his references. Herodotus
+<note xml:lang="eng" n="1">Our author did not verify his references. Herodotus
 (1, 163) says one hundred and twenty, Anacreon (frg. 8) one
 hundred and fifty.</note>
 but some
 consider this a fable. Agathocles, tyrant of Sicily,
 died at ninety, as Demochares and Timaeus
-<note n="2">Timaeus, as quoted in Diodorus (21, 16, 5) said seventy-two.</note> tell us.
+<note xml:lang="eng" n="2">Timaeus, as quoted in Diodorus (21, 16, 5) said seventy-two.</note> tell us.
 Hiero, tyrant of Syracuse, died of an illness at the
 age of ninety-two, after having been ruler for
 seventy years, as Demetrius of Callatia and others
@@ -250,7 +253,7 @@ more than ninety years. Bardylis, king of the
 
 
 
-<pb n="231"/>
+<pb n="v.1.p.231"/>
 
 Illyrians, is said to have fought on horseback in the
 war against Philip in his ninetieth year. Teres,
@@ -259,7 +262,7 @@ died at ninety-two.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="11"><p>
 
 Antigonus One-eye, son of
 Philip, and king of Macedonia, died in Phrygia
@@ -278,7 +281,7 @@ of Macedonia, was over eighty when he died.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="12"><p>
 
 Ptolemy, son of Lagus, the most fortunate of the
 kings of his day, ruled over Egypt, and at the age
@@ -290,14 +293,14 @@ elder brothers.1
 Philetaerus, an eunuch, secured and
 kept the throne of Pergamus, and closed his life at
 
-<note n="1">At least one word, perhaps more than one, has fallen out
+<note xml:lang="eng" n="1">At least one word, perhaps more than one, has fallen out
 of the Greek text. Schwartz would read ἀδελφὴν γαμῶν
 ("and married his sister"): my supplement is based on
 Justinus 16, 27: is (i.e. Ptolemy Soter) contra ius gentium
 minimo natu ex filiis ante infirmitatem regnum tradiderat,
 eiusque rei rationem populo reddiderat.</note>
 
-<pb n="233"/>
+<pb n="v.1.p.233"/>
 
 eighty. Attalus, called Philadelphus, also king of
 Pergamus, to whom the Roman general Scipio paid
@@ -305,7 +308,7 @@ a visit, ended his life at the age of eighty-two.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="13"><p>
 
 Mithridates, king of Pontus, called the Founder,
 exiled by Antigonus One-eye, died in Pontus at
@@ -317,7 +320,7 @@ battle with Perdiccas and crucified.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="14"><p>
 
 Cyrus, king ot
 the Persians in olden times, according to the Persian
@@ -333,7 +336,7 @@ being feeble-minded.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="15"><p>
 
 Artaxerxes, called the Unforgetting, against whom Cyrus, his brother, made the
 expedition, was king of Persia when he died of illness
@@ -343,7 +346,7 @@ throne in the time of Isidore’s fathers, was assassinated at the age of ninety
 machinations of his brother Gosithras. Sinatroces,
 
 
-<pb n="235"/>
+<pb n="v.1.p.235"/>
 
 king of Parthia, was restored to his country in his
 eightieth year by the Sacauracian Scyths, assumed
@@ -355,7 +358,7 @@ ill and died at eighty-five.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="16"><p>
 
 Tiraeus, the second:
 successor of Hyspausines on the throne, died of *
@@ -367,7 +370,7 @@ Parthians, lived ninety-six years.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="17"><p>
 
 Massinissa, king
 of the Moors, lived ninety years. Asandrus, who,
@@ -381,14 +384,14 @@ was king of spice-bearing Omania in Isidore’s time,
 died of illness at one hundred and fifteen years.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="18"><p>
 These are the kings who have been recorded as
 long-lived by our predecessors. Since philosophers
 and literary men in general, doubtless because they too
 take good care of themselves, have attained old age,
 
 
-<pb n="237"/>
+<pb n="v.1.p.237"/>
 
 I shall put down those whom there is record of,
 beginning with the philosophers. Democritus ot
@@ -403,11 +406,11 @@ head of the Stoic school, ninety-eight.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="19"><p>
 They say
 that when Zeno stumbled in entering the assembly,
 he cried out: “Why do you call me?”
-<note n="1">Addressed to Pluto. According to Diogenes Laertius
+<note xml:lang="eng" n="1">Addressed to Pluto. According to Diogenes Laertius
 7, 28 he said ἔρχομι· τί μ' αὔεις (“I come: why din it in my
 ears?”), a quotation from a play called Niobe (Nauck,
 Trag. Gr. Fragm. p. 51).</note>
@@ -422,7 +425,7 @@ away.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="20"><p>
 
 Xenophanes, son of Dexinus and disciple
 of Archelaus the physicist, lived ninety-one years;
@@ -433,7 +436,7 @@ Posidonius of Apameia in Syria, naturalised in Rhodes,
 
 
 
-<pb n="239"/>
+<pb n="v.1.p.239"/>
 
 who was at once a philosopher and a historian,
 eighty-four; Critolaus, the Peripatetic, more than
@@ -441,7 +444,7 @@ eighty-two: Plato the divine, eighty-one.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="21"><p>
 Athenodorus, son of Sando, of Tarsus, a Stoic, tutor
 of Caesar Augustus the divine, through whose
 influence the city of Tarsus was relieved of taxation,
@@ -454,7 +457,7 @@ These are the noteworthy philosophers.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="22"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="22"><p>
 
 Of the historians, Ctesibius died at the age of one
 hundred and four while taking a walk, according to
@@ -472,9 +475,9 @@ of Cassandria is said to have lived more than ninety
 years. He began to write his history in his eightyfourth year, for he says so himself in the beginning of
 
 
-<note n="1">Not infrequently classed as a philosopher ; cf. Quintilian 10, 1, 81 ff.</note>
+<note xml:lang="eng" n="1">Not infrequently classed as a philosopher ; cf. Quintilian 10, 1, 81 ff.</note>
 
-<pb n="241"/>
+<pb n="v.1.p.241"/>
 
 the work. Polybius,son of Lycortas, of Megalopolis,
 while coming in from his farm to the city, was
@@ -485,7 +488,7 @@ ninety-two.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="23"><p>
 
 Of the orators, Gorgias, whom some call a
 sophist, lived to be one hundred and eight, and
@@ -499,7 +502,7 @@ had been beaten by Philip in the battle of Chaeronea,
 he groaned and uttered the Euripidean line
 
 <quote>
-<l>When Cadmus, long agone, quit Sidon town,<note n="1">From the prologue of the lost play dvhrene (frg. 816
+<l>When Cadmus, long agone, quit Sidon town,<note xml:lang="eng" n="1">From the prologue of the lost play dvhrene (frg. 816
 Nauck).</note></l></quote>
 alluding to himself; then, adding, “Greece will lose
 her liberty,” he quitted life. Apollodorus, the Pergamene rhetorician who was tutor to Caesar Augustus
@@ -510,14 +513,14 @@ repute, lived ninety years.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="24"><p>
 
 Sophocles the tragedian swallowed a grape and
 choked to death at ninety-five. Brought to trial by
 his son Iophon toward the close of his life on a charge
 
 
-<pb n="243"/>
+<pb n="v.1.p.243"/>
 
 of feeble-mindedness, he read the jurors his Oedipus
 at Colonus, proving by the play that he was sound
@@ -525,7 +528,7 @@ of mind, so that the jury applauded him to the
 echo and convicted the son himself of insanity.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="25"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="25"><p>
 
 Cratinus, the comic poet, lived ninety-seven years,
 and toward the end of his life he produced “The
@@ -541,14 +544,14 @@ Epicharmus, the comic poet, is also said
 to have lived ninety-seven years.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="26"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="26"><p>
 Anacreon, the
 lyric poet, lived eighty-five years ; Stesichorus, the
 lyric poet, the same, and Simonides of Ceos more
 than ninety.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="27"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="27"><p>
 
 Of the grammarians, Eratosthenes, son of Aglaus,
 of Cyrene, who was not only a grammarian but
@@ -557,18 +560,18 @@ geometrician, lived eighty-two years.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="28"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="28"><p>
 Lycurgus,
 the Spartan lawgiver, is said to have lived eighty-five
 years.
 
-<note n="1">The same story is told of Chrysippus (Diog. Laert. 7.185).</note>
+<note xml:lang="eng" n="1">The same story is told of Chrysippus (Diog. Laert. 7.185).</note>
 
-<pb n="245"/>
+<pb n="v.1.p.245"/>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng1" subtype="section" n="29"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg011.perseus-eng2" subtype="section" n="29"><p>
 
 These are the kings and the literary men whose
 names I have been able to collect. As I have
@@ -579,6 +582,5 @@ if it be the will of the gods,
 
 
 
-<pb n="249"/>
 </p></div></div>
 </body></text></TEI>

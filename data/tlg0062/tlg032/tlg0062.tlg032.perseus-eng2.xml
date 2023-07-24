@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">The Judgement of the Goddesses</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg032.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">3</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/osu.32435024202137">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianhar03luciuoft/page/384/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/osu.32435024202137?urlappend=%3Bseq=396">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,9 +69,10 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" xml:lang="eng">
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" xml:lang="eng">
+<pb n="v.3.p.385"/>
 
-<head>The Judgement of the Goddesses<note><p>The judgement of Paris, reviewed by Lucian.
+<head>The Judgement of the Goddesses<note xml:lang="eng"><p>The judgement of Paris, reviewed by Lucian.
 Since the first edition, it has always been printed as the
 twentieth of the Dialogues of the Gods, but in all the MSS.
 it is a separate piece and has a separate caption of its own,
@@ -82,7 +85,7 @@ while to read Apuleius’ detailed description of a pantomime
 on the same subject (Metamorphoses10, 232). The strong
 contrast between the two treatments shows how little Lucian
 was influenced by the contemporary theatre.</p></note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" subtype="section" n="1"><p>
 <label>ZEUS</label>
 Hermes, take this apple; go to Phrygia, to Priam’s
 son, the herdsman—he is grazing his flock in the
@@ -105,7 +108,7 @@ ingenuous and unsophisticated, and one cannot consider him unworthy of a spectac
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" subtype="section" n="2"><p>
 <label>APHRODITE</label>
 For my part, Zeus, even if you should appoint
 Momus himself to be our judge, I would go and face
@@ -131,7 +134,7 @@ is not possible for all of you to be equally beautiful.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" subtype="section" n="3"><p>
 <label>HERMES</label>
 Let us make straight for Phrygia; I will lead the
 way, and you follow me without delaying. Be of
@@ -155,7 +158,7 @@ What do you mean by that?
 Apparently someone is living with him, a woman
 from Mount Ida, well enough, but countrified and
 terribly unsophisticated ; however, he does not seem .
-to think much of her.<note n="v.3.p.387.n.1"><p>The reference is to Oenone.   </p></note> But why do you ask?
+to think much of her.<note xml:lang="eng" n="v.3.p.387.n.1"><p>The reference is to Oenone.   </p></note> But why do you ask?
 
 
 <pb n="v.3.p.389"/>
@@ -164,7 +167,7 @@ to think much of her.<note n="v.3.p.387.n.1"><p>The reference is to Oenone.   </
 It was just a casual question.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" subtype="section" n="4"><p>
 <label>ATHENA</label>
 I say, you are betraying your trust in talking to
 her privately all this while.
@@ -209,7 +212,7 @@ you, in a straightforward way.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" subtype="section" n="5"><p>
 
 But in the course of
 our conversation we have already left the stars far
@@ -257,7 +260,7 @@ report you often came down to visit Anchises.
 These jokes do not vex me greatly, Hera.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" subtype="section" n="6"><p>
 <label>HERMES</label>
 No matter: I will lead you, for I myself spent
 some time on Ida when Zeus was in love with his
@@ -277,7 +280,7 @@ is your umpire close by, so let us speak to him.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" subtype="section" n="7"><p>
  Good
 day, herdsman.
 </p>
@@ -312,7 +315,7 @@ more beautiful, or between two heifers;
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" subtype="section" n="8"><p>
 
  but these
 goddesses are all equally beautiful and I do not know
@@ -341,7 +344,7 @@ carrying out what Zeus has commanded.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" subtype="section" n="9"><p>
 <label>PARIS</label>
 Do me this one favour, Hermes: persuade them
 not to be angry with me, the two that are defeated,
@@ -370,7 +373,7 @@ I have turned my back.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" subtype="section" n="10"><p>
 <label>APHRODITE</label>
 Very well, Paris. I shall undress first, so that you
 may discover that I am not just “white-armed”
@@ -378,11 +381,11 @@ may discover that I am not just “white-armed”
 <pb n="v.3.p.399"/>
 
 and vain of “ox-eyes,” but that I am equally and
-uniformly beautiful all over.<note n="v.3.p.399.n.1"><p>Aphrodite, vexed at Hera for twitting her about Anchises, makes fun of her by implying that she has no other beauties than those habitually commended in her by Homer. </p></note>
+uniformly beautiful all over.<note xml:lang="eng" n="v.3.p.399.n.1"><p>Aphrodite, vexed at Hera for twitting her about Anchises, makes fun of her by implying that she has no other beauties than those habitually commended in her by Homer. </p></note>
 <label>ATHENA</label>
 Do not let her undress, Paris, until she puts aside
 her girdle, for she is an enchantress; otherwise
-she may bewitch you with it.<note n="v.3.p.399.n.2"><p>See Iliad 14, 214 ff. </p></note> And indeed she ought
+she may bewitch you with it.<note xml:lang="eng" n="v.3.p.399.n.2"><p>See Iliad 14, 214 ff. </p></note> And indeed she ought
 not to appear before you made up to that extent and
 bedaubed with all those colours, as if she were a
 courtesan in earnest: she ought to show her beauty
@@ -397,7 +400,7 @@ and show your head bare, instead of tossing your
 plumes at the judge and frightening him? Are you
 afraid that you may be criticized for the green glare
 of your eyes if it is seen without trappings that inspire
-terror ?<note n="v.3.p.399.n.3"><p>The word with which Homer describes the eyes of Athena had an uncomplimentary sense in Lucian’s time. “Don’t let it trouble you that her eyes are very green (πανύ γλαυκούς), or that they squint and look at each other!” says a girl to her lover about a rival (Dial. Mer. 2,1). And Hephaestus finds Athena very beautiful, but must except her eyes: “To be sure, she has green eyes, but the helmet makes even that a mark of beauty” (Dial. Deor, 13 (vulg. 8)). So caesius in Latin ; cf. Lucretius 4, 1161. </p></note>
+terror ?<note xml:lang="eng" n="v.3.p.399.n.3"><p>The word with which Homer describes the eyes of Athena had an uncomplimentary sense in Lucian’s time. “Don’t let it trouble you that her eyes are very green (πανύ γλαυκούς), or that they squint and look at each other!” says a girl to her lover about a rival (Dial. Mer. 2,1). And Hephaestus finds Athena very beautiful, but must except her eyes: “To be sure, she has green eyes, but the helmet makes even that a mark of beauty” (Dial. Deor, 13 (vulg. 8)). So caesius in Latin ; cf. Lucretius 4, 1161. </p></note>
 <label>ATHENA</label>
 There is the helmet for.you: I have taken it off.
 </p>
@@ -413,7 +416,7 @@ There is the girdle for you.
 Come, let us undress.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" subtype="section" n="11"><p>
 <label>PARIS</label>
 O Zeus, god of miracles! What a spectacle! What
 beauty! What rapture! How fair the maiden is!
@@ -444,7 +447,7 @@ My decisions are not to be influenced by rewards.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" subtype="section" n="12"><p>
 
 But go; I shall do whatever seems best. Come,
 Athena.
@@ -469,7 +472,7 @@ enough. It is time for Aphrodite to appear.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" subtype="section" n="13"><p>
 <label>APHRODITE</label>
 Here I am close by; examine me thoroughly, part
 by part, slighting none, but lingering upon each.
@@ -501,7 +504,7 @@ you tell all about her now.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" subtype="section" n="14"><p>
 <label>APHRODITE</label>
 In the first place, she is the daughter of that
 lovely Leda to whom Zeus flew down in the form of
@@ -533,7 +536,7 @@ How? I too want to know.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" subtype="section" n="15"><p>
 <label>APHRODITE</label>
 You will go abroad on the pretext of seeing
 Greece, and when you come to Sparta, Helen will
@@ -569,7 +572,7 @@ doing all this now!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg032.perseus-eng2" subtype="section" n="16"><p>
 <label>APHRODITE</label>
 Do not fall in love, Paris, until you have requited
 me, your match-maker and maid of honour, with the
@@ -611,7 +614,6 @@ take it on these conditions.
 
 
 
-<pb n="v.3.p.413"/>
 </p></div></div>
 
 </body></text></TEI>

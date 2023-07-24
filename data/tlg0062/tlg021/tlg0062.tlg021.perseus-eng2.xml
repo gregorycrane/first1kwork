@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">Icaromenippus, or the Sky-man</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg021.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">2</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604154">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianhar02luciuoft/page/268/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604154?urlappend=%3Bseq=282">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,9 +69,10 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" xml:lang="eng">
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" xml:lang="eng">
+<pb n="v.2.p.269"/>
 
-<head>Icaromenippus, or the Sky-man<note><p>Menippus tells a friend how he has frustrated the philosophers by flying up to Heaven and finding out that everything there was just as the poets had said. The satire is directed not only at the placita of the philosophers but at the conception of the average man, voiced in poetry and pragmatically sanctioned, so to speak, by the Stoics; and
+<head>Icaromenippus, or the Sky-man<note xml:lang="eng"><p>Menippus tells a friend how he has frustrated the philosophers by flying up to Heaven and finding out that everything there was just as the poets had said. The satire is directed not only at the placita of the philosophers but at the conception of the average man, voiced in poetry and pragmatically sanctioned, so to speak, by the Stoics; and
 it also aims a particular thrust, at the mysteries of the
 Mithras-cult. From the standpoint of the writer and the
 reader, What Menippus brings back is nothing but moonshine, and that is perhaps why he is compared with Icarus and not Daedalus in the title Icaromenippus.</p>
@@ -81,7 +84,7 @@ piece. Marginalia by the same early hand in other pieces
 belong to the β tradition, and the γ tradition is notably rife
 With omissions of just this sort. They are not noted by Sommerbrodt, and as far as I know have never before
 appeared in print.</p></note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="1"><p>
 
 <label>MENIPPUS</label>
 Ir was three thousand furlongs, then, from the
@@ -120,7 +123,7 @@ talking of, if you actually lost yourself and slept for
 leagues and leagues !
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="2"><p>
 <label>MENIPPUS</label>
 Dream, man! Do you think I’m telling you a
 dream? [am just back from a visit to Zeus.
@@ -140,11 +143,11 @@ good luck is beyond belief,
 Why, my divine Menippus, my Olympian Menippus,
 how can a mortal groundling like myself disbelieve
 a sky-man—in fact, to use the words of Homer, a
-son of Heaven?<note n="v.2.p.271.n.1">Iliad 5, 373 ; 898.</note> But tell ine, please, how you
+son of Heaven?<note xml:lang="eng" n="v.2.p.271.n.1">Iliad 5, 373 ; 898.</note> But tell ine, please, how you
 were carried aloft, and where you got so long a
 ladder ; for as far as looks go you are too little like
 the lad of Phrygia for us to suppose that, like hii,
-you were snatched up by the eagle to become a cupbearer.<note n="v.2.p.271.n.2">The reference is to the story of Ganymede.</note></p><p>
+you were snatched up by the eagle to become a cupbearer.<note xml:lang="eng" n="v.2.p.271.n.2">The reference is to the story of Ganymede.</note></p><p>
 
 <label>MENIPPUS</label>
 You have clearly been making fun of me this long
@@ -167,7 +170,7 @@ after Daedalus’ clever invention.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="3"><p>
 
 <label>FRIEND</label>
 Of all the foolhardy men in the world! Then
@@ -203,7 +206,7 @@ somewhere in the midst of the story.
 <pb n="v.2.p.275"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="4"><p>
 <label>MENIPPUS</label>
 Listen then, for a friend left in the lurch with his
 mouth open would be anything but a pretty spectacle,
@@ -233,7 +236,7 @@ all hard to interpret and impossible to reason out.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="5"><p>
 
 Being in that state of mind, I thought it best to
 learn about all these points from the philosophers,
@@ -268,7 +271,7 @@ the same views about the same things !
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="6"><p>
 
 <label>MENIPPUS</label>
 Indeed, my friend, it will make you laugh to hear
@@ -295,11 +298,11 @@ of the sea and the circumference of the earth, but by
 the description of circles and the construction of
 triangles on squares and of imultiple spheres they
 actually measured out the cubic content of the
-Heavens.<note n="v.2.p.279.n.1">I know of nothing that illustrates Lucian’s meaning better than the Psemmites, a treatise by Archimedes, which, however, is not exactly an attempt to measure the cubic capacity of the universe, but a demonstration that it is possible to express arithmetically a sum greater than the number of grains of sand in a sphere as large as the universe.</note>
+Heavens.<note xml:lang="eng" n="v.2.p.279.n.1">I know of nothing that illustrates Lucian’s meaning better than the Psemmites, a treatise by Archimedes, which, however, is not exactly an attempt to measure the cubic capacity of the universe, but a demonstration that it is possible to express arithmetically a sum greater than the number of grains of sand in a sphere as large as the universe.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="7"><p>
 
 Moreover, was it not silly and completely absurd
 that when they were talking about things so uncertain they did not make a single assertion
@@ -314,7 +317,7 @@ in order?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="8"><p>
 
 As for the contradictory nature of their theories,
 that is easy to appreciate. Just see for yourself, in
@@ -346,15 +349,15 @@ of them setting a limit to the universe and others
 considering it to be unlimited; nay more, they asserted that there are many worlds and censured
 those who talked as if there were but one. Another,
 not a man of peace, opined that war was the father
-of the universe.<note n="v.2.p.281.n.1">Heraclitus. The lack of connection between this sentence and the foregoing leads me to suspect that we have lost a ortion of the Greek text containing a reference to the theories of the other Ionians.</note>
+of the universe.<note xml:lang="eng" n="v.2.p.281.n.1">Heraclitus. The lack of connection between this sentence and the foregoing leads me to suspect that we have lost a ortion of the Greek text containing a reference to the theories of the other Ionians.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="9"><p>
 
 As for the gods, why speak of them at all, seeing
 that to some a number was god, while others swore
-by geese and dogs and plane-trees?<note n="v.2.p.281.n.2">Socrates. See Philosophies for Sale, 16.</note> Moreover,
+by geese and dogs and plane-trees?<note xml:lang="eng" n="v.2.p.281.n.2">Socrates. See Philosophies for Sale, 16.</note> Moreover,
 some banished all the rest of the gods and assigned
 the governance of the universe to one only, so that
 it made me a little disgusted to hear that gods were
@@ -379,7 +382,7 @@ ungoverned.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="10"><p>
 
 When I heard all this, the result was that I did not
 venture to disbelieve “high-thundering” gentlemen
@@ -427,7 +430,7 @@ with greater boldness.
 Going up to the acropolis, I
 let myself drop down the cliff right into the theatre.</p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="11"><p>
 Since I flew down without mischance, I began to
 aspire high and used to take wing from Parnes or
 Hymettus, flying to Geraneia and from there up to
@@ -447,7 +450,7 @@ the moon, I felt myself getting tired, especially in
 the left wing, the vulture’s. Flying up, therefore,
 and perching on the moon, I rested myself, looking
 down on the earth from on high and like Homer’s
-Zeus,<note n="v.2.p.287.n.1">Iliad 13, 4.</note> now observing the land of the horse-loving
+Zeus,<note xml:lang="eng" n="v.2.p.287.n.1">Iliad 13, 4.</note> now observing the land of the horse-loving
 Thracians, now the land of the Mysians, and
 presently, if I liked, Greece, Persia and India; and
 from all this I got my fill of kaleidoscopic pleasure.
@@ -469,14 +472,14 @@ things on earth.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="12"><p>
 
 In the first place, imagine that the
 earth you see is very small, far less than the moon, [
 mean; so that when I suddenly peered down I was
 long uncertain where the big mountains and the
 great sea were, and if I had not spied the Colossus of
-Rhodes<note n="v.2.p.287.n.2">The Colossus of Rhodes had been lying prostrate for several centuries at the time this dialogue was written. It stood upright for only 56 years (ca. 283-2278.¢.). Consequently the allusion is thought to come from Menippus.</note> and the lighthouse on Pharos, I vow I
+Rhodes<note xml:lang="eng" n="v.2.p.287.n.2">The Colossus of Rhodes had been lying prostrate for several centuries at the time this dialogue was written. It stood upright for only 56 years (ca. 283-2278.¢.). Consequently the allusion is thought to come from Menippus.</note> and the lighthouse on Pharos, I vow I
 shouldn’t have known the earth at all. But as it
 was, the fact that they were high and prominent
 and that the ocean glinted in the sun showed me
@@ -490,7 +493,7 @@ the nations and cities but the people themselves
 as clear as could be, the traders, the soldiers, the
 farmers, the litigants, the women, the animals and,
 in a word, all the life that the good green earth
-supports.<note n="v.2.p.289.n.1">A reminiscence of Homer; cf. Il. 2, 548 ; Od. 4, 229; 9, 357- 2 Od. 16, 187</note>
+supports.<note xml:lang="eng" n="v.2.p.289.n.1">A reminiscence of Homer; cf. Il. 2, 548 ; Od. 4, 229; 9, 357- 2 Od. 16, 187</note>
 <label>FRIEND</label>
 What you say is completely beyond belief and
 self-contradictory, for you told me just now that you
@@ -505,7 +508,7 @@ the mosquitoes ?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="13"><p>
 
 <label>MENIPPUS</label>
 Thanks for reminding me; somehow or other I
@@ -541,7 +544,7 @@ you, I take it, that you cannot clearly see everything
 on earth.” “Thank you very much, Empedocles,”
 said I; “you are most kind, and as soon as I fly
 down to Greece again I will remember to pour you a
-drink-offering in the chimney<note n="v.2.p.291.n.1">Jn the chimney, because the burned and blackened appearance of Empedocles suggested this as the most appropriate spot; and then too, the smoke goes up to the moon.</note> and on the first: of
+drink-offering in the chimney<note xml:lang="eng" n="v.2.p.291.n.1">Jn the chimney, because the burned and blackened appearance of Empedocles suggested this as the most appropriate spot; and then too, the smoke goes up to the moon.</note> and on the first: of
 every month to open my mouth at the moon three
 times and make a prayer.” “Great Endymion !”
 said he, “I didn’t come here for pay; my heart was
@@ -550,7 +553,7 @@ know what to do in order to become sharp-sighted ?”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="14"><p>
 
 “No,” said I, “unless you are going to take the mist
 from my eyes somehow. At present my sight seems
@@ -572,7 +575,7 @@ its rays without winking an eye.” “So they say,” I
 replied, “and I am sorry now that when I came up
 here I  did not take out my own eyes and put in those
 of the eagle. As things are, I have come in a_halffinished condition and with an equipment which is
-not fully royal; in fact, I am like the bastard, disowned eaglets they tell about.”<note n="v.2.p.293.n.1">If an eaglet failed to stand the test, he was pushed out of the nest; cf. Aelian de Nat, Anim, 2, 26.</note> “Why,” said he,
+not fully royal; in fact, I am like the bastard, disowned eaglets they tell about.”<note xml:lang="eng" n="v.2.p.293.n.1">If an eaglet failed to stand the test, he was pushed out of the nest; cf. Aelian de Nat, Anim, 2, 26.</note> “Why,” said he,
 “it is in your power this minute to have one eye
 royal, for if you choose to stand up a moment, hold
 the vulture’s wing still, and flap only the other one,
@@ -591,7 +594,7 @@ while he receded little by little and gradually dissolved into smoke.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="15"><p>
 
 No sooner had I flapped the
 wing than a great light broke upon me and all that
@@ -613,14 +616,14 @@ the eunuch Arbaces drawing his sword on Arsaces,
 and Spatinus the Mede in the hands of the guards,
 being dragged out of the dining-room by the leg
 after having had his head broken with a golden
-cup.<note n="v.2.p.295.n.1">These events, in so far as they are historical, are not synchronous. For some of them (Antigonus, Attalus, and the Parthian incidents) Lucian is our only sponsor.</note> Similar things were to be seen going on in
+cup.<note xml:lang="eng" n="v.2.p.295.n.1">These events, in so far as they are historical, are not synchronous. For some of them (Antigonus, Attalus, and the Parthian incidents) Lucian is our only sponsor.</note> Similar things were to be seen going on in
 Libya and among the Thracians and Scythians in the
 palaces of kings—men committing adultery, murdering, conspiring, plundering, forswearing, fearing
 and falling victims to the treason of their closest kin.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="16"><p>
 
 Although the doings of the kings afforded me such
 rare amusement, those of the common people were
@@ -646,7 +649,7 @@ To tell it all from first to last, my friend, would be
 
 impossible in such a case, where even to see it all
 was hard work. However, the principal features
-were like what Homer says was on the shield.<note n="v.2.p.297.n.1">Iliad 18, 478 ff.</note> In
+were like what Homer says was on the shield.<note xml:lang="eng" n="v.2.p.297.n.1">Iliad 18, 478 ff.</note> In
 one place there were banquets and weddings, elsewhere there were sessions of court and assemblics ;
 in a different direction a man was offering sacrifice,
 and close at hand another was mourning a death.
@@ -659,7 +662,7 @@ engaged in piracy, the Spartans were whipping themselves and the Athenians were 
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="17"><p>
 
 As
 all these things were going on at the same time, you
@@ -695,7 +698,7 @@ truly laughable.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="18"><p>
 
 I was especially inclined to laugh at the people who
 quarrelled about boundary-lines, and at those who
@@ -712,14 +715,14 @@ Epicurean atom under cultivation. And when I
 looked toward the Peloponnese and caught sight
 of Cynuria, I noted what a tiny region, no bigger in
 any way than an Egyptian bean, had caused so many
-Argives and Spartans to fall in a single day.<note n="v.2.p.299.n.1">Compare the close of the Charon.</note> Again,
+Argives and Spartans to fall in a single day.<note xml:lang="eng" n="v.2.p.299.n.1">Compare the close of the Charon.</note> Again,
 if T saw any man pluming himself on gold because
 he had eight rings and four cups, I laughed heartily
 at him too, for the whole of Pangacum, mines and
 all, was the size of a grain of millet.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="19"><p>
 <label>FRIEND</label>
 You lucky Menippus, what a surprising spectacle !
 
@@ -754,7 +757,7 @@ immortals.</l></quote>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="20"><p>
 
 Before I had gone a furlong upward, the moon spoke
 with a voice like a woman’s and said: “Menippus,
@@ -782,7 +785,7 @@ and a glowing mass of molten metal.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="21"><p>
 
 “But am I not aware of all the shameful,
 abominable deeds they do at night, they who by
@@ -816,7 +819,7 @@ every day.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="22"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="22"><p>
 
 “Very well,” said I, and therewith I pressed on
 upwards along the road to Heaven,
@@ -850,7 +853,7 @@ like maine.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="23"><p>
 
 Zeus, however, looked at me with a
 
@@ -887,7 +890,7 @@ With that he arose and walked toward the best
 place in Heaven for hearing, as it was time to sit and
 listen to the prayers.</p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="24"><p>
 As he walked along he asked me about things on
 earth, first the usual questions, how much wheat now
 costs in Greece, whether the last winter hit us hard
@@ -901,7 +904,7 @@ were still left, why the Athenians had omitted the
 Diasia for so many years, whether they had any idea
 of finishing the Olympieion for him and whether the
 men who robbed his temple in Dodona had been
-arrested.<note n="v.2.p.309.n.1">The temple of Olympian Zeus at Athens was completed by Hadrian a generation before these lines were written ; and, if we may trust a casual reference to the Diasia in Plutarch (de tranquil, an. 20), that festival had been reinstituted in some form or other. Here again Lucian seems to be following Menippus.</note></p>
+arrested.<note xml:lang="eng" n="v.2.p.309.n.1">The temple of Olympian Zeus at Athens was completed by Hadrian a generation before these lines were written ; and, if we may trust a casual reference to the Diasia in Plutarch (de tranquil, an. 20), that festival had been reinstituted in some form or other. Here again Lucian seems to be following Menippus.</note></p>
 <p>
 When I had answered these questions, he said:
 
@@ -939,7 +942,7 @@ Plato or the Syllogisms of Chrysippus.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="25"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="25"><p>
 Pursuing such topics, we came to the place where
 he had to sit and hear the prayers. There was a
 row of openings like mouths of wells, with covers
@@ -988,7 +991,7 @@ thought it over, like Pyrrho.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="26"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="26"><p>
 
 When he had given sufficient consideration to the
 prayers, he moved to the next throne and the second
@@ -1010,7 +1013,7 @@ Cappadocia.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="27"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="27"><p>
 
 By this time he had pretty well settled everything,
 and we went away to the dining-hall, as it was time
@@ -1027,7 +1030,7 @@ the nectar, for Ganymede, bless his heart, had so
 much of human kindness about him that whenever
 he saw Zeus looking another way he would hastily
 pour me out a mouthful or two of the nectar. But
-as Homer says somewhere or other,<note n="v.2.p.315.n.1">Iliad 5, 341.</note>—having seen
+as Homer says somewhere or other,<note xml:lang="eng" n="v.2.p.315.n.1">Iliad 5, 341.</note>—having seen
 what was there, I suppose, just like me—the gods
 themselves neither cat bread nor drink ruddy wine
 but have ambrosia sect before them and get drunk on
@@ -1038,13 +1041,13 @@ that is shed about the altars when people sacrifice.
 During dinner - Apollo played the lute, Silenus
 danced the can-can and the Muses got up and sang
 us something from Hesiod’s Theogony and the first
-song in the Hymns of Pindar.<note n="v.2.p.315.n.2">Like the Vheogony, this scems to have been a sort of Olympian Peerage ; cf. fragment 29 (Schroeder p. 394).</note> When we had had
+song in the Hymns of Pindar.<note xml:lang="eng" n="v.2.p.315.n.2">Like the Vheogony, this scems to have been a sort of Olympian Peerage ; cf. fragment 29 (Schroeder p. 394).</note> When we had had
 enough we composed ourselves for the night without
 any ceremony, being pretty well soused.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="28"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="28"><p>
 
 <cit><quote><l>All the others, the gods and the warriors chariot-owning,</l>
 <l>Slept until morning, pus I was unbound by the
@@ -1066,7 +1069,7 @@ mation for an assembly to be made.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="29"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="29"><p>
 
 When everybody was there, he began to speak :
 "The reason for calling you together is supplied,
@@ -1080,7 +1083,7 @@ longer.</p>
 “There is a class of men which made its
 appearance in the world not long ago, lazy, disputatious, vainglorious, quick-tempered, gluttonous,
 doltish, addle-pated, full of effrontery and to age
-the language of Homer, ‘a uscless load to the soil.<note n="v.2.p.317.n.1">Iliad 18, 1U4.</note>
+the language of Homer, ‘a uscless load to the soil.<note xml:lang="eng" n="v.2.p.317.n.1">Iliad 18, 1U4.</note>
 Well, these people, dividing themselves into schol
 and inventing various word-mazes, have called themselves Stoics, Academics, Epicurcans, Peripatetics
 and other things much more laughable than these.
@@ -1096,7 +1099,7 @@ drachmas.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="30"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="30"><p>
 “But although that is what they are, they look
 with scorn on all mankind and they tell absurd
 stories about the gods; collecting lads who are easy
@@ -1129,7 +1132,7 @@ to be the champion.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="31"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="31"><p>
 
 But if you were to ask the
 very man who is straining his lungs and bawling and
@@ -1154,7 +1157,7 @@ and attendance, I ignore it.’</p>
 “That is what these whelps are like, gods.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="32"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="32"><p>
 
 Moreover, some of them who call themselves
 Epicureans are very insolent fellows indeed and
@@ -1172,7 +1175,7 @@ view of all this, take such action as may be most advantageous to men and most s
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="33"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="33"><p>
 
 When Zeus had finished this speech the assembly
 fell into a commotion, and at once they all began to
@@ -1194,7 +1197,7 @@ confirm it !</l></quote>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng1" subtype="section" n="34"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg021.perseus-eng2" subtype="section" n="34"><p>
 “As to Menippus here," he said, “this is my
 
 
@@ -1214,7 +1217,6 @@ the Porch.
 <pb n="v.2.p.325"/>
 
 
-<pb n="v.2.p.327"/>
 </p></div></div>
 
 </body></text></TEI>

@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">On Sacrifices</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg027.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">3</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/osu.32435024202137">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianhar03luciuoft/page/154/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/osu.32435024202137?urlappend=%3Bseq=166">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,10 +69,11 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg027.perseus-eng1" xml:lang="eng">
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg027.perseus-eng2" xml:lang="eng">
+<pb n="v.3.p.155"/>
 
 
-<head>On Sacrifices<note><p>In matter and manner, this little skit approximates very
+<head>On Sacrifices<note xml:lang="eng"><p>In matter and manner, this little skit approximates very
 closely to the Cynic diatribe as exemplified in the fragments
 of Teles and in some portions of Epictetus.</p>
 <p>It has a counterpart in the piece, On Funerals, so close
@@ -79,7 +82,7 @@ screed, although they now stand some distance apart in
 Lucian’s works; it may be, however, that this is simply a
 pendant to the other. They certainly belong together in
 some sense.</p></note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng2" subtype="section" n="1"><p>
 
 In view of what the dolts do at their sacrifices and
 their feasts and processions in honour of the gods,
@@ -108,7 +111,7 @@ and scolding about being left out of such a feast!
 <pb n="v.3.p.157"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng2" subtype="section" n="2"><p>
 The Ethiopians, on the other hand, may well be
 called happy and thrice-blessed, if Zeus is really
 paying them back for the kindness that they showed
@@ -129,7 +132,7 @@ things on sale for the price of a cock or a wreath or
 nothing more than incense.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng2" subtype="section" n="3"><p>
 Chryses knew this, I suppose, being a priest and an —
 old man and wise in the ways of the gods ; so when
 he came away from Agamemnon unsuccessful, it was
@@ -139,7 +142,7 @@ but insulted him, saying: “My good Apollo, I
 have often dressed your temple with wreaths when
 it lacked them before, and have burned in your
 honour all those thighs of bulls and goats upon your .altars, but you neglect me when I[ am in such straits
-and take no account of your benefactor.”<note n="v.3.p.157.n.1"><p>Iliad1, 33 ff.  </p></note>
+and take no account of your benefactor.”<note xml:lang="eng" n="v.3.p.157.n.1"><p>Iliad1, 33 ff.  </p></note>
 Consequently, he so discomfited Apollo by his talk that he
 
 
@@ -150,7 +153,7 @@ above the ships, and shot down the Achaeans with the
 plague, even to their mules and dogs.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng2" subtype="section" n="4"><p>
 Having once alluded to Apollo, I wish to mention
 something else that gifted men say about him, not
 his misfortunes in love, such as the slaying of
@@ -162,14 +165,14 @@ occasion he actually became a serf in Thessaly under
 Admetus and in Phrygia under Laomedon, where, to
 be sure, he was not alone, but had Poseidon with
 him ; and both of them were so poor that they had
-to make bricks and work upon the wall;<note n="v.3.p.159.n.1"><p>Of Troy.  </p></note> what is
+to make bricks and work upon the wall;<note xml:lang="eng" n="v.3.p.159.n.1"><p>Of Troy.  </p></note> what is
 more, they did not even get full pay from the
 Phrygian, who owed them, it is said, a balance of
 more than thirty Trojan drachmas !
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng2" subtype="section" n="5"><p>
 
 Is it not true that the poets gravely tell these
 tales about the gods, and others, too, far more
@@ -208,7 +211,7 @@ cut him out when labour came on.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng2" subtype="section" n="6"><p>
 Their rhapsodies about Hera are of similar tenor,
 that without intercourse with her husband she
 became the mother of a wind-child, Hephaestus, who,
@@ -218,7 +221,7 @@ forge-tender; moreover, he is. not even straightlimbed, as he was lamed py his f
 him out of Heaven. In fact, if the Lemnians had
 not obligingly caught him while he was still in the
 air, we should have had our Hephaestus killed just
-like Astyanax when he fell from the battlements.<note n="v.3.p.161.n.1"><p>The notion that the Lemnians caught Hephaestus as he fell is Lucian’s own contribution. He expects his audience to be aware that he is giving them a sly misinterpretation of Homer’s ἄφαρ κομίσαντο πεσόντα (Iliad, 1, 594).  </p></note>
+like Astyanax when he fell from the battlements.<note xml:lang="eng" n="v.3.p.161.n.1"><p>The notion that the Lemnians caught Hephaestus as he fell is Lucian’s own contribution. He expects his audience to be aware that he is giving them a sly misinterpretation of Homer’s ἄφαρ κομίσαντο πεσόντα (Iliad, 1, 594).  </p></note>
 
 
 <pb n="v.3.p.163"/>
@@ -230,7 +233,7 @@ posted an eagle at his side to peck at his liver every
 day.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng2" subtype="section" n="7"><p>
 
 Prometheus, then, received a sentence and served
 it out, but what about Rhea ? One must surely speak
@@ -247,7 +250,7 @@ and again in the middle of her journey?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng2" subtype="section" n="8"><p>
 
 Come, dismissing this topic, let us go up to Heaven
 itself, soaring up poet-fashion by the same route as
@@ -256,7 +259,7 @@ arranged things on high. That it is bronze on the
 outside we learned from Homer, who anticipated us
 in saying so. But when one climbs over the edge,
 puts up one’s head a little way into the world above,
-and really gets up on the “back,”<note n="v.3.p.163.n.1"><p>Plato, Phaedrus247 B. Cf. p. 147.  </p></note> the light is
+and really gets up on the “back,”<note xml:lang="eng" n="v.3.p.163.n.1"><p>Plato, Phaedrus247 B. Cf. p. 147.  </p></note> the light is
 brighter, the sun is clearer, the stars are shinier,
 it is day everywhere, and the ground is of gold.
 As you go in, the Hours live in the first house, for
@@ -273,14 +276,14 @@ very handsomely built by Hephaestus.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng2" subtype="section" n="9"><p>
 “The gods,
-assembled in the house of Zeus”<note n="v.3.p.165.n.1"><p>Iliad4, 1. </p></note>—it is in order,
+assembled in the house of Zeus”<note xml:lang="eng" n="v.3.p.165.n.1"><p>Iliad4, 1. </p></note>—it is in order,
 I take it, to elevate one’s diction when one is on
 high—look off at the earth and gaze about in every
 direction, leaning down to see if they can see fire
 being lighted anywhere, or steam drifting up to
-them “about the smoke entwined.”<note n="v.3.p.165.n.2"><p>Iliad 1, 317.  </p></note> If anybody
+them “about the smoke entwined.”<note xml:lang="eng" n="v.3.p.165.n.2"><p>Iliad 1, 317.  </p></note> If anybody
 sacrifices, they all have a feast, opening their mouths
 for the smoke and drinking the blood that is spilt
 at the altars, just like flies; but if they dine at
@@ -292,7 +295,7 @@ for human beings to Heaven, which is strictly
 private.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng2" subtype="section" n="10"><p>
 
 That is the way the gods live, and as a result, the
 practices of men in the matter of divine worship are
@@ -318,7 +321,7 @@ Crete this long time!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng2" subtype="section" n="11"><p>
 
 Then too they erect temples, in order that the
 gods may not be houseless and hearthless, of course ;
@@ -336,14 +339,14 @@ sacrifice once in four long years as an incident to
 the Olympic games.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng2" subtype="section" n="12"><p>
 
 When they have established altars and formulae
 and lustral rites, they present their sacrifices, the
 farmer an ox from the plough, the shepherd a lamb,
 the goatherd a goat, someone else incense or a cake ;
 the poor man, however, propitiates the god by Just
-kissing his own hand.<note n="v.3.p.167.n.1"><p>Cf. Saltat. 17.  </p></note> But those who offer victims
+kissing his own hand.<note xml:lang="eng" n="v.3.p.167.n.1"><p>Cf. Saltat. 17.  </p></note> But those who offer victims
 (to come back to them) deck the animal with garlands, after finding out far in advance whether it is
 perfect or not, in order that they may not kill something that is ef no use to them; then they bring it to
 the altar and slaughter it under the god’s eyes, while
@@ -355,7 +358,7 @@ auspicious sounds, and fluting low music to accompany the sacrifice! Who would n
 
 the gods like to see all this? </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng1" subtype="section" n="13"><p>And although the
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng2" subtype="section" n="13"><p>And although the
 notice says that no one is to be allowed within the
 holy-water who has not clean hands, the priest
 himself stands there all bloody, just like the Cyclops
@@ -374,7 +377,7 @@ offer men to Artemis and by so doing gratify the
 goddess !
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng2" subtype="section" n="14"><p>
 
 These practices are all very well, no doubt, and
 also those of the Assyrians and those of the Phrygians
@@ -399,7 +402,7 @@ saying goes,
 
 
 <quote>
-    <l>Uninitiate, shut up your doors!<note n="v.3.p.169.n.1"><p>An oft-quoted tag from a lost Orphic poem. Those who have not been initiated in the mysteries are required to go into their houses and close the doors, because the emblems of Dionysus are going to pass through the streets.  </p></note></l>
+    <l>Uninitiate, shut up your doors!<note xml:lang="eng" n="v.3.p.169.n.1"><p>An oft-quoted tag from a lost Orphic poem. Those who have not been initiated in the mysteries are required to go into their houses and close the doors, because the emblems of Dionysus are going to pass through the streets.  </p></note></l>
 </quote>
 —that
 
@@ -419,7 +422,7 @@ writing more than ten thousand years ago!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg027.perseus-eng2" subtype="section" n="15"><p>
 
 Sacrifices are the same there as with us, except
 that they mourn over the victim, standing about it
@@ -431,7 +434,7 @@ throat.</p>
 And if Apis, the greatest of their gods, dies, who
 is there who thinks so much of his hair that he does
 not shave it off and baldly show his mourning on
-his head, even if he has the purple tress of Nisus?<note n="v.3.p.171.n.1"><p>Nisus, king of Megara, had something in common with Samson, for as long as the purple tress remained where it belonged, his city was safe. Ovid (Metam. 8, 1-151) tells how his daughter robbed him of it, and became Scylla.  </p></note>
+his head, even if he has the purple tress of Nisus?<note xml:lang="eng" n="v.3.p.171.n.1"><p>Nisus, king of Megara, had something in common with Samson, for as long as the purple tress remained where it belonged, his city was safe. Ovid (Metam. 8, 1-151) tells how his daughter robbed him of it, and became Scylla.  </p></note>
 But Apis is a god out of the herd, chosen to succeed
 the former Apis on the ground that he is far more
 handsome and majestic than the run of cattle !</p>
@@ -443,7 +446,6 @@ one to laugh at their ignorance, the other to bewail
 their folly.
 
 
-<pb n="v.3.p.175"/>
 </p></div></div>
 
 </body></text></TEI>

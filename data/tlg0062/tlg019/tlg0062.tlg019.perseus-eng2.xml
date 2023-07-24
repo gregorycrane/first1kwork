@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">The Dream, or the Cock</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg019.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">2</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604154">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianhar02luciuoft/page/172/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604154?urlappend=%3Bseq=186">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,13 +69,14 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" xml:lang="eng">
-<head>The Dream, or the Cock<note>A Cynic sermon in praise of poverty, cast in the form of a
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" xml:lang="eng">
+<pb n="v.2.p.173"/>
+<head>The Dream, or the Cock<note xml:lang="eng">A Cynic sermon in praise of poverty, cast in the form of a
 dialogue between Micyllus the cobbler, who figures also in
 The Downward Journey, and his cock, who is Pythagoras
 reincarnated,
 </note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="1"><p>
 
 <label>MICYLLUS</label>
 Way, you scurvy cock, may Zeus himself annihilate
@@ -111,7 +114,7 @@ rich and then starve when you wake up.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="2"><p>
 
 <label>MICYLLUS</label>
 Zeus, god of miracles, and Heracles, averter of
@@ -135,12 +138,12 @@ I did ; indeed he even made prophecies and foretold
 the future; yet he was not considered to be doing
 anything out of the way, and the one who heard him
 did not invoke the averter of harm as you did just now,
-thinking the thing ominous.<note n="v.2.p.175.n.1">Iliad 19, 407 ff.</note> Moreover, what would
+thinking the thing ominous.<note xml:lang="eng" n="v.2.p.175.n.1">Iliad 19, 407 ff.</note> Moreover, what would
 you have done if the stem of the Argo had spoken to
-you as it spoke of old,<note n="v.2.p.175.n.2">Apoll. Rhod. 4, 580 ff.</note> or the oak at Dodona had
+you as it spoke of old,<note xml:lang="eng" n="v.2.p.175.n.2">Apoll. Rhod. 4, 580 ff.</note> or the oak at Dodona had
 prophesied with a voice of its own; or if you had
 seen hides crawling and the flesh of oxen bellowing
-half-roasted on the spits?<note n="v.2.p.175.n.3">Od. 12, 325 ff.</note> I am the friend of
+half-roasted on the spits?<note xml:lang="eng" n="v.2.p.175.n.3">Od. 12, 325 ff.</note> I am the friend of
 
 <pb n="v.2.p.177"/>
 
@@ -153,7 +156,7 @@ the same tongue as you, and how it happens that
 can talk like this.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="3"><p>
 
 <label>MICYLLUS</label>
 Why, this is not a dream, is it? A cock talking
@@ -193,7 +196,7 @@ anyone came near. So Hephaestus found out from
 Helius and caught them by enclosing and trapping
 them in the snares that he had long before contrived
 for them ; and Ares, on being let go in the plight in
-which Hephaestus let him go,<note n="v.2.p.179.n.1">The story is told in the Odyssey 8, 300-366, and repeated by Lucian in Dialogues of the Gods, 21.</note> was angry at Alectryon
+which Hephaestus let him go,<note xml:lang="eng" n="v.2.p.179.n.1">The story is told in the Odyssey 8, 300-366, and repeated by Lucian in Dialogues of the Gods, 21.</note> was angry at Alectryon
 and changed him into this bird, weapons and all, so
 that he still has the crest of his helmet on his head.
 And for this reason, they say, you cocks try to put
@@ -204,7 +207,7 @@ of his rising.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="4"><p>
 
 <label>COCK</label>
 That is what they say, Micyllus, I grant you; but
@@ -238,7 +241,7 @@ know what sort of man I really was.
 Now this is far more miraculous than the other
 thing! A philosopher cock! Tell me, though, son
 of Mnesarchus, how you became a cock instead of a
-man and a Tanagriote instead of a Samian.<note n="v.2.p.181.n.1">Tanagra in Boeotia was famous for its game-cocks.</note> This
+man and a Tanagriote instead of a Samian.<note xml:lang="eng" n="v.2.p.181.n.1">Tanagra in Boeotia was famous for its game-cocks.</note> This
 story is not plausible nor quite easy to believe, for
 I think Ihave observed two things in you that are
 quite foreign to Pythagoras.
@@ -255,12 +258,12 @@ them up without even hesitating. So it must be
 either that you have told a lie and are someone else,
 or, if you are Pythagoras, you have broken the law
 and committed as great an impiety in eating beans as
-if you had eaten your father’s head.<note n="v.2.p.181.n.2">An allusion to the pseudo-Pythagorean verse ἶσόν τοι κυάμους τε φαγεῖν κεφαλάς τε τοκήων. (It is just as wrong for you to eat beans as to eat the heads of your parents).</note>
+if you had eaten your father’s head.<note xml:lang="eng" n="v.2.p.181.n.2">An allusion to the pseudo-Pythagorean verse ἶσόν τοι κυάμους τε φαγεῖν κεφαλάς τε τοκήων. (It is just as wrong for you to eat beans as to eat the heads of your parents).</note>
 
 <pb n="v.2.p.183"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="5"><p>
 <label>COCK</label>
 Why, Micyllus, you don’t know what the reason
 for these rules is, and what is good for particular
@@ -288,7 +291,7 @@ cherishing idle delusions, hunting down in your
 memory a vain and (as they say in poetry) disembodied happiness ?
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="6"><p>
 <label>MICYLLUS</label>
 Why, I shall never forget that vision, cock, you
 may be sure. The dream left so much honied sweetness in my eyes when it went away that I can
@@ -302,7 +305,7 @@ titillation as a feather twiddled in one’s ear.
 Heracles! By what you say, Master Dream is an
 adept indeed. Rumour says that he has wings and
 can fly to the limit set by sleep, but now he “jumps
-over the pit”<note n="v.2.p.185.n.1">The metaphor comes from the proverbial jump of Phayllus. Fifty feet of ground had been broken to form a pit for the jumpers to alight in, but Phayllus, they say, came down on the solid ground, five feet beyond the pit.</note> and lingers in eyes that are open,
+over the pit”<note xml:lang="eng" n="v.2.p.185.n.1">The metaphor comes from the proverbial jump of Phayllus. Fifty feet of ground had been broken to form a pit for the jumpers to alight in, but Phayllus, they say, came down on the solid ground, five feet beyond the pit.</note> and lingers in eyes that are open,
 presenting himself in a form so honey-sweet and
 palpable. At all events I should be glad to hear
 what he is like, since you hold him so very dear.
@@ -323,7 +326,7 @@ dream winged its way to you.
 Not through either of them, Pythagoras.
 </p>
 <p><label>COCK</label>
-Well, Homer mentions only those two.<note n="v.2.p.185.n.2">Od. 19, 562. The truthful dreams use the gates of horn, the deceitful the gates of ivory.</note>
+Well, Homer mentions only those two.<note xml:lang="eng" n="v.2.p.185.n.2">Od. 19, 562. The truthful dreams use the gates of horn, the deceitful the gates of ivory.</note>
 <label>MICYLLUS</label>
 Let that silly poet go hang! He knows nothing
 about dreams. Perhaps the beggarly dreams go
@@ -344,7 +347,7 @@ appear to me to have slept yourself into whole goldmines.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="7"><p>
 
 <label>MICYLLUS</label>
 I saw a lot of gold, Pythagoras, a lot; you can’t
@@ -368,7 +371,7 @@ though he had seen my dream. But listen, so that
 you may know what it was like, wisest of cocks. I
 did not eat at home, yesterday, as you know; for
 Eucrates, the rich man met me in the public square
-and told me to take a bath<note>No reflection on the personal habits of Micyllus is intended. As the bath was the recognized preliminary to dining-out, to mention it amounts to little more than telling him to dress for dinner.</note> and then come to dinner
+and told me to take a bath<note xml:lang="eng">No reflection on the personal habits of Micyllus is intended. As the bath was the recognized preliminary to dining-out, to mention it amounts to little more than telling him to dress for dinner.</note> and then come to dinner
 at the proper hour.
 
 
@@ -376,7 +379,7 @@ at the proper hour.
 <pb n="v.2.p.189"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="8"><p>
 <label>COCK</label>
 I know that very well; I went hungry all day
 until finally, late in the evening, you came back
@@ -388,7 +391,7 @@ games.
 <p><label>MICYLLUS</label>
 When I came home after dinner, I went to sleep
 as soon as I had thrown you the beans, and then
-“through the ambrosial night,” as Homer puts it,<note n="v.2.p.189.n.1">Iliad 2, 56.</note> a
+“through the ambrosial night,” as Homer puts it,<note xml:lang="eng" n="v.2.p.189.n.1">Iliad 2, 56.</note> a
 truly divine dream came to me and. . .
 </p>
 <p><label>COCK</label>
@@ -399,7 +402,7 @@ so to speak, about that dinner and chewing the cud
 of your food in fancy.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="9"><p>
 <label>MICYLLUS</label>
 I thought I should bore you by telling all that, but
 since you want it, here goes. I never before dined
@@ -432,7 +435,7 @@ might’ show the cleaner side.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="10"><p>
 
 I met at the door a
 number of people, and among them, carried on the
@@ -467,7 +470,7 @@ Thesmopolis, who was supported by the servants too.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="11"><p>
 
 I was getting ready to go away, but he turned my way
 and hesitated a good while, and then, as he saw that
@@ -476,7 +479,7 @@ Micyllus, and dine with us. Tl make my son eat
 with his mother in the women’s quarters so that you
 may have room.” I went in, therefore, after coming
 within an ace of licking my lips for nothing, like
-the wolf<note n="v.2.p.193.n.1">The proverb seems to be founded on the fable of the wolf and the old woman ; she threatened to throw a baby to the wolf if it did not stop crying, and the wolf waited all day for the baby, only to go home disappointed. (Aesop, 275 Halm.)</note>; I was ashamed, however, because I
+the wolf<note xml:lang="eng" n="v.2.p.193.n.1">The proverb seems to be founded on the fable of the wolf and the old woman ; she threatened to throw a baby to the wolf if it did not stop crying, and the wolf waited all day for the baby, only to go home disappointed. (Aesop, 275 Halm.)</note>; I was ashamed, however, because I
 seemed to have driven Eucrates’ boy out of the
 dining-room.</p>
 <p>When it was time to go to the table, first of all
@@ -502,7 +505,7 @@ kept bothering me and talking to me about virtue,
 whatever that may be, and teaching me that two
 negatives make an affirmative, and that if it is day
 it is not night ; and sometimes he actually said that I
-had horns.<note n="v.2.p.195.n.1">For this and other Stoic fallacies, see Lucian I. p. 437 and note 2.</note> By philosophizing with me incessantly
+had horns.<note xml:lang="eng" n="v.2.p.195.n.1">For this and other Stoic fallacies, see Lucian I. p. 437 and note 2.</note> By philosophizing with me incessantly
 after that fashion when I had no mind for it, he
 spoiled and diminished my pleasure, not allowing me
 to hear the performers who were playing and singing. Well, there you have your dinner, cock.
@@ -513,7 +516,7 @@ lot was cast with that silly old man.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="12"><p>
 
 <label>MICYLLUS</label>
 Now listen to my dream. I thought that Eucrates
@@ -548,7 +551,7 @@ have been glad to see the dream last for three
 nights ?
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="13"><p>
 
 <label>COCK</label>
 Are you such a lover of gold and of riches,
@@ -562,7 +565,7 @@ yourself, when you were Euphorbus, sallied forth to
 fight the Achaeans with your curls tricked out in
 gold and silver, and even in war, where it would
 have been better to wear iron, you thought fit to
-face danger with your hair caught up with gold.<note n="v.2.p.197.n.1">Tliad 17, 52.</note>
+face danger with your hair caught up with gold.<note xml:lang="eng" n="v.2.p.197.n.1">Tliad 17, 52.</note>
 No doubt Homer said that your hair was “like the
 Graces” because “it was snooded with gold and with
 silver” ; for it looked far finer and lovelier, of course,
@@ -587,7 +590,7 @@ and esteem, and not infrequently it makes inconspicuous and contemptible people 
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="14"><p>
 
 For instance, you know
 my neighbour, of the same trade, Simon, who dined
@@ -629,16 +632,16 @@ longer even giving a glance at me. Recently, for
 example, I saw him coming toward me and said,
 “Good-day, Simon’; but he replicd: “Tell that
 pauper not to abbreviate my name; it is not Simon
-but Simonides.”<note n="v.2.p.201.n.1">He adopts a name better suited to his new position in society ; ef. Timon 22.</note>1 What is more, the women are
+but Simonides.”<note xml:lang="eng" n="v.2.p.201.n.1">He adopts a name better suited to his new position in society ; ef. Timon 22.</note>1 What is more, the women are
 actually in love with him now, and he flirts with
 them and slights them, and when he receives some
 and is gracious to them the others threaten to hang
 themselves on account of his neglect. You see,
 don’t you, what blessings gold is able to bestow,
 when it transforms ugly people and renders them
-lovely, like the girdle in poetry?<note n="v.2.p.201.n.2">The girdle of Aphrodite: /liad 14, 214 ff.</note> And you have
+lovely, like the girdle in poetry?<note xml:lang="eng" n="v.2.p.201.n.2">The girdle of Aphrodite: /liad 14, 214 ff.</note> And you have
 heard the poets say: “O gold, thou choicest
-treasure,”<note n="v.2.p.201.n.3">Euripides, from the lost Danae: Nauck, Vrag. Graec. Frag. 324.</note> and
+treasure,”<note xml:lang="eng" n="v.2.p.201.n.3">Euripides, from the lost Danae: Nauck, Vrag. Graec. Frag. 324.</note> and
 
 <cit><quote><l>Tis gold that over mortal men doth rule.</l></quote>
 <bibl>Source unknown ; Nauck, ibid., adesp. 294.</bibl></cit>
@@ -647,7 +650,7 @@ But why did you interrupt me by laughing, cock ?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="15"><p>
 <label>COCK</label>
 Because in your ignorance, Micyllus, you have
 gone just as far astray as most people in regard to
@@ -680,7 +683,7 @@ multifarious existences.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="16"><p>
 
 <label>COCK</label>
 How my soul originally left Apollo, flew down to
@@ -705,7 +708,7 @@ to know.
 </p>
 <p><label>COCK</label>
 You were an Indian ant, one of the gold-digging
-kind.<note n="v.2.p.205.n.1">Herod. 3, 102.</note>
+kind.<note xml:lang="eng" n="v.2.p.205.n.1">Herod. 3, 102.</note>
 <label>MICYLLUS</label>
 Confound the luck ! to think that I did not dare
 to lay in even a small supply of gold-dust before
@@ -714,7 +717,7 @@ next, tell me? You probably know. If it is anything good, [ll climb up this minu
 myself from the peg that you are standing on.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="17"><p>
 
 <label>COCK</label>
 You can’t by any possibility find that out. But
@@ -766,14 +769,14 @@ Micyllus, and I can’t tell you as accurately about
 the Greek side. How could I, being one of the
 enemy? His comrade Patroclus, however, I killed
 without difficulty, running him through with my
-spear.<note n="v.2.p.207.n.1">The cock is drawing the long-bow; Euphorbus only wounded Patroclus, Iliad 16, 806 ff.</note>
+spear.<note xml:lang="eng" n="v.2.p.207.n.1">The cock is drawing the long-bow; Euphorbus only wounded Patroclus, Iliad 16, 806 ff.</note>
 <label>MICYLLUS</label>
 And then Menelaus killed you with much greater
 ease! But enough of this, and now tell me the
 story of Pythagoras.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="18"><p>
 
 <label>COCK</label>
 In brief, Micyllus, I was a sophist, for I must tell
@@ -832,7 +835,7 @@ that you left in walking.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="19"><p>
 
 But after you put off the
 part of Pythagoras what other did you assume ?
@@ -853,7 +856,7 @@ your sex in courtesan style?
 Yes, I did all that, and I am not the only one:
 both Tiresias and Caeneus the son of Elatus preecded
 me, so that all your jokes at my expense will be at
-their expense too.<note n="v.2.p.211.n.1">Tiresias struck a pair of mating serpents with his staff, and turned into a woman ; seven years later he once more saw them and struck them, becoming a man again (Ovid, Melam. 3, 316 ff.). Poseidon turned Caenis into a man at her own request after he had wronged her (Metam. 12, 189 ff.).</note>
+their expense too.<note xml:lang="eng" n="v.2.p.211.n.1">Tiresias struck a pair of mating serpents with his staff, and turned into a woman ; seven years later he once more saw them and struck them, becoming a man again (Ovid, Melam. 3, 316 ff.). Poseidon turned Caenis into a man at her own request after he had wronged her (Metam. 12, 189 ff.).</note>
 <label>MICYLLUS</label>
 How about it? Which life did you find the
 pleasanter, when you were a man or when Pericles
@@ -865,12 +868,12 @@ dallied with you ?
 
 <label>COCK</label>
 Just see what a question you have asked there!
-Even Tiresias paid dearly for answering it !<note n="v.2.p.213.n.1">Zeus had said that Hera’s sex enjoyed more pleasure than his own. Hera denied it; Tiresias was called in as umpire and held with Zeus, whereupon Hera struck him blind (Metam. l. c.).</note>
+Even Tiresias paid dearly for answering it !<note xml:lang="eng" n="v.2.p.213.n.1">Zeus had said that Hera’s sex enjoyed more pleasure than his own. Hera denied it; Tiresias was called in as umpire and held with Zeus, whereupon Hera struck him blind (Metam. l. c.).</note>
 <label>MICYLLUS</label>
 Whether you tell me or not, Euripides has settled
 the business well enough, for he says that he would
 sooner stand in line of battle thrice over than bear a
-single child.<note n="v.2.p.213.n.2">Medea 251.</note>
+single child.<note xml:lang="eng" n="v.2.p.213.n.2">Medea 251.</note>
 <label>COCK</label>
 I'll remind you of that before long, Micyllus, when
 you are in child-bed; for you too will be a woman
@@ -882,7 +885,7 @@ Miletus or Samos? They say that while you were
 Pythagoras and young and handsome you often
 played Aspasia to the tyrant.</p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="20"> <p>But what man or
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="20"> <p>But what man or
 woman did you become after Aspasia ?
 </p>
 <p><label>COCK</label>
@@ -923,7 +926,7 @@ that, although held in low esteem, has in itself so
 many souls.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="21"><p>
 
 <label>MICYLLUS</label>
 Well then, cock, as you have tried almost every
@@ -958,7 +961,7 @@ the battle.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="22"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="22"><p>
 
 In time of peace, on the other hand, being one of
 the voters, you go to the assembly and lord it over
@@ -986,7 +989,7 @@ philosophizing with that good soul, Poverty.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="23"><p>
 
 So in consequence of all this you are sound
 and strong in body and can stand the cold, for
@@ -1029,7 +1032,7 @@ his tyrant’s throne, turns up in Corinth as a schoolmaster, teaching children 
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="24"><p>
 
 <label>MICYLLUS</label>
 Tell me, cock, when you were king—for you say
@@ -1080,7 +1083,7 @@ them sometimes. That is what monarchy is like.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="25"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="25"><p>
 
 <label>MICYLLUS</label>
 You haven’t yet told me what the clay and the
@@ -1113,9 +1116,9 @@ mind many projects,</l></quote>
 <bibl>Iliad10, 3-4</bibl></cit>
 
 though all the Achaeans were snoring ! The king
-of Lydia<note n="v.2.p.225.n.1">Croesus.</note> is worried because his son is mute, the
-king of Persia<note n="v.2.p.225.n.2">Artaxerxes.</note> because Clearchus is enlisting troops
-for Cyrus, another<note n="v.2.p.225.n.3">Dionysius the Younger. </note> because Dion is holding whispered conversations with a few Syracusans, another<note n="v.2.p.225.n.4">Alexander.</note>
+of Lydia<note xml:lang="eng" n="v.2.p.225.n.1">Croesus.</note> is worried because his son is mute, the
+king of Persia<note xml:lang="eng" n="v.2.p.225.n.2">Artaxerxes.</note> because Clearchus is enlisting troops
+for Cyrus, another<note xml:lang="eng" n="v.2.p.225.n.3">Dionysius the Younger. </note> because Dion is holding whispered conversations with a few Syracusans, another<note xml:lang="eng" n="v.2.p.225.n.4">Alexander.</note>
 because Parmenio is praised, Perdiccas because of
 Ptolemy, and Ptolemy because of Seleucus. And
 there are other grounds for worry too, when your
@@ -1131,7 +1134,7 @@ he himself by his favourite, and the latter no doubt
 met some other death of a similar sort.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="26">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="26">
 <p><label>MICYLLUS</label>
 Tut, tut! What you say is dreadful, cock. For
 
@@ -1168,7 +1171,7 @@ how did you find that existence?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="27"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="27"><p>
 
 
 <label>COCK</label>
@@ -1187,7 +1190,7 @@ follow.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="28"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="28"><p>
 
 <label>MICYLLUS</label>
 No doubt that is true, cock. But as to myself, I
@@ -1230,7 +1233,7 @@ I didn’t realize, cock, that you yourself were a
 conjurer. Well, if you only let me have it, you shall
 see all Simon’s possessions brought over here in a
 jiffy: Pl slip in and bring them over, and he will
-once more eat his leather as he stretches it.<note n="v.2.p.231.n.1">The ancient shoemaker held one side of the leather in his teeth in stretching it. Cf. <cit><quote><l>Dentibus antiquas solitus producere pelles</l> <l>et mordere luto putre vetusque solum—.</l></quote> <bibl>Martial 9, 73.</bibl></cit> </note>
+once more eat his leather as he stretches it.<note xml:lang="eng" n="v.2.p.231.n.1">The ancient shoemaker held one side of the leather in his teeth in stretching it. Cf. <cit><quote><l>Dentibus antiquas solitus producere pelles</l> <l>et mordere luto putre vetusque solum—.</l></quote> <bibl>Martial 9, 73.</bibl></cit> </note>
 <label>COCK</label>
 That is impossible, for Hermes ordered me, if the
 man who had the feather did anything of that sort,
@@ -1252,7 +1255,7 @@ beauty less, preventing you from being crippled on
 one side of your tail.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="29"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="29"><p>
 <label>COCK</label>
 All right. Shall we visit Simon first, or one of
 the other rich men?
@@ -1327,7 +1330,7 @@ bury the gold again.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="30"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="30"><p>
 
 <label>COCK</label>
 Well, Micyllus, that is the way Simon lives. Let’s
@@ -1354,7 +1357,7 @@ too lives not far off. This door has opened to us
 also.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="31"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="31"><p>
 
 <label>COCK</label>
 Do you see him awake with his worries like the
@@ -1370,7 +1373,7 @@ Let’s go and see another.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="32"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="32"><p>
 
 <label>COCK</label>
 Your friend Eucrates, if you like. See, this door
@@ -1390,7 +1393,7 @@ lewdness ill befitting a human being ; and in another
 quarter I see his wife and the cook . . .
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng1" subtype="section" n="33">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg019.perseus-eng2" subtype="section" n="33">
 <p><label>COCK</label>
 How about it? Would you be willing to inherit
 all this too, Micyllus, and have all that belongs to
@@ -1408,8 +1411,6 @@ for the servants.
 Well, the day is just breaking, so let’s go
 home now ; you shall see the rest of it some other
 time.
-
-<pb n="v.2.p.243"/>
 
 </p></div></div>
 

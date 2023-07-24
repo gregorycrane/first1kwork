@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">Nigrinus</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg007.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">1</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604153">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianha01luciuoft/page/98/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604153?urlappend=%3Bseq=110">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,8 +69,9 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" xml:lang="eng">
-<head>Nigrinus<note>Except through Lucian, nothing is known of this philosopher. Some have sought to identify him with one Albinus, about whom we have scarcely any information, and others have thought him a child of Lucian’s fancy. But it is quite possible that he really existed, and led, as Lucian says, a life of retirement.</note></head>
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" xml:lang="eng">
+<pb n="v.1.p.99"/>
+<head>Nigrinus<note xml:lang="eng">Except through Lucian, nothing is known of this philosopher. Some have sought to identify him with one Albinus, about whom we have scarcely any information, and others have thought him a child of Lucian’s fancy. But it is quite possible that he really existed, and led, as Lucian says, a life of retirement.</note></head>
 <div type="textpart" subtype="section" n="intro">
 <head>LETTER TO NIGRINUS</head>
 <p>Best wishes to Nigrinus from Lucian !</p>
@@ -83,16 +86,16 @@ as a genuine importer of owls. But it is only
 my state of mind which I wish to reveal to you, how
 I feel now, and how deeply I have been moved by
 your discourse. So I may fairly be acquitted even
-of the charge contained in Thucydides’ saying<note n="1">2, 40, 3.</note> that
+of the charge contained in Thucydides’ saying<note xml:lang="eng" n="1">2, 40, 3.</note> that
 ignorance makes men bold, but discourse
-<note n="2">To bring out the play on words, "discourse” is used here
+<note xml:lang="eng" n="2">To bring out the play on words, "discourse” is used here
 in the obsolete sense of "consideration, reflection.”</note>
 cautious,
 for clearly this great hardihood of mine is not due to
 ignorance alone, but also to fondness for discourse !
 Good health to you !
 </p></div>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="1">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="1">
 <head>THE WISDOM OF NIGRINUS</head>
 
 <p><label>A</label> How very lordly and exalted you are since
@@ -103,7 +106,7 @@ don’t join in our conversations : you have changed
 
 
 
-<pb n="101"/>
+<pb n="v.1.p.101"/>
 
 all of a sudden, and, in short, have a supercilious air.
 
@@ -131,12 +134,12 @@ at the facts by hearing the whole story.</p>
 <p><label>B</label> Don’t you think it wonderful, in the name of
 Zeus, that once a slave, I am now free! « once poor,
 now rich indeed” ; once witless and befogged, now
-saner?<note n="1">Apparently a free quotation from some play that is lost.
+saner?<note xml:lang="eng" n="1">Apparently a free quotation from some play that is lost.
 (Kock, adesp. 1419.)</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="2"><p>
 </p>
 
 <p><label>A</label> Why, yes! nothing could be more fmportant.
@@ -157,7 +160,7 @@ house, and when I had knocked at the door and the
 man had announced me, I was asked in. On
 
 
-<pb n="103"/>
+<pb n="v.1.p.103"/>
 
 entering, I found him with a book in his hands and
 many busts of ancient philosophers standing round
@@ -167,7 +170,7 @@ made, I thought, to represent the universe.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="3"><p>
 
 Well, he greeted me in very friendly way and
 asked me how I was getting on. I told him
@@ -178,11 +181,11 @@ Beginning:-to talk on these topics and to explain
 his position, my dear fellow, he poured enough
 ambrosial speech over me to put out of date the
 famous Sirens
-<note n="1">Odyss. 12, 39 ; 167.</note>
+<note xml:lang="eng" n="1">Odyss. 12, 39 ; 167.</note>
 (if there ever were any) and the
 nightingales
-<note n="2">Odyss. 19, 518.</note> and the lotus of Homer.
-<note n="3">Odyss. 9, 94. The lotus is mentioned because of its
+<note xml:lang="eng" n="2">Odyss. 19, 518.</note> and the lotus of Homer.
+<note xml:lang="eng" n="3">Odyss. 9, 94. The lotus is mentioned because of its
 effect. 1t made Odysseus’ shipmates
 <quote><l>Among the Lotus-eaters fain to stay</l>
 <l>And gather lotus, and forget their homes.</l></quote></note> A divine
@@ -190,7 +193,7 @@ effect. 1t made Odysseus’ shipmates
 utterance!
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="4"><p>
 
 For he went on to praise philosophy
 and the freedom that it gives, and to ridicule the
@@ -207,7 +210,7 @@ reputation,—and I all but cried over their downfall ;
 
 
 
-<pb n="105"/>
+<pb n="v.1.p.105"/>
 
 and then I thought them paltry and ridiculous, and
 was glad to be looking up, as it were, out of the
@@ -220,7 +223,7 @@ condition till then.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="5"><p>
 
 I went on and on, and so
 got into the state with which you just reproached
@@ -238,7 +241,7 @@ his discourse.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="6"><p>
 </p>
 
 <p><label>A</label> Why, that isn’t drunkenness, it is sobriety and
@@ -249,7 +252,7 @@ person who wants to hear is a friend and has the
 same interests.</p>
 
 <p><label>B</label> Cheer up, good soul! you spur a willing horse,
-as Homer says,<note n="1">Iliad 8, 293.</note>
+as Homer says,<note xml:lang="eng" n="1">Iliad 8, 293.</note>
 and if you hadn’t got ahead of me,
 I myself should have begged you to listen to my
 tale, for I want to have you bear witness before the
@@ -257,7 +260,7 @@ world that my madness has reason in it. Then, too,
 
 
 
-<pb n="107"/>
+<pb n="v.1.p.107"/>
 
 I take pleasure in calling his words to mind
 frequently, and have already made it a regular
@@ -267,7 +270,7 @@ the same.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="7"><p>
 
 I am in the same case with lovers.
 In the absence of the objects of their fancy they
@@ -290,7 +293,7 @@ words. Sometimes, especially when I put pressure
 on my soul, his face appears to me and the sound of
 his voice abides in my ears. Truly, as the comedian
 says,
-<note n="1">Eupolis in the Demes, referring to Pericles <cit><bibl>Kock, 94</bibl>
+<note xml:lang="eng" n="1">Eupolis in the Demes, referring to Pericles <cit><bibl>Kock, 94</bibl>
 <quote>
 <l>None better in the world to make a speech !</l>
 <l>He’d take the floor and give your orators</l>
@@ -303,12 +306,12 @@ says,
 “he left a sting implanted in his hearers!”
 
 
-<pb n="109"/>
+<pb n="v.1.p.109"/>
 
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="8"><p>
 </p>
 
 <p><label>A</label> Have done with your long prelude, “you
@@ -336,7 +339,7 @@ and comes to grief on my account, it will naturally
 hurt me more than a little.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="9"><p>
 
 Please bear it in
 mind, then, all through the performance that the
@@ -354,15 +357,15 @@ As for myself, even if you hiss me off the stage, I
 shan’t be hurt at all!
 
 
-<pb n="111"/>
+<pb n="v.1.p.111"/>
 
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="10"><p>
 </p>
 
-<p><label>A</label> Hermes !<note n="1">Invoked as the god of orators.</note>
+<p><label>A</label> Hermes !<note xml:lang="eng" n="1">Invoked as the god of orators.</note>
 what a fine introduction you have
 made, just like a professor of public speaking!
 You intend, I am sure, to add that your conversation
@@ -378,7 +381,7 @@ hiss right, sharply.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="11"><p>
 </p>
 
 <p><label>B</label> Yes, I should have liked to say all that you
@@ -400,7 +403,7 @@ am taking may not be brought down with me if I
 stumble.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="12"><p>
 </p>
 
 <p><label>A</label> Will the man never stop talking so much
@@ -408,7 +411,7 @@ stage and tragedy to me?
 
 
 
-<pb n="113"/>
+<pb n="v.1.p.113"/>
 </p>
 
 <p><label>B</label> Why, yes! I will stop, certainly, and will now
@@ -423,7 +426,7 @@ him and lend a hand in his schooling and convert
 him to the simple life.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="13"><p>
 
 For example, he mentioned a millionaire who
 came to Athens, a very conspicuous and vulgar
@@ -449,7 +452,7 @@ already?” ‘How did that peacock get here f”
 vulgarities they turned into jest in the same way—
 
 
-<pb n="115"/>
+<pb n="v.1.p.115"/>
 
 the number of his rings, the over-niceness of his
 hair, the extravagance of his life. So he was
@@ -458,7 +461,7 @@ improved by the public education he had received.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="14"><p>
 
 To show that they are not ashamed to confess
 poverty, he mentioned to me a remark which he
@@ -484,7 +487,7 @@ Athens éxactly suited to him.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="15"><p>
 
 But a man who
 loves wealth and is enthralled by gold and measures
@@ -496,17 +499,17 @@ pleasure and has resolved to serve none but her,
 fond of extravagant fare and fond of wine and
 
 
-<pb n="117"/>
+<pb n="v.1.p.117"/>
 
 women, full of trickery, deceit and falsehood; a
 man who likes to hear twanging, fluting and emasculated singing—
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="16"><p>
 "Such folk,” said he, “should live
 in Rome, for every street and every square is full of
 the things they cherish most,
-<note n="1">A reminiscence of Aratus (Phaenom. 2): ‘ And every
+<note xml:lang="eng" n="1">A reminiscence of Aratus (Phaenom. 2): ‘ And every
 human-street and every square is full of the presence of
 God.”</note>
 and they can admit
@@ -522,14 +525,14 @@ and those all the good things it taught.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="17"><p>
 
 “For
 my part,” said he, “when I first came back from
 Greece, on getting into the neighbourhood of Rome
 I stopped and asked myself why I had come here,
 repeating the well-known words of Homer:
-<note n="2">Odyss. 11, 93.</note>
+<note xml:lang="eng" n="2">Odyss. 11, 93.</note>
 ‘Why
 left you, luckless man, the light of day’—Greece,
 to wit, and all that happiness and freedom— and
@@ -543,10 +546,10 @@ go away nor do as the Romans do?”
 
 
 
-<pb n="119"/>
+<pb n="v.1.p.119"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="18"><p>
 “After communing with myself in this vein and
 pulling myself out of bowshot as Zeus did Hector
 in Homer,
@@ -568,7 +571,7 @@ sometimes to prove a man’s true steadfastness.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="19"><p>
 
 “Indeed (if it is right to speak in praise of what is
 bad), don’t suppose that there is any better school for
@@ -584,7 +587,7 @@ free, and in a spirit of genuine contempt.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="20"><p>
 
 Furthermore, one has cause to admire philosophy when he
 beholds so much folly, and to despise the gifts of
@@ -598,7 +601,7 @@ is that although Fortune attests that she makes light
 
 
 
-<pb n="121"/>
+<pb n="v.1.p.121"/>
 
 of human affairs and admits that there is no stability
 in them, and in spite of the fact that men see this
@@ -607,7 +610,7 @@ and power, and go about every one of them full of
 unrealised hopes.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="21"><p>
 
 “But I have said that there is food for laughter
 and amusement in what goes on; let me now explain
@@ -615,7 +618,7 @@ it. To begin with, are not the rich ridiculous? They
 display their purple gowns and show their rings and
 betray an unbounded lack of taste. Would you
 believe it ?—they make use of another man’s
-<note n="1">The nomenclator : his proper office was merely to present
+<note xml:lang="eng" n="1">The nomenclator : his proper office was merely to present
 the guests to his master, but in reality he often received
 them in his master’s stead.</note>
 voice
@@ -634,7 +637,7 @@ commend them for—they forbid us their lips!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="22"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="22"><p>
 
 “Far more ridiculous, however, than the rich are
 those who visit them and pay them court. They get
@@ -646,7 +649,7 @@ get the much-talked-of dinner, a vulgar thing, the
 source of many evils. How much they eat there,
 
 
-<pb n="123"/>
+<pb n="v.1.p.123"/>
 
 how much they drink that they do not want, and
 how much they say that should not have been said!
@@ -661,7 +664,7 @@ believe it ?—haven’t even time to be ill!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="23"><p>
 
 “For my part I hold that the toadies are far
 worse than the men they toady to, and that they
@@ -685,14 +688,14 @@ then, is to reduce and cheapen the rank of the rich
 in this way, erecting in the face of their wealth a
 
 
-<pb n="125"/>
+<pb n="v.1.p.125"/>
 
 breastwork of contempt. But as things are, they
 turn their heads with servility.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="24"><p>
 
 “That common men who unreservedly admit
 their want of culture should do such things might
@@ -709,7 +712,7 @@ what ethical ideal are we to ascribe it?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="25"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="25"><p>
 
 Do they
 not stuff themselves more vulgarly, get drunk more
@@ -727,14 +730,14 @@ should first of all show that he is himself above
 gain.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="26"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="26"><p>
 
 Certainly he used to put these principles into
 practice consistently, not only giving instruction
 without recompense to all who desired it, but
 helping the needy and holding all manner of super-
 
-<pb n="127"/>
+<pb n="v.1.p.127"/>
 
 fluity in contempt. So far was he from coveting the
 property of others that even when his own property
@@ -757,7 +760,7 @@ his kindly ways.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="27"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="27"><p>
 
 He always advised his disciples
 not to postpone being good, as most people do, by
@@ -769,7 +772,7 @@ brooked no delay. He made no secret of his
 condemnation of the sort of philosophers who think it
 a course in virtue if. they train the young to enduré
 “full many pains and toils,"
-<note n="1">Evidently a quotation: the source is unknown.</note>
+<note xml:lang="eng" n="1">Evidently a quotation: the source is unknown.</note>
 the majority
 recommending cold baths, though some whip them,
 and still others, the more refined. of their sort, scrape
@@ -777,12 +780,12 @@ and still others, the more refined. of their sort, scrape
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="28"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="28"><p>
 It was his
 
 
 
-<pb n="129"/>
+<pb n="v.1.p.129"/>
 
 opinion that this hardness and insensibility should
 be created rather in the souls of men, and that
@@ -800,7 +803,7 @@ better for it.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="29"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="29"><p>
 At length leaving the philosophers, he recurred to
 the rest of mankind, and told about the uproar of
 the city, the crowding, the theatres, the races, the
@@ -812,14 +815,14 @@ great numbers.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="30"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="30"><p>
 Next he touched upon another human comedy,
 played by the people who occupy themselves with
 life beyond the grave and with last wills, adding
 that sons of Rome speak the truth only once in their
 whole lives (meaning in their wills), in order that
 they may not reap the fruits of their truthfulness !
-<note n="1">A famous instance is the case of Petronius, who expressed
+<note xml:lang="eng" n="1">A famous instance is the case of Petronius, who expressed
 his opinion of Nero in his will and made the emperor his
 executor.</note>
 I could not help interrupting him with laughter
@@ -829,7 +832,7 @@ record, inasmuch as some of them leave instructions
 
 
 
-<pb n="131"/>
+<pb n="v.1.p.131"/>
 
 that clothing be burned with them which they prized
 in life, others that servants stay by their tombs,
@@ -841,7 +844,7 @@ on their deathbeds.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="31"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="31"><p>
 
 He thought he could guess
 what they had done in life when they issued such
@@ -858,7 +861,7 @@ play to their desires, but transgress in them and
 obliterate the boundary-lines, on all sides surrendering their souls to luxury to be trodden under foot,
 and as they say in tragedy and comedy, “forcing an
 entrance alongside the door."
-<note n="1">The phrase does not occur in any of the extant plays.
+<note xml:lang="eng" n="1">The phrase does not occur in any of the extant plays.
 As Greek houses were generally of sun-dried brick, it was
 not difficult to dig through the wall, but only an inveterate
 ‘wall-digger’ (housebreaker) would choose that method of
@@ -868,12 +871,12 @@ unidiomatic pleasures.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="32"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="32"><p>
 
 From the same standpoint he made a comment
 exactly like that of Momus. Just as the latter found
 fault with the god
-<note n="2">Poseidon: see Hermotimus, 20.</note>
+<note xml:lang="eng" n="2">Poseidon: see Hermotimus, 20.</note>
 who made the bull for not
 putting the horns in front of the eyes, so he censured
 those who wear garlands for not knowing where
@@ -882,7 +885,7 @@ they should go. “If it is the scent of their violets
 
 
 
-<pb n="133"/>
+<pb n="v.1.p.133"/>
 
 and roses that they like,” he said, “they certainly
 ought to put their garlands under their noses, as
@@ -891,7 +894,7 @@ inhale the greatest possible amount of pleasure.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="33"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="33"><p>
 
 Another thing, he ridiculed the men who
 devote such a surprising degree of energy to dinners
@@ -913,7 +916,7 @@ a life of toil.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="34"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="34"><p>
 
 He had much to say about their behaviour
 in the baths—the number of their attendants, their
@@ -929,7 +932,7 @@ something high or low, thus reminding them, oddly
 enough, that they are walking! He was indignant,
 
 
-<pb n="135"/>
+<pb n="v.1.p.135"/>
 
 you see, that although they do not need the mouths
 or the hands of others in eating or the ears of others
@@ -941,11 +944,11 @@ unfortunates and blind men. - “Why,” said- he,
 even to governors of cities!”
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="35"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="35"><p>
 When he had said this and much more of the ©
 same sort, he ended his talk. Until then I had
 listened to him in awe, fearing that he would cease.
-When he stopped, I felt like the Phaeacians of old,<note>Odyss. 11, 333.</note>
+When he stopped, I felt like the Phaeacians of old,<note xml:lang="eng">Odyss. 11, 333.</note>
 for I stared at him a long time spellbound. Afterwards, in a great fit of confusion and giddiness, I
 dripped with sweat, I stumbled and stuck in the
 endeavour to speak, my voice failed, my tongue
@@ -956,7 +959,7 @@ may say so, my very soul in twain.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="36"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="36"><p>
 
 For if I too
 may now adopt the language of a philosopher,
@@ -970,7 +973,7 @@ target, their arrows do not stick in it, but owing to
 
 
 
-<pb n="137"/>
+<pb n="v.1.p.137"/>
 
 their momentum go through and continue their
 flight, leaving only a gaping wound in the soul..
@@ -992,7 +995,7 @@ pull.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="37"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="37"><p>
 
 But a good bowman like Nigrinus first of
 all scans the target closely for fear that it may be
@@ -1027,12 +1030,12 @@ secret bond of kinship with philosophy.
 
 
 
-<pb n="139"/>
+<pb n="v.1.p.139"/>
 
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng1" subtype="section" n="38"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="38"><p>
 </p>
 
 <p><label>A</label> What a noble, marvellous,—yes, divine tale
@@ -1061,21 +1064,20 @@ to think out some course of treatment for us both.</p>
 <p><label>B</label> Go to the man who inflicted the wound and
 beg him to heal us !
 
-<note n="1">Telephus had been grievously wounded by Achilles.
+<note xml:lang="eng" n="1">Telephus had been grievously wounded by Achilles.
 Acting on the advice of the oracle at Delphi : "He who burt
 will heal you” (ὁ τρώσας καὶ ἰάσεται), he applied to Achilles
 for relief, and was at last cured with the rust of his spear.</note>
 
-<pb n="141"/>
+<pb n="v.1.p.141"/>
 
-<note>All that we know of Demonax derives from this essay,
+<note xml:lang="eng">All that we know of Demonax derives from this essay,
 except for a few sayings elsewhere attributed to him. The
 authenticity of the essay has been repeatedly questioned, but
 should not be made to depend on the critic’s opinion of
 Demonax’s jokes, for—to paraphrase Lucian—we do not need
 a George Meredith to tell us that the flavour of a joke grows
 weak with age,</note>
-<pb n="143"/>
 </p></div></div>
 
 </body></text></TEI>

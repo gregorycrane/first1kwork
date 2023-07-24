@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">The Ignorant Book Collector</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg028.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">3</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/osu.32435024202137">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianhar03luciuoft/page/174/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/osu.32435024202137?urlappend=%3Bseq=186">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,9 +69,10 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" xml:lang="eng">
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" xml:lang="eng">
+<pb n="v.3.p.175"/>
 
-<head>The Ignorant Book Collector<note>This too is a diatribe, an excellent illustration of that sort
+<head>The Ignorant Book Collector<note xml:lang="eng">This too is a diatribe, an excellent illustration of that sort
 of diatribe which made the word to us moderns synonymous
 with invective. It is far from a school exercise, but was
 directed against a real person, a Syrian (§19), evidently well
@@ -80,7 +83,7 @@ book, and when you did not get it, requited him with this
 handsome token of your esteem!” It was written after the
 death of Peregrinus Proteus and during the reign of Marcus
 Aurelius, about170 A.D.</note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="1"><p>
 
 Truly, what you are now doing is the reverse ot
 what you are aiming to do. You expect to get a
@@ -92,7 +95,7 @@ bestow their praise hit-and-miss, you are a godsend to the people that tell such
 and a treasure-trove ready to hand to those who
 traffic in them. Why, how can you tell what books
 are old and highly valuable, and what are worthless
-and simply in wretched repair<note n="v.3.p.175.n.1"><p>Not old, though they look old. </p></note>— unless you judge
+and simply in wretched repair<note xml:lang="eng" n="v.3.p.175.n.1"><p>Not old, though they look old. </p></note>— unless you judge
 them by the extent to which they are eaten into and
 cut up, calling the book-worms into counsel to settle
 the question ? As to their correctness and freedom
@@ -101,11 +104,11 @@ is it worth ?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="2"><p>
 
 Yet suppose I grant you that you have selected the
 very éditions de luxe that were prepared by Callinus
-or by the famous Atticus with the utmost care.<note n="v.3.p.175.n.2"><p>Both Atticus and Callinus are mentioned again as scribes in this piece (24) ; Callinus is not elsewhere mentioned, but Atticus is supposed to be the “publisher” of the Atticiana, editions which had great repute in antiquity. It is hardly likely that he is Cicero’s friend.  </p></note>
+or by the famous Atticus with the utmost care.<note xml:lang="eng" n="v.3.p.175.n.2"><p>Both Atticus and Callinus are mentioned again as scribes in this piece (24) ; Callinus is not elsewhere mentioned, but Atticus is supposed to be the “publisher” of the Atticiana, editions which had great repute in antiquity. It is hardly likely that he is Cicero’s friend.  </p></note>
 
 
 
@@ -128,10 +131,10 @@ what are false, illegitimate, and counterfeit.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="3"><p>
 
 Come now, do you maintain that without instruction you know as much as we? How can you,
-unless, like the shepherd of old,<note n="v.3.p.177.n.1"><p>Hesiod : see the Theogony29 ff. </p></note> you once received a
+unless, like the shepherd of old,<note xml:lang="eng" n="v.3.p.177.n.1"><p>Hesiod : see the Theogony29 ff. </p></note> you once received a
 branch of laurel from the Muses? Helicon, which the
 goddesses are said to haunt, you never even heard of,
 I take it, and your haunts in your boyhood were not
@@ -139,7 +142,7 @@ the same as ours. That you should even mention
 the Muses is impious. They would not have shrunk
 from showing themselves to a shepherd, a hardbitten, hairy man displaying rich tan on his body,
 but as for the like of you—in the name of your lady
-of Lebanon<note n="v.3.p.177.n.2"><p>Aphrodite, perhaps, or Astarte; in later times there was a notorious cult of Aphrodite on Lebanon: Eusebius, Vit. Constantini 3, 53.   </p></note> dispense me for the present from giving
+of Lebanon<note xml:lang="eng" n="v.3.p.177.n.2"><p>Aphrodite, perhaps, or Astarte; in later times there was a notorious cult of Aphrodite on Lebanon: Eusebius, Vit. Constantini 3, 53.   </p></note> dispense me for the present from giving
 a full description of you in plain language !—they
 would never have deigned, I am sure, to come near
 you, but instead of giving you laurel they would have
@@ -164,7 +167,7 @@ school with So-and-so.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="4"><p>
 
 You expect to make up for
 all that now by one single expedient—by getting
@@ -173,12 +176,12 @@ those manuscripts of Demosthenes that the orator
 wrote with his own hand, and those of Thucydides
 that were found to have been copied, likewise by
 Demosthenes, eight times over, and even all the
-books that Sulla sent from Athens to Italy.<note n="v.3.p.179.n.1"><p>Of the copies of his own works and those of Thucydides written by Demosthenes we have no other notice; Sulla took to Italy what was reported to have been the library of Aristotle : Plut. Sulla 26. </p></note> What
+books that Sulla sent from Athens to Italy.<note xml:lang="eng" n="v.3.p.179.n.1"><p>Of the copies of his own works and those of Thucydides written by Demosthenes we have no other notice; Sulla took to Italy what was reported to have been the library of Aristotle : Plut. Sulla 26. </p></note> What
 would you gain by it in the way of learning, even if
 you should put them under your pillow and sleep
 on them or should glue them together and walk
 about dressed in them? “A monkey is always a
-monkey,” says the proverb, “even if he has birthtokens of gold.”<note n="v.3.p.179.n.2"><p>These were trinkets put in the cradle or the clothing of a child when it was abandoned, as proof of good birth and as a possible means of identification later. Hyginus (187) calls them insignia ingenwitatis.   </p></note> Although you have a book in
+monkey,” says the proverb, “even if he has birthtokens of gold.”<note xml:lang="eng" n="v.3.p.179.n.2"><p>These were trinkets put in the cradle or the clothing of a child when it was abandoned, as proof of good birth and as a possible means of identification later. Hyginus (187) calls them insignia ingenwitatis.   </p></note> Although you have a book in
 your hand and read all the time, you do not understand a single thing that you read, but you are like
 the donkey that listens to the lyre and wags his ears.</p>
 
@@ -206,7 +209,7 @@ while they handle books night and day.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="5"><p>
 
 What good,
 then, does it do you to buy them—unless you think
@@ -218,7 +221,7 @@ Answer me this question, if you will—or better,
 as you are unable to answer, nod or shake your
 head inreply. If a man who did not know how to
 play the flute should buy the instrument of Timotheus
-or that of Ismenias,<note n="v.3.p.181.n.1"><p>Famous Theban flute-players of the fourth century B.c. for Timotheus, see also Lucian’s Harmonides.  </p></note> for which [smenias paid seven
+or that of Ismenias,<note xml:lang="eng" n="v.3.p.181.n.1"><p>Famous Theban flute-players of the fourth century B.c. for Timotheus, see also Lucian’s Harmonides.  </p></note> for which [smenias paid seven
 talents in Corinth, would that make him able to play,
 or would it do him no good to own it since he did
 not know how to use it as a musician would? You
@@ -237,7 +240,7 @@ beauty and for seaworthiness, and the other should
 
 <pb n="v.3.p.183"/>
 
-get an Arab or a “Centaur” or a “Koppa-brand,”<note n="v.3.p.183.n.1"><p>The “Centaur” horses probably came from Thessaly, the home of the Centaurs and a land of good horses. The “Koppa-brand” were marked ϙ, which in the alphabet of Corinth corresponded to K, and was used (on coins, for instance) as the abbreviation for Korinthos.  </p></note>
+get an Arab or a “Centaur” or a “Koppa-brand,”<note xml:lang="eng" n="v.3.p.183.n.1"><p>The “Centaur” horses probably came from Thessaly, the home of the Centaurs and a land of good horses. The “Koppa-brand” were marked ϙ, which in the alphabet of Corinth corresponded to K, and was used (on coins, for instance) as the abbreviation for Korinthos.  </p></note>
 each would give proof, I have no doubt, that he did
 not know what to do with his property. Do you
 assent to this? Take my advice, now, and assent to
@@ -248,7 +251,7 @@ quotes that very obvious proverb: “What has a dog
 to do with a bath ?”
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="6"><p>
 
 Not long ago there was a rich man in Asia, both of
 whose feet had been amputated in consequence of
@@ -263,13 +266,13 @@ handsome sandals of the latest cut and went to the
 utmost trouble in regard to them, in order that his
 timber toes might be adorned with the most beautiful footwear! Now are not you doing just the same
 thing? Is it not true that although you have a
-crippled, fig-wood<note n="v.3.p.183.n.2"><p>The most worthless sort of wood.  </p></note> understanding, you are buying
+crippled, fig-wood<note xml:lang="eng" n="v.3.p.183.n.2"><p>The most worthless sort of wood.  </p></note> understanding, you are buying
 gilt buskins which even a normal man could hardly
 get about in?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="7"><p>
 
 As you have often bought Homer among your
 other books, have someone take the second book of
@@ -282,13 +285,13 @@ his Iliad and read it to you. Do not bother about
 the rest of the book, for none of it applies to you ;
 but he has a description of a man making a speech,
 an utterly ridiculous fellow, warped and deformed
-in body.<note n="v.3.p.185.n.1"><p>Iliad2,212. </p></note> Now then, if that man, Thersites, should
+in body.<note xml:lang="eng" n="v.3.p.185.n.1"><p>Iliad2,212. </p></note> Now then, if that man, Thersites, should
 get the armour of Achilles, do you suppose that he
 would thereby at once become both handsome and
 strong ; that he would leap the river, redden its stream
 with Trojan gore, and kill Hector—yes, and before
 Hector, kill Lycaon and Asteropaeus—when he cannot even carry the “ash tree”
-on his shoulders?<note n="v.3.p.185.n.2"><p>Cf, Iliad 19, 387 fi  </p></note>
+on his shoulders?<note xml:lang="eng" n="v.3.p.185.n.2"><p>Cf, Iliad 19, 387 fi  </p></note>
 You will hardly say so. No, he would make himself
 a laughing-stock, limping under the shield, falling on
 his face beneath the weight of it, showing those
@@ -307,7 +310,7 @@ another and laugh!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="8"><p>
 
 I should like to tell you of an incident that took
 place at Delphi. A man of Tarentum, Evangelus
@@ -334,11 +337,11 @@ The lyre itself was something extraordinary for
 beauty and costliness, all of pure gold, ornamented
 with graven gems and many-coloured jewels, with
 the Muses and Apollo and Orpheus represented
-upon it in relief—a great marvel to all who saw it.<note n="v.3.p.187.n.1"><p>Compare the version of this story given in the Rhetorica ad Herennium 4, 47.  </p></note>
+upon it in relief—a great marvel to all who saw it.<note xml:lang="eng" n="v.3.p.187.n.1"><p>Compare the version of this story given in the Rhetorica ad Herennium 4, 47.  </p></note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="9"><p>
 
 When the day of the competition at last came,
 there were three of them, and Evangelus drew
@@ -359,7 +362,7 @@ him and turned him out of the theatre. Then indeed
 
 <pb n="v.3.p.189"/>
 
-that precious simpleton<note n="v.3.p.189.n.1"><p>The word χρυσοῦς, applied to a person, means “simpleton” (Lapsus1). Here, of course, it also has a punning turn.  </p></note> Evangelus cut a comical
+that precious simpleton<note xml:lang="eng" n="v.3.p.189.n.1"><p>The word χρυσοῦς, applied to a person, means “simpleton” (Lapsus1). Here, of course, it also has a punning turn.  </p></note> Evangelus cut a comical
 figure with his tears as he was chivvied across the
 stage by the scourgers, his legs all bloody from their
 whips, gathering up the gems of the lyre—for they
@@ -367,7 +370,7 @@ had dropped out when it shared his flogging.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="10"><p>
 
 After a moment’s delay, a man named Eumelus,
 from Elis, came on, who had an old lyre, fitted with
@@ -388,7 +391,7 @@ that you are not at all put out by the laughter of
 the audience. 1
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="11"><p>
 
 It would not be out of place to tell you another
 story about something that happened in Lesbos
@@ -411,7 +414,7 @@ long preserved.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="12"><p>
 
 In after time, however, Neanthus,
 the son of Pittacus the tyrant, heard how the lyre
@@ -442,7 +445,7 @@ other stringed instrument.
 <pb n="v.3.p.193"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="13"><p>
 But why do I talk to you of Orpheus and Neanthus, when even in our own time there was and still
 is, I think, a man who paid three thousand drachmas
 for the earthenware lamp of Epictetus the Stoic:
@@ -453,11 +456,11 @@ like that marvellous old man.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="14"><p>
 And only a day or
 two ago another man paid a talent for the staff which
 Proteus the Cynic laid aside before leaping into the
-fire ;<note n="v.3.p.193.n.1"><p>Peregrinus ; nicknamed Proteus because he changed his faith so readily. The story of his life and his voluntary death at Olympia is related in Lucian’s Peregrinus. </p></note> and he keeps this treasure and displays it just
+fire ;<note xml:lang="eng" n="v.3.p.193.n.1"><p>Peregrinus ; nicknamed Proteus because he changed his faith so readily. The story of his life and his voluntary death at Olympia is related in Lucian’s Peregrinus. </p></note> and he keeps this treasure and displays it just
 as the Tegeans do the skin of the Calydonian boar,
 the Thebans the bones of Geryon, and the Memphites the tresses of Isis. Yet the original owner
 of this marvellous possession surpassed even you
@@ -467,10 +470,10 @@ he needs a staff—on his pate.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="15"><p>
 
-They say that Dionysius<note n="v.3.p.193.n.2"><p>The Elder, Tyrant of Syracuse (431-367 B.C.). </p></note> used to write tragedy in
-a very feeble and ridiculous style, so that Philoxenus<note n="v.3.p.193.n.3"><p>A contemporary poet,   </p></note>
+They say that Dionysius<note xml:lang="eng" n="v.3.p.193.n.2"><p>The Elder, Tyrant of Syracuse (431-367 B.C.). </p></note> used to write tragedy in
+a very feeble and ridiculous style, so that Philoxenus<note xml:lang="eng" n="v.3.p.193.n.3"><p>A contemporary poet,   </p></note>
 was often thrown into the quarries on account of it,
 not being able to control his laughter. Well, when
 he discovered that he was being laughed at, he took
@@ -496,14 +499,14 @@ and again,
 <quote><l>Alackaday, a right good wife I’ve lost!</l></quote>
 
 —for that came from the tablet ; and so did this:
-<quote><l>'Tis of themselves alone that fools make sport.<note n="v.3.p.195.n.1"><p>The few extant fragments of Dionysius’ plays are given by Nauck, rag. Graec. Fragm. pp. 793-796. Tzetzes (Chil. 5, 180) says that he repeatedly took second and third place in the competitions at Athens, and first with the ansom of Hector. Amusing examples of his frigidity are given by Athenaeus (iii. p. 98 D).  </p></note></l></quote>
+<quote><l>'Tis of themselves alone that fools make sport.<note xml:lang="eng" n="v.3.p.195.n.1"><p>The few extant fragments of Dionysius’ plays are given by Nauck, rag. Graec. Fragm. pp. 793-796. Tzetzes (Chil. 5, 180) says that he repeatedly took second and third place in the competitions at Athens, and first with the ansom of Hector. Amusing examples of his frigidity are given by Athenaeus (iii. p. 98 D).  </p></note></l></quote>
 The last line Dionysius might have addressed to
 you with especial fitness, and those tablets of his
 should have been gilded for it.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="16"><p>
  For what expectation do you base upon your books that you are
 always unrolling them and rolling them up, glueing
 them, trimming them, smearing them with saffron and
@@ -519,7 +522,7 @@ ought to be given as wide a berth as possible.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="17"><p>
 
 Two
 things can be acquired from the ancients, the ability
@@ -531,7 +534,7 @@ buying haunts for mice and lodgings for worms, and
 excuses to thrash his servants for negligence?
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="18"><p>
 
 Furthermore, would it not be discreditable if someone, on seeing you with a book in your hand(youalways
 
@@ -547,17 +550,17 @@ some length in conversation—he should either commend or criticise something in
 should be at a loss and have nothing to say? Would
 you not then pray for the earth to open and swallow
 you for getting yourself into trouble like Bellerophon
-by carrying your book about?<note n="v.3.p.197.n.1"><p>The letter that Bellerophon carried to the King of Lycia contained a request that he be put to death : Iliad 6, 155-195. </p></note>
+by carrying your book about?<note xml:lang="eng" n="v.3.p.197.n.1"><p>The letter that Bellerophon carried to the King of Lycia contained a request that he be put to death : Iliad 6, 155-195. </p></note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="19"><p>
 
 When Demetrius, the Cynic, while in Corinth, saw
 an ignorant fellow reading a beautiful book (it was
 the Bacchae of Euripides, I dare say, and he was at
 the place where the messenger reports the fate of
-Pentheus and the deed of Agave),<note n="v.3.p.197.n.2"><p>1041 ff. </p></note> he snatched it
+Pentheus and the deed of Agave),<note xml:lang="eng" n="v.3.p.197.n.2"><p>1041 ff. </p></note> he snatched it
 away and tore it up, saying: “It is better for
 Pentheus to be torn to tatters by me once for all
 than by you repeatedly.”</p>
@@ -575,7 +578,7 @@ seaman a plough. But perhaps you regard the matter
 as a display of wealth and wish to show everyone
 that out of your vast surplus you spepd money even
 for things of no use to you? Come now, as far as I
-know—and I too am a Syrian<note n="v.3.p.197.n.3"><p>The implication is: “And therefore ought to know about your circumstances, if anyone knows.”  </p></note>—if you had not
+know—and I too am a Syrian<note xml:lang="eng" n="v.3.p.197.n.3"><p>The implication is: “And therefore ought to know about your circumstances, if anyone knows.”  </p></note>—if you had not
 
 
 
@@ -588,7 +591,7 @@ would be putting up your books at auction!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="20"><p>
 
 The
 only remaining reason is that you have been convinced by your toadies that you are not only handsome and charming but a scholar and an orator and
@@ -605,11 +608,11 @@ the nose, and believe them in everything ; for once
 you were even persuaded that you resembled a
 certain royal person in looks, like the false Alexander, the false Philip (the fuller), the false Nero in
 our grandfathers’ time, and whoever else has been
-put down under the title “false.”<note n="v.3.p.199.n.1"><p>Balas, in the second century B.c., claimed to be the brother of Antiochus V. Eupator on account of a strong resemblance in looks, and took the name of Alexander. At about the same time, after the defeat of Perses, Andriscus of Adramyttium, a fuller, claimed the name of Philip. The false Nero cropped up some twenty years after Nero’s death, and probably in the East, as he had strong support from the Parthians, who refused to surrender him to Rome. </p></note>
+put down under the title “false.”<note xml:lang="eng" n="v.3.p.199.n.1"><p>Balas, in the second century B.c., claimed to be the brother of Antiochus V. Eupator on account of a strong resemblance in looks, and took the name of Alexander. At about the same time, after the defeat of Perses, Andriscus of Adramyttium, a fuller, claimed the name of Philip. The false Nero cropped up some twenty years after Nero’s death, and probably in the East, as he had strong support from the Parthians, who refused to surrender him to Rome. </p></note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="21"><p>
 
 And what
 wonder that you, a silly, ignorant fellow, were thus
@@ -643,7 +646,7 @@ who resembled Pyrrhus.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="22"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="22"><p>
 
 As for you, I cannot say which of the profligates
 that hang about the actors in the pantomimes you
@@ -671,7 +674,7 @@ want from him.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="23"><p>
 
 But do you suppose, you rotter,
 that he is so steeped in mandragora as to hear that
@@ -708,7 +711,7 @@ behind a book? Impossible: the other earmarks of
 your sort will betray and reveal you.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="24"><p>
 
 You are completely unaware, it seems to me, that
 good expectations are not to be sought from the
@@ -725,7 +728,7 @@ dealers at least a part of the large sums you owe
 them.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="25"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="25"><p>
 For mark this, you have had a tremendous passion
 for two things, the acquisition of expensive books
 and the purchase of well-grown, vigorous slaves, and
@@ -754,11 +757,11 @@ your money so that you may be able to misconduct
 yourself at home in great security; for who could
 persuade you now to change your ways? When a
 dog has once learned to gnaw leather, he cannot
-stop.<note n="v.3.p.207.n.1"><p>Cf. <cit><quote><l>ut canis a corio nunquam absterrebitur uncto.</l></quote><bibl>Horace, Satires, ii. 5,83.</bibl></cit></p></note>
+stop.<note xml:lang="eng" n="v.3.p.207.n.1"><p>Cf. <cit><quote><l>ut canis a corio nunquam absterrebitur uncto.</l></quote><bibl>Horace, Satires, ii. 5,83.</bibl></cit></p></note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="26"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="26"><p>
 
 The other way is easier, not to buy books any
 longer. You are well enough educated ; you have
@@ -772,7 +775,7 @@ like to be gulled!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="27"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="27"><p>
 
 As you have so many books, I should like to ask
 you what you like best to read ? Plato? Antisthenes?
@@ -781,7 +784,7 @@ incline to occupy yourself with the orators? Tell
 me, do you read the speech of Aeschines against
 Timarchus? No doubt you know it all and understand everything in it, but have you dipped into
 Aristophanes and Eupolis? Have you read the
-Baptae, the whole play?<note n="v.3.p.207.n.2"><p>The Baptae of Eupolie appears to have been a satire upon the devotees of Cotys (Cotytto), a Thracian goddess worshipped with orgiastic rites.  </p></note> Then did it have no
+Baptae, the whole play?<note xml:lang="eng" n="v.3.p.207.n.2"><p>The Baptae of Eupolie appears to have been a satire upon the devotees of Cotys (Cotytto), a Thracian goddess worshipped with orgiastic rites.  </p></note> Then did it have no
 effect upon you, and did you not blush when you saw
 the point of it? Indeed, a man may well wonder
 above all what the state of your soul is when you
@@ -801,7 +804,7 @@ dare to do such a thing.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="28"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="28"><p>
 
 Leave the books alone
 and attend to your own affairs exclusively. Yet you
@@ -840,7 +843,7 @@ language and thought of their author.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="29"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="29"><p>
 
 You expect
 to palliate and conceal your ignorance by getting
@@ -872,7 +875,7 @@ their mirrors to brush it.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng1" subtype="section" n="30"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg028.perseus-eng2" subtype="section" n="30"><p>
 
 So it is with you: you
 might, to be sure, lend your books to someone else
@@ -886,7 +889,6 @@ I give myself the liberty of saying this much to
 you for the present, just about your books ; about
 your other detestable and ignominions conduct you
 shall often be told in future.
-<pb n="v.3.p.215"/>
 </p></div></div>
 
 </body></text></TEI>

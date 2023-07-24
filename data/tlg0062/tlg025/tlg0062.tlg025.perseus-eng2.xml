@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">The Dead Come to Life, or the Fisherman</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg025.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">3</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/osu.32435024202137">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianhar03luciuoft/page/4/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/osu.32435024202137?urlappend=%3Bseq=16">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,9 +69,9 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" xml:lang="eng">
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" xml:lang="eng">
 
-<head>The Dead Come to Life, or the Fisherman<note><p>This is Lucian’s reply to the storm of angry protest which
+<head>The Dead Come to Life, or the Fisherman<note xml:lang="eng"><p>This is Lucian’s reply to the storm of angry protest which
 he had evoked from the schoolmen with his Philosophies for
 Sale (II. 450 ff.), wherein, to their mind, he had unwarrantably and outrageously ridiculed the ancient philosophers and
 their doctrines.</p>
@@ -99,7 +101,7 @@ marked second part, somewhat loosely attached to the first,
 which develops a series of incidents after the plot has been
 worked out. Because of this similarity, and for many other
 reasons too, none of Lucian’s writings better serves to introduce and illustrate the Double Indictment, which follows it.</p></note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="1"><p>
 <label>SOCRATES</label>
 Pelt, pelt the scoundrel with plenty of stones!
 Heap him with clods! Pile him up with broken
@@ -108,7 +110,7 @@ Look out he doesn’t get away! Throw, Plato; you
 too, Chrysippus ; you too; everybody at once! Let’s
 charge him together.
 “Let wallet to wallet give succour, and cudgel to
-cudgel,” <note><cit>
+cudgel,” <note xml:lang="eng"><cit>
 <quote>    <l>κρῖν᾽ ἄνδρας κατὰ φῦλα, κατὰ φρήτρας, ᾿Ἀγάμεμνον,</l>    <l>ὡς φρήτρη φρήτρηφιν ἀρήγῃ, φῦλα δὲ φύλοις.</l> </quote> <bibl>Iliad2, 363</bibl></cit></note>
 for he is our joint enemy, and there is not a man
 of us whom he has not outraged. Diogenes, ply
@@ -128,7 +130,7 @@ fury of battle.</l>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="2"><p>
 
 Aristotle, make haste! Still faster! That’s well; the
 game is bagged. We have you, villain! you shall
@@ -164,21 +166,21 @@ And you, Empedocles—what do you suggest ?
 
 </p>
 <p><label>EMPEDOCLES</label>
-That he be thrown into my crater,<note n="v.3.p.5.n.1"><p>Aetna, into which Eimpedocles is said to have leapt. </p></note> so that he may
+That he be thrown into my crater,<note xml:lang="eng" n="v.3.p.5.n.1"><p>Aetna, into which Eimpedocles is said to have leapt. </p></note> so that he may
 learn not to abuse his betters.
 </p>
 <p><label>PLATO</label>
 Indeed, the best suggestion would have been for
 him, like another Pentheus or Orpheus,
-“To find among the crags a riven doom,”<note n="v.3.p.5.n.2"><p>Both Pentheus and Orpheus were torn to ieces by Maenads. The verse is from a lost tragedy (Nauck, Fr Fragm. p. 895). </p></note>
+“To find among the crags a riven doom,”<note xml:lang="eng" n="v.3.p.5.n.2"><p>Both Pentheus and Orpheus were torn to ieces by Maenads. The verse is from a lost tragedy (Nauck, Fr Fragm. p. 895). </p></note>
 so that each of us might have gone off with a scrap
 of him.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="3"><p>
 <label>FRANKNESS</label>
-No, no! In the name of Him who hears the suppliant,<note n="v.3.p.5.n.3"><p>Zeus.  </p></note> spare me!
+No, no! In the name of Him who hears the suppliant,<note xml:lang="eng" n="v.3.p.5.n.3"><p>Zeus.  </p></note> spare me!
 
 
 
@@ -283,7 +285,7 @@ Yes, by Heaven! Anyhow, he himself says :
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="4"><p>
 <label>FRANKNESS</label>
 Well, then, as you are absolutely determined to
 kill me and there is no possibility of my escaping,
@@ -305,13 +307,13 @@ who says nothing, Diogenes, and everyone that you
 vilified in your dialogues.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="5"><p>
 <label>FRANKNESS</label>
 I breathe again, for you will not put me to death
 if you understand how I have acted as regards you.
 So throw away your stones; or better, keep them.
 You will make use of them against those who
-deserve them.<note n="v.3.p.9.n.1"><p>It is curious that this suggestion, though emphasized by being repeated (§ 11), is not worked out. </p></note>
+deserve them.<note xml:lang="eng" n="v.3.p.9.n.1"><p>It is curious that this suggestion, though emphasized by being repeated (§ 11), is not worked out. </p></note>
 
 
 <pb n="v.3.p.11"/>
@@ -348,7 +350,7 @@ of all your insolent and intemperate language ?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="6"><p>
 
 <label>FRANKNESS</label>
 Where, pray, and when have I insulted you? I have
@@ -378,7 +380,7 @@ he the giver of the bow !
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="7"><p>
 <label>PLATO</label>
 That speech of yours is good rhetoric, my fine
 fellow ; but it is directly against your case and only
@@ -394,7 +396,7 @@ to die.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="8"><p>
 <label>FRANKNESS</label>
 See! You give me an angry-hearing, and you
 reject every just plea! Yet I should never have
@@ -424,11 +426,11 @@ you against me.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="9"><p>
 
 <label>PLATO</label>
 There we have it! “Cavalry into the open,” so that
-you may give the slip to the jury and get away.<note n="v.3.p.15.n.1"><p>As cavalry seeks open country to maneuvre in, so the lawyer seeks the courtroom. Compare Plato, Theaetetus, 183d: ἱππέας εἰς πεδίον προκαλεῖ, Σωκράτη εἰς λόγους προκαλούμενος.  </p></note> At
+you may give the slip to the jury and get away.<note xml:lang="eng" n="v.3.p.15.n.1"><p>As cavalry seeks open country to maneuvre in, so the lawyer seeks the courtroom. Compare Plato, Theaetetus, 183d: ἱππέας εἰς πεδίον προκαλεῖ, Σωκράτη εἰς λόγους προκαλούμενος.  </p></note> At
 any rate, they say that you are an orator and a
 lawyer and a wizard at making speeches. And whom
 do you wish to be judge, what is more? It must be
@@ -457,7 +459,7 @@ so much the better of you in the justice of my case
 and expect to be so over-stocked with pleas.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="10"><p>
 <label>PLATO</label>
 What shall we do, Pythagoras and Socrates ?
 Really, the man seems to be making a reasonable
@@ -473,7 +475,7 @@ them if we stone a man who has had no opportunity
 even to plead his case, especially as we ourselves
 maintain that we delight in just dealing. What
 could we say of Anytus and Meletus, who prosecuted me, or of the jurors on that occasion, if this
-fellow is to die without getting any hearing at all?<note n="v.3.p.17.n.1"><p>Literally, "without getting any water at all"; i.e. any of the time ordinarily allowed for court speeches, which was apportioned with a water-clock.  </p></note>
+fellow is to die without getting any hearing at all?<note xml:lang="eng" n="v.3.p.17.n.1"><p>Literally, "without getting any water at all"; i.e. any of the time ordinarily allowed for court speeches, which was apportioned with a water-clock.  </p></note>
 <label>PLATO</label>
 Excellent advice, Socrates; so let us go and get
 Philosophy. She shall judge, and we shall be content
@@ -484,7 +486,7 @@ with her decision, whatever it may be.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="11"><p>
 
 <label>FRANKNESS</label>
 Well done, most learned sirs; this course is better
@@ -504,7 +506,7 @@ to find her house.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="12"><p>
 Often, either by guesswork on my own part or
 under the guidance of someone else; I would go to a
 door in the firm belief that at last I had found it,
@@ -536,7 +538,7 @@ nose, but by the beard, and who, like Ixion, embraced but a phantom and not Hera
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="13"><p>
 <label>PLATO</label>
 You are right in one point: the door is not
 conspicuous and not known to all. However, there
@@ -560,7 +562,7 @@ speaking.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="14"><p>
 
 <label>PHILOSOPHY</label>
 Ah! What are you all doing in the upper world,
@@ -604,7 +606,7 @@ what sort of language he used in public against us.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="15"><p>
 
 <label>PHILOSOPHY</label>
 Then you intend to put him to death before
@@ -650,7 +652,7 @@ get a bird’s eye view of everything in the city.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="16"><p>
 
 You, my dears, may walk about in the Painted
 Porch meanwhile: I shall join you after concluding
@@ -689,7 +691,7 @@ particularly one that will involve our own interests.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="17"><p>
 <label>TRUTH</label>
 You others go: I do not-need to hear what I
 have long known all about.
@@ -728,7 +730,7 @@ Come, all of you, since you appear to be necessary
 to the case.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="18"><p>
 <label>PLATO</label>
 Do you see that? He is suborning Truth against
 us, Philosophy.
@@ -750,7 +752,7 @@ have Justice here with us.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="19"><p>
 Let us go up, then.
 But tell me, what is your name ?
 </p>
@@ -766,13 +768,13 @@ I am a Syrian, Philosophy, from the banks of the
 Euphrates. But what of that? I know that some
 of my opponents here are just as foreign-born as I:
 but in their manners and culture they are not like
-men of Soli or Cyprus or Babylon or Stageira.<note n="v.3.p.31.n.1"><p>Although they were born there: Chrysippus in Soli, Aristotle in Stageira. No philosopher. mentioned: by name in this piece came from Cyprus or from Babylon, and these allusions are not clear. Perhaps Lucian has in mind Zeno of Citium and Poseidonius of Seleucia on the Tigris.  </p></note> Yet
+men of Soli or Cyprus or Babylon or Stageira.<note xml:lang="eng" n="v.3.p.31.n.1"><p>Although they were born there: Chrysippus in Soli, Aristotle in Stageira. No philosopher. mentioned: by name in this piece came from Cyprus or from Babylon, and these allusions are not clear. Perhaps Lucian has in mind Zeno of Citium and Poseidonius of Seleucia on the Tigris.  </p></note> Yet
 as far as you are concerned it would make no difference even if a man’s speech were foreign, if only his
 way of thinking were manifestly right and just.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="20"><p>
 <label>PHILOSOPHY</label>
 True: it was a needless question, to be sure. But
 what is your calling? That at least is worth
@@ -816,12 +818,12 @@ and to commend and love honest men.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="21"><p>
 
 <label>PHILOSOPHY</label>
 Come, now, since we are where we planned to be,
 let us hold our court somewhere hereabouts in the
-portico of Our Lady of the Citadel.<note n="v.3.p.33.n.1"><p>Athena Polias, who shared with Erechtheus the temple now known as the Erechtheum.  </p></note> Priestess,
+portico of Our Lady of the Citadel.<note xml:lang="eng" n="v.3.p.33.n.1"><p>Athena Polias, who shared with Erechtheus the temple now known as the Erechtheum.  </p></note> Priestess,
 arrange the benches for us. Let us in the meantime
 pay our homage to the goddess.
 
@@ -836,11 +838,11 @@ do thou alone seest, dwelling as thou dost upon a
 lookout. Now is thine hour to requite them. If
 thou seest that I am being overborne, and that the
 black ballots are more than the half, add thou thine
-own and set me free.<note n="v.3.p.35.n.1"><p>Frankness aske of Athena more aid than she generally gave ; for the proverbial ballot of Athena merely decided a tie vote in favour of the defendant, as in the trial of Orestes.  </p></note>
+own and set me free.<note xml:lang="eng" n="v.3.p.35.n.1"><p>Frankness aske of Athena more aid than she generally gave ; for the proverbial ballot of Athena merely decided a tie vote in favour of the defendant, as in the trial of Orestes.  </p></note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="22"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="22"><p>
 
 <label>PHILOSOPHY</label>
 Well and good. Here we are for you, gentlemen,
@@ -874,7 +876,7 @@ not be punished.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="23"><p>
 <label>PLATO</label>
 No, let us make use of someone more strenuous—
 Diogenes here, or Antisthenes, or Crates, or you
@@ -909,7 +911,7 @@ no better than this man made them out to be.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="24"><p>
 
 <label>DIOGENES</label>
 Do not be alarmed ; we shall not come short: I
@@ -922,11 +924,11 @@ we do not carry sticks for nothing !
 <p><label>PHILOSOPHY</label>
 Not by .any means! Use arguments, rather, for
 that is better. Butdo notdelay. The water already
-has been poured in,<note n="v.3.p.39.n.1"><p>i.e, the water-clock has been filled. </p></note> and the jury has its eyes upon
+has been poured in,<note xml:lang="eng" n="v.3.p.39.n.1"><p>i.e, the water-clock has been filled. </p></note> and the jury has its eyes upon
 you.
 </p>
 <p><label>FRANKNESS</label>
-Let the others<note n="v.3.p.39.n.2"><p>The rest of the philosophers, who are to sit on the jury (§ 9).  </p></note> take seats, Philosophy, and cast
+Let the others<note xml:lang="eng" n="v.3.p.39.n.2"><p>The rest of the philosophers, who are to sit on the jury (§ 9).  </p></note> take seats, Philosophy, and cast
 their votes with your company, and let Diogenes be
 the only prosecutor.
 </p>
@@ -943,7 +945,7 @@ seats, and you, Diogenes, begin your speech.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="25"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="25"><p>
 
 <label>DIOGENES</label>
 What sort of men we were in life, Philosophy, you
@@ -982,13 +984,13 @@ The playwrights, however, showed their boldness
 against only one man, and at the Dionysia, when it
 was’ permissible to do so, and the joking was
 considered part of the holiday, and
-<quote><l>The god, who loves his joke, no doubt was pleased.<note n="v.3.p.41.n.1"><p>Author unknown.  </p></note></l></quote>
+<quote><l>The god, who loves his joke, no doubt was pleased.<note xml:lang="eng" n="v.3.p.41.n.1"><p>Author unknown.  </p></note></l></quote>
 
 
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="26"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="26"><p>
 
 But this man brings the best people together, after a
 long period of thinking and preparing and writing
@@ -1008,7 +1010,7 @@ instead of starting the quarrel.</p>
 What is worst of all, in doing this sort of thing,
 Philosophy, he shelters himself under your name,
 and he has suborned Dialogue, our serving-man, employing him against us as a helper and a spokesman.
-Moreover, he has actually bribed Menippus,<note n="v.3.p.43.n.1"><p>The Cynic, of Gadara: Lucian’s chief predecessor in satirical prose.  </p></note>a comrade
+Moreover, he has actually bribed Menippus,<note xml:lang="eng" n="v.3.p.43.n.1"><p>The Cynic, of Gadara: Lucian’s chief predecessor in satirical prose.  </p></note>a comrade
 of ours, to take part in his farces frequently ; he is
 the only one who is not here and does not join us
 in the prosecution, thereby playing traitor to our
@@ -1016,7 +1018,7 @@ common cause.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="27"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="27"><p>
 
 For all this he ought to be punished. What, pray,
 can he have to say for himself after ridiculing all that
@@ -1043,7 +1045,7 @@ insulted to the limit.
 <pb n="v.3.p.45"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="28"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="28"><p>
 <label>PLATO</label>
 Good, Diogenes! You have splendidly said all
 that you ought on behalf of us all.
@@ -1056,7 +1058,7 @@ delay, then.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="29"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="29"><p>
 
 <label>FRANKNESS</label>
 Diogenes did not complete the complaint against
@@ -1091,7 +1093,7 @@ protection.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="30"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="30"><p>
 
 Hardly had I caught a glimpse of “your doctrines
 when I conceived admiration for you, as was inevitable,
@@ -1102,11 +1104,11 @@ and extremely helpful if one does not act contrary to
 it or falter, but fixedly regards the principles which
 you have established and tries to bring his life into
 harmony and agreement with them—a thing, to be
-sure, which very few, even of your own disciples, do !<note n="v.3.p.47.n.1"><p>I give Fritzsche’s interpretation of this last clause, though I fear it strains the Greek and is foreign to Lucian’s thought. Another, and I think a better, solution is to excise the clause as an early gloss, reading jas and interpreting it more naturally, “a thing which very few, even in our own time, do.” Compare the late gloss in β:  τί ταῦτατοῖς καθ' ἡμᾶς ἔοικε μονάχοις.  </p></note>
+sure, which very few, even of your own disciples, do !<note xml:lang="eng" n="v.3.p.47.n.1"><p>I give Fritzsche’s interpretation of this last clause, though I fear it strains the Greek and is foreign to Lucian’s thought. Another, and I think a better, solution is to excise the clause as an early gloss, reading jas and interpreting it more naturally, “a thing which very few, even in our own time, do.” Compare the late gloss in β:  τί ταῦτατοῖς καθ' ἡμᾶς ἔοικε μονάχοις.  </p></note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="31"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="31"><p>
 When I saw, however, that many were not in love
 with Philosophy, but simply coveted the reputation
 of the thing, and that although in all the obvious,
@@ -1132,7 +1134,7 @@ club for making him out so disgracefully effeminate.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="32"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="32"><p>
 
 Just so with me; when I saw you so treated by
 those others, I could not brook the shame, of their
@@ -1162,7 +1164,7 @@ suffered judgment by default along with him and
 became involved in the same scandal.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="33"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="33"><p>
 I could not endure this spectacle, but set about
 exposing them and distinguishing them from you ;
 and you, who ought to reward me for it, bring me
@@ -1187,7 +1189,7 @@ forfend! how shameful !
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="34"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="34"><p>
 
 It is most extraordinary, too, that most of them
 are thoroughly up in your writings, but live as if they
@@ -1219,7 +1221,7 @@ up such beasts.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="35"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="35"><p>
 
 Most shameless of all, though each one of them
 says he needs nothing and bawls it abroad that only
@@ -1247,7 +1249,7 @@ class-rooms.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="36"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="36"><p>
  Each of them is your friend as long
 as silver and gold are not in sight on the table;
 but if you merely give them a glimpse of an obol,
@@ -1279,7 +1281,7 @@ spectators.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="37"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="37"><p>
 
 These self-styled philosophers do just that, and I
 for my part abused their sort, and shall never
@@ -1297,7 +1299,7 @@ you say? Have their sort anything to do with you,
 
 ov have they displayed any similarity or kinship in
 their mode of life ? Aye, “Heracles and the monkey,
-as the proverb has it!<note n="v.3.p.57.n.1"><p>You are no more like these men than Heracles was like the monkey that wore the lion’s skin. Cf. § 32, and Lover of Lies, § 5.  </p></note> Because they have long
+as the proverb has it!<note xml:lang="eng" n="v.3.p.57.n.1"><p>You are no more like these men than Heracles was like the monkey that wore the lion’s skin. Cf. § 32, and Lover of Lies, § 5.  </p></note> Because they have long
 beards and claim to be philosophers and look sour,
 ought they to be compared with you? [could have:
 put up with it if they were at least convincing in
@@ -1311,7 +1313,7 @@ defence. Truth, tell them whether it is true.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="38"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="38"><p>
 <label>PHILOSOPHY</label>
 Stand aside, Frankness ; still farther ... What are
 we to do? What did you think of the man’s speech ?
@@ -1339,7 +1341,7 @@ And what say you ?
 <label>PLATO</label>
 What else but to acquit him of the charge and set
 him down as our friend and benefactor? Indeed, just
-what happened to the Ilians<note n="v.3.p.59.n.1"><p>The latter-day Trojans.  </p></note> has happened to us—
+what happened to the Ilians<note xml:lang="eng" n="v.3.p.59.n.1"><p>The latter-day Trojans.  </p></note> has happened to us—
 we have brought down upon ourselves an actor of
 tragedies to hold forth about the woes of the Trojans !
 Let him hold forth, then, and make tragedies out
@@ -1352,7 +1354,7 @@ a gallant fellow.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="39"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="39"><p>
 
 <label>PHILOSOPHY</label>
 Good! Come, Frankness. We acquit you of the
@@ -1391,7 +1393,7 @@ Syllogism, my lad, and summon the philosophers.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="40"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="40"><p>
 
 <label>SYLLOGISM</label>
 Oyez! Silence! Let the philosophers come to the
@@ -1411,7 +1413,7 @@ you think best.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="41"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="41"><p>
 
 <label>FRANKNESS</label>
 Nothing hard about that. Oyez! Silence! All
@@ -1436,17 +1438,17 @@ without these it is impossible to be wise.
 <pb n="v.3.p.63"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="42"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="42"><p>
 
 <label>PHILOSOPHY</label>
 Aha! What a lot of them! The road up to the gate
 is full of men hustling after the two minas, as soon
 as they heard of them; others are coming up beside
-the Pelasgicon;<note n="v.3.p.63.n.1"><p>The prehistoric wall of the Acropolis. Only tumble-down pieces were then to be seen (cf. § 47). The bit. referred to here was at the north-west corner, by the cave of Pan (Double Indictment, § 9). </p></note> others by the precinct of Asclepius;<note n="v.3.p.63.n.2"><p>On the south slope, near the theatre of Dionysus. </p></note>
-even more of them along the Areopagus ;<note n="v.3.p.63.n.3"><p>To the west, near the main entrance. </p></note> some, too,
-by the tomb of Talus ;<note n="v.3.p.63.n.4"><p>Talus (or Calus) was nephew of Daedalus, who out of jealousy threw him down the cliff. Certain stones at the back of the theatre of Dionysus are thought to belong to his tomb. </p></note> and some have set ladders
-against the temple of the Twin Brethren<note n="v.3.p.63.n.5"><p>North side: exact site uncertain. </p></note> and are
-climbing up with a hum, by Heaven, and “in clusters” like swarming bees, to use the words of Homer ;<note n="v.3.p.63.n.6"><p>Iliad 2, 89.   </p></note> from that side right many, and from the other
+the Pelasgicon;<note xml:lang="eng" n="v.3.p.63.n.1"><p>The prehistoric wall of the Acropolis. Only tumble-down pieces were then to be seen (cf. § 47). The bit. referred to here was at the north-west corner, by the cave of Pan (Double Indictment, § 9). </p></note> others by the precinct of Asclepius;<note xml:lang="eng" n="v.3.p.63.n.2"><p>On the south slope, near the theatre of Dionysus. </p></note>
+even more of them along the Areopagus ;<note xml:lang="eng" n="v.3.p.63.n.3"><p>To the west, near the main entrance. </p></note> some, too,
+by the tomb of Talus ;<note xml:lang="eng" n="v.3.p.63.n.4"><p>Talus (or Calus) was nephew of Daedalus, who out of jealousy threw him down the cliff. Certain stones at the back of the theatre of Dionysus are thought to belong to his tomb. </p></note> and some have set ladders
+against the temple of the Twin Brethren<note xml:lang="eng" n="v.3.p.63.n.5"><p>North side: exact site uncertain. </p></note> and are
+climbing up with a hum, by Heaven, and “in clusters” like swarming bees, to use the words of Homer ;<note xml:lang="eng" n="v.3.p.63.n.6"><p>Iliad 2, 89.   </p></note> from that side right many, and from the other
 
 <cit><quote><l>Thousands of men, like the leaves and the flowers
 that come in the springtime.</l></quote><bibl>Iliad2, 468.</bibl></cit>
@@ -1486,7 +1488,7 @@ That shall be seen to presently; but let us welcome them now.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="43"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="43"><p>
 
 <label>PLATONIST</label>
 We Platonists should get our share first.
@@ -1516,7 +1518,7 @@ Not while we Stoics are here!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="44"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="44"><p>
 <label>PHILOSOPHY</label>
 Stop your bickering! You Cynics, do not jostle
 one another or strike each other with your staves.
@@ -1541,7 +1543,7 @@ they did not fear the trial.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="45"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="45"><p>
 
 Attendants, pick up the
 bag which the Cynic threw away in the rout. Come,
@@ -1576,7 +1578,7 @@ good.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="46"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="46"><p>
 
 <label>TRUTH</label>
 If you think best, let us empower Frankness himself to do this, since we have seen that he is honest
@@ -1585,7 +1587,7 @@ admires you, Philosophy—to take along Investigation and put himself in the way
 to be philosophers. Then, whenever he finds a truly
 legitimate son of Philosophy, let him crown the
 man with a wreath of green olive and invite him
-to the Prytaneum;<note n="v.3.p.69.n.1"><p>To be maintained at public expense, as Socrates thought he should have been.  </p></note> and if he meets a scoundrel
+to the Prytaneum;<note xml:lang="eng" n="v.3.p.69.n.1"><p>To be maintained at public expense, as Socrates thought he should have been.  </p></note> and if he meets a scoundrel
 whose philosophy is but stage-play—there are many
 of that sort—let him tear his mantle, cut off his
 beard close to the skin with goat-shears, and stamp or
@@ -1607,7 +1609,7 @@ cutting off his beard in accordance with our decision.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="47"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="47"><p>
 
 <label>FRANKNESS</label>
 It shall be done, Philosophy. You shall very soon
@@ -1653,7 +1655,7 @@ up quantities of fish!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="48"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="48"><p>
 
 Ah! I see a fine big pike, or
 rather, a golden carp.—No, it is a cat-fish. Anyhow,
@@ -1668,7 +1670,7 @@ with me!
 </p>
 <p><label>INVESTIGATION</label>
 He isup! Come, let me see what you are, my
-good fish. A dogfish !<note n="v.3.p.73.n.1"><p>i.e, a Cynic.  </p></note> Heracles, what teeth! How
+good fish. A dogfish !<note xml:lang="eng" n="v.3.p.73.n.1"><p>i.e, a Cynic.  </p></note> Heracles, what teeth! How
 about it, my fine fellow? Caught, were you, gormandizing about the rocks, where you hoped to slip
 under cover and keep out of sight? But now you
 will be in public view, hung up by the gills! Let
@@ -1701,17 +1703,17 @@ till it breaks.
 
 <label>FRANKNESS</label>
 Have no fear, Diogenes. They are light, and pull
-no harder than weakfish.<note n="v.3.p.75.n.1"><p>Lucian puns upon ἀφύη (a small fish, sprat) and ἀφυή (dull, stupid). </p></note>
+no harder than weakfish.<note xml:lang="eng" n="v.3.p.75.n.1"><p>Lucian puns upon ἀφύη (a small fish, sprat) and ἀφυή (dull, stupid). </p></note>
 <label>DIOGENES</label>
 Aye, they are mighty weak, for certain ; pull them
 up, however.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="49"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="49"><p>
 <label>FRANKNESS</label>
 See! Here comes another fish that looks like a
-plate,<note n="v.3.p.75.n.2"><p>The pun here is upon Πλάτων and πλατύς (flat). </p></note> as if he were sliced lengthways, a sort of
+plate,<note xml:lang="eng" n="v.3.p.75.n.2"><p>The pun here is upon Πλάτων and πλατύς (flat). </p></note> as if he were sliced lengthways, a sort of
 flatfish, opening his mouth for the hook. He has
 swallowed it; he is caught. Up with him! What
 is he?
@@ -1726,7 +1728,7 @@ him?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="50"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="50"><p>
 
 
 <label>PLATO</label>
@@ -1736,7 +1738,7 @@ another.
 <p><label>FRANKNESS</label>
 Ah, I see a very handsome one coming up, as far as
 can be judged in the deep water ; of many colours,
-with golden stripes on his back.<note n="v.3.p.75.n.3"><p>The Peripatetics were criticized for love of gay clothing and gold.  </p></note> Do you see him,
+with golden stripes on his back.<note xml:lang="eng" n="v.3.p.75.n.3"><p>The Peripatetics were criticized for love of gay clothing and gold.  </p></note> Do you see him,
 Investigation ?
 </p>
 <p><label>INVESTIGATION</label>
@@ -1762,12 +1764,12 @@ Then he too shall go over the cliff, Aristotle.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="51"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="51"><p>
 
 But
 look here! I see a great number of fish closely alike
 in colour, spiny and rough-skinned, harder to grasp
-than sea-urchins.<note n="v.3.p.77.n.1"><p>Stoics, then the most numerous school. They themselves were uncouth, and their doctrines spiny.  </p></note> Shall we need a seine for them?
+than sea-urchins.<note xml:lang="eng" n="v.3.p.77.n.1"><p>Stoics, then the most numerous school. They themselves were uncouth, and their doctrines spiny.  </p></note> Shall we need a seine for them?
 </p>
 <p><label>PHILOSOPHY</label>
 But we haven't any. It will be enough if we
@@ -1817,7 +1819,7 @@ him might get a hole in his gullet.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng1" subtype="section" n="52"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg025.perseus-eng2" subtype="section" n="52"><p>
 
 
 <label>PHILOSOPHY</label>
@@ -1850,7 +1852,6 @@ olive, but many brands.
 
 
 
-<pb n="v.3.p.85"/>
 </p></div></div>
 
 </body></text></TEI>

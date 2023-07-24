@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">The Fly</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg006.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">1</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604153">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianha01luciuoft/page/82/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604153?urlappend=%3Bseq=94">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,15 +69,16 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg006.perseus-eng1" xml:lang="eng">
-<head>The Fly<note>It need hardly be said that this belongs to the domain of belles lettres, not of science. Like the Italian poets of the Renaissance, the rhetoricians of the decadence delighted to show their cunning by “praising” all manner of things good, bad, and indifferent.</note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng1" subtype="section" n="1"><p>
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg006.perseus-eng2" xml:lang="eng">
+<pb n="v.1.p.83"/>
+<head>The Fly<note xml:lang="eng">It need hardly be said that this belongs to the domain of belles lettres, not of science. Like the Italian poets of the Renaissance, the rhetoricians of the decadence delighted to show their cunning by “praising” all manner of things good, bad, and indifferent.</note></head>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng2" subtype="section" n="1"><p>
 The fly is not the smallest of winged creatures, at
 least in comparison with gnats and midges and things
 still tinier. On the contrary, she is as much larger
 than they as she is smaller than the bee. She is not
 provided with feathers like the birds,
-<note n="1">Lit. “like the rest (of the ὄρνεα),” which is illogical.
+<note xml:lang="eng" n="1">Lit. “like the rest (of the ὄρνεα),” which is illogical.
 Perhaps ἀετοῖς should be written.</note>
 so as to have
 some for plumage all over her body, and others to fly
@@ -88,7 +91,7 @@ them and flies in the sun.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng2" subtype="section" n="2"><p>
 
 She does not fly like
 bats with a steady, oar-like movement of the wings,
@@ -101,7 +104,7 @@ nor deep-toned like that of bees, nor fierce and
 
 
 
-<pb n="85"/>
+<pb n="v.1.p.85"/>
 
 threatening like that of wasps; it is much more
 melodious, just as flutes are sweeter than trumpet
@@ -109,7 +112,7 @@ and cymbals.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng2" subtype="section" n="3"><p>
 
 As for her body, the head is very
 delicately attached to the neck and so is easily
@@ -135,7 +138,7 @@ just as we human beings do.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng2" subtype="section" n="4"><p>
 The fly is not born in the form which I have described, but as a maggot from the dead bodies of men
 or animals. Then, little by little, she puts out
 legs, grows her wings, changes from a creeping
@@ -143,7 +146,7 @@ to a flying thing, is impregnated and becomes mother
 to a little maggot which is to-morrow’s fly. Living
 
 
-<pb n="87"/>
+<pb n="v.1.p.87"/>
 
 in the society of man, on the same. food and at the
 same table, she eats everything except oil: to taste
@@ -155,7 +158,7 @@ sing, but hides away and is still.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng2" subtype="section" n="5"><p>
 I can also mention
 her great intelligence in escaping her designing foe,
 the spider. She watches for him lurking in ambush,
@@ -164,21 +167,21 @@ so as not to be captured by being ensnared and
 falling into the toils of the creature. Of her courage
 and bravery it is not for me to speak, but for Homer,
 the most mighty-mouthed of the poets ; for when he ,
-seeks to praise the foremost of the heroes, <note n="1">(Iliad 17, 570, Menelaus), into whose heart Athena
+seeks to praise the foremost of the heroes, <note xml:lang="eng" n="1">(Iliad 17, 570, Menelaus), into whose heart Athena
 "puts the boldness of the fly.”</note>
 he does
 not compare his bravery to a lion’s or a leopard’s or
 a wild boar’s, but to the fearlessness of the fly and
 the daring and insistency of her attack. He does
 not say that she is reckless, but fearless :
-<note n="2">The distinction (unknown to Homer) is between thrasos
+<note xml:lang="eng" n="2">The distinction (unknown to Homer) is between thrasos
 and tharsos.</note>
 that even
 if she is kept away she does not desist but is eager
 to bite. So outspoken is he in his praise and fondness for the fly that he mentions her net merely
 once or twice but often; in consequence, references
 to her enhance the beauty of his poems. Now he
-describes her swarming flight after milk ;<note>
+describes her swarming flight after milk ;<note xml:lang="eng">
 <cit><quote><l>the many hordes of clustering flies</l>
 <l>That dart about the sheepfolds in the spring,</l>
 <l>When pails are wet with milk.</l>
@@ -193,21 +196,21 @@ describes her swarming flight after milk ;<note>
 
 
 
-<pb n="89"/>
+<pb n="v.1.p.89"/>
 
 Athena turns the arrow aside from Menelaus in order
 that it may not strike a vital spot, he likens her to a
 mother tending a sleeping child, and again introduces
-the fly into the comparison.<note n="1">Iliad 4, 130.</note>
+the fly into the comparison.<note xml:lang="eng" n="1">Iliad 4, 130.</note>
 Moreover, he has adorned
 them with fine epithets in calling them “clustering”
 and their swarms “hordes.”
 
-<note n="2">Iliad 2, 469.</note>
+<note xml:lang="eng" n="2">Iliad 2, 469.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng2" subtype="section" n="6"><p>
 So strong is the fly that when she bites she
 wounds the skin of the ox and the horse as well as
 that of man. She even torments the elephant by
@@ -224,7 +227,7 @@ the breath of life.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng2" subtype="section" n="7"><p>
 You may be sure I propose to mention the most
 important point in the nature of the fly. It is, I
 think, the only point that Plato overlooks in his
@@ -239,14 +242,14 @@ of Clazomenae would often leave him and go away
 
 
 
-<pb n="91"/>
+<pb n="v.1.p.91"/>
 
 by itself, and then, returning, would occupy his
 body again and restore him to life.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng2" subtype="section" n="8"><p>
 
 Knowing not labour and living at large, the. fly
 enjoys the fruits of the toil of others, and finds a
@@ -259,7 +262,7 @@ and all their enjoyment.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng2" subtype="section" n="9"><p>
 
 She does not make a nest
 or habitation in any one place, but taking up a
@@ -271,7 +274,7 @@ of disgraceful deeds which would discredit her if
 they were done by daylight.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng2" subtype="section" n="10"><p>
 The story goes that long ago there was a human
 being called Muia, a girl who was very pretty, but
 talkative, noisy, and fond of singing. She became a
@@ -280,7 +283,7 @@ as she was for ever waking the boy out of his sleep
 by chattering and singing and paying him visits, he
 became vexed at her, and Selene in anger turned
 her into the fly we know.
-<note n="1">The story explains the word μυῖα, “fly,” as having been
+<note xml:lang="eng" n="1">The story explains the word μυῖα, “fly,” as having been
 originally the name of a girl.</note>
 So, in remembrance of
 Endymion, she begrudges all sleepers their repose,
@@ -289,20 +292,20 @@ biting and bloodthirstiness is not a sign of savagery,
 but of love and friendship. She gets what
 
 
-<pb n="93"/>
+<pb n="v.1.p.93"/>
 
 satisfaction she can, and culls something of the bloom of
 beauty.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng2" subtype="section" n="11"><p>
 
 According to the ancients she has had two
 namesakes, a very pretty and accomplished poetess
 and a famous Athenian courtesan. It was the
 latter whom the comic poet meant when he said,
-“Yon fly him to the heart did bite.”<note n="1">Unknown (Kock, adesp. 475).</note> From this
+“Yon fly him to the heart did bite.”<note xml:lang="eng" n="1">Unknown (Kock, adesp. 475).</note> From this
 you see that comic wit has not disdained the name
 of fly nor barred it from the boards, and that parents
 have not been ashamed to give it to their daughters.
@@ -318,13 +321,13 @@ lance!</l></quote>
 <bibl>unknown (Nauck, Tag. Graec. Fragm., adesp.</bibl></cit>
 I could also say a great deal about Muia, the Pytha
 gorean, if her story were not known to everyone.
-<note n="3">Very little of her story is known to us. She is said to
+<note xml:lang="eng" n="3">Very little of her story is known to us. She is said to
 have been daughter of Pythagoras and wife of Milo, the
 athlete of Croton.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg006.perseus-eng2" subtype="section" n="12"><p>
 
 There are very large flies, too, which most
 people call camp-flies, though some call them
@@ -337,7 +340,7 @@ hiding in the roof. Another surprising thing in
 
 
 
-<pb n="95"/>
+<pb n="v.1.p.95"/>
 
 them is that they are bisexual, like the child of
 Hermes and Aphrodite, who had two natures and
@@ -347,13 +350,12 @@ talking, for fear you may think that, as the saying
 goes, I am making an elephant out of a fly.
 
 
-<pb n="97"/>
+<pb n="v.1.p.97"/>
 
-<note>Except through Lucian, nothing is known of this philosopher. Some have sought to identify him with one Albinus,
+<note xml:lang="eng">Except through Lucian, nothing is known of this philosopher. Some have sought to identify him with one Albinus,
 about whom we have scarcely any information, and others
 have thought him a child of Lucian’s fancy. But it is quite possible that he really existed, and led, as Lucian says, a
 life of retirement.</note>
 
-<pb n="99"/>
 </p></div></div>
 </body></text></TEI>

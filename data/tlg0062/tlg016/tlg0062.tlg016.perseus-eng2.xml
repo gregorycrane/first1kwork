@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">The Downward Journey, or the Tyrant</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg016.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">2</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604154">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianhar02luciuoft/page/4/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604154?urlappend=%3Bseq=18">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,8 +69,8 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" xml:lang="eng">
-<head>The Downward Journey, or the Tyrant<note><p>A scene in the realm of Hades, showing that cobblers fare
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" xml:lang="eng">
+<head>The Downward Journey, or the Tyrant<note xml:lang="eng"><p>A scene in the realm of Hades, showing that cobblers fare
 better there than kings. The lower world is depicted also in
 the Menippus and in the Dialogues of the Dead. All these
 pleces were deeply influenced by Cynic satire and in particular by the Necyia of Menippus. Helm maintains that the
@@ -82,7 +84,7 @@ Spinning destinies up aloft as in the Charon, two of them are
 given a share in the convoying of souls to the underworld,Atropos turning them over to Hermes and C lotho presiding
 over their reception at the ferry. Clotho’s function thus in
 great measure duplicates that assigned to Aeacus.</p></note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="1"><p>
 
 <label>CHARON</label>
 Well, Clotho, we have had this boat all ship-shape
@@ -97,7 +99,7 @@ trips to-day by this time, and here it is almost dusk
 and I haven’t earned even an obol yet. Besides,
 Pluto will surely think I am taking it easy all this
 time, when really someone else is to blame. Our
-honourable guide of souls<note n="v.2.p.3.n.1">Hermes.</note> has had a drink of Lethewater up there if ever a man did, and so has forgotten
+honourable guide of souls<note xml:lang="eng" n="v.2.p.3.n.1">Hermes.</note> has had a drink of Lethewater up there if ever a man did, and so has forgotten
 to come back to us: he is either wrestling a fall with
 the boys or playing a tune on the lyre or making
 speeches to show off his command of piflle, or maybe
@@ -107,11 +109,11 @@ one of his accomplishments also. Anyhow, he takes
 <pb n="v.2.p.5"/>
 
 liberties with us as if he were free, when really
-he is half ours.<note n="v.2.p.5.n.1">Like a slave in the upper world, Charon identifies himself with his master Pluto.</note>
+he is half ours.<note xml:lang="eng" n="v.2.p.5.n.1">Like a slave in the upper world, Charon identifies himself with his master Pluto.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="2"><p>
 
 <label>CLOTHO</label>
 But, Charon, how do you know that he hasn’t
@@ -136,7 +138,7 @@ the last moment, slowly and afoot.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="3"><p>
 
 <label>CLOTHO</label>
 Don’t be angry any longer, Charon; here he is
@@ -177,7 +179,7 @@ So the poor fool tried to run away, thinking that
 he could live longer, when the thread of life apportioned to him had already run short?
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="4"><p>
 
 <label>HERMES</label>
 Tried to run away, do you say? Why, if this
@@ -195,7 +197,7 @@ was impossible. But when we were right by the
 
 <pb n="v.2.p.9"/>
 
-entrance, while I was counting the dead for Aeacus<note n="v.2.p.9.n.1">Aeacus is the “collector of customs” (Charon 2). The idea was probably suggested by the Froys of Aristophanes, in which he figures as Pluto’s janitor (464).</note>
+entrance, while I was counting the dead for Aeacus<note xml:lang="eng" n="v.2.p.9.n.1">Aeacus is the “collector of customs” (Charon 2). The idea was probably suggested by the Froys of Aristophanes, in which he figures as Pluto’s janitor (464).</note>
 as usual and he was comparing them with the tally
 sent him by your sister, he gave us the slip somehow
 or other, curse him, and made off. Consequently we
@@ -214,11 +216,11 @@ this fellow anywhere, I perceived that he had escaped
 and pursued with all the speed I could muster along
 the road leading toward the light. My good friend
 here followed me of his own free will, and by running
-as if in a match we caught him just at Taenarus:<note n="v.2.p.9.n.2">A promontory in Laconia where the ancients located one of the entrances to Hades ; now Cape Matapan.</note>
+as if in a match we caught him just at Taenarus:<note xml:lang="eng" n="v.2.p.9.n.2">A promontory in Laconia where the ancients located one of the entrances to Hades ; now Cape Matapan.</note>
 that was all he lacked of escaping.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="5"><p>
 <label>CLOTHO</label>
 And we, Charon, were condemning Hermes for
 neglecting his duty, indeed !
@@ -254,7 +256,7 @@ aboard next ?
 <p><label>CLOTHO</label>
 You mean the old people? Yes, for why should I
 bother now to investigate what happened before the
-food?<note n="v.2.p.11.n.1">Literally, "before Euclid,” the Athenian archon of 403 B.C., the year in which the democracy was restored and the misdeeds of the oligarchy obliterated by a general amnesty.</note> All of you who are over sixty go in now.
+food?<note xml:lang="eng" n="v.2.p.11.n.1">Literally, "before Euclid,” the Athenian archon of 403 B.C., the year in which the democracy was restored and the misdeeds of the oligarchy obliterated by a general amnesty.</note> All of you who are over sixty go in now.
 What’s this? They don’t heed me, for their ears are
 stopped with years. You will probably have to pick
 them up and carry them in, too.
@@ -266,7 +268,7 @@ Here you are again, three hundred and _ninetyeight, all tender and ripe and harv
 Good Lord, yes! They’re all raisins now !
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="6"><p>
 <label>CLOTHO</label>
 Bring in the wounded next, Hermes. (To the
 DEAD) First tell me what deaths brought you
@@ -285,7 +287,7 @@ Here they are!
 <p><label>CLOTHO</label>
 Seven committed suicide for love, among them the
 philosopher Theagenes for the courtesan from
-Megara.<note n="v.2.p.13.n.1">This man can hardly be other than the Cynic of Patras mentioned in The Passing of Peregrinus, who died in the teign of Marcus Aurelius. To be sure, Galen says he was killed by his doctor (x, p. 909), but he may well have been alive when Lucian wrote this.</note>
+Megara.<note xml:lang="eng" n="v.2.p.13.n.1">This man can hardly be other than the Cynic of Patras mentioned in The Passing of Peregrinus, who died in the teign of Marcus Aurelius. To be sure, Galen says he was killed by his doctor (x, p. 909), but he may well have been alive when Lucian wrote this.</note>
 <label>HERMES</label>
 Right here beside you.
 </p>
@@ -324,10 +326,10 @@ Agathocles along with them.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="7"><p>
 Where is the philosopher Cyniscus, who was to die from eating the
 dinner of Hecate and the lustral eggs and a raw
-squid besides ?<note n="v.2.p.15.n.1">The dinner of Hecate (mentioned also in Dialogues of the Dead, 1) was a purificatory offering made at cross-roads and,to judge from Aristophanes (Plutus 594), very well received by the poor. For the use of eggs in purification see Ovid, Ars Amat. ii. 329; Juv. vi. 517. The raw squid is mentioned because Diogenes is said to have died from eating one (Diog. Laert. 156 ap; cf. Philosophers for Sale, 10).</note>
+squid besides ?<note xml:lang="eng" n="v.2.p.15.n.1">The dinner of Hecate (mentioned also in Dialogues of the Dead, 1) was a purificatory offering made at cross-roads and,to judge from Aristophanes (Plutus 594), very well received by the poor. For the use of eggs in purification see Ovid, Ars Amat. ii. 329; Juv. vi. 517. The raw squid is mentioned because Diogenes is said to have died from eating one (Diog. Laert. 156 ap; cf. Philosophers for Sale, 10).</note>
 <label>CYNISCUS</label>
 Ihave been standing at your elbow a long time,
 kind Clotho. What have I done that you should leave
@@ -349,12 +351,12 @@ with his entreaties.
 <pb n="v.2.p.17"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="8"><p>
 <label>CLOTHO</label>
 Come, let’s see who he is.
 </p>
 <p><label>CYNISCUS</label>
-Megapenthes,<note n="v.2.p.17.n.1">“Great woe.”</note> son of Lacydes, a tyrant.
+Megapenthes,<note xml:lang="eng" n="v.2.p.17.n.1">“Great woe.”</note> son of Lacydes, a tyrant.
 </p>
 <p><label>CLOTHO</label>
 Aboard with you !
@@ -419,7 +421,7 @@ Well, the term of your ownership has now expired.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="9"><p>
 
 <label>MEGAPENTHES</label>
 Listen, Clotho, to something that I have to say to
@@ -470,7 +472,7 @@ day, but for a stay of nearly twenty years !
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="10"><p>
 
 <label>MEGAPENTHES</label>
 But I tell you I am ready to give bail for my
@@ -493,7 +495,7 @@ new ruler.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="11"><p>
 <label>MEGAPENTHES</label>
 Well, at all events don't refuse me this, Lady of
 Destiny. ,
@@ -554,7 +556,7 @@ You are asking me many questions when you ought
 to get aboard.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="12"><p>
 <label>MEGAPENTHES</label>
 There is one thing that sticks in my throat above
 all, Clotho, and on account of it I longed to slip
@@ -591,7 +593,7 @@ should catch them—
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="13"><p>
 
 <label>CLOTHO</label>
 Stop threatening and get aboard; it is already
@@ -653,7 +655,7 @@ That is why you yourself will stay triced up to
 the mast.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="14"><p>
 <label>MICYLLUS</label>
 Tell me, Clotho, do you people take no account at
 all of me? Is it because I am poor that I have to
@@ -677,7 +679,7 @@ delay.
 <p><label>MICYLLUS</label>
 Listen, kind. Lady of Destiny; I have no great
 liking for such gifts as the famous one of the
-Cyclops,—to be promised “T’]l eat Noman last of all.”<note n="v.2.p.31.n.1">Odyssey 9, 369.</note>
+Cyclops,—to be promised “T’]l eat Noman last of all.”<note xml:lang="eng" n="v.2.p.31.n.1">Odyssey 9, 369.</note>
 In truth, be it first, be it last, the same teeth are in
 waiting. Besides, my position is not like that of the
 rich; our lives are poles apart, as the saying goes.
@@ -706,7 +708,7 @@ when he got here.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="15"><p>
 
 But as for me, having nothing at
 stake in life, neither farm nor tenement nor gold
@@ -731,7 +733,7 @@ lament.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="16"><p>
 <label>CLOTHO</label>
 Indeed, I noticed some time ago that you were
 laughing, Micyllus. What was it in particular that
@@ -764,7 +766,7 @@ the Laconian Sea.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="17"><p>
 
 And he was not the only one
 that I laughed at. When I saw the usurer Gnipho
@@ -789,7 +791,7 @@ anchor up.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="18"><p>
 
 <label>CHARON</label>
 Hi, fellow! Where are you going so fast? The
@@ -802,7 +804,7 @@ leaving behind you a dead man who is already high.
 No fear, I'll have you up before Rhadamanthus for
 breaking the law. Oh, Lord! What hard luck!
 They are sailing already, “and I'll be left behind
-here all alone.”<note n="v.2.p.37.n.1">The words form a trimeter in the Greek, perhaps a line of comedy.</note> But why not swim across in their
+here all alone.”<note xml:lang="eng" n="v.2.p.37.n.1">The words form a trimeter in the Greek, perhaps a line of comedy.</note> But why not swim across in their
 wake? I’m not afraid of giving out and drowning,
 seeing that I’m already dead! Besides, I haven’t an
 obol to pay my passage.
@@ -819,7 +821,7 @@ No, no! Come, let’s row up and take him in.
 Hermes, lend a hand to pull him in.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="19"><p>
 <label>CHARON</label>
 Where shall he sit? The boat’s full, as you see.
 </p>
@@ -860,7 +862,7 @@ these people are competing with our music by crying, so that we shall be put out
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="20"><p>
 
 
 <label>THE DEAD</label>
@@ -898,7 +900,7 @@ Enough weeping ; we are almost in now.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="21"><p>
 
 <label>CHARON</label>
 Come, now, pay us your fares, all of you, the first
@@ -934,7 +936,7 @@ me in order.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="22"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="22"><p>
 <label>MICYLLUS</label>
 Heracles, how dark it is! Where now is handsome
 Megillus, and who can tell here that Simiche is not
@@ -962,12 +964,12 @@ Right you are; indeed, here comes a woman with
 <pb n="v.2.p.45"/>
 
 a torch, who looks very fierce and threatening. Do
-you suppose it is an Erinys ?<note n="v.2.p.45.n.1">The Erinyes, or Furies, were Alecto, Megaera, and Tisiphone. The torch of Tisiphone enhances the resemblance to the Mysteries, which were carried on by torch-light.</note>
+you suppose it is an Erinys ?<note xml:lang="eng" n="v.2.p.45.n.1">The Erinyes, or Furies, were Alecto, Megaera, and Tisiphone. The torch of Tisiphone enhances the resemblance to the Mysteries, which were carried on by torch-light.</note>
 <label>MICYLLUS</label>
 Probably, to judge from her appearance.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="23"><p>
 <label>HERMES</label>
 Take these people in charge, Tisiphone, a thousand
 and four.
@@ -1008,7 +1010,7 @@ Come here and be tried first. Call the plaintiffs.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="24"><p>
 
 
 <label>HERMES</label>
@@ -1024,7 +1026,7 @@ so that I can judge you from the marks on your
 back.
 </p>
 <p><label>CYNISCUS</label>
-Why, how did I ever come to be a marked man?<note n="v.2.p.47.n.1">As orvypyartas (branded man) was applied to rogues in general, there is a slight word-play in the Greek also.</note>
+Why, how did I ever come to be a marked man?<note xml:lang="eng" n="v.2.p.47.n.1">As orvypyartas (branded man) was applied to rogues in general, there is a slight word-play in the Greek also.</note>
 <label>RHADAMANTHUS</label>
 For every wicked deed that each of you has done
 in his life he bears an invisible mark on his soul.
@@ -1057,7 +1059,7 @@ of the Blest to live with the good, but first prosecute
 the tyrant you spoke of. Hermes, summon others.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="25"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="25"><p>
 
 <label>MICYLLUS</label>
 My case also is a trifling one and needs but a short
@@ -1084,7 +1086,7 @@ Cyniscus, open your prosecution and state your
 case now, for here is the man.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="26"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="26"><p>
 
 <label>CYNISCUS</label>
 On the whole, there is no need of words; you
@@ -1128,7 +1130,7 @@ ind did not like his actions in the least.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="27"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="27"><p>
 <label>RHADAMANTHUS</label>
 What have you to say to this, you villain ?
 </p>
@@ -1182,7 +1184,7 @@ closer to the scene and polluted my light in every
 way.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng1" subtype="section" n="28"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng2" subtype="section" n="28"><p>
 
 <label>RHADAMANTHUS</label>
 Enough witnesses ! Come, strip off your purple robe
@@ -1225,8 +1227,6 @@ of luxury.
 Good ! Let sentence stand in that form, and let
 the fellow be taken off and put in fetters near
 Tantalus, to remember what he did in life.
-
-<pb n="v.2.p.61"/>
 
 </p></div></div>
 

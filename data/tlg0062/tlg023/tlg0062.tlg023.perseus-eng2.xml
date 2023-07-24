@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">Charon, or the Inspectors</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg023.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">2</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604154">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianhar02luciuoft/page/396/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604154?urlappend=%3Bseq=410">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,13 +69,14 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" xml:lang="eng">
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" xml:lang="eng">
+<pb n="v.2.p.397"/>
 <head>Charon, or the Inspectors
-<note>
+<note xml:lang="eng">
 A presentation of the life of man as it appears to Charon the ferryman, who knows how it all ends. The world which Charon visits and comments on is that of the sixth century B.C., not that of Lucian’s day, for to Lucian as to most of his contemporaries the life that he found in books was more interesting and more real than that in which he lived and moved. What his satire loses in pungency on this account, it gains in universality of appeal.
 </note>
 </head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="1"><p>
 <label>HERMES</label>
 Wht are you laughing at, Charon, and why have
 you left your ferry and come up here to our part of
@@ -93,7 +96,7 @@ with me and guide me, and will show me everything, knowing all about it as you d
 <p><label>HERMES</label>
 I haven't time, ferryman; I am on my way to
 carry out a little commission among men for Zeus in
-Heaven.<note n="v.2.p.397.n.1">Contrasted in thought with Zeus of the nether world; i.e. Pluto.</note> He is quick-tempered, and I fear that if
+Heaven.<note xml:lang="eng" n="v.2.p.397.n.1">Contrasted in thought with Zeus of the nether world; i.e. Pluto.</note> He is quick-tempered, and I fear that if
 I am slow about it he will let me be yours altogether,
 committing me to the nether gloom, or else that he
 will treat me as he did Hephaestus the other day,
@@ -125,7 +128,7 @@ and I shall remember your kindness forever.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="2"><p>
 
 
 <label>HERMES</label>
@@ -163,7 +166,7 @@ high mountain.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="3"><p>
 
 <label>CHARON</label>
 You know, Hermes, what I am in the habit of
@@ -199,7 +202,7 @@ once upon a time while they were still mere children
 to pluck Ossa from its base and set it on Olympus,
 and then to set Pelion on top of it, thinking that
 this would give them a suitable ladder with which
-to scale Heaven.<note n="v.2.p.403.n.1">Od. 11, 305.</note> Well, these two lads were
+to scale Heaven.<note xml:lang="eng" n="v.2.p.403.n.1">Od. 11, 305.</note> Well, these two lads were
 sacrilegious and they were punished for it; but we
 two are not making this plan to harm the gods, so
 why shouldn’t we build in the same way, rolling the
@@ -207,7 +210,7 @@ mountains one atop of another, in order to secure a
 better view from a higher place?
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="4">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="4">
 <p><label>CHARON</label>
 Shall we be able to lift Pelion or Ossa and heave
 it up, Hermes, when there are only two of us ?
@@ -256,7 +259,7 @@ if this is enough or we shall have to add to the pile.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="5"><p>
 
 Upon my word, we are still away down among the
 foot-hills of Heaven! Toward the east I can only
@@ -299,7 +302,7 @@ then, look round about you and inspect everything.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="6"><p>
 
 <label>CHARON</label>
 I see a quantity of land with a great lagoon encircling it, mountains, rivers bigger than Cocytus and
@@ -343,7 +346,7 @@ I shall go down a little, so as to see and_ hear
 better.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="7"><p>
 
 <label>HERMES</label>
 Hold still ; I will remedy that for you too and will.
@@ -400,11 +403,11 @@ jettisoned most of his lays, including Scylla and
 
 Charybdis and the Cyclops; so that it wasn’t hard
 for me to get a little salvage out of all that he let
-go.<note n="v.2.p.413.n.1">Lucian appears to have borrowed this from a picture by Galato in which the indebtedness of the other poets to Homer was caricatured with more force than elegance.</note>
+go.<note xml:lang="eng" n="v.2.p.413.n.1">Lucian appears to have borrowed this from a picture by Galato in which the indebtedness of the other poets to Homer was caricatured with more force than elegance.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="8"><p>
 Tell me:
 
 <cit><quote><l>Who is the burly man yonder, the hero so tall and so handsome,</l>
@@ -445,7 +448,7 @@ before long when he makes his voyage and is no
 longer able to lift a mosquito, let alone a bull!
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="9"><p>
 Tell
 me,
 
@@ -469,13 +472,13 @@ Look over there towards the great acropolis with
 the triple wall. That is Sardis, and now you see
 Croesus himself sitting on a golden throne, talking
 with Solon of Athens. Would you like to listen to
-what they are saying ?<note n="v.2.p.415.n.1">The conversation that follows is based on Herodotus 1.29-33.</note>
+what they are saying ?<note xml:lang="eng" n="v.2.p.415.n.1">The conversation that follows is based on Herodotus 1.29-33.</note>
 <label>CHARON</label>
 By all means.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="10"><p>
 
 <label>CROESUS</label>
 My friend from Athens, as you have seen my
@@ -498,7 +501,7 @@ that of all the men I know, the most fortunate are
 Cleobis and Biton, the sons of the priestess at Argos,
 who died together the other day when they had
 harnessed themselves and drawn their mother to the
-temple on the wagon.<note n="v.2.p.417.n.1">In Herodotus Tellus gets the first place.</note>
+temple on the wagon.<note xml:lang="eng" n="v.2.p.417.n.1">In Herodotus Tellus gets the first place.</note>
 <label>CROESUS </label>.
 Very well, let them have the first rank in good
 fortune. But who would be the second? :
@@ -518,17 +521,17 @@ in such matters, that and a fortunate life right up to
 the end.
 </p>
 <p><label>CHARON</label>
-Thank you kindly, Solon, for not forgetting us,<note n="v.2.p.417.n.2">Himself and Pluto.</note>
+Thank you kindly, Solon, for not forgetting us,<note xml:lang="eng" n="v.2.p.417.n.2">Himself and Pluto.</note>
 but demanding the decision of such matters to be
 made right at the ferry.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="11"><p>
 
 But who are those men
 whom Croesus is sending out, and what are they
-carrying on their shoulders ?<note n="v.2.p.417.n.3">Compare Herodotus i. 50 ff. The conversation between Solon and Croesus on the subject of the ingots is Lucian’s own contribution.</note>
+carrying on their shoulders ?<note xml:lang="eng" n="v.2.p.417.n.3">Compare Herodotus i. 50 ff. The conversation between Solon and Croesus on the subject of the ingots is Lucian’s own contribution.</note>
 <pb n="v.2.p.419"/>
 
 <label>HERMES</label>
@@ -586,7 +589,7 @@ then.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="12"><p>
 
 <label>SOLON</label>
 Tell me, Croesus, do you really think that Apollo
@@ -677,7 +680,7 @@ You are always at war with my wealth and
 begrudge me it.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="13"><p>
 
 <label>HERMES</label>
 The Lydian cannot abide the outspokenness and
@@ -714,14 +717,14 @@ the world? And who could believe that after a
 little the one will be a prisoner and the other will
 have his head in a sack of blood? </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="14"><p>But who is that
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="14"><p>But who is that
 man, Hermes, with the purple mantle about him, the
 one with the crown, to whom the cook, who has just
 cut open the fish, is giving the ring,
 
 <cit><quote><l>All in a sea-girt island; a king he would have us
 believe him</l></quote>
-<bibl>The verse is composed of the beginning of Odyssey1, 50 and the end of Odyssey 1, 180.</bibl></cit>?<note n="v.2.p.427.n.1">Another allusion to a story in Herodotus (3, 39-43).</note>
+<bibl>The verse is composed of the beginning of Odyssey1, 50 and the end of Odyssey 1, 180.</bibl></cit>?<note xml:lang="eng" n="v.2.p.427.n.1">Another allusion to a story in Herodotus (3, 39-43).</note>
 
 <label>HERMES</label>
 You are good at parody, Charon. The man whom
@@ -745,7 +748,7 @@ neither purple mantle nor tiara nor throne of gold.
 <pb n="v.2.p.429"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="15"><p>
 <label>HERMES</label>
 That is the way their lives will end. But do you
 see the masses, Charon, the men voyaging, fighting,
@@ -775,7 +778,7 @@ water down below.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="16"><p>
 
 If you look close, you will also
 see the Fatés up above, drawing off each man’s
@@ -812,7 +815,7 @@ All this is very funny, Hermes.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="17"><p>
 
 <label>HERMES</label>
 Indeed, you cannot find words to tell how ridiculous it is, Charon, especially their inordinate ambition and the way in which they disappear from
@@ -832,7 +835,7 @@ at the very beginning that they were mortal, and
 that after this brief sojourn in the world they
 would go away as from a dream, taking leave of
 everything above ground, they would live more
-sanely and would be less unhappy after death.<note n="v.2.p.433.n.1">Most of the dead are unhappy, as Hermes and Charon well know. See the Downward Journey, and even Homer’s Achilles (Odyssey 11, 488).</note>
+sanely and would be less unhappy after death.<note xml:lang="eng" n="v.2.p.433.n.1">Most of the dead are unhappy, as Hermes and Charon well know. See the Downward Journey, and even Homer’s Achilles (Odyssey 11, 488).</note>
 But as it is, they have imagined that what they
 have now will be theirs forever, and so, when the
 servant, standing at their bedside, summons them
@@ -865,7 +868,7 @@ mentioned.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="18"><p>
 
 <label>CHARON</label>
 I see all this, and am wondering what pleasure
@@ -882,7 +885,7 @@ driven to conjecture what the lot of common men
 must be.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="19"><p>
 
 Let me tell you, Hermes, what I think men and
 the whole life of man resemble. You have noticed
@@ -902,11 +905,11 @@ in any case they all must burst.
 
 <label>HERMES</label>
 Charon, your simile is every bit as good as Homer's,
-who compares the race of man to leaves.<note n="v.2.p.437.n.1">Iliad 6, 146.</note>
+who compares the race of man to leaves.<note xml:lang="eng" n="v.2.p.437.n.1">Iliad 6, 146.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="20"><p>
 
 <label>CHARON</label>
 And although they are like that, Hermes, you see
@@ -930,7 +933,7 @@ not think that they would be greatly assisted in life
 and made saner by far ?
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="21">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="21">
 <p><label>HERMES</label>
 My dear fellow, you do not know how Ignorance
 and Error have served them. Even a drill could not
@@ -970,7 +973,7 @@ Even these are enough. But let us go down now.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="22"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="22"><p>
 
 <label>CHARON</label>
 There is one thing more that I wanted to know
@@ -1034,7 +1037,7 @@ that
 <pb n="v.2.p.443"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="23"><p>
 
 <label>HERMES</label>
 Heracles! What a lot of Homer you are baling
@@ -1076,7 +1079,7 @@ That for your praises, Homer, and your adjectives
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng2" subtype="section" n="24"><p>
 
 But while we are talking, who are
 those people at war yonder, and why are they killing
@@ -1085,7 +1088,7 @@ each other?
 <p><label>HERMES</label>
 You are looking at the Argives and Spartans,
 Charon, and over there is the dying general Othryadas, the one who is writing on the trophy in his
-own blood.<note n="v.2.p.445.n.1">Three hundred Spartans fought an equal number of Argives for the possession of Thyreatis. Two Argives and a single dying Spartan survived the fight. The Argives hastened home to report their victory; but the Spartan managed to put up a trophy and write upon it 2 dedication to Zeus in his own blood. Herod. 1,82; Plut. Moral. 306 B.</note>
+own blood.<note xml:lang="eng" n="v.2.p.445.n.1">Three hundred Spartans fought an equal number of Argives for the possession of Thyreatis. Two Argives and a single dying Spartan survived the fight. The Argives hastened home to report their victory; but the Spartan managed to put up a trophy and write upon it 2 dedication to Zeus in his own blood. Herod. 1,82; Plut. Moral. 306 B.</note>
 <label>CHARON</label>
 What is their war about, Hermes ?
 </p>
@@ -1121,7 +1124,6 @@ never a thought of Charon!
 
 
 
-<pb n="v.2.p.451"/>
 </p></div></div>
 
 </body></text></TEI>

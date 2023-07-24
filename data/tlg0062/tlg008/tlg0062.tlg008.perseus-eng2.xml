@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">Demonax</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg008.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">1</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604153">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianha01luciuoft/page/142/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604153?urlappend=%3Bseq=154">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,15 +69,16 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" xml:lang="eng">
-<head>Demonax<note>All that we know of Demonax derives from this essay,
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" xml:lang="eng">
+<pb n="v.1.p.143"/>
+<head>Demonax<note xml:lang="eng">All that we know of Demonax derives from this essay,
 except for a few sayings elsewhere attributed to him. The
 authenticity of the essay has been repeatedly questioned, but
 should not be made to depend on the critic’s opinion of
 Demonax’s jokes, for—to paraphrase Lucian—we do not need
 a George Meredith to tell us that the flavour of a joke grows
 weak with age,</note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="1"><p>
 
 
 It was on the cards, it seems, that our modern
@@ -88,18 +91,18 @@ the philosopher. Both these men I saw myself, and
 saw with wonderment: and under one of them,
 Demonax, I was long a student. I have written
 about ‘Sostratus elsewhere,
-<note n="1">The treatise is lost.</note>
+<note xml:lang="eng" n="1">The treatise is lost.</note>
 and have described his
 size and excessive strength, his open-air life on
 Parnassus, his bed that was no bed of ease, his
 mountain fare and his deeds (not inconsistent with
-his name<note n="2">The nickname Heracles.</note>) achieved in the way of slaying robbers,
+his name<note xml:lang="eng" n="2">The nickname Heracles.</note>) achieved in the way of slaying robbers,
 making roads in‘untravelled country and bridging
 places hard to pass.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="2"><p>
 
 It is now fitting to tell of
 Demonax for two reasons—that he may be retained
@@ -114,10 +117,10 @@ whom I know about.
 
 
 
-<pb n="145"/>
+<pb n="v.1.p.145"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="3"><p>
 He was a Cypriote by birth, and not of common
 stock as regards civic-rank and property. Nevertheless, rising above all this and thinking that he
 deserved the best that life offers, he aspired to
@@ -139,7 +142,7 @@ judgment and the honesty of his philosophy.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="4"><p>
 
 You must not conceive, however, that he rushed
 into these matters with unwashen feet, as the saying
@@ -157,16 +160,16 @@ him a great reputation among Greeks of culture.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="5"><p>
 He did not mark out for himself a single form
 of philosophy but combined many of them, and never
 
 
-<pb n="147"/>
+<pb n="v.1.p.147"/>
 
 would quite reveal which one he favoured. Probably
 he had most in common with Socrates, although he
-seemed to follow the man of Sinope<note n="1">Diogenes.</note>
+seemed to follow the man of Sinope<note xml:lang="eng" n="1">Diogenes.</note>
 in dress and in
 easy-going ways. He did not, however, alter the
 details of his life in order to excite the wonder
@@ -177,7 +180,7 @@ and politics.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="6"><p>
 He did not cultivate the irony of
 Socrates ; his conversations were full of Attic charm,
 so that his visitors, on going away, did not feel
@@ -189,7 +192,7 @@ they came.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="7"><p>
 
 He never was known to make an
 uproar or excite himself or get angry, even if he had
@@ -202,7 +205,7 @@ amiss.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="8"><p>
 Leading such“a life, he wanted nothing for
 himself, but helped his friends in a reasonable way.
 Some of them, who were seemingly favoured by
@@ -215,14 +218,14 @@ would have surcease of worries and would all soon find
 
 
 
-<pb n="149"/>
+<pb n="v.1.p.149"/>
 
 oblivion of their fortunes, good and bad, and lasting
 liberty.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="9"><p>
 
 He made it his business also to reconcile
 brothers at variance and to miake terms of peace
@@ -232,7 +235,7 @@ spirit.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="10"><p>
 
 Such was the character of his philosophy—kind,
 gentle and cheerful. The only thing which distressed him was the illness or death of a friend,
@@ -250,12 +253,12 @@ comedian, “persuasion perched upon his lips.”1
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="11"><p>
 Hence all Athens, high and low, admired him
 enormously and always viewed him as a superior
 being. Yet in office he ran counter to public opinion
 and won from the masses quite as much hatred as
-his prototype<note n="2">Socrates.</note>
+his prototype<note xml:lang="eng" n="2">Socrates.</note>
 by his freedom of speech and action.
 He too had his Anytus and his Meletus who combined
 against him and brought the same charges that their
@@ -263,11 +266,11 @@ predecessors brought against Socrates, asserting that
 he had never been known to sacrifice and was the
 only man in the community uninitiated in the Eleusinian mysteries. In reply to this, with right good
 
-<note n="1">Eupolis, quoted in the note on “Nigrinus” 7.</note>
+<note xml:lang="eng" n="1">Eupolis, quoted in the note on “Nigrinus” 7.</note>
 
 
 
-<pb n="151"/>
+<pb n="v.1.p.151"/>
 
 courage he wreathed his head, put on a clean cloak,
 went to the assembly and made his defence, which
@@ -295,12 +298,12 @@ found no favour with the gods!”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="12"><p>
 
 I should like to cite a few of his well-directed
 and witty remarks, and may as well begin with
 Favorinus
-<note n="1">An eunuch from Arles, of considerable repute as a
+<note xml:lang="eng" n="1">An eunuch from Arles, of considerable repute as a
 sophist.</note> and what he said to him. When
 Favorinus was told by someone that Demonax was
 making fun of his lectures and particularly of the
@@ -310,7 +313,7 @@ philosophy, he went to Demonax and asked him:
 “Who are you to libel my compositions?” “A
 
 
-<pb n="153"/>
+<pb n="v.1.p.153"/>
 
 man with an ear that is not easy to cheat,” said
 he. The sophist kept at him and asked: “What
@@ -320,7 +323,7 @@ retorted.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="13"><p>
 
 Another time the same man went to him and
 asked what philosophical school he favoured most.
@@ -332,9 +335,9 @@ ridiculous that you should think a philosopher can
 be told by his beard when you yourself have none.”
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="14"><p>
 When the Sidonian sophist
-<note n="1">Otherwise unknown.</note>
+<note xml:lang="eng" n="1">Otherwise unknown.</note>
 was once showing.
 his powers at Athens, and was voicing his own
 praise to the effect that he was acquainted with all
@@ -343,12 +346,12 @@ philosophy—but I may as well cite his very words :
 with him; if Plato calls me to the Academy, I shall
 come; if Zeno calls, I shall spend my time in the
 Stoa ; if Pythagoras calls, I shall hold my tongue.”
-<note n="2">Alluding to the Pythagorean vow of silence.</note>
+<note xml:lang="eng" n="2">Alluding to the Pythagorean vow of silence.</note>
 Well, Demonax arose in the midst of the audience
 and said: “Ho” (addressing him by name), “Pythagoras is calling you !”
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="15"><p>
 When a handsome young fellow named Pytho,
 who belonged to one of the aristocratic families
 in Macedonia, was quizzing him, putting a catchquestion to him and asking him to tell the logical
@@ -360,14 +363,14 @@ in short order that you’ve a man to deal with!”
 
 
 
-<pb n="155"/>
+<pb n="v.1.p.155"/>
 
 whereupon Demonax laughingly inquired: “Oh,
 you will send for your man, then ?”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="16"><p>
 
 When an athlete, whom he had ridiculed for letting himself be seen in gay clothes although he was
 an Olympic champion, struck him on the head with
@@ -378,7 +381,7 @@ said “No! not to the proconsul—for the doctor !”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="17"><p>
 Finding a bit of jewelry one day while he was out
 walking, he posted a notice in the public square
 asking the one who owned it and had lost it to
@@ -391,7 +394,7 @@ own jewel : this is none of yours !”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="18"><p>
 A Roman senator in Athens introduced his son
 to him, a handsome boy, but girlish and neurasthenic, saying: “My son here pays his respects to
 you.” “A dear boy,’ said Demonax, “worthy of
@@ -399,7 +402,7 @@ you and like his mother!”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="19"><p>
 The Cynic who pursued his philosophical studies
 clad in a bearskin he would not call Honoratus,
 which was his name, but Ursinus.
@@ -411,11 +414,11 @@ free men were numerous, he rejoined:
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="20"><p>
 “But I have
 
 
-<pb n="157"/>
+<pb n="v.1.p.157"/>
 
 in mind the man who neither hopes nor fears anything.” But how can one achieve this? For the
 most part we are all slaves of hope and fear.”
@@ -426,17 +429,17 @@ are alike destined to end.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="21"><p>
 
 When Peregrinus Proteus rebuked him for laughing a great deal and making sport of mankind
 saying: “Demonax, you're not at all doggish!” he
 answered, “Peregrinus, you are not at all human!”
-<note n="1">Peregrinus Proteus, of whose death and translation to a
+<note xml:lang="eng" n="1">Peregrinus Proteus, of whose death and translation to a
 higher sphere Lucian has written in "The Passing of Peregrinus,” carried his ‘doggishness’ (Cynicism) to extremes.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="22"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="22"><p>
 When a scientist was talking of the Topsy-turvy
 people (Antipodes), he made him get up, took him
 to a well, showed him their own reflection in the
@@ -445,7 +448,7 @@ people you mean?”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="23"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="23"><p>
 When a fellow claimed to be a sorcerer and to
 have spells so potent that by their agency he could
 prevail on everybody to give him whatever he
@@ -453,7 +456,7 @@ wanted, Demonax said: “Nothing strange in that!
 I am in the same business: follow me to the breadwoman’s, if you like, and you shall see me persuade
 her to give me bread with a single spell and a tiny
 charm”’—implying that a coin is as good as a spell.
-When Herodes,<note n="2">Herodes Atticus. “Bolydeuces was a favourite slave.</note>
+When Herodes,<note xml:lang="eng" n="2">Herodes Atticus. “Bolydeuces was a favourite slave.</note>
 the superlative, was mourning
 the premature death of Polydeuces and wanted a
 chariot regularly made ready and horses put to it
@@ -464,7 +467,7 @@ said: “Iam bringing you a message from Polydeuces.”
 
 
 
-<pb n="159"/>
+<pb n="v.1.p.159"/>
 
 Herodes was pleased and thought that Demonax, like
 everyone else, was falling in with his humour; so he
@@ -474,7 +477,7 @@ to join him at once!’
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="24"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="24"><p>
 
 He went to a man who was mourning the death
 of a son and had shut himself up in the dark, and
@@ -489,7 +492,7 @@ is unacquainted with mourning?”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="25"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="25"><p>
 He also liked to poke fun at those who use
 obsolete and unusual. words in conversation. For
 instance, to a man who had been asked a certain
@@ -500,7 +503,7 @@ day.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="26"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="26"><p>
 
 When one of his friends said: “Demonax, let’s
 go to the Aesculapium and pray for my son,” he
@@ -510,7 +513,7 @@ are!”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="27"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="27"><p>
 
 On seeing two philosophers very ignorantly debating a given subject, one asking silly questions and
 the other giving answers that were not at all to the
@@ -520,12 +523,12 @@ the other is holding a sieve for him!”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="28"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="28"><p>
 
 When Agathocles the Peripatetic was boasting
 
 
-<pb n="161"/>
+<pb n="v.1.p.161"/>
 
 that he was first among the logicians—that there
 was no other, he said: “Come now, Agathocles; if
@@ -533,7 +536,7 @@ there is no other, you are not first: if you are first,
 then there are others.”
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="29"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="29"><p>
 Cethegus the ex-consul, going by way of Greece
 to Asia to be his father’s lieutenant, did and said
 many ridiculous things. One of the friends of
@@ -541,35 +544,35 @@ Demonax, looking on, said that he was a great goodfor-nothing. ‘No, he isn’t
 great one!”
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="30"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="30"><p>
 When he saw Apollonius the philosopher leaving
 the city with a multitude of disciples (he was
 called away to be tutor to the emperor), Demonax remarked: “There goes Apollonius and his
-Argonauts !”<note n="1">Alluding to Apollonius of Rhodes and his poem on the
+Argonauts !”<note xml:lang="eng" n="1">Alluding to Apollonius of Rhodes and his poem on the
 Argonauts, and implying that this was another quest of the
 Golden Fleece.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="31"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="31"><p>
 When a man asked him if lie thought that the
 soul was immortal, he said: “Yes, but no more so
 than everything else.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="32"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="32"><p>
 Touching Herodes he remarked that Plato was
 right in saying that we have more than one soul,
 for a man with only one could not feast Regilla
-<note n="2">Wife of Herodes.</note>
+<note xml:lang="eng" n="2">Wife of Herodes.</note>
 and
 Polydeuces as if they were still alive and say what
 he did in his lectures.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="33"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="33"><p>
 
 Once, on hearing the proclamation which precedes the mysteries, he made bold to ask the
 Athenians publicly why they exclude foreigners,
@@ -578,7 +581,7 @@ was a foreigner and a Thracian to boot!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="34"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="34"><p>
 
 Again, when he was intending to make a voyage
 in winter, one of his friends remarked: “Aren’t
@@ -588,7 +591,7 @@ you afraid the boat will capsize and the fishes will
 
 
 
-<pb n="163"/>
+<pb n="v.1.p.163"/>
 
 eat you?” “I should be an ingrate,” said he, “if I
 made any bones about letting the fishes eat me,
@@ -596,7 +599,7 @@ when I have eaten so many of them!”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="35"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="35"><p>
 
 An. orator whose delivery was wretched was
 advised by him to practise and exercise; on his
@@ -606,7 +609,7 @@ that way, with a fool for a hearer!”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="36"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="36"><p>
 Again, on seeing a soothsayer make public forecasts
 for money, he said: “1 don’t see on what ground you
 claim the fee: if you think you can change destiny
@@ -615,7 +618,7 @@ ask; but if everything is to turn out as Heaven has
 ordained, what good is your soothsaying ?”
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="37"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="37"><p>
 When a Roman ofticer, well-developed physically, gave him an exhibition of sword-practice on a
 post, and asked: “What did you think of my
 swordsmanship, Demonax ?”’ he said: “Fine, if you
@@ -623,7 +626,7 @@ have a wooden adversary !”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="38"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="38"><p>
 
 ‘Moreover, when questions were unanswerable he
 always had an apt retort ready. When a man asked
@@ -634,7 +637,7 @@ ashes: all the rest will be smoke.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="39"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="39"><p>
 A man named Polybius, quite uneducated and
 ungrammatical, said: “The emperor has honoured
 ‘me with the Roman citizenslfip.” “Oh, why
@@ -643,20 +646,20 @@ said he.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="40"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="40"><p>
 On seeing an aristocrat who set great store on
 the breadth of his purple band, Demonax, taking
 hold of the garment and calling his attention to it,
 
 
-<pb n="165"/>
+<pb n="v.1.p.165"/>
 
 said in his ear: “A sheep wore this before you, and
 he was but a sheep for all that!”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="41"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="41"><p>
 
 When he was taking a bath and hesitated to
 enter the steaming water, a man reproached him
@@ -664,14 +667,14 @@ with cowardice. “Tell me,’ said he, “was my
 country at stake in the matter?”
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="42"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="42"><p>
 When someone asked him: “What do you
 think it is like in Hades?” he replied: “Wait a
 bit, and I'll send you word from there!”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="43"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="43"><p>
 
 A vile poet named Admetus told him that he
 had written an epitaph in a single line and had given
@@ -683,7 +686,7 @@ that I wish it were already carved!”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="44"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="44"><p>
 
 
 A man saw on the legs of Demonax a
@@ -692,36 +695,36 @@ people, and enquired:
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="45"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="45"><p>
 
 “What’s that, Demonax?”’
 With a smile he said: “The ferryman’s toothmark !”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="46"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="46"><p>
 
 He, saw a Spartan beating a lave, and said:
 “Stop treating him as your equal !’
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="47"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="47"><p>
 
 When a woman named Danae had a dispute
 with her brother, he said: “Go to law!
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="48"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="48"><p>
 
 Though
 your name be Danae, you are not the daughter "of
 Acrisius (Lawless).”
-<note n="1">Whipping was a feature of the Spartan training.</note>
+<note xml:lang="eng" n="1">Whipping was a feature of the Spartan training.</note>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="49"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="49"><p>
 Above all, he made war on those who cultivate
 philosophy in the spirit of vainglory and not in the
 spirit of truth. For example, on seeing a Cynic with
@@ -729,18 +732,18 @@ cloak and wallet, but with a bar (hyperon) for a
 
 
 
-<pb n="167"/>
+<pb n="v.1.p.167"/>
 
 staff, who was making an uproar and saying that: he
 was the follower of Antisthenes, Crates, and
 Diogenes, Demonax said: “Don’t lie! You are.
-really a disciple of Barson (Hyperides<note n="1">Perhaps an unknown Cynic; but the name may be used
+really a disciple of Barson (Hyperides<note xml:lang="eng" n="1">Perhaps an unknown Cynic; but the name may be used
 just for the sake of the pun, without reference to a definite
 person.</note>)!”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="50"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="50"><p>
 
 When he saw many of the athletes fighting
 foul and breaking the rules of the games by biting
@@ -750,7 +753,7 @@ hangers-on !”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="51"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="51"><p>
 His remark to the proconsul was at once
 clever and cutting. This man was one of the sort
 that use pitch to remove hair from their legs and
@@ -767,7 +770,7 @@ such a thing again, what shall be done to him?”
 "Have him depilated !" said Demonax.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="52"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="52"><p>
 One to whom the emperor had entrusted the
 command of legions and of the most important
 province asked Demonax what was the best way to
@@ -775,29 +778,29 @@ exercise authority. “Don’t lose your temper!” said
 he: “Do little talking and much listening!”
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="53"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="53"><p>
 When someone asked him: “Do you eat honeycakes?”’ he replied: “What! do you think the
 bees lay up their honey just for fools?”
 
 
 
-<pb n="169"/>
+<pb n="v.1.p.169"/>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="54"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="54"><p>
 
 On seeing near the Painted Porch a statue with
 its hand cut off, he remarked that it was pretty
 late in the day for the Athenians to be honouring
 Cynegirus
-<note n="1">Brother of Aeschylus, who lost his hand at Marathon,
+<note xml:lang="eng" n="1">Brother of Aeschylus, who lost his hand at Marathon,
 and the Painted Porch was so called from a fresco by Polygnotus representing the battle.</note>
 with a bronze statue.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="55"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="55"><p>
 
 Noting that Rufinus the Cypriote (I mean the
 ‘lame man of the school of Aristotle) was spending
@@ -807,7 +810,7 @@ Peripatetic (Stroller) !”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="56"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="56"><p>
 
 When Epictetus rebuked him and advised him to
 get married and have children, saying that a philosopher ought to leave nature a substitute when he
@@ -816,7 +819,7 @@ is gone, his answer was very much to the point:
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="57"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="57"><p>
 His reply to Herminus the Aristotelian deserves
 mention, Aware that, although he was an out-andout scoundrel and had done a thousand misdeeds,
 he sang the praises of Aristotle and had his Ten
@@ -826,7 +829,7 @@ sentences !”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="58"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="58"><p>
 When the Athenians, out of rivalry with the
 Corinthians, were thinking of holding a gladiatorial
 show, he came before th.m and said: “Don’t pass
@@ -835,7 +838,7 @@ down the altar of Mercy.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="59"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="59"><p>
 When he went to Olympia’and the Eleans voted
 him a bronze statue, he said: “Don’t do this, men
 of Elis, for fear you may appear to reflect on yotr
@@ -844,11 +847,11 @@ to Socrates or to Diogenes.”
 
 
 
-<pb n="171"/>
+<pb n="v.1.p.171"/>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="60"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="60"><p>
 
 I once heard him say to..., the lawyer, that
 in all likelihood the laws were of no use, whether
@@ -857,7 +860,7 @@ need of laws, and the former were not improved by
 them.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="61"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="61"><p>
 From Homer the one line he most frequently
 quoted was :
 
@@ -865,18 +868,18 @@ quoted was :
 </quote> <bibl>Iliad 9, 320.</bibl></cit>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="62"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="62"><p>
 He had a good word even for Thersites, calling
 him a mob-orator of the Cynic type.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="63"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="63"><p>
 When he was once asked which of the philosophers he liked, he said: “They are all admirable,
 but for my part I revere Socrates, I wonder at
 Diogenes, and I love Aristippus.”
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="64"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="64"><p>
 
 He lived almost a hundred years, without illness
 or pain, bothering nobody and asking nothing of
@@ -896,7 +899,7 @@ brought him fruit and called him father. Once when
 
 
 
-<pb n="173"/>
+<pb n="v.1.p.173"/>
 
 there was a party quarrel in Athens, he went intod
 the assembly and just by showing himself reduced
@@ -905,7 +908,7 @@ repented, he went away without a word.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="65"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="65"><p>
 When he realised that he was no longer able
 to wait upon himself, he quoted to those who
 were with him the verses of the heralds at the
@@ -920,7 +923,7 @@ always saw him in.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="66"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="66"><p>
 A short time before the end
 he was asked: “What orders have you to give
 about your burial?” and replied: “Don’t borrow
@@ -932,7 +935,7 @@ in it,” said he, “if even in death I am going to be
 of service to living things.”
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng1" subtype="section" n="67"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg008.perseus-eng2" subtype="section" n="67"><p>
 
 But the Athenians
 gave him a magnificent public funeral and mourned
@@ -951,10 +954,9 @@ might have mentioned, but they will suffice to give
 my readers a notion of the sort of man he was.
 
 
-<pb n="175"/>
+<pb n="v.1.p.175"/>
 
 
-<pb n="177"/>
 </p></div></div>
 
 </body></text></TEI>

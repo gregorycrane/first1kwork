@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">Zeus Catechized</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg017.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">2</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604154">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianhar02luciuoft/page/60/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604154?urlappend=%3Bseq=74">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,11 +69,12 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" xml:lang="eng">
-<head>Zeus Catechized<note>Cyniscus interviews Zeus on predestination and free will,
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" xml:lang="eng">
+<pb n="v.2.p.61"/>
+<head>Zeus Catechized<note xml:lang="eng">Cyniscus interviews Zeus on predestination and free will,
 and on the raison d'être of the gods. The dialogue is
 written from the Cynic standpoint against the Stoics, and is one of those showing Menippean influence. It stands in somewhat the same relation to the Icaromenippus as the Downward Journey to the Menippus.</note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="1"><p>
 
 <label>CYNISCUS</label>
 But, Zeus, I for my part won’t annoy you that
@@ -98,7 +101,7 @@ It is this, Zeus: you certainly have read the
 poems of Homer and Hesiod: tell me, then, is
 what they have sung about Destiny and the Fates
 true, that whatever they spin for each of us at
-his birth is inevitable ?<note n="v.2.p.61.n.1">Homer, Iliad 20, 127; Hesiod, Theogony 218, 904.</note>
+his birth is inevitable ?<note xml:lang="eng" n="v.2.p.61.n.1">Homer, Iliad 20, 127; Hesiod, Theogony 218, 904.</note>
 
 <pb n="v.2.p.63"/>
 
@@ -110,14 +113,14 @@ instance from the very beginning, and it cannot
 come to pass differently.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="2"><p>
 
 <label>CYNISCUS</label>
 Then when this same Homer in another part of
 his poem says :
 
 <cit><quote><l>Take care lest ere your fated hour you go to
-house in Hell<note n="v.2.p.63.n.1">εἰσαφίκηαι: completes the line.</note></l></quote>
+house in Hell<note xml:lang="eng" n="v.2.p.63.n.1">εἰσαφίκηαι: completes the line.</note></l></quote>
 <bibl>Iliad20, 336</bibl></cit>
 
 and that sort of thing, of course we are to assume
@@ -147,7 +150,7 @@ Quite so.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="3"><p>
 
 <label>CYNISCUS</label>
 Well then, how about Destiny and Fortune?
@@ -162,7 +165,7 @@ It is not permitted you to know everything, Cyniscus. But why did you ask me tha
 the Fates?
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="4">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="4">
 <p><label>CYNISCUS</label>
 Just tell me something else first, Zeus. Are you
 ods under their rule too, and must you needs be
@@ -180,7 +183,7 @@ t the cord down from Heaven, and that the other
 ds, if they liked, might hang on it and try to
 Il you down, but would not succeed, while you,
 lenever you chose, could easily draw them all up,
-nd the earth and the sea along with them.”<note n="v.2.p.65.n.1">Iliad 8, 24.</note> At
+nd the earth and the sea along with them.”<note xml:lang="eng" n="v.2.p.65.n.1">Iliad 8, 24.</note> At
 at time it seemed to me that your power was wontful, and I shuddered as I heard the lines; but I
 now that in reality you yourself with your cord
 and your threats hang by a slender thread, as you
@@ -194,7 +197,7 @@ hold fish dangling from a rod.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="5"><p>
 
 <label>ZEUS</label>
 I don’t know what you are driving at with these
@@ -215,7 +218,7 @@ secure any blessing whatever by the gift of the gods.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="6"><p>
 <label>ZEUS</label>
 I know where you get these clever questions—
 from the cursed sophists, who say that we do not
@@ -245,7 +248,7 @@ Ask, if you have time for such nonsense.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="7"><p>
 <label>CYNISCUS</label>
 You say that all things come about through the
 Fates?
@@ -285,10 +288,10 @@ make them seem better, since that feature certainly
 is far worse, because men are set free by death at
 least, if by nothing else, while with you gods the
 thing goes on to infinity and your slavery is eternal,
-being controlled by a long thread.<note n="v.2.p.71.n.1">Something of acommonplace : see Pliny, Nat. Hist. 2, 27; Longinus de Subl. 9, 7.</note>
+being controlled by a long thread.<note xml:lang="eng" n="v.2.p.71.n.1">Something of acommonplace : see Pliny, Nat. Hist. 2, 27; Longinus de Subl. 9, 7.</note>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="8"><p>
 <label>ZEUS</label>
 But, Cyniscus, this eternity and infinity is blissful
 for us, and we live in complete happiness.
@@ -300,7 +303,7 @@ them. You yourself are happy, for you are king and
 can draw up the earth and the sea by letting down a
 well-rope, so to speak, but Hephaestus is a cripple
 who works for his living, a blacksmith by trade, and
-Prometheus was actually crucified once upon a time.<note n="v.2.p.71.n.2">See the Prometheus.</note>
+Prometheus was actually crucified once upon a time.<note xml:lang="eng" n="v.2.p.71.n.2">See the Prometheus.</note>
 And why should I mention your father (Cronus), who
 is still shackled in Tartarus? They say too that you
 gods fall in love and get wounded and sometimes
@@ -310,7 +313,7 @@ Apollo in the house of Admetus. This does not
 seem to me altogether blissful; on the contrary,
 some few of you are probably favoured by Fate and
 Fortune, while others are the reverse. I say nothing
-of the fact that you are carried off by pirates<note n="v.2.p.71.n.3">The allusion is to Dionysus (Ηymn. Homer. 7, 38).</note> even
+of the fact that you are carried off by pirates<note xml:lang="eng" n="v.2.p.71.n.3">The allusion is to Dionysus (Ηymn. Homer. 7, 38).</note> even
 as we are, and plundered by temple-robbers, and from
 very rich become very poor in a second; and many
 
@@ -321,7 +324,7 @@ gold or silver ; but of course they were fated for this.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="9"><p>
 
 <label>ZEUS</label>
 See here, your talk is getting insulting, Cyniscus,
@@ -344,7 +347,7 @@ know why. At any rate, you think that everything I
 say is one of their tricks.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="10"><p>
 I should like to ask you,
 though—for from whom can I learn the truth except
 from you ?—what this Providence of yours is, a Fate
@@ -370,7 +373,7 @@ take back what you said, and you gods lay claim
 to the oversight, thrusting the Fates aside ?
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="11"><p>
 <label>ZEUS</label>
 By no means, but Fate does it all through us.
 </p>
@@ -401,12 +404,12 @@ to alter or reverse any of their original decrees about
 each man. Atropos, at all events, would not put up
 with it if anyone should turn the spindle backwards
 and undo the work of Clotho.
-<note>play upon the name Atropos, as if it meant "Turnethnot". </note>
+<note xml:lang="eng">play upon the name Atropos, as if it meant "Turnethnot". </note>
 
 <pb n="v.2.p.77"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="12"><p>
 <label>ZEUS</label>
 Have you gone so far, Cyniscus, as to think that
 even the Fates should not be honoured by men?
@@ -425,11 +428,11 @@ escape death by shutting himself up? No, it is impossible, for Fate will take hi
 deliver him up to the spear-head, and Adrastus,
 throwing his weapon at the boar, will miss it and
 slay the son of Croesus, as if the javelin were sped
-at the lad by a powerful cast of the Fates.<note n="v.2.p.77.n.1">See Herodotus, 1, 34 ff.</note>
+at the lad by a powerful cast of the Fates.<note xml:lang="eng" n="v.2.p.77.n.1">See Herodotus, 1, 34 ff.</note>
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="13"><p>
 
 Indeed,
 the oracle of Laius is really ridiculous :
@@ -444,7 +447,7 @@ after the oracle he sowed his seed and his son laid
 him low. I don’t see, therefore, on what ground you
 demand your fee for making prophecies. </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="14"><p>I say
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="14"><p>I say
 nothing of the fact that you are accustomed to give
 most people perplexed and ambiguous responses,
 not making it at all clear whether the man who
@@ -454,12 +457,12 @@ not making it at all clear whether the man who
 
 crosses the Halys will cause the loss of his own
 kingdom or that of Cyrus; for the oracle can be
-taken in either sense.<note n="v.2.p.79.n.1">It ran: <quote><l>If Croesus doth the Halys cross</l><l>He'll cause a mighty kingdom’s loss.</l></quote></note></p>
+taken in either sense.<note xml:lang="eng" n="v.2.p.79.n.1">It ran: <quote><l>If Croesus doth the Halys cross</l><l>He'll cause a mighty kingdom’s loss.</l></quote></note></p>
 <p>
 <label>ZEUS</label>
 Apollo had some reason for being angry at Croesus
 because he had tested him by stewing lamb and
-turtle together.<note n="v.2.p.79.n.2">Wishing to test the Greek oracles before consulting them about invading Persia, Croesus sent representatives to some of the most famous with instructions to ask them all simultaneously, at a specified. time; “What is Croesus doing now”? Apollo divined that he was stewing lamb and turtle together in a copper cauldron with a lid of copper (Herodotus, i. 46 ff.).</note>
+turtle together.<note xml:lang="eng" n="v.2.p.79.n.2">Wishing to test the Greek oracles before consulting them about invading Persia, Croesus sent representatives to some of the most famous with instructions to ask them all simultaneously, at a specified. time; “What is Croesus doing now”? Apollo divined that he was stewing lamb and turtle together in a copper cauldron with a lid of copper (Herodotus, i. 46 ff.).</note>
 <label>CYNISCUS</label>
 He should not have been angry, being a god.
 However, the very deception of the Lydian was predetermined, I suppose, and in general our lack of
@@ -469,7 +472,7 @@ her province.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="15"><p>
 
 <label>ZEUS</label>
 Then you leave nothing for us, and we are gods to
@@ -495,14 +498,14 @@ put me in mind of it by your threat.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="16"><p>
 
 Why in the
 world is it that, letting off the temple-robbers and
 pirates and so many who are insolent and violent
 and forsworn, you repeatedly blast an oak or a stone
 or the mast of a harmless ship, and now and then
-an honest and pious wayfarer?<note n="v.2.p.81.n.1">Suggested by Aristophanes, Clouds, 398 ff.</note> Why are you silent,
+an honest and pious wayfarer?<note xml:lang="eng" n="v.2.p.81.n.1">Suggested by Aristophanes, Clouds, 398 ff.</note> Why are you silent,
 Zeus? Isn’t it permitted me to know this, either ?
 </p>
 <p><label>ZEUS</label>
@@ -521,10 +524,10 @@ starved his mother to death, were all exceeding rich ;
 and again, why is it that Socrates was given over to
 the Eleven instead of Meletus, and that Sardanapalus,
 ffeminate as he was, occupied the throne, while
-Goches,<note n="v.2.p.81.n.2">Otherwise unknown.</note> a man of parts, was crucified by him because
+Goches,<note xml:lang="eng" n="v.2.p.81.n.2">Otherwise unknown.</note> a man of parts, was crucified by him because
 ie did not like what went on—</p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="17"><p>not to speak in detail
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="17"><p>not to speak in detail
 f the present state of affairs, when the wicked and
 he selfish are happy and the good are driven about
 
@@ -551,7 +554,7 @@ Elysian Fields.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="18"><p>
 
 <label>ZEUS</label>
 What’s that you say? Don’t you believe that
@@ -627,7 +630,7 @@ they do in obeying orders?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng2" subtype="section" n="19"><p>
 
 <label>ZEUS</label>
 It isn’t proper to answer you any longer when you
@@ -652,8 +655,6 @@ I shall content myself with the answers you have
 given, for they are full enough to throw light on the
 doctrine of Destiny and Providence. The rest,
 perhaps, I was not fated to hear !
-
-<pb n="v.2.p.91"/>
 
 </p></div></div>
 

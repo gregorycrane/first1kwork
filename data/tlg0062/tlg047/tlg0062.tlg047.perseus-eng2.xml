@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">The Eunuch</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg047.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">5</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/osu.32435024202111">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianhar05luciuoft/page/330/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/osu.32435024202111?urlappend=%3Bseq=342">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,8 +69,9 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg047.perseus-eng1" xml:lang="eng">
-<head>The Eunuch<note><p>A malicously satirical account of a competition for one
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg047.perseus-eng2" xml:lang="eng">
+<pb n="v.5.p.331"/>
+<head>The Eunuch<note xml:lang="eng"><p>A malicously satirical account of a competition for one
 of the chairs in philosophy established at Athens, along with
 a chair in rhetoric, by Marcus Aurelius. The chairs in
 pilosophy were apportioned to four sects only—Platonic,
@@ -91,7 +94,7 @@ undoubtedly written at the time, and at Athens. The names
 given to the competitors are fictitious, and nothing is known
 ae affords any ground for conjecture as to the identity of
 either one.</p></note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng1" subtype="section" n="1"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng2" subtype="section" n="1"><p>
 
 
 <label>PAMPHILUS</label>
@@ -116,7 +119,7 @@ if it should be something of importance, to settle their
 complaints peaceably among themselves.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng2" subtype="section" n="2"><p>
 <label>LYCINUS</label>
 Indeed, you blessed simpleton! Peaceably! They!
 Why, they came together at full tilt and flung whole
@@ -145,7 +148,7 @@ in the trial, so that I may know what it is that has
 stirred up so much laughter in you.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng2" subtype="section" n="3"><p>
 <label>LYCINUS</label>
 Well, Pamphilus, the Emperor has established, as
 you know, an allowance, not inconsiderable, for the
@@ -155,7 +158,7 @@ Walk, the same amount for each of these. It was
 stipulated that when one of them died another should
 be appointed in his stead, after being approved by
 vote of the first citizens. And the prize was not “a
-shield of hide or a victim,” as the poet has it,<note n="v.5.p.333.n.1"><p>Homer, Iliad, XXII, 159. </p></note> but a
+shield of hide or a victim,” as the poet has it,<note xml:lang="eng" n="v.5.p.333.n.1"><p>Homer, Iliad, XXII, 159. </p></note> but a
 matter of ten thousand drachmas a year, for instructing boys.
 </p>
 <p><label>PAMPHILUS</label>
@@ -182,7 +185,7 @@ Right you are; they do say that, and the war
 that they were waging was on traditional lines.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng2" subtype="section" n="4"><p>
 But
 listen now to the sequel.
 Many competitors took part in the funeral games
@@ -197,7 +200,7 @@ placita; and by Zeus neither of them had the better
 of it.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng2" subtype="section" n="5"><p>
 The close of the trial, however, took a new
 turn; Diocles, discontinuing the advertisement of
 his own merits, passed over to Bagoas and made a
@@ -218,7 +221,7 @@ tenets themselves, and deeming him more suitable
 to win.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng2" subtype="section" n="6"><p>
 <label>LYCINUS</label>
 Well said, and you have me voting with you in this.
 But when they had their fill of hard words, and their
@@ -247,7 +250,7 @@ he venture to say something himself in reply to this?
 <pb n="v.5.p.339"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng2" subtype="section" n="7"><p>
 <label>LYCINUS</label>
 At first, through shame and cowardice—for that
 sort of behaviour is natural to them—he remained
@@ -256,18 +259,18 @@ sweat, but finally in a weak, effeminate voice he said
 that Diocles was acting unjustly in trying to exclude
 a eunuch from philosophy, in which even women had
 a part; and he brought in Aspasia, Diotima, and
-Thargelia<note n="v.5.p.339.n.1"><p>Thargelia of Miletus was a famous hetaera, mistress of the Antiochus who was king of Thessaly ca. 520-510 B.c. She outlived him for thirty years, and was active in the cause of Persia at the time of Xerxes’ invasion of Greece. Aeschines the Socratic wrote about her, the sophist Hippias spoke of her as beautiful and wise, and Aspasia is said to have taken her as a pattern. Diotima is the priestess of Mantinea to whom, in Plato’s Symposium, Socrates ascribes the discourse on love which he repeats.1o the company. Subsequent mention of her seems to derive from that passage, and it is possible that Plato invented her. </p></note> to support his also a certain Academic
+Thargelia<note xml:lang="eng" n="v.5.p.339.n.1"><p>Thargelia of Miletus was a famous hetaera, mistress of the Antiochus who was king of Thessaly ca. 520-510 B.c. She outlived him for thirty years, and was active in the cause of Persia at the time of Xerxes’ invasion of Greece. Aeschines the Socratic wrote about her, the sophist Hippias spoke of her as beautiful and wise, and Aspasia is said to have taken her as a pattern. Diotima is the priestess of Mantinea to whom, in Plato’s Symposium, Socrates ascribes the discourse on love which he repeats.1o the company. Subsequent mention of her seems to derive from that passage, and it is possible that Plato invented her. </p></note> to support his also a certain Academic
 eunuch hailing from among the Pelasgians, who shortly
 before our time achieved a high reputation among
-the Greeks.<note n="v.5.p.339.n.2"><p>The allusion is to Favorinus of Arles, known to us from Philostratus and especially from Aulus Gellius. Part of his treatise on exile has been recovered recently from an Egyptian papyrus and poe ished by Medea Norea and Vitelli. </p></note> But if that person himself were alive
+the Greeks.<note xml:lang="eng" n="v.5.p.339.n.2"><p>The allusion is to Favorinus of Arles, known to us from Philostratus and especially from Aulus Gellius. Part of his treatise on exile has been recovered recently from an Egyptian papyrus and poe ished by Medea Norea and Vitelli. </p></note> But if that person himself were alive
 and advanced similar claims, Diocles would (he
 said) have excluded him too, undismayed by his
 reputation among the common sort ; and he repeated
 a number of humorous remarks made to the man by
-Stoics and Cynics regarding his physical imperfection.<note n="v.5.p.339.n.3"><p>Among the Cynics was Demonax; see Lucian’s Demonax, 12 and 13 (I, pp. 150 ff.). </p></note>
+Stoics and Cynics regarding his physical imperfection.<note xml:lang="eng" n="v.5.p.339.n.3"><p>Among the Cynics was Demonax; see Lucian’s Demonax, 12 and 13 (I, pp. 150 ff.). </p></note>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng2" subtype="section" n="8"><p>
 That was what the judges dwelt upon, and the point
 thenceforward at issue was whether the seal of approval
 should be set upon a eunuch who was proposing himself for a career in philosophy and requesting that
@@ -294,7 +297,7 @@ either with doves or with ravens.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng2" subtype="section" n="9"><p>
 
 The other pleaded
 that this was not a physical examination; that there
@@ -316,9 +319,9 @@ judged, a he-goat would with greater justice be given
 preference to all of them!”
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng2" subtype="section" n="10"><p>
 At this juncture a third person who was present—
-his name may remain in obscurity—said:<note n="v.5.p.341.n.1"><p>The anonymous speaker may safely be considered the writer himself, as in the Peregrinus; cf. p. 8, n. 2. </p></note> “As a
+his name may remain in obscurity—said:<note xml:lang="eng" n="v.5.p.341.n.1"><p>The anonymous speaker may safely be considered the writer himself, as in the Peregrinus; cf. p. 8, n. 2. </p></note> “As a
 matter of fact, gentlemen, if this fellow, so smooth
 
 
@@ -336,7 +339,7 @@ very look of him. Now, however, he may recant, I
 suppose, for the sake of the pelf that is in view.”
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng2" subtype="section" n="11"><p>
 Upon those remarks everyone began to laugh, as
 was natural, while Bagoas fell into greater confusion
 and. was beside himself, turning all colours of the
@@ -351,7 +354,7 @@ given you uncommon diversion. But what was the
 outcome, and how did the judges decide about them?
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng2" subtype="section" n="12"><p>
 <label>LYCINUS</label>
 They were not all of the same opinion. Some
 thought they ought to strip him, as is done with
@@ -371,7 +374,7 @@ with it, they decided to refer the case to the highest
 court and send it to Italy.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg047.perseus-eng2" subtype="section" n="13"><p>
 Now, one of the pair is training, they say, for a
 demonstration of his eloquence, making his preparations, and composing an accusation. Morever, he
 is delicately putting forward the charge of adultery
@@ -387,7 +390,6 @@ my son (who is still quite young) may be suitably
 endowed for the practise of philosophy with other
 tools than brain or tongue.
 
-<pb n="v.5.p.349"/>
 </p></div></div>
 
 </body></text></TEI>

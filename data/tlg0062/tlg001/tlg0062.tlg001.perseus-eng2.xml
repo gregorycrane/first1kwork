@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">Phalaris</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg001.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">1</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604153">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianha01luciuoft/page/4/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604153?urlappend=%3Bseq=16">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -50,16 +52,11 @@
 <encodingDesc>
 <p>Text encoded in accordance with the latest EpiDoc standards</p>
 <refsDecl n="CTS">
-    <cRefPattern matchPattern="(\w+).(\w+)"
-     replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
-     <p>This pointer pattern extracts book and section</p>
-    </cRefPattern>
-    <cRefPattern matchPattern="(\w+)"
-     replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
-     <p>This pointer pattern extracts book</p>
-    </cRefPattern>
-   </refsDecl>
-  </encodingDesc>
+<cRefPattern n="section" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+<p>This pointer pattern extracts section.</p>
+</cRefPattern>
+</refsDecl>
+</encodingDesc>
 <profileDesc>
 <langUsage>
 <language ident="grc">Greek</language>
@@ -72,11 +69,11 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" xml:lang="eng">
-<head>Phalaris<note>This piece and its fellow should not be taken as a serious attempt to whitewash Phalaris and to excuse Delphi for accepting a tainted gift. They are good specimens of the stock of a rhetorician, and something more. To put yourself in another man’s shoes and say what he would have said was a regular exercise of the schools, but to laugh in your sleeve as you said it was not the way of the ordinary rhetorician.</note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="book" n="1">
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" xml:lang="eng">
+<head>Phalaris<note xml:lang="eng">This piece and its fellow should not be taken as a serious attempt to whitewash Phalaris and to excuse Delphi for accepting a tainted gift. They are good specimens of the stock of a rhetorician, and something more. To put yourself in another man’s shoes and say what he would have said was a regular exercise of the schools, but to laugh in your sleeve as you said it was not the way of the ordinary rhetorician.</note></head>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="book" n="1">
 <head>I</head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="1">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="1">
 <p>
 Men of Delphi, we have been sent by our ruler
 Phalaris to bring your god this bull, and to say to
@@ -98,7 +95,7 @@ before the rest of the Greeks. And I call your god.
 himself to witness what I am about to say. Of
 
 
-<pb n="5"/>
+<pb n="v.1.p.5"/>
 
 course he cannot be tripped by fallacies and misled
 by falsehoods : for although mere men are no doubt
@@ -106,7 +103,7 @@ easy to cheat, a god (and above all this god) cannot
 be hoodwinked.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="2"><p>
 ‘I was not one of the common people in Acragas,
 but was as well-born, as delicately brought up and as
 thoroughly educated as anyone. Never at any time
@@ -127,13 +124,13 @@ necessity of the coup, I made use of their assistance
 and easily succeeded.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="3"><p>
 ‘From that time on the others made no more
 trouble, but gave obedience ; I ruled, and the city
 was free from party strife. Executions, banishments
 and confiscations I did not employ even against the
 former conspirators, although a man must bring
-<pb n="7"/>
+<pb n="v.1.p.7"/>
 
 himself to take such measures in the beginning
 of a reign more than at any other time. I had
@@ -159,7 +156,7 @@ in horror.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="4"><p> I was already planning to resign my
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="4"><p> I was already planning to resign my
 office and lay down my authority, thinking only how
 one might stop with safety ; for being governor and
 managing everything began to seem to me unpleasant
@@ -173,7 +170,7 @@ plot and uprising, organizing bands of conspirators,
 collecting arms, raising money, asking the aid of
 men in neighbouring towns, and sending embassies
 
-<pb n="9"/>
+<pb n="v.1.p.9"/>
 
 to Greece, to the Spartans and the Athenians.
 What they had already resolved to do with me
@@ -187,7 +184,7 @@ fully.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="5"><p>
 ‘At this point I ask you, men of Delphi, to
 imagine yourselves now as alarmed as I was then,
 and to give me your advice as to what I should have
@@ -210,12 +207,12 @@ given me.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="6"><p>
 ‘Well, what did I do then? I summoned the
 men implicated, gave them a hearing, brought in the
 evidence, and clearly convicted them on each count;
 
-<pb n="11"/>
+<pb n="v.1.p.11"/>
 
 and then, as they themselves no longer denied the
 charge, I avenged myself, angry in the main, not
@@ -245,7 +242,7 @@ your severity towards the impious.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="7"><p>
 ‘Peoples in general, without trying to find out
 what sort of man the head of the state is, whether
 just or unjust, simply hate the very name of tyranny,
@@ -256,7 +253,7 @@ eyes on the bad tyrants and include the good in
 equal hatred by reason of the common title. Yet
 I hear that among you Greeks there have been many
 
-<pb n="13"/>
+<pb n="v.1.p.13"/>
 
 wise tyrants who, under a name of ‘ill-repute have
 shown a good and kindly character; and even that
@@ -265,7 +262,7 @@ temple as gifts and oblations to Pythius.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="8"><p>
 ‘You will observe that legislators lay most
 - stress on the punitive class of measures, naturally
 because no others are of any use if unattended by
@@ -278,7 +275,7 @@ case is like the story of the Hydra: the more heads
 we lop, the more occasions for punishing grow up
 under our eyes. We must needs make the best
 of it and lop each new growth—yes, and sear it, too,
-like Iolaus,<note>The helper of Hercules in the story.</note> if we are to hold the upper hand; for
+like Iolaus,<note xml:lang="eng">The helper of Hercules in the story.</note> if we are to hold the upper hand; for
 when a man has once been forced into a situation ot
 this sort, he must adapt himself to his réle or lose
 his life by being merciful to his neighbours. In
@@ -294,10 +291,10 @@ than to be punished.
 
 
 
-<pb n="15"/>
+<pb n="v.1.p.15"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="9"><p>
 
 ‘For my part, if I may speak freely, in case I
 were offered the choice between inflicting unjust
@@ -319,7 +316,7 @@ Leogoras, for I remembered my old-time friendship
 with them.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="10"><p>
 ‘When you wish to know my side, ask the
 strangers who visit Acragas how I am with them, and
 whether I treat visitors kindly. Why, I even have
@@ -336,14 +333,14 @@ justice and pitying me. for my necessary severity.
 Then do you think that a man who is kind to
 
 
-<pb n="17"/>
+<pb n="v.1.p.17"/>
 
 foreigners would treat his fellow-countrymen so
 harshly if he had not been exceptionally wronged ?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="11"><p>
 ‘So much for what I had to say to you in my
 own behalf: it is true and just and, I flatter myself,
 merits praise rather than hatred. As for my gift, it
@@ -374,12 +371,12 @@ you are entertained by having flutes played to you.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="12"><p>
 
 When I heard this I was disgusted with the wicked
 ingenuity of the fellow and hated the idea of the
 
-<pb n="19"/>
+<pb n="v.1.p.19"/>
 
 contrivance, so I gave him a punishment that fitted,
 his crime. “Come now, Perilaus,” said I, “if this is
@@ -404,7 +401,7 @@ metal-worker and the first trial of the music.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="13"><p>
 ‘You will do what is right, men of Delphi, if
 you offer sacrifice in my behalf with my ambassadors,
 and if you set the bull up in a fair place in the
@@ -417,7 +414,7 @@ when others were punished and without having
 played any other tune than the bellowings of its
 
 
-<pb n="21"/>
+<pb n="v.1.p.21"/>
 
 maker, and his case sufficed me to try the invention
 and put an end to that uninspired, inhyman music.
@@ -427,7 +424,7 @@ dispense with punishments.’
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="14"><p>
 This, men of Delphi, is the message from Phalaris,
 all of it true and everything just as‘ it took place.
 You would be justified in believing our testimony,
@@ -446,9 +443,9 @@ the god of an offering at once most beautiful and
 most fitting.
 </p></div></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1:14" subtype="book" n="2">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2:14" subtype="book" n="2">
 <head>II</head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="1">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="1">
 
 
 <p>
@@ -459,7 +456,7 @@ private ground at all for good-will to him and no
 expectation of future friendship. But after listening
 to the reasonable and temperate story of the ambassadors who have come from him, I rise in the
 
-<pb n="23"/>
+<pb n="v.1.p.23"/>
 
 interests of religion, of our common good and, above
 all, of the dignity of Delphi to exhort you neither
@@ -471,7 +468,7 @@ just punishment.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="2"><p>
 for you to hesitate about
 this matter at all and to submit us the question
 whether we should receive the gift or send it back
@@ -485,7 +482,7 @@ made.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="3"><p>
 A man of Delphi myself and an equal participant
 in our public good name if we maintain it and in ~
 our disrepute if we acquire it from the present case,
@@ -499,7 +496,7 @@ of Delphi.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="4"><p>
 
 As a matter of fact, Apollo has already
 voted justly about the gift. At any rate, if he hated
@@ -508,14 +505,14 @@ sunk it in the middle of the Ionian sea, along with
 the ship that carried it. But, quite to the contrary,
 
 
-<pb n="25"/>
+<pb n="v.1.p.25"/>
 
 he vouchsafed them a calm passage, they say, and a
 safe arrival at Cirrha.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="5"><p>
 
 By this it is clear that he
 accepts the monarch’s worship. You must cast the
@@ -528,7 +525,7 @@ make an oblation.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="6"><p>
 
 The man who. holds the contrary opinion ranted
 about the tyrant’s murders and assaults and
@@ -544,7 +541,7 @@ which we have no knowledge.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="7"><p>
 
 But even if something of the sort has actually taken place in Sicily,
 we of Delphi need not trouble ourselves about it,
@@ -557,17 +554,17 @@ justly or unjustly.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="8"><p>
 Let the situation of others be as it may: we, in
 my opinion, must needs realize our own situation—
 what it was of old, what it is now, and what we can
 do to better it. That we live on crags and cultivate
 
 
-<pb n="27"/>
+<pb n="v.1.p.27"/>
 
 rocks is something we need not wait for Homer to
-tell us—anyone can see it for himself.<note n="1">“Rocky Pytho” is twice mentioned in the Iliad (2, 519;
+tell us—anyone can see it for himself.<note xml:lang="eng" n="1">“Rocky Pytho” is twice mentioned in the Iliad (2, 519;
 9, 405). But Lucian is thinking particularly of the Homeric
 Hymn to Apollo, toward the close of which (526f.) the
 Cretans whom Apollo has settled at Delphi ask him haw they
@@ -579,7 +576,7 @@ jow] with starvation: the temple, the god, the oracle,
 the sacrificers and the worshippers—these are the
 grain-lands of Delphi, these are our revenue, these
 are the sources of our prosperity and of our subsistence. We-should speak the truth among ourselves,
-at any rate! “Unsown and untilled,”<note n="2"> Homer, Od. 9, 109; 123.</note> as the poets
+at any rate! “Unsown and untilled,”<note xml:lang="eng" n="2"> Homer, Od. 9, 109; 123.</note> as the poets
 say, everything is grown for us with the god for our
 husbandman. Not only does he vouchsafe us the
 good things found among the Greeks, but every
@@ -593,7 +590,7 @@ this life !
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="9"><p>
 
 Never in the memory of any man have we taken
 avote on a gift, or prevented anyone from sacrificing
@@ -606,7 +603,7 @@ looking into the pedigree of things that are sent
 
 
 
-<pb n="29"/>
+<pb n="v.1.p.29"/>
 
 here, to see where they come from and from whom,
 and what they are: we should receive them and
@@ -614,7 +611,7 @@ dedicate them without officiousness, serving bothparties, the god and the worshi
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="10"><p>
 
 It seems to me, men of Delphi, that you will
 come to the best conclusion about the present case
@@ -630,7 +627,7 @@ these issues.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="11"><p>
 This is what we are in consultation about, then:
 it is not Phalaris (a single tyrant) or. this bull
 of bronze only, but all kings and all monarchs who
@@ -643,7 +640,7 @@ done, as we did in the beginning?
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="12"><p>
 
 What fault
 have we to find with the good old customs, that we
@@ -653,7 +650,7 @@ since the city has been inhabited, since our god has
 given oracles, since the tripod has had a voice and
 since the priestess has been inspired—the practice
 of trying and cross-examining givers? In consequence
-<pb n="31"/>
+<pb n="v.1.p.31"/>
 
 of that fine old custom of unrestricted -access for
 all, you see how many good things fill the temple :
@@ -662,7 +659,7 @@ god than their means warrant.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg001.perseus-eng2" subtype="section" n="13"><p>
 But if you make
 yourselves examiners and inquisitors upon gifts, I
 doubt we shall be in want of people to examine
@@ -670,12 +667,12 @@ hereafter, for nobody has the courage to put himself
 on the defensive, and to stand trial and risk everything as a result of spending his money lavishly.
 Who can endure life, if he is pronounced unworthy
 to make an oblation?
-<pb n="33"/>
+<pb n="v.1.p.33"/>
 
 
 
 
-<pb n="35"/>
+<pb n="v.1.p.35"/>
 </p>
 </div>
 </div>

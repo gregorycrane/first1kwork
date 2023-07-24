@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">Prometheus</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg020.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">2</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604154">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianhar02luciuoft/page/242/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604154?urlappend=%3Bseq=256">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,11 +69,12 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" xml:lang="eng">
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" xml:lang="eng">
+<pb n="v.2.p.243"/>
 
 <head>Prometheus
-<note>The mock-plea Prometheus, clearly suggested by the opening of the Prometheus Bound of Aeschylus, is midway between the Menippean satires and the pure genre of the Dialogues of the Gods, in one of which (5, formerly 1) the Titan figures again. In some of the manuscripts it bears a sub-title, The Caucasus, possibly added to distinguish it from A Literary Prometheus.</note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="1"><p>
+<note xml:lang="eng">The mock-plea Prometheus, clearly suggested by the opening of the Prometheus Bound of Aeschylus, is midway between the Menippean satires and the pure genre of the Dialogues of the Gods, in one of which (5, formerly 1) the Titan figures again. In some of the manuscripts it bears a sub-title, The Caucasus, possibly added to distinguish it from A Literary Prometheus.</note></head>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="1"><p>
 
 <label>HERMES</label>
 Well, Hephaestus, here is the Caucasus, where
@@ -101,7 +104,7 @@ up and let yourself be riveted to the mountain.
 <pb n="v.2.p.245"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="2"><p>
 <label>PROMETHEUS</label>
 Come, Hephaestus and Hermes, at any rate you
 might pity me in my undeserved misfortune.
@@ -120,7 +123,7 @@ and clever handiwork in clay.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="3"><p>
 <label>PROMETHEUS</label>
 O Cronus and Iapetus and you, O mother (Earth)!
 What a fate I suffer, luckless that I am, when I
@@ -131,7 +134,7 @@ No harm, Prometheus? In the first place you
 undertook to serve out our meat and did it so unfairly and trickily that you abstracted all the best
 of it for yourself and cheated Zeus by wrapping
 “bones in glistening fat”: for I remember that
-Hesiod says so.<note n="v.2.p.245.n.1">Theogony 541. The story was invented to account for the burning of bones wrapped in fat at sacrifice.</note> Then you made human beings,
+Hesiod says so.<note xml:lang="eng" n="v.2.p.245.n.1">Theogony 541. The story was invented to account for the burning of bones wrapped in fat at sacrifice.</note> Then you made human beings,
 thoroughly unprincipled creatures, particularly the
 women; and to top all, you stole fire, the most
 valued possession of the gods, and actually gave that
@@ -142,13 +145,13 @@ having done any wrong?
 <pb n="v.2.p.247"/>
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="4"><p>
 <label>PROMETHEUS</label>
 Hermes, you seem to be “blaming a man who is
-blameless,” to speak with the poet,<note n="v.2.p.247.n.1">[liad 13, 775.</note> for you reproach
+blameless,” to speak with the poet,<note xml:lang="eng" n="v.2.p.247.n.1">[liad 13, 775.</note> for you reproach
 me with things for which I should have sentenced
 myself to maintenance in the Prytaneum if justice
-were being done.<note n="v.2.p.247.n.2">After Socrates has been found guilty, his accusers proposed that he be condemned to death. He made a counterproposition that he be allowed to dine at the Prytaneum for the rest of his life, on the ground that he deserved this privilege better and needed it more than did the Olympic chainpions to whom it was accorded.</note> At any rate, if you have time, I
+were being done.<note xml:lang="eng" n="v.2.p.247.n.2">After Socrates has been found guilty, his accusers proposed that he be condemned to death. He made a counterproposition that he be allowed to dine at the Prytaneum for the rest of his life, on the ground that he deserved this privilege better and needed it more than did the Olympic chainpions to whom it was accorded.</note> At any rate, if you have time, I
 should be glad to stand trial on the charges, so that
 I might prove that Zeus has passed an unjust sentence on me. As you are ready-tongued and litigious,
 suppose you plead in his behalf that he was just in
@@ -166,7 +169,7 @@ as you are a very clever scoundrel at speech-making.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="5"><p>
 
 <label>PROMETHEUS</label>
 Speak first, then, Hermes, and see that you accuse
@@ -203,7 +206,7 @@ However, if you agree to this, son of Maea, it is high
 time you were getting on with your accusation.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="6"><p>
 
 <label>HERMES</label>
 Just as if long speeches and adequate preparation
@@ -229,7 +232,7 @@ waste of words.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="7"><p>
 
 <label>PROMETHEUS</label>
 Perhaps what you have said is also a waste of
@@ -246,7 +249,7 @@ enraged unless he gets the lion’s share himself.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="8"><p>
 
 Deceptions of that sort, Hermes, occurring at table,
 should not be remembered, but if a mistake is made
@@ -271,7 +274,7 @@ was the better portion.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="9"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="9"><p>
 
 Suppose, however, Hermes, that it was more
 serious—that instead of giving Zeus the smaller
@@ -287,7 +290,7 @@ in ease he had been choused out of a whole ox, if
 he wreaks such mighty deeds about a little meat ?
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="10"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="10"><p>
 How much more good-natured human beings are
 about such things! One would expect them to be
 more quick to wrath than the gods, but in spite of
@@ -306,7 +309,7 @@ bring ;
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="11"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="11"><p>
 and now it is time to speak of my handiwork
 and the fact that I made men. This embodies a
 
@@ -326,7 +329,7 @@ had happened to remain deserted and unpeopled.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="12"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="12"><p>
 
 There existed, then, in time gone by (for if I
 begin there it will be easier to see whether I have
@@ -353,10 +356,10 @@ appreciate what was better.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="13"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="13"><p>
 
 And then, “water and
-earth intermingling,” in the words of the poet,<note n="v.2.p.257.n.1">Hesiod, Works and Days 61.</note> and
+earth intermingling,” in the words of the poet,<note xml:lang="eng" n="v.2.p.257.n.1">Hesiod, Works and Days 61.</note> and
 kneading them, I moulded men, inviting Athena,
 moreover, to give me a hand in the task. Therein
 lies the great wrong I have done the gods, and you
@@ -378,7 +381,7 @@ treatment that I deserved at your hahds.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="14"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="14"><p>
 On the
 contrary, that my creation has been actually of
 service to the gods you will learn if you notice that
@@ -408,7 +411,7 @@ those of the community !
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="15"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="15"><p>
 
 Moreover, Hermes, please consider this point too—
 do you think that any choice thing unattested,
@@ -431,7 +434,7 @@ my plan.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="16"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="16"><p>
 
 But there are rascals, you say, among them, and
 they commit adultery and make war and mar ry their
@@ -450,7 +453,7 @@ task is also sweet, and, in general, business is not devoid of pleasure, for it 
 should we do if we had not them to provide for?
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="17"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="17"><p>
 Be
 idle and drink our nectar and eat our ambrosia without doing anything! But what sticks in my throat
 most is that although you censure me for making
@@ -481,7 +484,7 @@ you have crucified him who procured you your
 honours and your sacrifices.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="18"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="18"><p>
 
 So much for men; and now, if you wish, I shall
 pass to fire and that reprehensible theft! In the
@@ -511,7 +514,7 @@ do not cook your ambrosia and do not require artificial light.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="19"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="19"><p>
 
 On the other hand, men are obliged to
 use fire, not only for other purposes but above all for
@@ -537,7 +540,7 @@ reply.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="20"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="20"><p>
 
 <label>HERMES</label>
 It is not an easy matter, Prometheus, to rival such
@@ -556,7 +559,7 @@ this.
 <p><label>PROMETHEUS</label>
 I did know it, Hermes, and I also know that
 I shall be set free again; before long someone will
-come from Thebes, a brother of yours,<note n="v.2.p.265.n.1">Heracles.</note> to shoot
+come from Thebes, a brother of yours,<note xml:lang="eng" n="v.2.p.265.n.1">Heracles.</note> to shoot
 down the eagle which you say will fly to me.
 </p>
 <p><label>HERMES</label>
@@ -564,7 +567,7 @@ I hope so, Prometheus, and I hope to see you at
 large, feasting with us all—but not serving our meat !
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng1" subtype="section" n="21"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg020.perseus-eng2" subtype="section" n="21"><p>
 <label>PROMETHEUS</label>
 Never fear, I shall feast with you, and Zeus will
 set me free in return for a considerable favour.
@@ -575,7 +578,7 @@ What favour? Don’t hesitate to tell us.
 <p><label>PROMETHEUS</label>
 You know Thetis, Hermes ?—but I must not tell.
 It is best to keep the secret, so that I may be
-rewarded and set free instead of being sentenced.<note n="v.2.p.265.n.2">The secret is told in Dialogues of the Gods, 5.</note>
+rewarded and set free instead of being sentenced.<note xml:lang="eng" n="v.2.p.265.n.2">The secret is told in Dialogues of the Gods, 5.</note>
 <label>HERMES</label>
 Why, keep it, Titan, if it is best that way. Let’s
 be going, Hephaestus, for here is the eagle close by.
@@ -587,8 +590,6 @@ dissected by the bird.
 <pb n="v.2.p.267"/>
 
 
-
-<pb n="v.2.p.269"/>
 
 </p></div></div>
 

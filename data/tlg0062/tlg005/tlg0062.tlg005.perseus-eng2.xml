@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">Amber, or the Swan</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg005.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">1</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604153">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianha01luciuoft/page/74/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604153?urlappend=%3Bseq=86">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,9 +69,10 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg005.perseus-eng1" xml:lang="eng">
-<head>Amber, or the Swan<note>The introduction to a lecture, evidently familiar to Lucian’s public under two names.</note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng1" subtype="section" n="1"><p>
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg005.perseus-eng2" xml:lang="eng">
+<pb n="v.1.p.75"/>
+<head>Amber, or the Swan<note xml:lang="eng">The introduction to a lecture, evidently familiar to Lucian’s public under two names.</note></head>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng2" subtype="section" n="1"><p>
 With regard to amber, you doubtless share the
 general belief in the story that poplars on the banks
 of the river Eridanus shed tears of it in grief over ‘
@@ -84,7 +87,7 @@ myself with amber by catching a few of their tears.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng2" subtype="section" n="2"><p>
 
 As a matter of fact, I did visit those parts not long ago
 (on another errand, to be sure) ; and as I had to go up
@@ -101,7 +104,7 @@ his father consented, and he was thrown from the
 car and killed. “And his sisters,” said I, “out of
 
 
-<pb n="77"/>
+<pb n="v.1.p.77"/>
 
 sorrow turned into poplars somewhere in this neighbourhood of yours, on the banks of the Eridanus, at
 the spot where he fell, and still weep for him with .
@@ -109,7 +112,7 @@ tears of amber.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng2" subtype="section" n="3"><p>
 “Who told you that?” said they.
 “The cheat and liar! We never saw any driver
 fall from a car,and we haven't the poplars you speak
@@ -128,7 +131,7 @@ of it.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng2" subtype="section" n="4"><p>
 
 But the other story I thought I should
 find completely true there—the one about troops of
@@ -145,7 +148,7 @@ to sing.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng2" subtype="section" n="5"><p>
 ith a burst of laughter they replied :
 "Why, man, aren’t you ever going to stop telling
 lies about our country and our river? We are
@@ -153,7 +156,7 @@ always on the water, and have worked on the
 Eridanus since we were children, almost; now and
 
 
-<pb n="79"/>
+<pb n="v.1.p.79"/>
 
 then we see a few swans in the marshes by the
 river, and they have a very unmusical and feeble
@@ -164,7 +167,7 @@ about us got to your people.”
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng2" subtype="section" n="6"><p>
 
 Many such deceptions can be practised on men
 when they put faith in those who exaggerate everything they tell. Therefore I am now afraid on my
@@ -195,14 +198,13 @@ else you will have yourselves to blame for your
 expectations !
 
 
-<pb n="81"/>
+<pb n="v.1.p.81"/>
 
-<note>
+<note xml:lang="eng">
 It need hardly be said that this belongs to the domain of
 belles lettres, not of science. Like the Italian poets of the
 Renaissance, the rhetoricians of the decadence delighted to
 show their cunning by “praising” all manner of things good,
 bad, and indifferent.</note>
-<pb n="83"/>
 </p></div></div>
 </body></text></TEI>

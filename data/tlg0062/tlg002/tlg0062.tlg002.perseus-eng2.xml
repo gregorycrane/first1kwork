@@ -6,17 +6,18 @@
 <titleStmt>
 <title xml:lang="eng">Hippias, or the Bath</title>
 <author>Lucian of Samosata</author>
-<editor>Austin Morris Harmon, 1878-1950</editor>
+<editor role="translator">Austin Morris Harmon</editor>
 <funder>National Endowment for the Humanities</funder>
 <principal>Gregory Crane</principal>
 <respStmt>
 <persName>Gregory Crane</persName>
-<resp>OCRd, tagged and added initial corrections to  the text</resp>
+<orgName>Tufts University</orgName>
+<resp>Digital conversion and editing</resp>
 </respStmt>
 </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg002.perseus-eng2.xml</idno>
 <availability>
 <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -42,7 +43,8 @@
 </imprint>
 <biblScope unit="volume">1</biblScope>
 </monogr>
-<ref target="https://hdl.handle.net/2027/uc1.b000604153">The Hathi Trust</ref>
+<ref target="https://archive.org/details/lucianha01luciuoft/page/36/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/uc1.b000604153?urlappend=%3Bseq=48">The Hathi Trust</ref>
 </biblStruct>
 </listBibl>
 </sourceDesc>
@@ -67,9 +69,9 @@
 </teiHeader>
 <text>
 <body>
-<div type="translation" n="urn:cts:greekLit:tlg0062.tlg002.perseus-eng1" xml:lang="eng">
-<head>Hippias, or the Bath<note>"Description” (ecphrasis) was a favourite rhetorical exercise, though many frowned on it. In the “Rhetoric” attributed to Dionysius of Halicarnassus (X, 17 Usener) it is called "an empty show and a waste of words.” It is the general opinion that this piece is not by Lucian.</note></head>
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg002.perseus-eng1" subtype="section" n="1">
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg002.perseus-eng2" xml:lang="eng">
+<head>Hippias, or the Bath<note xml:lang="eng">"Description” (ecphrasis) was a favourite rhetorical exercise, though many frowned on it. In the “Rhetoric” attributed to Dionysius of Halicarnassus (X, 17 Usener) it is called "an empty show and a waste of words.” It is the general opinion that this piece is not by Lucian.</note></head>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg002.perseus-eng2" subtype="section" n="1">
 <p>
 
 Among wise men, I maintain, the most praiseworthy are they who not only have spoken cleverly
@@ -91,7 +93,7 @@ recently.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg002.perseus-eng1" subtype="section" n="2"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg002.perseus-eng2" subtype="section" n="2"><p>
 Why have I said all this? It was not out of an
 ill-timed desire to air my knowledge of history that
 I brought it up, but because the same. thing is true
@@ -100,7 +102,7 @@ famous for knowledge, have yet left to later generations reminders and proofs of
 for men trained in words alone would better be called
 
 
-<pb n="37"/>
+<pb n="v.1.p.37"/>
 
 wiseacres than wise. Such an engineer we are told,
 was Archimedes, and also Sostratus of Cnidus, The
@@ -118,7 +120,7 @@ for the Achaeans but to have gone into it along
 with them.
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg002.perseus-eng1" subtype="section" n="3"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg002.perseus-eng2" subtype="section" n="3"><p>
 
 Among these men Hippias, our own contemporary, deserves mention. Not only is he trained as
 highly in the art of speech as any of his predecessors,
@@ -127,7 +129,7 @@ his professional promises, not merely doing so in those
 matters in which his predecessors succeeded in
 getting to the fore, but, as the geometricians put it,
 knowing how to construct a triangle accurately on a
-given base.<note n="1">In other words, he has originality.</note> Moreover, whereas each of the others
+given base.<note xml:lang="eng" n="1">In other words, he has originality.</note> Moreover, whereas each of the others
 marked off some one department of science and
 sought fame in it, making a name for himself in
 spite of this delimitation, he, on the contrary, is
@@ -136,7 +138,7 @@ engineering and geometry, and yet he shows as
 
 
 
-<pb n="39"/>
+<pb n="v.1.p.39"/>
 
 great perfection in each of these fields as if he knew
 nothing else. It would take no little time to sing
@@ -145,7 +147,7 @@ mirrors, or in astronomy, in which he made his predecessors appear’ children,
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg002.perseus-eng1" subtype="section" n="4"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg002.perseus-eng2" subtype="section" n="4"><p>
 
 but I shall not hesitate
 to speak of one of his achievements which I recently
@@ -166,7 +168,7 @@ shows regard for the principles of lighting.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg002.perseus-eng1" subtype="section" n="5"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg002.perseus-eng2" subtype="section" n="5"><p>
 The entrance is high, with a flight of broad
 steps of which the tread is greater than the pitch,
 to make them easy to ascend. On entering, one
@@ -176,7 +178,7 @@ On the left are the lounging-rooms, also of just
 the right sort for a bath, attractive, brightly lighted
 
 
-<pb n="41"/>
+<pb n="v.1.p.41"/>
 
 retreats, Then, beside them, a hall, larger than
 need be for the purposes of a bath, but necessary
@@ -190,12 +192,12 @@ Hygieia, the other of Aesculapius.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg002.perseus-eng1" subtype="section" n="6"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg002.perseus-eng2" subtype="section" n="6"><p>
 
 On leaving this hall, you come into another
 which is slightly warmed instead of meeting you
 at once with fierce heat; it is oblong, and has an
-apse at each side.<note n="1">Or “long and rounded” ; i.e., elliptical. </note> Next it, on the right, is a
+apse at each side.<note xml:lang="eng" n="1">Or “long and rounded” ; i.e., elliptical. </note> Next it, on the right, is a
 very bright hall, nicely fitted up for massage,
 which has on each side an entrance decorated with
 Phrygian marble, and receives those who come in
@@ -207,13 +209,13 @@ refulgent with Phrygian marble clear to the roof.
 Next, comes the hot corridor, faced with Numidian
 marble. The hall beyond it is very beautiful, full of
 abundant light and aglow with colour like that of
-purple hangings.<note n="2">The writer does not mean that the room was hung with
+purple hangings.<note xml:lang="eng" n="2">The writer does not mean that the room was hung with
 purple, but that the stone with which it was decorated was
 purple: perhaps only that it had columns of porphyry.</note> It contains three hot tubs.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg002.perseus-eng1" subtype="section" n="7"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg002.perseus-eng2" subtype="section" n="7"><p>
 When you have bathed, you need not go back
 through the same rooms, but can go directly to the
 cold room through a slightly warmed apartment.
@@ -222,10 +224,10 @@ indoor daylight. Furthermore, the height of each
 
 
 
-<pb n="43"/>
+<pb n="v.1.p.43"/>
 
 room is just, and the breadth proportionate to
-the length ; and everywhere great beauty and loveliness prevail, for in the words of noble Pindar,<note n="1">Olymp. 6, 3. Pindar’s ἀρχομένου (the beginning of your
+the length ; and everywhere great beauty and loveliness prevail, for in the words of noble Pindar,<note xml:lang="eng" n="1">Olymp. 6, 3. Pindar’s ἀρχομένου (the beginning of your
 work) is out of place in this context.</note>
 “Your work should have a glorious countenance.”
 This is probably due in the main to the light,
@@ -236,7 +238,7 @@ that require abundant heat.
 
 </p></div>
 
-<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg002.perseus-eng1" subtype="section" n="8"><p>
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg002.perseus-eng2" subtype="section" n="8"><p>
 
 Why should I go on
 and tell you of the exercising-floors and of the cloakrooms, which have quick and direct communication
@@ -253,7 +255,7 @@ work its meed of praise is not only foolish but
 
 
 
-<pb n="45"/>
+<pb n="v.1.p.45"/>
 
 ungrateful, even malignant, it seems to me. I for
 my part have done what I could to do justice both
@@ -264,11 +266,10 @@ who will join me in my words of praise.
 
 
 
-<pb n="47"/>
+<pb n="v.1.p.47"/>
 
 
 
-<pb n="49"/>
 </p></div></div>
 
 </body></text></TEI>
