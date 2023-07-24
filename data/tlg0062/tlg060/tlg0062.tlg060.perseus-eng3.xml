@@ -4,8 +4,8 @@
     <teiHeader xml:lang="eng">
 <fileDesc>
 <titleStmt>
-<title xml:lang="grc">Ἀπολογία</title>
-<title>Apology for the "Salaried Posts in Great Houses"</title>
+<title xml:lang="grc">Ἁρμονίδης</title>
+<title>Harmonides</title>
 <author>Lucian of Samosata</author>
 <editor role="translator">Kenneth Kilburn</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
@@ -24,7 +24,7 @@
 <pubPlace>Medford, MA</pubPlace>
 <authority>Perseus Project</authority>
     <date type="release" when="2023-06-23">Perseus 5.0</date>
-    <idno type="filename">tlg0062.tlg060.perseus-grc3.xml</idno>
+    <idno type="filename">tlg0062.tlg061.perseus-grc3.xml</idno>
     <availability>
         <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
     </availability>
@@ -78,171 +78,45 @@
 <text>
 <body>
 <div type="translation" n="urn:cts:greekLit:tlg0062.tlg060.perseus-eng3" xml:lang="eng">
-<pb n="6.216"/>
-<head>ΑΡΜΟΝΙΔΗΣ</head>
-
-<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg060.perseus-eng3" n="1"><p> ‘Αρμονίδης ὁ αὐλητὴς ἤρετό ποτε Τιμόθεον
-διδάσκαλον αὐτοῦ ὄντα, Εἰπέ μοι, ἔφη, ὦ Τιμόθεε,
-πῶς ἂν ἔνδοξος γενοίμην ἐπὶ τῇ τέχνῃ; καὶ τί
-ποιοῦντα εἴσονταί με οἱ Ἕλληνες ἅπαντες; τὰ
-μὲν γὰρ ἄλλα εὖ ποιῶν ἐδιδάξω με ἤδη, ἁρμόσασθαι
-τὸν αὐλὸν ἐς τὸ ἀκριβὲς καὶ ἐμπνεῖν ἐς τὴν
-γλωσσίδα λεπτόν τι καὶ ἐμμελὲς καὶ ὑποβάλλειν
-τοὺς δακτύλους εὐαφῶς ὑπὸ πυκνῇ τῇ ἄρσει καὶ
-θέσει καὶ βαίνειν ἐν ῥυθμῷ καὶ σύμφωνα εἷναι
-<note xml:lang="eng" n="6.216.1">εἷναι Macleod: εἶναι MSS.</note>
- τὰ
-μέλη πρὸς τὸν χορὸν καὶ τῆς ἁρμονίας ἑκάστης
-διαφυλάττειν τὸ ἴδιον, τῆς Φρυγίου τὸ ἔνθεον,
-τῆς Λυδίου τὸ Βακχικόν, τῆς Δωρίου τὸ σεμνόν,
-τῆς Ἰωνικῆς τὸ γλαφυρόν. ταῦτα μὲν οὖν πάντα
-ἐκμεμάθηκα παρὰ σοῦ· τὰ μέγιστα δὲ καὶ ὧν
-ἕνεκα ἐπεθύμησα τῆς αὐλητικῆς, οὐχ ὁρῶ πῶς ἂν
-ἀπ᾿ αὐτῆς μοι προσγένοιτο, ἡ δόξα ἡ παρὰ τῶν
-πολλῶν καὶ τὸ ἐπίσημον εἶναι ἐν πλήθεσι καὶ δείκνυσθαι
-τῷ δακτύλῳ, καὶ ἤν που φανῶ, εὐθὺς
-ἐπιστρέφεσθαι πάντας εἰς ἐμὲ καὶ λέγειν τοὔνομα,
-οὗτος Ἁρμονίδης ἐκεῖνός ἐστιν ὁ ἄριστος αὐλητής,
-ὥσπερ ὅτε καὶ σύ, ὦ Τιμόθεε, τὸ πρῶτον ἐλθὼν
-οἴκοθεν ἐκ Βοιωτίας ὑπηύλησας τῇ Πανδιονίδι καὶ
-ἐνίκησας
-<note xml:lang="eng" n="6.216.2">ἐνίκησας Jens; νικήσας MSS: νὴ Δί᾿ ᾖσας L. A. Post.</note>
- ἐν τῷ Αἴαντι τῷ ἐμμανεῖ, τοῦ ὁμωνύμου
-<note xml:lang="eng" n="6.216.3">ὁμωνύμου Manilius: ὁμώνυμόν MSS.</note>
-
-σοι ποιήσαντος τὸ μέλος, οὐδεὶς ἦν ὃς
+<pb n="217"/>
+<head>Harmonides</head>
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg060.perseus-eng3" n="1"><p>
+<milestone unit="para"/>Harmonides the pipe-player once asked Timotheus,
+who was his teacher. “Tell me, Timotheus, how can I become famous in the art? What must I do to become known to all the Greek world? You have already (and I thank you) taught me the rest of the art: I mean, to tune the pipe accurately, to blow lightly and harmoniously into the mouthpiece, to fit the fingers with easy touch to the full rise and fall of the music, to step in rhythm, to direct the music harmoniously in the direction of the dancers, and to master the peculiarities of each mode—the frenzy of the Phrygian, the excitement of the Lydian, the dignity of the Dorian, the elegance of the Ionian. All this I have learnt from you. But the most important matter—the reason for my interest in the art of pipe-playing—I don’t see how pipe-playing will ever bring me to it. I mean universal fame, being noticed in a crowd, being pointed at, and on putting in an appearance anywhere having everyone turn towards me and say my name, ‘That is Harmonides the outstanding piper’; just as when you too, Timotheus, first left your home in Boeotia and accompanied the <hi rend="italic">Daughter of Pandion</hi> and won the victory in the <hi rend="italic">Ajax Mad</hi>, playing the music your namesake had written for you, every single person
 
 
-<pb n="6.218"/>
 
-ἠγνόει τοὔνομα, Τιμόθεον ἐκ Θηβῶν. ἀλλ᾿ ἔνθα
-ἂν καὶ νῦν φανῇς, συνθέουσιν ἐπὶ σὲ πάντες
-ὥσπερ ἐπὶ τὴν γλαῦκα τὰ ὄρνεα. ταῦτ᾿ ἐστὶν δι᾿
-ἅπερ ηὐξάμην αὐλητὴς γενέσθαι καὶ ὑπὲρ ὧν
-πεπόνηκα τὸν πόνον τὸν πολύν· ἐπεὶ τό γε αὐλεῖν
-αὐτὸ ἄνευ τοῦ ἔνδοξον εἶναι δι᾿ αὐτὸ οὐκ ἂν
-δεξαίμην ἀγνώστῳ μοι προσγενόμενον, οὐδ᾿ εἰ
-Μαρσύας ἢ Ὄλυμπος γενήσεσθαι μέλλοιμι λανθάνων.
-οὐδὲν γὰρ ὄφελος ἀπορρήτου, φασί, καὶ
-ἀφανοῦς τῆς μουσικῆς. ἀλλὰ σύ, ἔφη, καὶ ταῦτα
-παίδευσόν με, ὅπως μοι χρηστέον κἀμαυτῷ καὶ
-τῇ τέχνῃ, καί σοι διττὴν εἴσομαι τὴν χάριν, καὶ
-ἐπὶ τῇ αὐλήσει καί, τὸ μέγιστον, ἐπὶ τῇ δόξῃ
-αὐτῆς.
+
+<pb n="219"/>
+
+knew your name, Timotheus of Thebes. Whenever you appear there now, everyone flocks round you like birds around an owl. This was my reason for wanting to become a pipe-player and undertaking the hard training. I shouldn’t consider taking up pipe-playing for its own sake without its attendant reputation, and if I were to remain in obscurity. No, not even if I were to be an unknown Marsyas or Olympus. It’s no use, they say, if musical skill is to be secret and kept hidden. But teach me this as well, how to do some good to myself as well as our art and I shall feel doubly grateful to you—for the pipe-playing and, most important of all, for the glory it confers.”
 </p></div>
 
-<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg060.perseus-eng3" n="2"><p> Ἀποκρίνεται οὖν αὐτῷ ὁ Τιμόθεος, Ἀλλ᾿, ὦ
-Ἁρμονίδη, ἐρᾷς μέν, ἔφη, εὖ ἴσθι, οὐ μικροῦ
-πράγματος, ἐπαίνου καὶ δόξης καὶ ἐπίσημος εἶναι
-καὶ γιγνώσκεσθαι πρὸς τῶν πολλῶν, τοῦτο δὲ εἰ
-μὲν οὑτωσί πως ἐς τὰ πλήθη παριὼν ἐπιδεικνύμενος
-ἐθέλοις πορίζεσθαι, μακρὸν ἂν γένοιτο, καὶ
-οὐδὲ οὕτως ἅπαντες εἴσονταί σε. ποῦ γὰρ ἂν
-εὑρεθείη ἢ θέατρον ἢ στάδιον οὕτω μέγα, ἐν ᾦ
-πᾶσιν αὐλήσεις τοῖς Ἕλλησιν; ὡς δὲ ποιήσας
-γνωσθήσῃ αὐτοῖς καὶ ἐπὶ τὸ πέρας ἀφίξῃ τῆς
-εὐχῆς, ἐγὼ καὶ τοῦτο ὑποθήσομαί σοι· σὺ γὰρ
-αὔλει μὲν καὶ πρὸς τὰ θέατρα ἐνίοτε, ἀτὰρ ὀλίγον
-μελέτω σοι τῶν πολλῶν. ἡ δὲ ἐπίτομος καὶ
-ῥᾷστα ἐπὶ τὴν δόξαν ἄγουσα ἥδε ἐστίν. εἰ γὰρ
-ἐπιλεξάμενος τῶν ἐν τῇ Ἑλλάδι τοὺς ἀρίστους καὶ
-ὀλίγους αὐτῶν ὅσοι κορυφαῖοι καὶ ἀναμφιλόγως
-θαυμαστοὶ καὶ ἐπ᾿ ἀμφότερα πιστοί, εἰ τούτοις,
-φημί, ἐπιδείξαιο τὰ αὐλήματα καὶ οὗτοι ἐπαινέσονταί
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg060.perseus-eng3" n="2"><p> Timotheus replied, “You must realise, Harmonides, that it is no small thing that you’re in love with—praise and reputation, distinction and being known to the public—, but if you wanted to achieve this by way of giving demonstrations before large crowds it would be a long business, and not even then will you be known to everyone. Where would you find a theatre or stadium big enough to play to all the Greeks? But I’ll suggest a way of becoming known to them and attaining your hopes in all their fullness: play the pipe sometimes in theatres as well yet take but little notice of the crowd. This is the easiest short cut to a reputation. For if you choose only the best of Greece and of these just the few at the top, men of undisputed genius and reliable judgment, if, I say, you show off your pipe-pieces to them and they praise you, then you can think yourself
 
-<pb n="6.220"/>
+<pb n="221"/>
 
-σε, ἅπασιν Ἕλλησι νόμιζε ἤδη γεγενῆσθαι
-γνώριμος ἐν οὕτω βραχεῖ. καὶ τὸ πρᾶγμα ὅρα
-πῶς συντίθημι· εἰ γὰρ οὓς ἅπαντες ἴσασι καὶ οὓς
-θαυμάζουσιν, οὗτοι δὲ εἴσονταί σε αὐλητὴν εὐδόκιμον
-ὄντα, τί σοι δεῖ τῶν πολλῶν, οἵ γε πάντως
-ἀκολουθήσουσι τοῖς ἄμεινον κρῖναι δυναμένοις;
-ὁ γάρ τοι πολὺς οὗτος λεώς, αὐτοὶ μὲν ἀγνοοῦσι
-τὰ βελτίω, βάναυσοι ὄντες οἱ πολλοὶ αὐτῶν,
-ὅντινα δ᾿ ἂν οἱ προὔχοντες ἐπαινέσωσι, πιστεύουσι
-μὴ ἂν ἀλόγως ἐπαινεθῆναι τοῦτον· ὥστε ἐπαινέσουσι
-καὶ αὐτοί. καὶ γὰρ οὖν καὶ ἐν τοῖς ἀγῶσιν
-οἱ μὲν πολλοὶ θεαταὶ ἴσασι
-<note xml:lang="eng" n="6.220.1">ἴσασι one late MSS.: εἰσι(ν) other MSS.</note>
- κροτῆσαί ποτε καὶ
-συρίσαι, κρίνουσι δὲ ἑπτὰ ἢ πέντε ἢ ὅσοι δή.
+
+a man of repute in the eyes of all the Greeks after this short trial. Do you see what my plan does for you? Suppose that those whom everyone knows and admires recognise that you are a piper of ability, then you can ignore the crowd—they will always follow men of superior judgment. This great mass doesn’t recognise quality for itself—most of them are low, vulgar fellows—but when acclaim is won from men of standing, they all believe it is due and reasonable, and they too will acclaim. The truth, you see, is that even when watching competitions plenty of spectators know how to clap at the end and hiss, but judgment is the prerogative of the odd half dozen.”
 </p></div>
 
-<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg060.perseus-eng3" n="3"><p> Ταῦτα ὁ μὲν Ἁρμονίδης οὐκ ἔφθη ποιῆσαι.
-μεταξὺ γὰρ αὐλῶν, φασίν, ὅτε τὸ πρῶτον ἠγωνίζετο,
-φιλοτιμότερον ἐμφυσῶν ἐναπέπνευσε τῷ
-αὐλῷ καὶ ἀστεφάνωτος ἐν τῇ σκηνῇ ἀπέθανε τὸ
-αὐτὸ καὶ πρῶτον καὶ ὕστατον αὐλήσας ἐν τοῖς
-Διονυσίοις.
-<milestone unit="para"/>Ὁ μέντοι τοῦ Τιμοθέου λόγος οὐκ αὐληταῖς
-οὐδὲ Ἁρμονίδῃ μόνον εἰρῆσθαί μοι δοκεῖ, ἀλλὰ
-πᾶσιν ὅσοι δόξης ὀρέγονται δημόσιόν τι ἐπιδεικνύμενοι,
-τοῦ παρὰ τῶν πολλῶν ἐπαίνου δεόμενοι.
-ἔγωγ᾿ οὖν ὁπότε καὶ αὐτὸς ἐνενόουν τὰ ὅμοια
-περὶ τῶν ἐμαυτοῦ καὶ ἐζήτουν ὅπως ἂν τάχιστα
-γνωσθείην πᾶσιν, τῷ Τιμοθέου λόγῳ ἑπόμενος
-ἐσκοπούμην ὅστις ὁ ἄριστος εἴη τῶν ἐν τῇ πόλει
-καὶ ὅτῳ πιστεύσουσιν οἱ ἄλλοι καὶ ὃς ἀντὶ πάντων
-ἀρκέσειεν ἄν. οὕτω δὲ ἄρα σὺ ἔμελλες ἡμῖν
-φαίνεσθαι τῷ δικαίῳ λόγῳ, ὅ τι περ τὸ κεφάλαιον
-ἀρετῆς ἁπάσης, ὁ γνώμων, φασί, καὶ ὁ ὀρθὸς
-κανὼν τῶν τοιούτων. εἰ δέ σοι δείξαιμι τἀμὰ
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg060.perseus-eng3" n="3"><p> Harmonides did not have time to carry out these instructions. The story goes that during his first attempt at winning the pipe competition, his competitive blowing was so keen that he blew his last breath on his pipe and died on the stage uncrowned: his one Dionysiac performance was his first and his last.
+<milestone unit="para"/>It seems to me that Timotheus’s principle applies not only to pipe-playing and Harmonides but to all those who look for fame by making a public exhibition of themselves, aiming at the applause of the crowd. Take my own case. When I was contemplating something similar for myself and was looking for the quickest means of acquiring a general reputation, I took Timotheus’s advice. I looked for the best man in the city, the one everybody else would believe, the one who would suffice for all. You alone could reasonably be seen as the man, you the sum of all excellence, the measure, as they say, and model of accuracy in all such matters. To show you
 
-<pb n="6.222"/>
 
-καὶ σὺ ἐπαινέσειας αὐτά—εἴη γὰρ οὕτω φανήσεσθαι—,
-καὶ δὴ ἐπὶ πέρας ἥκειν με τῆς ἐλπίδος ἐν
-μιᾷ ψήφῳ τὰς ἁπάσας λαβόντα. ἢ τίνα γὰρ ἂν
-πρὸ σοῦ ἑλόμενος οὐχὶ παραπαίειν ἂν δικαίως
-νομισθείην; ὥστε λόγῳ μὲν ἐφ᾿ ἑνὸς ἀνδρὸς
-ἀναρρίψομεν τὸν κύβον, τὸ δ᾿ ἀληθὲς ὥσπερ ἂν
-εἰ τοὺς ἁπανταχόθεν ἀνθρώπους συγκαλέσας ἐς
-κοινὸν θέατρον ἐπιδεικνυοίμην τοὺς λόγους. δῆλον
-γὰρ ὡς καθ᾿ ἕνα τε καὶ συνάμα πάντων συνειλεγμένων
-μόνος αὐτὸς ἀμείνων ἂν ἦσθα. οἱ μέν γε
-τῶν Λακεδαιμονίων βασιλεῖς, τῶν ἄλλων ἑκάστου
-μίαν ψῆφον φερόντων, ἐκεῖνοι μόνοι ἑκάτερος
-αὐτῶν δύο ἔφερον, σὺ δὲ καὶ τὰς τῶν ἐφόρων καὶ
-τὰς τῶν γερόντων προσέτι, καὶ ὅλως ἁπάντων ὁ
-πολυψηφότατος ἐν παιδείᾳ σύ γε, καὶ μάλιστα
-ὅσῳ τὴν λευκὴν ἀεὶ καὶ σώζουσαν φέρεις, ὃ καὶ
-θαρρεῖν με ἐν
-<note xml:lang="eng" n="6.222.1">με ἐν Jacobitz: μὲν Γ: με other MSS.</note>
- τῷ παρόντι ποιεῖ διά γε τὸ
-μέγεθος τοῦ τολμήματος καὶ πάνυ δικαίως ἂν
-φοβηθέντα. κἀκεῖνο δὲ νὴ Δία προσέτι καὶ αὐτὸ
-θαρρεῖν ποιεῖ, τὸ μὴ παντάπασιν ἀλλότρια τἀμὰ
-εἶναί σοι, ὃς πόλεώς γε
-<note xml:lang="eng" n="6.222.2">γε Fritzsche: τε MSS.</note>
- ἐκείνης εἰμί, ἣν πολλάκις
-εὖ ἐποίησας, τὸ μὲν πρῶτον ἰδίᾳ, τὸ δὲ δεύτερον
-κοινῇ μετὰ παντὸς τοῦ ἔθνους. ὥστε ἤν που καὶ
-νῦν ἐμοὶ ἐς τὸ χεῖρον ῥέπωσιν αἱ ψῆφοι ἐν τῷ
-λόγῳ καὶ ἐλάττους ὦσιν αἱ ἀμείνους, σὺ δὲ τὴν
-τῆς Ἀθηνᾶς προστιθεὶς ἀναπλήρου τὸ ἐνδέον
-παρὰ σεαυτοῦ καὶ τὸ ἐπανόρθωμα οἰκεῖόν σοι
-δοκείτω.
+
+<pb n="223"/>
+
+my work and for you to give it your praise—if only that could be!—then indeed would I have attained the fullness of my desire, winning the votes of all through that of you alone. Whom could I prefer to you without being rightly considered out of my wits? It could be said that I would be staking everything on one man, but in reality it is as if I had assembled the whole population in one theatre as audience for my words. For the plain fact is that by yourself you would be a better judge than the whole assembly taken singly or together. Now the kings of Sparta alone had two votes each, the rest had one: but you carry the weight of ephors and council as well, and in short in the field of culture you have a block vote that outvotes all. Most important of all you always hold the casting vote that secures an acquittal. This gives me courage at the present time, for I might well be nervous—my presumption is so great. There is in all truth an additional reason for my confidence: my interests are not altogether alien to you, inasmuch as I am a native of a city that has often been a beneficiary of your good will, both in specific acts of kindness and generally in company with the rest of the nation. So if at the present time the voting is going against me in the count and the favourable votes are in a minority, like Athena give your casting-vote
+<note xml:lang="eng" n="6.223.1">Orestes was acquitted by Athena’s casting vote; see Aeschylus, <hi rend="italic">Eumenides</hi>.</note>
+  and make up the deficiency in your own person, and let the credit be yours for setting the matter right.
 </p></div>
 
-<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg060.perseus-eng3" n="4"><p> Καὶ γὰρ οὐδὲ ἐκεῖνό μοι ἱκανόν, εἰ πολλοὶ
-ἐθαύμασαν πρότερον, εἰ ἔνδοξος ἤδη ἐγώ, εἰ
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg060.perseus-eng3" n="4"><p>It is not enough for me that many may have expressed admiration before, that I may have some
 
 
+<pb n="225"/>
 
-<pb n="6.224"/>
-
-ἐπαινοῦνται πρὸς τῶν ἀκουσάντων οἱ λόγοι.
-πάντα ἐκεῖνα ὑπηνέμια ὀνείρατα, φασί, καὶ
-ἐπαίνων σκιαί. τὸ δ᾿ ἀληθὲς ἐν τῷ παρόντι
-δειχθήσεται· οὗτος ἀκριβὴς ὅρος τῶν ἐμῶν,
-οὐδὲν ἀμφίδοξον ἔτι οὐδ᾿ ὡς ἄν τις ἐνδοιάσειεν,
-ἀλλ᾿ ἢ ἄριστον κατὰ παιδείαν δεήσει νομίζεσθαι,
-σοί γε δόξαν, ἢ πάντων—εὐφημεῖν δὲ χρὴ πρὸς
-οὕτω μέγαν ἀγῶνα χωροῦντα. δόξαιμεν γάρ, ὦ
-θεοί, λόγου ἄξιοι καὶ βεβαιώσαιτε ἡμῖν τὸν παρὰ
-τῶν ἄλλων ἔπαινον, ὡς τὸ λοιπὸν θαρροῦντας ἐς
-τοὺς πολλοὺς παρεῖναι. πᾶν γὰρ ἤδη στάδιον
-ἧττον φοβερὸν τῷ Ὀλύμπια τὰ μεγάλα νενικηκότι.
+reputation already, that my works are praised by those who have heard them—all this is empty show, as they say, a mere shadow of approval. Now the truth will appear; this is the strict measure of my work. There will henceforth be no doubt, no hesitation. I must be judged now either supreme in the field of literature, for this is your verdict, or of all men—but I must utter no word of ill omen now that I am entering on such a mighty contest. Heaven grant me your approval and confirmation of my reputation! Then for the future I shall face the world with a brave heart. Any other stadium already holds less terror for the man who has won the great prizes of Olympia.
 
 </p></div></div></body></text></TEI>

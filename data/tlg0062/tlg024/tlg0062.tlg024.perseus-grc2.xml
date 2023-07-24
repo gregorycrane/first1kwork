@@ -6,7 +6,7 @@
 <titleStmt>
  <title xml:lang="grc">Βίων Πρᾶσις</title>
 <author>Lucian</author>
-<editor role="translator">Austin Morris Harmon</editor>
+<editor>Austin Morris Harmon</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
 <principal>Gregory Crane</principal>
 <respStmt>
@@ -39,7 +39,7 @@
     <monogr>
      <author>Lucian</author>
      <title>Lucian</title>
-     <editor role="translator">Austin Morris Harmon</editor>
+     <editor>Austin Morris Harmon</editor>
      <imprint>
       <pubPlace>London</pubPlace>
       <publisher>William Heinemann Ltd.</publisher>
@@ -79,6 +79,7 @@
 </profileDesc>
   <revisionDesc>
    <change who="Lisa Cerrato" when="2023-04-10">EpiDoc and CTS conversion and other cleanup</change>
+   <change who="Gregory Crane" when="2023-07-21">(1) extracted notes from the 1st1K version of these files and added them here; (2) used access to a second version of the Greek edition to compare the two and correct errors here.</change>
   </revisionDesc>
 </teiHeader>
 <text>
@@ -89,9 +90,9 @@
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-grc2" n="1">
 <sp> <speaker>Ζεύς</speaker>
 <p rend="align(indent)"> σὺ μὲν διατίθει τὰ βάθρα καὶ παρασκεύαζε τὸν τόπον τοῖς ἀφικνουμένοις, σὺ δὲ στῆσον ἑξῆς παραγαγὼν τοὺς βίους, ἀλλὰ κοσμήσας πρότερον, ὡς εὐπρόσωποι φανοῦνται καὶ ὅτι πλείστους ἐπάξονται· σὺ δέ, ὦ Ἑρμῆ, κήρυττε καὶ συγκάλει. </p> </sp>
-<sp> <speaker>Ἑρμῆς<note type="footnote" n="v.2.p.450.n.1">ΕΡΜΗΣ. Du Soul, Fritzsche: no change of speaker in MSS.</note></speaker>
+<sp> <speaker>Ἑρμῆς<note xml:lang="mul" type="footnote" n="v.2.p.450.n.1">ΕΡΜΗΣ. Du Soul, Fritzsche: no change of speaker in MSS.</note></speaker>
 <p rend="align(indent)"> ἀγαθῇ τύχῃ τοὺς ὠνητὰς ἤδη παρεῖναι πρὸς τὸ πωλητήριον. ἀποκηρύξομεν δὲ βίους φιλοσόφους παντὸς εἴδους καὶ προαιρέσεων ποικίλων. εἰ δέ τις τὸ παραυτίκα μὴ ἔχει τἀργύριον καταβαλέσθαι, εἰς νέωτα ἐκτίσει καταστήσας ἐγγυητήν. </p> </sp>
-<sp> <speaker>Ζεύς<note type="footnote" n="v.2.p.450.n.2">ΖΕΥΣ. πολλοὶ . . . οὖν Du Soul, Fritzsche: EPM. πολλοὶ . . . αὐτούς. ΖΕΥΣ. πωλῶμεν οὖν vulg.</note></speaker>
+<sp> <speaker>Ζεύς<note xml:lang="mul" type="footnote" n="v.2.p.450.n.2">ΖΕΥΣ. πολλοὶ . . . οὖν Du Soul, Fritzsche: EPM. πολλοὶ . . . αὐτούς. ΖΕΥΣ. πωλῶμεν οὖν vulg.</note></speaker>
 <p rend="align(indent)"> πολλοὶ συνίασιν· ὥστε χρὴ μὴ διατρίβειν μηδὲ κατέχειν αὐτούς. πωλῶμεν οὖν. </p> </sp> </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-grc2" n="2">
@@ -124,7 +125,7 @@
 <sp> <speaker>Πυθαγόρας</speaker>
  <p rend="align(indent)"> ἐν Αἰγύπτῳ παρὰ τοῖς ἐκεῖ σοφοῖσι.  </p> </sp> <pb n="v.2.p.454"/>
 <sp> <speaker>Ἀγοράστης</speaker>
-<p rend="align(indent)"> φέρε δέ, ἢν πρίωμαί σε, τί με διδάξει;<note type="footnote" n="v.2.p.454.n.1">διδάξει Κ. Schwartz: διδάξεις MSS.</note> </p> </sp>
+<p rend="align(indent)"> φέρε δέ, ἢν πρίωμαί σε, τί με διδάξει;<note xml:lang="mul" type="footnote" n="v.2.p.454.n.1">διδάξει Κ. Schwartz: διδάξεις MSS.</note> </p> </sp>
 <sp> <speaker>Πυθαγόρας</speaker>
 <p rend="align(indent)"> διδάξομαι μὲν οὐδέν, ἀναμνήσω δέ. </p> </sp>
 <sp> <speaker>Ἀγοράστης</speaker>
@@ -467,7 +468,7 @@
 <sp> <speaker>Ἀγοράστης</speaker>
 <p rend="align(indent)"> τί μήν; </p> </sp>
 <sp> <speaker>Χρύσιππος</speaker>
-<p rend="align(indent)"> τοῦτο ἤν πως κροκόδειλος ἁρπάσῃ πλησίον τοῦ ποταμοῦ πλαζόμενον εὑρών, κᾆτά σοι ἀποδώσειν ὑπισχνῆται<note type="footnote" n="v.2.p.490.n.1">ὐπισχνῆται Fritzsche: ὑπισχνεῖται MSS.</note> αὐτό, ἢν εἴπῃς τἀληθὲς ὅ τι δέδοκται <pb n="v.2.p.492"/> αὐτῷ περὶ τῆς ἀποδόσεως τοῦ βρέφους, τί φήσεις αὐτὸν ἐγνωκέναι; </p> </sp>
+<p rend="align(indent)"> τοῦτο ἤν πως κροκόδειλος ἁρπάσῃ πλησίον τοῦ ποταμοῦ πλαζόμενον εὑρών, κᾆτά σοι ἀποδώσειν ὑπισχνῆται<note xml:lang="mul" type="footnote" n="v.2.p.490.n.1">ὐπισχνῆται Fritzsche: ὑπισχνεῖται MSS.</note> αὐτό, ἢν εἴπῃς τἀληθὲς ὅ τι δέδοκται <pb n="v.2.p.492"/> αὐτῷ περὶ τῆς ἀποδόσεως τοῦ βρέφους, τί φήσεις αὐτὸν ἐγνωκέναι; </p> </sp>
 <sp> <speaker>Ἀγοράστης</speaker>
 <p rend="align(indent)"> δυσαπόκριτον ἐρωτᾷς. ἀπορῶ γὰρ ὁπότερον εἰπὼν ἀπολάβοιμι. ἀλλὰ σὺ πρὸς Διὸς ἀποκρινάμενος ἀνάσωσαί μοι τὸ παιδίον, μὴ καὶ φθάσῃ αὐτὸ καταπιών. </p> </sp>
 <sp> <speaker>Χρύσιππος</speaker>
@@ -497,15 +498,15 @@
 <sp> <speaker>Ἀγοράστης</speaker>
 <p rend="align(indent)"> γενναῖά σου ταῦτα καὶ δεινῶς ἀνδρικά. τὸ δὲ Γνίφωνα εἶναι καὶ τοκογλύφον — καὶ γὰρ τάδε ὁρῶ σοι προσόντα — τί φῶμεν, ἀνδρὸς ἤδη πεπωκότος τὸν ἐλλέβορον καὶ τελείου πρὸς ἀρετήν; </p> </sp>
 <sp> <speaker>Χρύσιππος</speaker>
-<p rend="align(indent)"> ναί· μόνῳ γοῦν τὸ δανείζειν πρέποι ἂν τῷ σοφῷ· ἐπεὶ γὰρ ἴδιον αὐτοῦ συλλογίζεσθαι, τὸ δανείζειν δὲ καὶ λογίζεσθαι τοὺς τόκους πλησίον εἶναι δοκεῖ τῷ συλλογίζεσθαι, μόνου ἂν εἴη τοῦ σπουδαίου καθάπερ ἐκεῖνο καὶ τοῦτο, καὶ οὐ μόνον γε ἁπλοῦς, ὥσπερ οἱ ἄλλοι, τοὺς τόκους, ἀλλὰ καὶ τούτων ἑτέρους τόκους <corr>λαμβάνειν·</corr> ἢ γὰρ ἀγνοεῖς ὅτι τῶν τόκων οἱ μέν εἰσι πρῶτοί τινες, οἱ δὲ δεύτεροι, καθάπερ αὐτῶν ἐκείνων ἀπόγονοι; ὁρᾷς δὲ δὴ καὶ τὸν συλλογισμὸν ὁποῖά <corr>φησιν·</corr> εἰ τὸν πρῶτον τόκον λήψεται, λήψετα<note type="footnote" n="v.2.p.496.n.1">λήψεται Jacobitz: not in MSS.</note>ι καὶ τὸν <corr>δεύτερον·</corr> ἀλλὰ μὴν τὸν πρῶτον λήψεται, λήψεται<note type="footnote" n="v.2.p.496.n.2">λήψεται Jacobitz: not in MSS.</note> ἄρα καὶ τὸν <corr>δεύτερον·</corr>. </p> </sp> </div>
+<p rend="align(indent)"> ναί· μόνῳ γοῦν τὸ δανείζειν πρέποι ἂν τῷ σοφῷ· ἐπεὶ γὰρ ἴδιον αὐτοῦ συλλογίζεσθαι, τὸ δανείζειν δὲ καὶ λογίζεσθαι τοὺς τόκους πλησίον εἶναι δοκεῖ τῷ συλλογίζεσθαι, μόνου ἂν εἴη τοῦ σπουδαίου καθάπερ ἐκεῖνο καὶ τοῦτο, καὶ οὐ μόνον γε ἁπλοῦς, ὥσπερ οἱ ἄλλοι, τοὺς τόκους, ἀλλὰ καὶ τούτων ἑτέρους τόκους <corr>λαμβάνειν·</corr> ἢ γὰρ ἀγνοεῖς ὅτι τῶν τόκων οἱ μέν εἰσι πρῶτοί τινες, οἱ δὲ δεύτεροι, καθάπερ αὐτῶν ἐκείνων ἀπόγονοι; ὁρᾷς δὲ δὴ καὶ τὸν συλλογισμὸν ὁποῖά <corr>φησιν·</corr> εἰ τὸν πρῶτον τόκον λήψεται, λήψετα<note xml:lang="mul" type="footnote" n="v.2.p.496.n.1">λήψεται Jacobitz: not in MSS.</note>ι καὶ τὸν <corr>δεύτερον·</corr> ἀλλὰ μὴν τὸν πρῶτον λήψεται, λήψεται<note xml:lang="mul" type="footnote" n="v.2.p.496.n.2">λήψεται Jacobitz: not in MSS.</note> ἄρα καὶ τὸν <corr>δεύτερον·</corr>. </p> </sp> </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-grc2" n="24">
 <sp> <speaker>Ἀγοράστης</speaker>
  <p rend="align(indent)"> οὐκοῦν καὶ μισθῶν πέρι τὰ αὐτὰ φῶμεν, οὓς σὺ λαμβάνεις ἐπὶ τῇ σοφίᾳ παρὰ τῶν νέων, καὶ δῆλον ὅτι μόνος ὁ σπουδαῖος μισθὸν ἐπὶ τῇ ἀρετῇ λήψεται;  </p> </sp> <pb n="v.2.p.498"/>
 <sp> <speaker>Χρύσιππος</speaker>
-<p rend="align(indent)"> μανθάνεις· οὐ γὰρ ἐμαυτοῦ ἕνεκα<note type="footnote" n="v.2.p.498.n.1">ἕνεκα Dindorf: εἴνεκα MSS.</note> λαμβάνω, τοῦ δὲ διδόντος αὐτοῦ <corr>χάριν·</corr> ἐπεὶ γάρ ἐστιν ὁ μέν τις ἐκχύτης, ὁ δὲ περιεκτικός, ἐμαυτὸν μὲν ἀσκῶ εἶναι περιεκτικόν, τὸν δὲ μαθητὴν ἐκχύτην. </p> </sp>
+<p rend="align(indent)"> μανθάνεις· οὐ γὰρ ἐμαυτοῦ ἕνεκα<note xml:lang="mul" type="footnote" n="v.2.p.498.n.1">ἕνεκα Dindorf: εἴνεκα MSS.</note> λαμβάνω, τοῦ δὲ διδόντος αὐτοῦ <corr>χάριν·</corr> ἐπεὶ γάρ ἐστιν ὁ μέν τις ἐκχύτης, ὁ δὲ περιεκτικός, ἐμαυτὸν μὲν ἀσκῶ εἶναι περιεκτικόν, τὸν δὲ μαθητὴν ἐκχύτην. </p> </sp>
 <sp> <speaker>Ἀγοράστης</speaker>
-<p rend="align(indent)"> καὶ μὴν τοὐναντίον ἐχρῆν<note type="footnote" n="v.2.p.498.n.2">ἐχρῆν Ψ (?), Seager, Fritzsche: ἔφης MSS.</note> τὸν νέον μὲν εἶναι περιεκτικόν, σὲ δὲ τὸν μόνον πλούσιον ἐκχύτην. </p> </sp>
+<p rend="align(indent)"> καὶ μὴν τοὐναντίον ἐχρῆν<note xml:lang="mul" type="footnote" n="v.2.p.498.n.2">ἐχρῆν Ψ (?), Seager, Fritzsche: ἔφης MSS.</note> τὸν νέον μὲν εἶναι περιεκτικόν, σὲ δὲ τὸν μόνον πλούσιον ἐκχύτην. </p> </sp>
 <sp> <speaker>Χρύσιππος</speaker>
 <p rend="align(indent)"> σκώπτεις, ὦ οὗτος. ἀλλʼ ὅρα μή σε ἀποτοξεύσω τῷ ἀναποδείκτῳ συλλογισμῷ. </p> </sp>
 <sp> <speaker>Ἀγοράστης</speaker>
@@ -587,7 +588,7 @@
 <sp> <speaker>Ἑρμῆς</speaker>
 <p rend="align(indent)"> εἴκοσι μνῶν. </p> </sp>
 <sp> <speaker>Ἀγοράστης</speaker>
-<p rend="align(indent)"> πολλοῦ<note type="footnote" n="v.2.p.504.n.1">πολλοῦ Reitz: πολύ MSS. </note> λέγεις. </p> </sp>
+<p rend="align(indent)"> πολλοῦ<note xml:lang="mul" type="footnote" n="v.2.p.504.n.1">πολλοῦ Reitz: πολύ MSS. </note> λέγεις. </p> </sp>
 <sp> <speaker>Ἑρμῆς</speaker>
 <p rend="align(indent)"> οὔκ, ὦ μακάριε· καὶ γὰρ αὐτὸς ἔχειν τι ἀργύριον δοκεῖ, ὥστε οὐκ ἂν φθάνοις ὠνούμενος. ἔτι δὲ εἴσῃ αὐτίκα μάλα παρʼ αὐτοῦ πόσον μὲν ὁ κώνωψ βιοῖ τὸν χρόνον, ἐφʼ ὁπόσον δὲ βάθος ἡ θάλαττα ὑπὸ τοῦ ἡλίου καταλάμπεται, καὶ ὁποία τίς ἐστιν ἡ ψυχὴ τῶν ὀστρείων. </p> </sp>
 <sp> <speaker>Ἀγοράστης</speaker>
@@ -595,7 +596,7 @@
 <sp> <speaker>Ἑρμῆς</speaker>
 <p rend="align(indent)"> τί δὲ εἰ ἀκούσειας ἄλλα πολλῷ τούτων ὀξυδερκέστερα, γονῆς τε πέρι καὶ γενέσεως καὶ τῆς ἐν ταῖς μήτραις τῶν ἐμβρύων πλαστικῆς, καὶ ὡς ἄνθρωπος μὲν γελαστικόν, ὄνος δὲ οὐ γελαστικὸν οὐδὲ τεκταινόμενον οὐδὲ πλωϊζόμενον; </p> </sp>
 <sp> <speaker>Ἀγοράστης</speaker>
-<p rend="align(indent)"> πάνσεμνα φὴς καὶ ὀνησιφόρα τὰ <corr>μαθήματα,</corr> ὥστε ὠνοῦμαι αὐτὸν τῶν<note type="footnote" n="v.2.p.504.n.2">τῶν Cobet: not in MSS.</note> εἴκοσιν. </p> </sp> </div>
+<p rend="align(indent)"> πάνσεμνα φὴς καὶ ὀνησιφόρα τὰ <corr>μαθήματα,</corr> ὥστε ὠνοῦμαι αὐτὸν τῶν<note xml:lang="mul" type="footnote" n="v.2.p.504.n.2">τῶν Cobet: not in MSS.</note> εἴκοσιν. </p> </sp> </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-grc2" n="27">
 <sp> <speaker>Ἑρμῆς</speaker>
@@ -603,7 +604,7 @@
 <sp> <speaker>Ζεύς</speaker>
  <p rend="align(indent)"> τίς λοιπὸς ἡμῖν;  </p> </sp> <pb n="v.2.p.506"/>
 <sp> <speaker>Ἑρμῆς</speaker>
-<p rend="align(indent)"> καταλείπεται ὁ Σκεπτικὸς<note type="footnote" n="v.2.p.506.n.1">ἡμῖν. EPM. καταλείπεται ὁ Σκεπτικὸς Bekker: ἡμῖν καταλείπεται. EPM. ὁ Σκεπτικὸς MSS.</note> οὗτος. σὺ ὁ Πυρρίας πρόσιθι καὶ ἀποκηρύττου κατὰ τάχος. ἤδη μὲν ὑπορρέουσιν οἱ πολλοὶ καὶ ἐν ὀλίγοις ἡ πρᾶσις ἔσται. ὅμως δὲ τίς καὶ τοῦτον ὠνήσεται; </p> </sp>
+<p rend="align(indent)"> καταλείπεται ὁ Σκεπτικὸς<note xml:lang="mul" type="footnote" n="v.2.p.506.n.1">ἡμῖν. EPM. καταλείπεται ὁ Σκεπτικὸς Bekker: ἡμῖν καταλείπεται. EPM. ὁ Σκεπτικὸς MSS.</note> οὗτος. σὺ ὁ Πυρρίας πρόσιθι καὶ ἀποκηρύττου κατὰ τάχος. ἤδη μὲν ὑπορρέουσιν οἱ πολλοὶ καὶ ἐν ὀλίγοις ἡ πρᾶσις ἔσται. ὅμως δὲ τίς καὶ τοῦτον ὠνήσεται; </p> </sp>
 <sp> <speaker>Ἀγοράστης</speaker>
 <p rend="align(indent)"> ἔγωγε. ἀλλὰ πρῶτον εἰπέ μοι, σὺ τί ἐπίστασαι; </p> </sp>
 <sp> <speaker>Πύρρων</speaker>
