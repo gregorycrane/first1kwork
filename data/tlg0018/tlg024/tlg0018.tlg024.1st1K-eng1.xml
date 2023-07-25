@@ -17,16 +17,14 @@
       <publicationStmt>
         <authority>Tufts University</authority>
         <idno type="filename">philo_3_1855.xml</idno>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+        <availability> <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
         </availability>
         <date>2023</date>
         <publisher>Tufts University</publisher>
         <pubPlace>Medford, MA, USA</pubPlace>
       </publicationStmt>
 
-      <sourceDesc>
-        <listBibl xml:lang="lat">
+      <sourceDesc> <listBibl xml:lang="lat">
           <biblStruct>
             <monogr>
               <editor role="translator">
@@ -79,9 +77,7 @@
 </refsDecl>
     </encodingDesc>
 
-    <profileDesc>
-      <langUsage>
-        <language ident="eng">English</language>
+    <profileDesc> <langUsage> <language ident="eng">English</language>
       </langUsage>
     </profileDesc>
 
@@ -116,7 +112,7 @@
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="4">
-<p>First of all, that it is a preventive of a painful disease, and of an affliction difficult to be cured, which they call a carbuncle; <ref n="176.1"/> because, I imagine, when it becomes inflamed it burns; from which fact it has derived that appellation. And this disease is very apt to be engendered among those who have not undergone the rite of circumcision.</p>
+<p>First of all, that it is a preventive of a painful disease, and of an affliction difficult to be cured, which they call a carbuncle; <note xml:lang="eng" n="176.1"> The Greek word is ἄνθραξ, which also signifies a coal. The Latin, from which our carbuncle is derived, carbunculus, a diminutive of carbo, which also means a coal.</note> because, I imagine, when it becomes inflamed it burns; from which fact it has derived that appellation. And this disease is very apt to be engendered among those who have not undergone the rite of circumcision.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="5">
@@ -207,7 +203,7 @@ Others, on the contrary, who have not discovered the supreme Governor, who thus 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="15">
-<p>But the most sacred lawgiver changes their ignorance into knowledge, speaking in the following manner: "Thou shalt not, when thou seest the sun, and the moon, and the stars, and all the host of heaven, be led astray and fall down and worship them." <ref n="178.1"/> With great felicity and propriety has he here called the reception of these bodies as gods, an error;</p>
+<p>But the most sacred lawgiver changes their ignorance into knowledge, speaking in the following manner: "Thou shalt not, when thou seest the sun, and the moon, and the stars, and all the host of heaven, be led astray and fall down and worship them." <note xml:lang="eng" n="178.1"> Deuteronomy iv. 19.</note> With great felicity and propriety has he here called the reception of these bodies as gods, an error;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="16">
@@ -251,7 +247,7 @@ of the whole universe is not the King of kings; that the being who sees, is not 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="22">
-<p>To whom the Father of the universe thus speaks, saying: "You shall not make to yourselves gods of silver and gold;" <ref n="179.1"/> all but teaching them in express words, "You shall not make to yourselves any gods whatever of this or of any other material, nor shall you worship anything made with hands," being forbidden expressly with respect to the two most excellent materials; for silver and gold are esteemed the most honourable of all materials.
+<p>To whom the Father of the universe thus speaks, saying: "You shall not make to yourselves gods of silver and gold;" <note xml:lang="eng" n="179.1"> Exodus xx. 20.</note> all but teaching them in express words, "You shall not make to yourselves any gods whatever of this or of any other material, nor shall you worship anything made with hands," being forbidden expressly with respect to the two most excellent materials; for silver and gold are esteemed the most honourable of all materials.
 
 
 </p>
@@ -276,7 +272,7 @@ great influence as contributing to the formation of the moral character, and whi
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="25">
-<p>And to these men, Moses says, in another passage, "You shall not follow images, and you shall not make to yourselves molten gods." <ref n="180.1"/> Teaching them, by figurative language, that it is not right to pay such honours to wealth as one would pay to the gods; for those celebrated materials of wealth, silver and gold, are made to be used, which, however, the multitude follows, looking upon them as the only causes of wealth which is proverbially called blind, and the especial sources of happiness.</p>
+<p>And to these men, Moses says, in another passage, "You shall not follow images, and you shall not make to yourselves molten gods." <note xml:lang="eng" n="180.1"> Leviticus xix. 4.</note> Teaching them, by figurative language, that it is not right to pay such honours to wealth as one would pay to the gods; for those celebrated materials of wealth, silver and gold, are made to be used, which, however, the multitude follows, looking upon them as the only causes of wealth which is proverbially called blind, and the especial sources of happiness.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="26">
@@ -323,7 +319,7 @@ all other animals and plants, of which there is any birth or any decay, are in o
 
 
 <pb n="v.3.p.182"/>
-scriptures that, "Those that are attached to the living God do all live." <ref n="182.1"/>
+scriptures that, "Those that are attached to the living God do all live." <note xml:lang="eng" n="182.1"> Deuteronomy iv. 4.</note>
 
 
 Is not this, then, a thrice happy life, a thrice blessed existence, to be contented with performing due service to the most venerable Cause of all things, and not to think fit to serve his subordinate ministers and door-keepers in preference to the King himself? And this life is an immortal one, and is recorded as one of great duration in the pillars of nature. And it is inevitably necessary that these writings should last to all eternity with the world itself.
@@ -451,7 +447,7 @@ and defining, and fashioning what was before destitute of all limitation, and de
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="50">
-<p>The desire of wisdom alone is continual and incessant, and it fills all its pupils and disciples with famous and most beautiful doctrines." When Moses heard this he did not cease from his desire, but he still burned with a longing for the understanding of invisible things. ...... <ref n="186.1"/>
+<p>The desire of wisdom alone is continual and incessant, and it fills all its pupils and disciples with famous and most beautiful doctrines." When Moses heard this he did not cease from his desire, but he still burned with a longing for the understanding of invisible things. ...... <note xml:lang="eng" n="186.1"> Mangey thinks that there is a considerable hiatus here. What follows relates to the regulations respecting proselytes, which, as the text stands, is in no way connected with what has gone before about the worship of God.</note>
 
 
 <milestone unit="chapter" n="9"/><milestone unit="oldchapter" n="7"/></p>
@@ -564,7 +560,7 @@ continually being convicted by themselves). He, with great energy, forbids his d
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="65">
-<p>but that some other prophet <ref n="190.1"/> will appear to them on a sudden, inspired like himself, who will preach and prophesy among them, saying nothing of his own (for he who is truly possessed and inspired, even when he speaks, is unable to comprehend what he is himself saying), but that all the words that he should utter would proceed from him as if another was prompting him; for the prophets are interpreters of God, who is only using their voices as instruments, in order to explain what he chooses.
+<p>but that some other prophet <note xml:lang="eng" n="190.1"> This prophecy, Deuteronomy xviii. 18, is always looked upon one of the most remarkable of the early prophecies of our Saviour.</note> will appear to them on a sudden, inspired like himself, who will preach and prophesy among them, saying nothing of his own (for he who is truly possessed and inspired, even when he speaks, is unable to comprehend what he is himself saying), but that all the words that he should utter would proceed from him as if another was prompting him; for the prophets are interpreters of God, who is only using their voices as instruments, in order to explain what he chooses.
 
 
 Having now then said this, and other things like this, concerning the proper idea to be entertained of the one real, and true, and living God; he proceeds to express in what manner one ought to pay him the honours that are his due.
@@ -761,7 +757,7 @@ men have observed,</p>
 <p>And besides this, golden pomegranates are attached to the lower parts of the tunic, reaching to the feet, and bells and borders embroidered with flowers.
 
 
-And these things are the emblems of earth and of water; the flowers are the emblems of the earth, inasmuch as it is out of it that they all rise and derive strength to bloom. And the pomegranates <ref n="196.1"/> as above mentioned are the emblems of water, being so named from the flowing of the stream. And the harmony, and concord, and unison of sound of the different parts of the world is betokened by the bells.</p>
+And these things are the emblems of earth and of water; the flowers are the emblems of the earth, inasmuch as it is out of it that they all rise and derive strength to bloom. And the pomegranates <note xml:lang="eng" n="196.1"> The Greek for a pomegranate is ῥοιά or ῥοΐσκος, which Philo imagines to be derived from ῥέω, " to flow."</note> as above mentioned are the emblems of water, being so named from the flowing of the stream. And the harmony, and concord, and unison of sound of the different parts of the world is betokened by the bells.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="94">
@@ -840,7 +836,7 @@ impede its attaining that object to which it is by nature fitted. But in sacred 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="104">
-<p>On which account it is wisely and truly said in another passage, that "One may not bring the hire of a harlot into the temple." <ref n="198.1"/> And yet the money is not in itself liable to any reproach, except by reason of the woman who received it, and the action for which it was
+<p>On which account it is wisely and truly said in another passage, that "One may not bring the hire of a harlot into the temple." <note xml:lang="eng" n="198.1">Deuteronomy xxiii, 18.</note> And yet the money is not in itself liable to any reproach, except by reason of the woman who received it, and the action for which it was
 
 <note xml:lang="eng" n="198.1">Deuteronomy xxiii, 18.</note>
 
@@ -900,7 +896,7 @@ But to the priests of the second rank he remitted something of the rigour of his
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="112">
-<p>These, then, are the ordinances which were established respecting marriage, and respecting what greatly resembles marriage, the procreation of children. But since destruction follows creation, Moses also gave the priests laws relating to death, <ref n="200.1"/> commanding them not to permit themselves to be defiled in respect of all people whatsoever, who might happen to die, and who might be connected with them through some bond of friendship, or distant relationship: but allowing them to mourn for six classes only, their fathers or their mothers, their sons of their daughters, their brothers or their sisters, provided that these last were virgins;</p>
+<p>These, then, are the ordinances which were established respecting marriage, and respecting what greatly resembles marriage, the procreation of children. But since destruction follows creation, Moses also gave the priests laws relating to death, <note xml:lang="eng" n="200.1"> Leviticus xxiii. 1.</note> commanding them not to permit themselves to be defiled in respect of all people whatsoever, who might happen to die, and who might be connected with them through some bond of friendship, or distant relationship: but allowing them to mourn for six classes only, their fathers or their mothers, their sons of their daughters, their brothers or their sisters, provided that these last were virgins;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="113">
@@ -937,7 +933,7 @@ not say that this was rightly done? For as to the ministrations which belong to 
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="117">
 <p>After he has said this, he immediately proceeds to lay down laws, concerning those who are to use the first fruits,
-"If therefore, any one," <ref n="201.1"/> says he, "should mutilate the priests as to their eyes, or their feet, or any part of their bodies, or if he should have received any blemish, let him not partake of the sacred ministrations by reason of the defects which exist in him, but still let him enjoy those honours which are common to all the priests, because of his irreproachable
+"If therefore, any one," <note xml:lang="eng" n="201.1"> Leviticus xxi. 17.</note> says he, "should mutilate the priests as to their eyes, or their feet, or any part of their bodies, or if he should have received any blemish, let him not partake of the sacred ministrations by reason of the defects which exist in him, but still let him enjoy those honours which are common to all the priests, because of his irreproachable
 
 
 <note xml:lang="eng" n="201.1"> Leviticus xxi. 17.</note>
@@ -948,7 +944,7 @@ nobility of birth."</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="118">
-<p>"Moreover, if any leprosies break out and attack him or if any one of the priests be afflicted with any flux, let him not touch the sacred table, nor any of the duties which are set apart for his race, until the flux stop, or the leprosy change, so that he become again resembling the complexion of sound flesh." <ref n="202.1"/></p>
+<p>"Moreover, if any leprosies break out and attack him or if any one of the priests be afflicted with any flux, let him not touch the sacred table, nor any of the duties which are set apart for his race, until the flux stop, or the leprosy change, so that he become again resembling the complexion of sound flesh." <note xml:lang="eng" n="202.1"> Leviticus xxii. 4. </note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="119">
@@ -956,7 +952,7 @@ nobility of birth."</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="120">
-<p>And let the sojourner in the priest's house, and the hireling, be prevented from approaching the first fruits; the sojourner, because it is not every one who is a neighbour who shares a man's hearth and eats at his table; <ref n="202.2"/> for there is reason to fear that some such person may cast away what is hallowed, using as a cloak for his impiety the pretence of some unseasonable humanity; for one might not give all men a share of all things, but only of such as are adapted to those who are to receive them; otherwise, that which is the most beautiful and most beneficial of all the things in this life, namely order, will be wasted away and destroyed by that which is the most mischievous of all things, namely, confusion.
+<p>And let the sojourner in the priest's house, and the hireling, be prevented from approaching the first fruits; the sojourner, because it is not every one who is a neighbour who shares a man's hearth and eats at his table; <note xml:lang="eng" n="202.2"> Leviticus xxii. 10.</note> for there is reason to fear that some such person may cast away what is hallowed, using as a cloak for his impiety the pretence of some unseasonable humanity; for one might not give all men a share of all things, but only of such as are adapted to those who are to receive them; otherwise, that which is the most beautiful and most beneficial of all the things in this life, namely order, will be wasted away and destroyed by that which is the most mischievous of all things, namely, confusion.
 
 
 </p>
@@ -1020,7 +1016,7 @@ they may enjoy what has been consecrated by their masters who live irreproachabl
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="129">
-<p>Having said thus much he proceeds next to put forth a law full of humanity. If, says he, the daughter of a priest, having married a man who is not a priest, becomes a widow by the death of her husband, or if she be left childless while he is still alive, let her return again to her father's house, to receive her share of the first fruits which she enjoyed when she was a virgin; <ref n="204.1"/> for in some degree and in effect she is now also a virgin, since she has neither husband nor children, and has no other refuge but her father;</p>
+<p>Having said thus much he proceeds next to put forth a law full of humanity. If, says he, the daughter of a priest, having married a man who is not a priest, becomes a widow by the death of her husband, or if she be left childless while he is still alive, let her return again to her father's house, to receive her share of the first fruits which she enjoyed when she was a virgin; <note xml:lang="eng" n="204.1"> Leviticus xxii. 12.</note> for in some degree and in effect she is now also a virgin, since she has neither husband nor children, and has no other refuge but her father;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="130">
@@ -1085,7 +1081,7 @@ great; for the people of this nation breed sheep, and cattle, and flocks of all 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="137">
-<p>Moreover the law, going beyond all these enactments in their favour, commands the people to bring them the first fruits, not only of all their possessions of every description, but also of their own lives and bodies; for the children are separable portions of their parents as one may say; but if one must tell the plain truth, they are inseparable as being of kindred blood, .... <ref n="206.1"/> and being bound to them by the allurements of united good will, and by the indissoluble bonds of nature.
+<p>Moreover the law, going beyond all these enactments in their favour, commands the people to bring them the first fruits, not only of all their possessions of every description, but also of their own lives and bodies; for the children are separable portions of their parents as one may say; but if one must tell the plain truth, they are inseparable as being of kindred blood, .... <note xml:lang="eng" n="206.1"> The above passage is quite unintelligible in the Greek, and is given up by Mangey as irremediably corrupt.</note> and being bound to them by the allurements of united good will, and by the indissoluble bonds of nature.
 
 
 </p>
@@ -1154,7 +1150,7 @@ around a garrison she has thrown, in order more effectually to secure them from 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="147">
-<p>But from the victims which are sacrificed away from the altar, in order to be eaten, it is commanded that three portions should be given to the priest, an arm, and a jaw-bone, and that which is called the paunch; the arm for the reason which has been mentioned a short time ago; the jaw-bone as a first fruit of that most important of all the members of the body, namely the head, and also of uttered speech, for the stream of speech could not flow out without the motion of these jaws; for they being agitated <ref n="208.1"/> (and it is very likely from this, that they have derived their name), when they are struck by the tongue, all the organisation of the voice sounds simultaneously;</p>
+<p>But from the victims which are sacrificed away from the altar, in order to be eaten, it is commanded that three portions should be given to the priest, an arm, and a jaw-bone, and that which is called the paunch; the arm for the reason which has been mentioned a short time ago; the jaw-bone as a first fruit of that most important of all the members of the body, namely the head, and also of uttered speech, for the stream of speech could not flow out without the motion of these jaws; for they being agitated <note xml:lang="eng" n="208.1"> The Greek word here used is σείω, and the word used for jawbone is σιαγών, which Philo appears to think may be derived from σείω.</note> (and it is very likely from this, that they have derived their name), when they are struck by the tongue, all the organisation of the voice sounds simultaneously;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="148">
@@ -1404,7 +1400,7 @@ its excellence from all the animals which are fit for sacrifice, a calf, or a la
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="199">
-<p>And after this let some one of the priests take the victim and sacrifice it, and let another hold a bowl under it, and, having caught some of the blood, let him go all around the altar and sprinkle it with the blood, and let him flay the victim and divide it into large pieces, having washed its entrails and its feet. And then let the whole victim be given to the fire of the altar of God, <ref n="216.1"/> having become many things instead of one, and one instead of many."</p>
+<p>And after this let some one of the priests take the victim and sacrifice it, and let another hold a bowl under it, and, having caught some of the blood, let him go all around the altar and sprinkle it with the blood, and let him flay the victim and divide it into large pieces, having washed its entrails and its feet. And then let the whole victim be given to the fire of the altar of God, <note xml:lang="eng" n="216.1"> Leviticus i. 3.</note> having become many things instead of one, and one instead of many."</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="200">
@@ -1585,14 +1581,14 @@ soul and the body, to each of which the lawgiver has assigned one day for feasti
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="224">
-<p>To this species of sacrifice for preservation that other sacrifice also belongs, which is called the sacrifice of praise, and which rests on the following principle. <ref n="222.1"/> The man who has never fallen into any unexpected disaster whatever, neither as to his body nor as to his external circumstances, but who has passed a tranquil and peaceful life, living in happiness and prosperity, being free from all calamity and all mishap, steering through the long voyage of life in calmness and serenity of circumstances, good fortune always blowing upon the stern of his vessel, is, of necessity, bound to requite God, who has been the pilot of his voyage, who has bestowed upon him untroubled salvation and unalloyed benefits, and, in short, all sorts of blessings unmingled with any evil, with hymns, and songs, an prayers, and also with sacrifices, and all other imaginable tokens of gratitude in a holy manner; all which things taken together have received the one comprehensive name of praise.
+<p>To this species of sacrifice for preservation that other sacrifice also belongs, which is called the sacrifice of praise, and which rests on the following principle. <note xml:lang="eng" n="222.1">Leviticus xix. 1.</note> The man who has never fallen into any unexpected disaster whatever, neither as to his body nor as to his external circumstances, but who has passed a tranquil and peaceful life, living in happiness and prosperity, being free from all calamity and all mishap, steering through the long voyage of life in calmness and serenity of circumstances, good fortune always blowing upon the stern of his vessel, is, of necessity, bound to requite God, who has been the pilot of his voyage, who has bestowed upon him untroubled salvation and unalloyed benefits, and, in short, all sorts of blessings unmingled with any evil, with hymns, and songs, an prayers, and also with sacrifices, and all other imaginable tokens of gratitude in a holy manner; all which things taken together have received the one comprehensive name of praise.
 
 
 </p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="225">
-<p>This sacrifice the lawgiver has not commanded to be spread like the one before mentioned over two days, <ref n="222.2"/> but he has confined it to one only, in order that these men, who meet with ready benefits freely poured upon them, may offer up their requital freely and without any delay.
+<p>This sacrifice the lawgiver has not commanded to be spread like the one before mentioned over two days, <note xml:lang="eng" n="222.2">Leviticus vii. 5.</note> but he has confined it to one only, in order that these men, who meet with ready benefits freely poured upon them, may offer up their requital freely and without any delay.
 
 
 <note xml:lang="eng" n="222.1">Leviticus xix. 1.</note>
@@ -1649,7 +1645,7 @@ The lawgiver also gives the same command with respect to the whole nation when i
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="233">
-<p>But if any ruler has sinned he makes his purification with a kid, <ref n="224.1"/> as I have said before; and if a private individual has sinned, he must offer a she-goat or a lamb; and for the ruler he appoints a male victim, but to the private individual a female, making all his other injunctions the same in both cases, to anoint the horns of the altar in the open air with blood, to bring the fat and the lobe of the liver, and the two kidneys, and to give the rest of the victim to the priests to eat.
+<p>But if any ruler has sinned he makes his purification with a kid, <note xml:lang="eng" n="224.1"> Leviticus iv. 22.</note> as I have said before; and if a private individual has sinned, he must offer a she-goat or a lamb; and for the ruler he appoints a male victim, but to the private individual a female, making all his other injunctions the same in both cases, to anoint the horns of the altar in the open air with blood, to bring the fat and the lobe of the liver, and the two kidneys, and to give the rest of the victim to the priests to eat.
 
 
 <milestone unit="chapter" n="43"/><milestone unit="oldchapter" n="11"/></p>
@@ -1674,7 +1670,7 @@ accusers, shall himself become his own accuser, being convicted by his own consc
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="236">
-<p>then pardon shall be given to such a man, who shows the truth of his repentance, not by promises but by works, by restoring the deposit which he has received, and by giving up the things which he has stolen or found, or of which in short he has in any way deprived his neighbour, paying also in addition one fifth of the value, as an atonement for the evil which he had done." <ref n="225.1"/>
+<p>then pardon shall be given to such a man, who shows the truth of his repentance, not by promises but by works, by restoring the deposit which he has received, and by giving up the things which he has stolen or found, or of which in short he has in any way deprived his neighbour, paying also in addition one fifth of the value, as an atonement for the evil which he had done." <note xml:lang="eng" n="225.1"> Leviticus v. 20, </note>
 
 
 </p>
@@ -1696,7 +1692,7 @@ accusers, shall himself become his own accuser, being convicted by his own consc
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="240">
-<p>but the other parts of the animal are assigned to be eaten in a different manner; and the difference consists in three things; in the place, and time, and in those who receive it. <ref n="225.2"/> Now the place is the temple; the time is one day instead of two; and the persons who partake of it are the priests, and the male servants of the priests, but not the men who offer the sacrifice.
+<p>but the other parts of the animal are assigned to be eaten in a different manner; and the difference consists in three things; in the place, and time, and in those who receive it. <note xml:lang="eng" n="225.2"> Leviticus vi. 9.</note> Now the place is the temple; the time is one day instead of two; and the persons who partake of it are the priests, and the male servants of the priests, but not the men who offer the sacrifice.
 
 
 <note xml:lang="eng" n="225.1"> Leviticus v. 20, </note>
@@ -1767,7 +1763,7 @@ When any persons offer first fruits from any portion of their possessions, wheat
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="249">
-<p>And when a man has vowed this vow the law gives him the following command; first of all, to touch no unmixed wine, nor any wine that is made of the grape, nor to drink any other strong drink whatever, to the destruction of his reason, considering that during this period his reason also is dedicated to God; for all which could tend to drunkenness is forbidden to those of the priests who are employed in the sacred ministrations, they being commanded to quench their thirst with water; <ref n="227.1"/></p>
+<p>And when a man has vowed this vow the law gives him the following command; first of all, to touch no unmixed wine, nor any wine that is made of the grape, nor to drink any other strong drink whatever, to the destruction of his reason, considering that during this period his reason also is dedicated to God; for all which could tend to drunkenness is forbidden to those of the priests who are employed in the sacred ministrations, they being commanded to quench their thirst with water; <note xml:lang="eng" n="227.1"> Numbers vi. 2.</note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="250">
@@ -1785,7 +1781,7 @@ brothers; piety overcoming the natural good will and affection towards their rel
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="251">
-<p>But when the appointed time for their being released <ref n="228.1"/> from this vow has arrived, the law then commands the man who has dedicated himself to bring three animals to procure his release from his vow, a male lamb, and a female lamb, and a ram; the one for a burnt offering, the second for a sin-offering, and the ram as a sacrifice for preservation;</p>
+<p>But when the appointed time for their being released <note xml:lang="eng" n="228.1"> Numbers vi. 14.</note> from this vow has arrived, the law then commands the man who has dedicated himself to bring three animals to procure his release from his vow, a male lamb, and a female lamb, and a ram; the one for a burnt offering, the second for a sin-offering, and the ram as a sacrifice for preservation;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="252">
@@ -1810,7 +1806,7 @@ Medicine does not benefit all persons, nor does it always benefit the same perso
 
 
 <pb n="v.3.p.229"/>
-that a portion should be consecrated, he has taken care to take a portion, which, being taken, should cause neither pain nor defilement; for he has cut off <ref n="229.1"/> the hair of the head, the superfluities of the natural body, as if they were the superfluous branches of a tree, and he has committed them to the fire on which the meat of the sacrifice offered for preservation will be suitably prepared, <ref n="229.2"/> in order that some portion of the man who has made the vow, which it is not lawful to place upon the altar, may still at all events be combined with the sacrifice, burning the fuel of the sacred flame.
+that a portion should be consecrated, he has taken care to take a portion, which, being taken, should cause neither pain nor defilement; for he has cut off <note xml:lang="eng" n="229.1"> Numbers vi. 18.</note> the hair of the head, the superfluities of the natural body, as if they were the superfluous branches of a tree, and he has committed them to the fire on which the meat of the sacrifice offered for preservation will be suitably prepared, <note xml:lang="eng" n="229.2"> Leviticus vi. 13.</note> in order that some portion of the man who has made the vow, which it is not lawful to place upon the altar, may still at all events be combined with the sacrifice, burning the fuel of the sacred flame.
 
 
 <milestone unit="chapter" n="47"/><milestone unit="oldchapter" n="15"/></p>
@@ -1906,7 +1902,7 @@ hyssop in the mixture of ashes and water, to sprinkle it over those who were to 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="268">
-<p>For the law orders <ref n="231.1"/>that a red heifer, which has never been brought under the yoke, shall be sacrificed outside of the city, and that the high priest, taking some of the blood, shall seven times sprinkle with it all the things in front of the temple, and then shall burn the whole animal, with its hide and flesh, and with the belly full of all
+<p>For the law orders <note xml:lang="eng" n="231.1">Numbers xix. 1.</note>that a red heifer, which has never been brought under the yoke, shall be sacrificed outside of the city, and that the high priest, taking some of the blood, shall seven times sprinkle with it all the things in front of the temple, and then shall burn the whole animal, with its hide and flesh, and with the belly full of all
 
 
 <note xml:lang="eng" n="231.1">Numbers xix. 1.</note>
@@ -1961,7 +1957,7 @@ their soul alone, and only appreciable by the intellect, and there is but one ea
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="276">
-<p>on which account the altar of incense is honoured not only in the costliness of its materials, and in the manner of its erection, and in its situation, but also in the fact that it ministers every day before any thing else to the thanksgivings to be paid to God. For the law does not permit the priest to offer the sacrifice of the whole burnt offering outside before he has offered incense within at the earliest dawn. <ref n="233.1"/>
+<p>on which account the altar of incense is honoured not only in the costliness of its materials, and in the manner of its erection, and in its situation, but also in the fact that it ministers every day before any thing else to the thanksgivings to be paid to God. For the law does not permit the priest to offer the sacrifice of the whole burnt offering outside before he has offered incense within at the earliest dawn. <note xml:lang="eng" n="233.1"> Exodus xxx, 8.</note>
 
 
 </p>
@@ -2000,7 +1996,7 @@ I should say to such a man, "You must be expecting one of two things. Either tha
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="280">
 <head>A TREATISE ON THE COMMANDMENT THAT THE WAGES OF A HARLOT ARE NOT TO BE RECEIVED IN THE SACRED TREASURY.</head>
-<p>This injunction also is very admirably and properly set down in the sacred tablets of the law, that the wages of a harlot are not to be received into the temple, and inasmuch as she has earned them by selling her beauty, having chosen a most infamous life for the sake of shameful gain; <ref n="249.1"/></p>
+<p>This injunction also is very admirably and properly set down in the sacred tablets of the law, that the wages of a harlot are not to be received into the temple, and inasmuch as she has earned them by selling her beauty, having chosen a most infamous life for the sake of shameful gain; <note xml:lang="eng" n="249.1"> Deuteronomy xxiii. 18.</note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="281">
@@ -2022,18 +2018,14 @@ I should say to such a man, "You must be expecting one of two things. Either tha
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="284">
-<p>for if he is giving thanks for benefits conferred upon him, he must take care not to behave like an ungrateful man,
-
-
-<note xml:lang="eng" n="249.1"> Deuteronomy xxiii. 18.</note> becoming wicked, for the benefits are conferred on a virtuous man; or if his object be to secure the permanence of his present prosperity and happiness, and to be enabled to look forward to such for the future, he must still show himself worthy of his good fortune, and behave virtuously; or if he is asking to escape from evils, let him not commit actions deserving of correction and punishment.
-<note xml:lang="eng">GRC: end of text moved in the Cohn edition.</note>
+<p>for if he is giving thanks for benefits conferred upon him, he must take care not to behave like an ungrateful man, <note xml:lang="eng" n="249.1"> Deuteronomy xxiii. 18.</note> becoming wicked, for the benefits are conferred on a virtuous man; or if his object be to secure the permanence of his present prosperity and happiness, and to be enabled to look forward to such for the future, he must still show himself worthy of his good fortune, and behave virtuously; or if he is asking to escape from evils, let him not commit actions deserving of correction and punishment. <note xml:lang="eng">GRC: end of text moved in the Cohn/Wendland edition.</note>
 
 <milestone unit="chapter" n="52"/>
 </p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="285">
-<p>The law says, "A fire shall be kept burning on the altar which shall never be extinguished, but shall be kept burning for ever." <ref n="234.1"/> I think with great reason and propriety; for, since the graces of God are everlasting, and unceasing, and uninterrupted, which we now enjoy day and night, and since the symbol of gratitude is the sacred flame, it is fitting that it
+<p>The law says, "A fire shall be kept burning on the altar which shall never be extinguished, but shall be kept burning for ever." <note xml:lang="eng" n="234.1"> Leviticus vi. 9.</note> I think with great reason and propriety; for, since the graces of God are everlasting, and unceasing, and uninterrupted, which we now enjoy day and night, and since the symbol of gratitude is the sacred flame, it is fitting that it
 
 
 <note xml:lang="eng" n="234.1"> Leviticus vi. 9.</note>
@@ -2062,7 +2054,7 @@ The altar of God is the grateful soul of the wise man, being compounded of perfe
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="289">
-<p>After this the law says, "On every offering you shall add salt." <ref n="235.1"/> By which injunction, as I have said before, he figuratively implies a duration for ever; for salt is calculated to preserve bodies, being placed in the second rank as inferior only to the soul; for as the soul is the cause of bodies not being destroyed, so likewise is salt, which keeps them together in the greatest degree, and to some extent makes them immortal.</p>
+<p>After this the law says, "On every offering you shall add salt." <note xml:lang="eng" n="235.1">Leviticus ii, 13.</note> By which injunction, as I have said before, he figuratively implies a duration for ever; for salt is calculated to preserve bodies, being placed in the second rank as inferior only to the soul; for as the soul is the cause of bodies not being destroyed, so likewise is salt, which keeps them together in the greatest degree, and to some extent makes them immortal.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="290">
@@ -2080,7 +2072,7 @@ The altar of God is the grateful soul of the wise man, being compounded of perfe
 <note xml:lang="eng" n="235.1">Leviticus ii, 13.</note>
 
 <pb n="v.3.p.236"/>
-perhaps, because the bee which collects it is not a clean animal, inasmuch as it derives its birth, as the story goes, from the putrefaction and corruption of dead oxen, <ref n="236.1"/> just as wasps spring from the bodies of horses.</p>
+perhaps, because the bee which collects it is not a clean animal, inasmuch as it derives its birth, as the story goes, from the putrefaction and corruption of dead oxen, <note xml:lang="eng" n="236.1">This refers to the same idea so beautifully expressed by Virgil,mGeorgics iv. 548. <l>Haud mora; continuo matris precepta facessit.</l> <l>Ad delubra venit, monstratas excitat aras;</l> <l>Quatuor eximios prestanti corpore tauros</l> <l>Ducit, et intacta totidem cervice juvencas.</l> <l>Post, ubi nona suos Aurora induxerat ortus,</l> <l>Inferias Orphei mittit, lucumque revisit.</l> <l>Hic vero subitum ac dictu mirabile monstrum</l> <l>Adspiciunt, liquefacta boum per viscera toto</l> <l>Stridere apes utero, et ruptis effervere costis</l> <l>Immensasque trahi nubes; jamque arbore summa</l> <l>Confluere, et lentis uvam demittere ramis.</l> Or as it is translated by Dryden, <l>"His mother's precepts he performs with care;</l> <l>The temple visits and adores with prayer;</l> <l>Four altars raises; from his herd he culls,</l> <l>For slaughter, four the fairest of his bulls;</l> <l>Four heifers from his female store he took,</l> <l>All fair and all unknowing of the yoke,</l> <l>Nine mornings thence with sacrifice and prayers,</l> <l>The powers atoned, he to the grove repairs.</l> <l>Behold a prodigy! for from within</l> <l>The broken bowels and the bloated skin,</l> <l>A buzzing noise of bees his ears alarms:</l> <l>Straight issue through the sides assembling swarms,</l> <l>Dark as a cloud they make a wheeling flight,</l> <l>Then on a neighbouring tree, descending light;</l> <l>Like a large cluster of black grapes they show,</l> <l>And make a large dependance from the bough."</l></note> just as wasps spring from the bodies of horses.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="292">
@@ -2094,37 +2086,7 @@ perhaps, because the bee which collects it is not a clean animal, inasmuch as it
 <p>And leaven is forbidden on account of the rising which it causes; this prohibition again having a figurative meaning, intimating that no one who comes to the altar ought at all to allow himself to be elated, being puffed up by insolence; but that such persons may keep their eyes fixed on the greatness of God,
 
 
-<note xml:lang="eng" n="236.1">This refers to the same idea so beautifully expressed by Virgil,mGeorgics iv. 548.
-
-
-<l>Haud mora; continuo matris precepta facessit.</l>
-<l>Ad delubra venit, monstratas excitat aras;</l>
-<l>Quatuor eximios prestanti corpore tauros</l>
-<l>Ducit, et intacta totidem cervice juvencas.</l>
-<l>Post, ubi nona suos Aurora induxerat ortus,</l>
-<l>Inferias Orphei mittit, lucumque revisit.</l>
-<l>Hic vero subitum ac dictu mirabile monstrum</l>
-<l>Adspiciunt, liquefacta boum per viscera toto</l>
-<l>Stridere apes utero, et ruptis effervere costis</l>
-<l>Immensasque trahi nubes; jamque arbore summa</l>
-<l>Confluere, et lentis uvam demittere ramis.</l> Or as it is translated by Dryden,
-
-<l>"His mother's precepts he performs with care;</l>
-<l>The temple visits and adores with prayer;</l>
-<l>Four altars raises; from his herd he culls,</l>
-<l>For slaughter, four the fairest of his bulls;</l>
-<l>Four heifers from his female store he took,</l>
-<l>All fair and all unknowing of the yoke,</l>
-<l>Nine mornings thence with sacrifice and prayers,</l>
-<l>The powers atoned, he to the grove repairs.</l>
-<l>Behold a prodigy! for from within</l>
-<l>The broken bowels and the bloated skin,</l>
-<l>A buzzing noise of bees his ears alarms:</l>
-<l>Straight issue through the sides assembling swarms,</l>
-<l>Dark as a cloud they make a wheeling flight,</l>
-<l>Then on a neighbouring tree, descending light;</l>
-<l>Like a large cluster of black grapes they show,</l>
-<l>And make a large dependance from the bough."</l></note>
+<note xml:lang="eng" n="236.1">This refers to the same idea so beautifully expressed by Virgil,mGeorgics iv. 548. <l>Haud mora; continuo matris precepta facessit.</l> <l>Ad delubra venit, monstratas excitat aras;</l> <l>Quatuor eximios prestanti corpore tauros</l> <l>Ducit, et intacta totidem cervice juvencas.</l> <l>Post, ubi nona suos Aurora induxerat ortus,</l> <l>Inferias Orphei mittit, lucumque revisit.</l> <l>Hic vero subitum ac dictu mirabile monstrum</l> <l>Adspiciunt, liquefacta boum per viscera toto</l> <l>Stridere apes utero, et ruptis effervere costis</l> <l>Immensasque trahi nubes; jamque arbore summa</l> <l>Confluere, et lentis uvam demittere ramis.</l> Or as it is translated by Dryden, <l>"His mother's precepts he performs with care;</l> <l>The temple visits and adores with prayer;</l> <l>Four altars raises; from his herd he culls,</l> <l>For slaughter, four the fairest of his bulls;</l> <l>Four heifers from his female store he took,</l> <l>All fair and all unknowing of the yoke,</l> <l>Nine mornings thence with sacrifice and prayers,</l> <l>The powers atoned, he to the grove repairs.</l> <l>Behold a prodigy! for from within</l> <l>The broken bowels and the bloated skin,</l> <l>A buzzing noise of bees his ears alarms:</l> <l>Straight issue through the sides assembling swarms,</l> <l>Dark as a cloud they make a wheeling flight,</l> <l>Then on a neighbouring tree, descending light;</l> <l>Like a large cluster of black grapes they show,</l> <l>And make a large dependance from the bough."</l></note>
 <pb n="v.3.p.237"/>
 and so obtain a proper conception of the weakness of all created beings, even if they be very prosperous; and that so cherishing correct notions they may correct the arrogant loftiness of their minds, and discard all treacherous self-conceit.
 
@@ -2144,7 +2106,7 @@ and so obtain a proper conception of the weakness of all created beings, even if
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="296">
-<p>Again, the law commands that candles shall be kept burning from evening until morning <ref n="237.1"/> on the sacred candlesticks within the veil, on many accounts. One of which is that the holy places may be kept illuminated without any interruption after the cessation of the light of day, being always kept free from any participation in darkness, just as the stars themselves are, for they too, when the sun sets, exhibit their own light, never forsaking the place which was originally appointed for them in the world.</p>
+<p>Again, the law commands that candles shall be kept burning from evening until morning <note xml:lang="eng" n="237.1"> Leviticus xxiv. 2.</note> on the sacred candlesticks within the veil, on many accounts. One of which is that the holy places may be kept illuminated without any interruption after the cessation of the light of day, being always kept free from any participation in darkness, just as the stars themselves are, for they too, when the sun sets, exhibit their own light, never forsaking the place which was originally appointed for them in the world.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="297">
@@ -2209,7 +2171,7 @@ Come, now, let no unpleasant topics be brought up in pleasant circumstances. We 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="305">
-<p>whom the Lord reproves, saying, "Be ye circumcised as to your hard-heartedness;" <ref n="239.1"/> that means, "do ye eradicate the overbearing character of your dominant part, which the immoderate impulses of the passing
+<p>whom the Lord reproves, saying, "Be ye circumcised as to your hard-heartedness;" <note xml:lang="eng" n="239.1"> Deuteronomy x. 16.</note> that means, "do ye eradicate the overbearing character of your dominant part, which the immoderate impulses of the passing
 
 
 <note xml:lang="eng" n="239.1"> Deuteronomy x. 16.</note>
@@ -2223,11 +2185,11 @@ hour have sown and caused to grow within you, and which the wicked husbandman of
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="306">
-<p>Again, it says, "Let not your necks be stiff," <ref n="240.1"/> that is to say, let not your mind be unbending and self-willed, and let it not admit into itself that most blameable ignorance of excessive perverseness. But discarding obstinacy and moroseness of nature as an enemy, let it change so as to become gentle, and inclined to obey the laws of nature.</p>
+<p>Again, it says, "Let not your necks be stiff," <note xml:lang="eng" n="240.1"> Deuteronomy x. 18.</note> that is to say, let not your mind be unbending and self-willed, and let it not admit into itself that most blameable ignorance of excessive perverseness. But discarding obstinacy and moroseness of nature as an enemy, let it change so as to become gentle, and inclined to obey the laws of nature.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="307">
-<p>Do you not see that the most important and greatest of all the powers of the living God are his beneficent and his punishing power? And his beneficent power is called God, since it is by means of this that he made and arranged the universe. And the other, or punishing power, is called Lord, on which his sovereignty over the universe depends. And God is God, not only of men, but also of gods; and he is mighty, being truly strong and truly powerful. <ref n="240.2"/>
+<p>Do you not see that the most important and greatest of all the powers of the living God are his beneficent and his punishing power? And his beneficent power is called God, since it is by means of this that he made and arranged the universe. And the other, or punishing power, is called Lord, on which his sovereignty over the universe depends. And God is God, not only of men, but also of gods; and he is mighty, being truly strong and truly powerful. <note xml:lang="eng" n="240.2"> Deuteronomy x. 17.</note>
 
 
 <milestone unit="chapter" n="57"/><milestone unit="oldchapter" n="10"/></p>
@@ -2257,7 +2219,7 @@ hour have sown and caused to grow within you, and which the wicked husbandman of
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="311">
-<p>"Let then," says the law, "God alone be thy boast, and thy greater glory," <ref n="241.1"/> And do not pride thyself either on thy wealth, or on thy glory, or on the beauty of thy person, or on thy strength, or on anything of the same kind as the objects at which foolish empty-headed persons are apt to be elated; considering that, in the first place, these things have no connection at all with the nature of good, and secondly, that they are liable to rapid changes, fading away in a manner before they have time to flourish permanently.</p>
+<p>"Let then," says the law, "God alone be thy boast, and thy greater glory," <note xml:lang="eng" n="241.1"> Deuteronomy x. 21.</note> And do not pride thyself either on thy wealth, or on thy glory, or on the beauty of thy person, or on thy strength, or on anything of the same kind as the objects at which foolish empty-headed persons are apt to be elated; considering that, in the first place, these things have no connection at all with the nature of good, and secondly, that they are liable to rapid changes, fading away in a manner before they have time to flourish permanently.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="312">
@@ -2279,7 +2241,7 @@ But that they do in reality inflame and corrupt the souls of the children of who
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="315">
-<p>And if, indeed, any one assuming the name and appearance of a prophet, <ref n="241.2"/> appearing to be inspired and possessed
+<p>And if, indeed, any one assuming the name and appearance of a prophet, <note xml:lang="eng" n="241.2">Deuteronomy xiii. 1.</note> appearing to be inspired and possessed
 <note xml:lang="eng" n="241.1"> Deuteronomy x. 21.</note>
 <note xml:lang="eng" n="241.2">Deuteronomy xiii. 1.</note>
 
@@ -2300,7 +2262,7 @@ by the Holy Spirit, were to seek to lead the people to the worship of those who 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="318">
-<p>and the law confirms my assertion, where it says that those who do what is pleasing to nature and virtuous are the sons of God, for it says, "Ye are the sons of the Lord your God," <ref n="242.1"/> inasmuch as you will be thought worthy of his providence and care in your behalf as though he were your father. And that care is as much superior to that which is shown by a man's own parents, as I imagine the being who takes it is superior to them.
+<p>and the law confirms my assertion, where it says that those who do what is pleasing to nature and virtuous are the sons of God, for it says, "Ye are the sons of the Lord your God," <note xml:lang="eng" n="242.1"> Deuteronomy xiv. 1.</note> inasmuch as you will be thought worthy of his providence and care in your behalf as though he were your father. And that care is as much superior to that which is shown by a man's own parents, as I imagine the being who takes it is superior to them.
 
 
 <milestone unit="chapter" n="59"/><milestone unit="oldchapter" n="12"/></p>
@@ -2493,7 +2455,7 @@ compassion, calling them impotent, out of surprise at what they see.
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:1" n="345">
-<p>But we who are the followers and disciples of the prophet Moses, will never abandon our investigation into the nature of the true God; looking upon the knowledge of him as the true end of happiness; and thinking that the true everlasting life, as the law says, <ref n="248.1"/> is to live in obedience to and worship of God; in which precept it gives us a most important and philosophical lesson; for in real truth those who are atheists are dead as to their souls, but those who are marshalled in the ranks of the true living God, as his servants, enjoy an everlasting life.
+<p>But we who are the followers and disciples of the prophet Moses, will never abandon our investigation into the nature of the true God; looking upon the knowledge of him as the true end of happiness; and thinking that the true everlasting life, as the law says, <note xml:lang="eng" n="248.1"> Deuteronomy iv. 4.</note> is to live in obedience to and worship of God; in which precept it gives us a most important and philosophical lesson; for in real truth those who are atheists are dead as to their souls, but those who are marshalled in the ranks of the true living God, as his servants, enjoy an everlasting life.
 
 
 <note xml:lang="eng" n="248.1"> Deuteronomy iv. 4.</note>
@@ -2693,7 +2655,7 @@ flowing upon them as if from some unceasing spring, do nevertheless at times tur
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="26">
-<p>But if any one knows that any one else is violating his oath, and does not inform against him, or convict him, being influenced by friendship, or respect, or fear, rather than by piety, he shall be liable to the same punishment as the perjured person; <ref n="261.1"/> for assenting to one who does wrong differs in no respect from doing wrong one's self.</p>
+<p>But if any one knows that any one else is violating his oath, and does not inform against him, or convict him, being influenced by friendship, or respect, or fear, rather than by piety, he shall be liable to the same punishment as the perjured person; <note xml:lang="eng" n="261.1"> Leviticus v. 21.</note> for assenting to one who does wrong differs in no respect from doing wrong one's self.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="27">
@@ -2701,7 +2663,7 @@ flowing upon them as if from some unceasing spring, do nevertheless at times tur
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="28">
-<p>But the punishments which are inflicted by men are of various characters, being death, or scourging; <ref n="261.2"/> those men who are more excellent and more strict in their piety inflicting death on such offenders, but those who are of milder dispositions scourging them with rods publicly in the sight of all men; and to men who are not of abject and slavish dispositions scourging is a punishment not inferior in terror to death.
+<p>But the punishments which are inflicted by men are of various characters, being death, or scourging; <note xml:lang="eng" n="261.2"> Deuteronomy xix. 16.</note> those men who are more excellent and more strict in their piety inflicting death on such offenders, but those who are of milder dispositions scourging them with rods publicly in the sight of all men; and to men who are not of abject and slavish dispositions scourging is a punishment not inferior in terror to death.
 
 
 <note xml:lang="eng" n="261.1"> Leviticus v. 21.</note>
@@ -2738,14 +2700,14 @@ It is compared to a virgin, when it preserves itself pure, and undefiled, free f
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="33">
-<p>For the law ordains <ref n="262.1"/>that from twenty years of age to sixty the price of a man shall be two hundred drachmas of solid silver money, and of a woman a
+<p>For the law ordains <note xml:lang="eng" n="262.1"> Leviticus xxvii. 3.</note>that from twenty years of age to sixty the price of a man shall be two hundred drachmas of solid silver money, and of a woman a
 
 
 <note xml:lang="eng" n="262.1"> Leviticus xxvii. 3.</note>
 
 
 <pb n="v.3.p.263"/>
-hundred and twenty drachmas. And from five years of age to twenty, the price of a male child is eighty, and of a female child forty drachmas. And from infancy to five years old, the price of a male is twenty; of a female child, twelve drachmas. <ref n="263.1"/> And in the case of men who have lived beyond sixty years of age, the ransom of the old men is sixty, and of the old women forty drachmas.</p>
+hundred and twenty drachmas. And from five years of age to twenty, the price of a male child is eighty, and of a female child forty drachmas. And from infancy to five years old, the price of a male is twenty; of a female child, twelve drachmas. <note xml:lang="eng" n="263.1"> Leviticus x. 3.</note> And in the case of men who have lived beyond sixty years of age, the ransom of the old men is sixty, and of the old women forty drachmas.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="34">
@@ -2915,7 +2877,7 @@ smile; for how can a man who is full of the most evil counsels, and who lives wi
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="51">
-<p>On which account the all-great Moses, seeing the pre-eminence of the beauty of that which is the real festival, looked upon it as too perfect for human nature and dedicated it to God himself, speaking thus, in these very words: "The feast of the Lord." <ref n="268.1"/></p>
+<p>On which account the all-great Moses, seeing the pre-eminence of the beauty of that which is the real festival, looked upon it as too perfect for human nature and dedicated it to God himself, speaking thus, in these very words: "The feast of the Lord." <note xml:lang="eng" n="268.1"> Leviticus xxiii. 2.</note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="52">
@@ -2937,7 +2899,7 @@ smile; for how can a man who is full of the most evil counsels, and who lives wi
 
 
 <pb n="v.3.p.269"/>
-certain preeminently virtuous mind among the people of old, <ref n="269.1"/> when all its passions were tranquil, smiled, being full of and completely penetrated with joy, and reasoning with itself whether perhaps to rejoice was not a peculiar attribute of God, and whether it might not itself miss this joy by pursuing what are thought delights by men, was timorous, and denied the laughter of her soul until she was comforted.
+certain preeminently virtuous mind among the people of old, <note xml:lang="eng" n="269.1"> Genesis xviii, 10.</note> when all its passions were tranquil, smiled, being full of and completely penetrated with joy, and reasoning with itself whether perhaps to rejoice was not a peculiar attribute of God, and whether it might not itself miss this joy by pursuing what are thought delights by men, was timorous, and denied the laughter of her soul until she was comforted.
 
 
 </p>
@@ -2981,7 +2943,7 @@ certain preeminently virtuous mind among the people of old, <ref n="269.1"/> whe
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="60">
-<p>Not that the law is the adviser of idleness, for it is always accustoming its followers to submit to hardships, and training them to labour, and it hates those who desire to be indolent and idle; at all events, it expressly commands us to labour diligently for six days, <ref n="270.1"/> but in order to give some remission from uninterrupted and incessant toil, it refreshes the body with seasons of moderate relaxation exactly measured out, so as to renew it again for fresh works. For those who take breath in this way, I am speaking not merely about private individuals but even about athletes, collect fresh strength, and with more vigorous power, without any shrinking and with great endurance, encounter everything that must be done.</p>
+<p>Not that the law is the adviser of idleness, for it is always accustoming its followers to submit to hardships, and training them to labour, and it hates those who desire to be indolent and idle; at all events, it expressly commands us to labour diligently for six days, <note xml:lang="eng" n="270.1"> Exodus xx. 9.</note> but in order to give some remission from uninterrupted and incessant toil, it refreshes the body with seasons of moderate relaxation exactly measured out, so as to renew it again for fresh works. For those who take breath in this way, I am speaking not merely about private individuals but even about athletes, collect fresh strength, and with more vigorous power, without any shrinking and with great endurance, encounter everything that must be done.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="61">
@@ -3014,7 +2976,7 @@ And in the day he exhorts us to apply ourselves to philosophy, improving our sou
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="65">
-<p>It is forbidden also on this day to kindle a fire, as being the beginning <ref n="271.1"/> and seed of all the business of life; since without fire it is not possible to make any of the things which are indispensably necessary for life, so that men in the absence of one single element, the highest and most ancient of all, are cut off from all works and employments of arts, especially from all handicraft trades, and also from all particular services.</p>
+<p>It is forbidden also on this day to kindle a fire, as being the beginning <note xml:lang="eng" n="271.1"> Exodus xxxv. 3.</note> and seed of all the business of life; since without fire it is not possible to make any of the things which are indispensably necessary for life, so that men in the absence of one single element, the highest and most ancient of all, are cut off from all works and employments of arts, especially from all handicraft trades, and also from all particular services.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="66">
@@ -3054,7 +3016,7 @@ to do anything for themselves, faint at what they had to do; but, finding the di
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="71">
-<p>And Moses thinks the number seven worthy of such reverence that even all other things which at all partake of it are honoured by him; at all events, on every seventh year he ordains a remission of debts, assisting the poor, and inviting the rich to humanity; <ref n="272.1"/> that so they, from their abundance, giving to those that are in want, may also look forward to receiving services from them in the case of any disaster happening to them. For the accidents of human life are numerous, and life is not always anchored on the same bottom, but is apt to change like the fickle wind which blows in different
+<p>And Moses thinks the number seven worthy of such reverence that even all other things which at all partake of it are honoured by him; at all events, on every seventh year he ordains a remission of debts, assisting the poor, and inviting the rich to humanity; <note xml:lang="eng" n="272.1"> Deuteronomy xv. 1.</note> that so they, from their abundance, giving to those that are in want, may also look forward to receiving services from them in the case of any disaster happening to them. For the accidents of human life are numerous, and life is not always anchored on the same bottom, but is apt to change like the fickle wind which blows in different
 
 
 <note xml:lang="eng" n="272.1"> Deuteronomy xv. 1.</note>
@@ -3109,7 +3071,7 @@ directions at different times.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="79">
-<p>After having given these commandments, Moses proceeds in regular order to establish a law full of all gentleness and humanity. "If," says this law, "one of thy brethren be sold to thee, let him serve thee for six years; and in the seventh year let him be set free without any payment," <ref n="274.1"/></p>
+<p>After having given these commandments, Moses proceeds in regular order to establish a law full of all gentleness and humanity. "If," says this law, "one of thy brethren be sold to thee, let him serve thee for six years; and in the seventh year let him be set free without any payment," <note xml:lang="eng" n="274.1">Deuteronomy xv. 12.</note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="80">
@@ -3150,7 +3112,7 @@ energy and cheerfulness perform the services due to you, at all times and in all
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="86">
-<p>In the next place Moses commands the people to leave the land fallow and untilled every seventh year, for many reasons; <ref n="275.1"/> first of all, that they may honour the number seven, or each period of days, and months, and years; for every seventh day is sacred, which is called by the Hebrews the sabbath; and the seventh month in every year has the greatest of the festivals allotted to it, so that very naturally the seventh year also has a share of the veneration paid to this number, and receives especial honour.
+<p>In the next place Moses commands the people to leave the land fallow and untilled every seventh year, for many reasons; <note xml:lang="eng" n="275.1"> Leviticus xxv. 4.</note> first of all, that they may honour the number seven, or each period of days, and months, and years; for every seventh day is sacred, which is called by the Hebrews the sabbath; and the seventh month in every year has the greatest of the festivals allotted to it, so that very naturally the seventh year also has a share of the veneration paid to this number, and receives especial honour.
 
 
 </p>
@@ -3342,11 +3304,11 @@ consecrated by a vow, and are so placed in the class of offerings to God. And it
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="116">
-<p>These are the commandments which are given with respect to the divisions of the land and the inheritances so portioned out. There are others also enacted with respect to houses. And since of houses some are in cities, being within walls; while others are open abodes in the country, and not within any walls; the law has directed that those in the country shall always be redeemed with money, and that those which are not redeemed before the fiftieth year shall be restored without any payment to their original owners, just as their other possessions; <ref n="281.1"/> for the houses are a portion of the man's possessions.</p>
+<p>These are the commandments which are given with respect to the divisions of the land and the inheritances so portioned out. There are others also enacted with respect to houses. And since of houses some are in cities, being within walls; while others are open abodes in the country, and not within any walls; the law has directed that those in the country shall always be redeemed with money, and that those which are not redeemed before the fiftieth year shall be restored without any payment to their original owners, just as their other possessions; <note xml:lang="eng" n="281.1"> Leviticus xxv. 31.</note> for the houses are a portion of the man's possessions.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="117">
-<p>But those which are within walls shall be liable to be redeemed by those who have sold them for a full year; <ref n="281.2"/> but if they be not redeemed within that year, then after that year they shall be confirmed to those who had bought them, the jubilee of the fiftieth year not injuring the claim of the purchasers.
+<p>But those which are within walls shall be liable to be redeemed by those who have sold them for a full year; <note xml:lang="eng" n="281.2"> Leviticus xxv. 19.</note> but if they be not redeemed within that year, then after that year they shall be confirmed to those who had bought them, the jubilee of the fiftieth year not injuring the claim of the purchasers.
 
 
 </p>
@@ -3372,7 +3334,7 @@ strangers, that they might not be destitute of every thing both in the country a
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="120">
-<p>And concerning the tribe which was set apart as consecrated for the priesthood, the following laws are established. The law did not bestow upon the keepers of the temple any portion of the land, considering the first fruits of it a sufficient revenue for them. But it allotted them eight and forty cities to dwell in, and a suburb of two thousand cubits around each city. <ref n="282.1"/></p>
+<p>And concerning the tribe which was set apart as consecrated for the priesthood, the following laws are established. The law did not bestow upon the keepers of the temple any portion of the land, considering the first fruits of it a sufficient revenue for them. But it allotted them eight and forty cities to dwell in, and a suburb of two thousand cubits around each city. <note xml:lang="eng" n="282.1"> Leviticus xxxv. 5.</note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="121">
@@ -3458,7 +3420,7 @@ And those who are to share in the feast come together not as they do to other en
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="150">
 <head>THE FIFTH FESTIVAL.</head>
-<p>And there is another festival combined with the feast of the passover, having a use of food different from the usual one, and not customary; the use, namely, of unleavened bread, from which it derives its name. And there are two accounts given of this festival, the one peculiar to the nation, on account of the migration already described; the other a common one, in accordance with conformity to nature and with the harmony of the whole world. And we must consider how accurate the hypothesis is. <ref n="284.1"/>
+<p>And there is another festival combined with the feast of the passover, having a use of food different from the usual one, and not customary; the use, namely, of unleavened bread, from which it derives its name. And there are two accounts given of this festival, the one peculiar to the nation, on account of the migration already described; the other a common one, in accordance with conformity to nature and with the harmony of the whole world. And we must consider how accurate the hypothesis is. <note xml:lang="eng" n="284.1"> Exodus xii. 1.</note>
 
 
 This month, being the seventh both in number and order, according to the revolutions of the sun, is the first in power;</p>
@@ -3561,7 +3523,7 @@ That portion of the food which was honoured with the second place, namely, barle
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="182">
-<p>And the bread is leavened because the law forbids any one to offer unleavened bread upon the altar; not in order that there should be any contradiction in the injunctions given, but that in a manner the giving and receiving may be of one sort; the receiving being gratitude from those who offer it, and the giving an unhesitating bestowal of the customary blessings on those who offer. <ref n="287.1"/> Not indeed to that [...]
+<p>And the bread is leavened because the law forbids any one to offer unleavened bread upon the altar; not in order that there should be any contradiction in the injunctions given, but that in a manner the giving and receiving may be of one sort; the receiving being gratitude from those who offer it, and the giving an unhesitating bestowal of the customary blessings on those who offer. <note xml:lang="eng" n="287.1"> The whole of this passage appears corrupt and unintelligible. Mangey especially points out that what was forbidden was not to offer unleavened bread, but leavened bread upon the altar. See Exodus xxiii. 18.</note> Not indeed to that [...]
 
 
 </p>
@@ -3678,7 +3640,7 @@ of sabbaths, or, as the Greeks would style, it the week of weeks, the most holy 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="199">
-<p>At all events, behold, he nourished our forefathers even in the desert for forty years. <ref n="289.1"/>
+<p>At all events, behold, he nourished our forefathers even in the desert for forty years. <note xml:lang="eng" n="289.1"> Deuteronomy viii. 2.</note>
 
 
 </p>
@@ -3759,10 +3721,10 @@ they lodged in numerous tents for many years, while stopping at each halting pla
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="214">
-<p>I have spoken in this way about the sacred week and the sacred number seven at more than usual length, wishing to show that all the feasts of the year are, as it were, the offspring of the number seven, which stands in the relation of a mother. <ref n="291.1"/> ... Follies and joys; and because in such assemblies and in a cheerful course of life there are thus established seasons of delight unconnected with any sorrow or depression supporting both the body and the soul; the one by the pleasure and the other by the opportunities for philosophical study which they afford.
+<p>I have spoken in this way about the sacred week and the sacred number seven at more than usual length, wishing to show that all the feasts of the year are, as it were, the offspring of the number seven, which stands in the relation of a mother. <note xml:lang="eng" n="291.1"> I have translated this as it is printed in Schwichest's edition. Mangey makes the treatise end at " mother."</note> ... Follies and joys; and because in such assemblies and in a cheerful course of life there are thus established seasons of delight unconnected with any sorrow or depression supporting both the body and the soul; the one by the pleasure and the other by the opportunities for philosophical study which they afford.
 
 
-<note xml:lang="eng">GRC: in Yonge, this is "A TREATISE ON THE FESTIVAL OF THE BASKET OF FIRST-FRUITS. <ref n="291.2"/>"</note>
+<note xml:lang="eng">GRC: in Yonge, this is "A TREATISE ON THE FESTIVAL OF THE BASKET OF FIRST-FRUITS. <note xml:lang="eng" n="291.2">his treatise is not given in Mangey's edition.</note>"</note>
 
 <milestone unit="nextchapter" n="34"/>
 
@@ -3771,7 +3733,7 @@ they lodged in numerous tents for many years, while stopping at each halting pla
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="215">
 <head>A TREATISE ON THE FESTIVAL OF THE BASKET OF FIRST-FRUITS.</head>
-<p>There is, besides all these, another festival <ref n="291.3"/> sacred to God, and a solemn assembly on the day of the festival which
+<p>There is, besides all these, another festival <note xml:lang="eng" n="291.3">Deuteronomy xxvi. 1.</note> sacred to God, and a solemn assembly on the day of the festival which
 
 
 <note xml:lang="eng" n="291.1"> I have translated this as it is printed in Schwichest's edition. Mangey makes the treatise end at " mother."</note>
@@ -3780,7 +3742,7 @@ they lodged in numerous tents for many years, while stopping at each halting pla
 
 
 <pb n="v.3.p.292"/>
-they call castallus, <ref n="292.1"/> from the event that takes place in it, as we shall show presently. Now that this festival is not in the same rank, nor of the same importance with the other festivals, is plain from many considerations. For, first of all, it is not one to be observed by the whole population of the nation as each of the others is. Secondly, none of the things that are brought or offered are laid upon the altar as holy, or committed to the unextinguishable and holy fire. Thirdly, the very number of days which are to be observed in the festival are not expressly stated.
+they call castallus, <note xml:lang="eng" n="292.1"> Castallus is interpreted "a basket with a pointed bottom."</note> from the event that takes place in it, as we shall show presently. Now that this festival is not in the same rank, nor of the same importance with the other festivals, is plain from many considerations. For, first of all, it is not one to be observed by the whole population of the nation as each of the others is. Secondly, none of the things that are brought or offered are laid upon the altar as holy, or committed to the unextinguishable and holy fire. Thirdly, the very number of days which are to be observed in the festival are not expressly stated.
 
 
 <milestone unit="chapter" n="35"/><milestone unit="oldchapter" n="2"/></p>
@@ -3831,7 +3793,7 @@ have thought us worthy, and so enabled us to live comfortably and to rejoice in 
 <p>I have now said thus much respecting the number seven, and the things referring to it among the days, and the months, and the years; and about the festivals which are connected with this number seven, following the regular connection of the heads of the subject, which I proposed to myself according to the order in which they are mentioned in the sacred history. And I shall now proceed in regular order to consider the commandment which comes next, which is entitled the one about the honour due to parents.
 
 
-<note xml:lang="eng">GRC: in Yonge, this is "A TREATISE ON THE HONOUR COMMANDED TO BE PAID TO PARENTS. <ref n="293.1"/>"</note>
+<note xml:lang="eng">GRC: in Yonge, this is "A TREATISE ON THE HONOUR COMMANDED TO BE PAID TO PARENTS. <note xml:lang="eng" n="293.1"> This treatise is also omitted in Mangey's edition.</note>"</note>
 <milestone unit="nextchapter" n="38"/>
 
 <milestone unit="chapter" n="38"/><milestone unit="oldchapter" n="1"/></p>
@@ -3899,7 +3861,7 @@ and producers of the child which is begotten or brought forth, and they stand in
 
 
 <pb n="v.3.p.296"/>
-through the greatness of their incurable wickedness, the law permits them to chastise them even to the extent of putting them to death. <ref n="296.1"/> But still this permission is not given to either the father by himself, or to the mother by herself, by reason of the greatness of the punishment, which it is not fitting should be determined by one, but by both together, for it is not probable that both the parents will agree about putting their child to death unless his iniquities are very grievous, and weigh down by a certain undoubted preponderance that firm affection which is firmly implanted in the parents by nature.
+through the greatness of their incurable wickedness, the law permits them to chastise them even to the extent of putting them to death. <note xml:lang="eng" n="296.1"> Deuteronomy xxi. 18.</note> But still this permission is not given to either the father by himself, or to the mother by herself, by reason of the greatness of the punishment, which it is not fitting should be determined by one, but by both together, for it is not probable that both the parents will agree about putting their child to death unless his iniquities are very grievous, and weigh down by a certain undoubted preponderance that firm affection which is firmly implanted in the parents by nature.
 
 
 </p>
@@ -3917,7 +3879,7 @@ through the greatness of their incurable wickedness, the law permits them to cha
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="235">
-<p>Therefore the law says, "Honour thy father and thy mother next after God;" <ref n="296.2"/> assigning to them the second place in honour, on the same principle as nature herself has ranked them in her decision of their proper place and duties. And you will not honour them more by any line of conduct
+<p>Therefore the law says, "Honour thy father and thy mother next after God;" <note xml:lang="eng" n="296.2"> Deuteronomy v. 16.</note> assigning to them the second place in honour, on the same principle as nature herself has ranked them in her decision of their proper place and duties. And you will not honour them more by any line of conduct
 
 
 <note xml:lang="eng" n="296.1"> Deuteronomy xxi. 18.</note>
@@ -3940,7 +3902,7 @@ than by endeavouring and appearing to be virtuous persons. As the being such is 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="238">
-<p>On which account, in the sacred scriptures, it is not only commanded that young men should rise up and give the best seats to their elders, but also that they should rise up before them when they pass by; <ref n="297.1"/> showing honour to the grey hairs of old age, to which there is a hope that they may come themselves if they now yield precedence to them.
+<p>On which account, in the sacred scriptures, it is not only commanded that young men should rise up and give the best seats to their elders, but also that they should rise up before them when they pass by; <note xml:lang="eng" n="297.1"> Leviticus xix. 32.</note> showing honour to the grey hairs of old age, to which there is a hope that they may come themselves if they now yield precedence to them.
 
 
 </p>
@@ -3948,7 +3910,7 @@ than by endeavouring and appearing to be virtuous persons. As the being such is 
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="239">
 <p>And this commandment also seems to me to have been enacted with exceeding beauty and propriety; for the law says,
-"Let each man fear his father and his mother," <ref n="297.2"/> enjoining fear rather than affection, not as being better in every respect or for every purpose, but as being more advantageous and profitable with reference to the present occasion, for the first of these feelings affects foolish persons when they are being instructed or reproved, and folly cannot be cured by any other means than fear. But the second feeling, namely, affection towards their parents, it is not fitting should be inculcated on children by the injunctions of a lawgiver, for nature requires that that should be spontaneous. For it has implanted it so deeply from very infancy in the souls of those who are so completely united by blood, and by the services done by the parents to the children, that it is always self-taught and spontaneous, and has no need of commandments to enforce it.
+"Let each man fear his father and his mother," <note xml:lang="eng" n="297.2"> Leviticus xix. 3.</note> enjoining fear rather than affection, not as being better in every respect or for every purpose, but as being more advantageous and profitable with reference to the present occasion, for the first of these feelings affects foolish persons when they are being instructed or reproved, and folly cannot be cured by any other means than fear. But the second feeling, namely, affection towards their parents, it is not fitting should be inculcated on children by the injunctions of a lawgiver, for nature requires that that should be spontaneous. For it has implanted it so deeply from very infancy in the souls of those who are so completely united by blood, and by the services done by the parents to the children, that it is always self-taught and spontaneous, and has no need of commandments to enforce it.
 
 
 <note xml:lang="eng" n="297.1"> Leviticus xix. 32.</note>
@@ -3978,7 +3940,7 @@ than by endeavouring and appearing to be virtuous persons. As the being such is 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="243">
-<p>Now there is one common penalty affixed to them all, namely, death, through which all such offences have a kind of relationship to one another. But the causes of this sentence being pronounced in such cases are different, and we must begin with the last, the one that relates to parents, since it is in reference to this one that the words are still ringing in our ears, "If any one shall beat his father or his mother, let him be stoned." <ref n="298.1"/>
+<p>Now there is one common penalty affixed to them all, namely, death, through which all such offences have a kind of relationship to one another. But the causes of this sentence being pronounced in such cases are different, and we must begin with the last, the one that relates to parents, since it is in reference to this one that the words are still ringing in our ears, "If any one shall beat his father or his mother, let him be stoned." <note xml:lang="eng" n="298.1"> Exodus xxi, 15.</note>
 
 
 And very justly, for it is not fit that that man should live who insults those who are the causes of his living;</p>
@@ -4011,7 +3973,7 @@ Surely it would be a ridiculous thing to lay down such principles as these, and 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="248">
-<p>And even if he has not laid hands upon his parents, but has only spoken ill of those whom he was bound to praise and bless, or if he has in any other manner done anything which can tend to bring his parents into disrepute, still let him die. <ref n="299.1"/>
+<p>And even if he has not laid hands upon his parents, but has only spoken ill of those whom he was bound to praise and bless, or if he has in any other manner done anything which can tend to bring his parents into disrepute, still let him die. <note xml:lang="eng" n="299.1"> Exodus xxi. 16.</note>
 <note xml:lang="eng" n="299.1"> Exodus xxi. 16.</note>
 
 <pb n="v.3.p.300"/>
@@ -4040,7 +4002,7 @@ For since he is a common enemy, and if one may tell the plain truth, he is a pub
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="252">
-<p>Against those who call God as a witness in favour of assertions which are not true, the punishment of death is ordained in the law; <ref n="300.1"/> and very properly, for even a man of
+<p>Against those who call God as a witness in favour of assertions which are not true, the punishment of death is ordained in the law; <note xml:lang="eng" n="300.1"> Deuteronomy xix. 19.</note> and very properly, for even a man of
 
 
 
@@ -4074,7 +4036,7 @@ moderate respectability will never endure to be cited as a witness, and to have 
 
 
 <pb n="v.3.p.302"/>
-their names with thy voice, but keep both thy mind and thy speech far from all other interpositions, and turn them wholly to the Father and Creator of the universe, that thus thou mayest cherish the most virtuous and godly thoughts about his single government, and mayest speak words that are becoming and most profitable both to thyself and to those that hear thee." <ref n="302.1"/>
+their names with thy voice, but keep both thy mind and thy speech far from all other interpositions, and turn them wholly to the Father and Creator of the universe, that thus thou mayest cherish the most virtuous and godly thoughts about his single government, and mayest speak words that are becoming and most profitable both to thyself and to those that hear thee." <note xml:lang="eng" n="302.1"> Exodus xxiii, 18.</note>
 
 
 <milestone unit="chapter" n="47"/><milestone unit="oldchapter" n="10"/></p>
@@ -4111,7 +4073,7 @@ For wisdom itself is the reward of wisdom; and justice, and each of the other vi
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="261">
 <p>In the same way let not him who honours his parents dutifully seek for any further advantage, for if he considers the matter he will find his reward in his own conduct. Not but what, since this commandment is inferior in importance to the first five commandments, which have a more divine character, inasmuch as this is concerned with mortal subjects, God has given an inducement to obey this one, saying,
-"Honour thy father and thy mother, that it may be well with thee, and that thy days may be long in the land;" <ref n="303.1"/></p>
+"Honour thy father and thy mother, that it may be well with thee, and that thy days may be long in the land;" <note xml:lang="eng" n="303.1"> Exodus xx. 12.</note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:2" n="262">
@@ -4228,26 +4190,10 @@ soul, and to dwell in the regions of the sun and moon, and to associate with the
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="15">
-<p>These enormities formerly took place among the Greeks in the case of Oedipus, the son of Laius, <ref n="306.1"/> and the actions were
+<p>These enormities formerly took place among the Greeks in the case of Oedipus, the son of Laius, <note xml:lang="eng" n="306.1"> This is the subject, in fact, of the Oedipus Tyrannus of Sophocles, and is dilated upon by Oedipus, where he says— <cit><quote><l part="I">ὦ γάμοι γάμοι</l> <l>ἐφύσαθ᾽ ἡμᾶς καὶ φυτεύσαντες πάλιν</l> <l>ἀνεῖτε ταὐτὸν σπέρμα, κ' ἀπεδείξατε .</l> <l>πατέρας, ἀδελφοὺς παῖδας, αἷμ' ἐμφύλιον,</l> <l>νύμφας, γυναῖκας μητέρας τε, χ᾽ ὥποσα</l> <l>αἰσχιστ᾽ ἐν ἀνθρώποισιν ἔργα γίγνεται. </l></quote><bibl>Soph. OT 1403-1408</bibl></cit>. And again he says— <cit><quote><l>τὴν τεκούσαν ἤροσεν</l>  <l>ὅθεν περ αὐτὸς ἐσπάρη, κἀκ τῶν ἴσων</l> <l>ἐκτήσαθ᾽ ὑμᾶς ὧνπερ αὐτὸς ἐξέφυ. </l></quote><bibl>Soph. OT 1497-1499</bibl></cit>. Philo alludes afterwards to the wars which are the subject of the Ἕπτ' ἐπὶ Θήβας of Aischylus.</note> and the actions were
 
 
-<note xml:lang="eng" n="306.1"> This is the subject, in fact, of the Oedipus Tyrannus of Sophocles, and is dilated upon by Oedipus, where he says—
-<l>ὦ γάμοι γάμοι</l>
-<l>ἐφύσαθ᾽ ἡμᾶς καὶ φυτεύσαντες πάλιν</l>
-<l>ἀνεῖτε ταὐτὸν σπέρμα, κ' ἀπεδείξατε .</l>
-<l>πατέρας, ἀδελφοὺς παῖδας, αἷμ' ἐμφύλιον,</l>
-<l>νύμφας, γυναῖκας μητέρας τε, χ᾽ ὥποσα</l>
-
-<l>αἰσχιστ᾽ ἐν ἀνθρώποισιν ἔργα γίγνεται. </l>
-1408. And again he says—
-
-
-<l>τὴν τεκούσαν ἤροσεν</l>
-
-<l>ὅθεν περ αὐτὸς ἐσπάρη, κἀκ τῶν ἴσων</l>
-
-<l>ἐκτήσαθ᾽ ὑμᾶς ὧνπερ αὐτὸς ἐξέφυ. </l>
-1409. Philo alludes afterwards to the wars which are the subject of the Ἕπτ' ἐπὶ Θήβας of Aischylus.</note>
+<note xml:lang="eng" n="306.1"> This is the subject, in fact, of the Oedipus Tyrannus of Sophocles, and is dilated upon by Oedipus, where he says— <cit><quote><l part="I">ὦ γάμοι γάμοι</l> <l>ἐφύσαθ᾽ ἡμᾶς καὶ φυτεύσαντες πάλιν</l> <l>ἀνεῖτε ταὐτὸν σπέρμα, κ' ἀπεδείξατε .</l> <l>πατέρας, ἀδελφοὺς παῖδας, αἷμ' ἐμφύλιον,</l> <l>νύμφας, γυναῖκας μητέρας τε, χ᾽ ὥποσα</l> <l>αἰσχιστ᾽ ἐν ἀνθρώποισιν ἔργα γίγνεται. </l></quote><bibl>Soph. OT 1403-1408</bibl></cit>. And again he says— <cit><quote><l>τὴν τεκούσαν ἤροσεν</l>  <l>ὅθεν περ αὐτὸς ἐσπάρη, κἀκ τῶν ἴσων</l> <l>ἐκτήσαθ᾽ ὑμᾶς ὧνπερ αὐτὸς ἐξέφυ. </l></quote><bibl>Soph. OT 1497-1499</bibl></cit>. Philo alludes afterwards to the wars which are the subject of the Ἕπτ' ἐπὶ Θήβας of Aischylus.</note>
 
 
 <pb n="v.3.p.307"/>
@@ -4454,25 +4400,14 @@ have desired wholly to change their condition for that of women, and have castra
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="44">
-<p>and became very violent in her passion from her despair of being able to gratify it (for love which fails in its object is usually increased in no ordinary degree), so that at last she reported to Daedalus the affliction by which she was overwhelmed, and he was the most skilful of all workmen of his time. <ref n="314.1"/>
+<p>and became very violent in her passion from her despair of being able to gratify it (for love which fails in its object is usually increased in no ordinary degree), so that at last she reported to Daedalus the affliction by which she was overwhelmed, and he was the most skilful of all workmen of his time. <note xml:lang="eng" n="314.1"> This story is alluded to by many poets, and especially by Virgil, Aeneid vi. 24. <l>Hic crudelis amor tauri, suppostaque furto</l> <l>Pasiphaé mistumque genus prolesque biformis</l> <l>Minotaurus inest, Veneris monumenta nefandea,</l> Or, as it is translated by Dryden— <l>"There too, in living sculpture, might be seen</l> <l>The mad affection of the Cretan queen:</l> <l>Then how she cheats her bellowing lover's eye:</l> <l>The rushing leap; the doubtful progeny:</l> <l>The lower part a beast, a man above;</l> <l>The monument of their polluted love."</l></note>
 
 
-<note xml:lang="eng" n="314.1"> This story is alluded to by many poets, and especially by Virgil, Aeneid vi. 24.
-<l>Hic crudelis amor tauri, suppostaque furto</l>
-<l>Pasiphaé mistumque genus prolesque biformis</l>
-<l>Minotaurus inest, Veneris monumenta nefandea,</l> Or, as it is translated by Dryden—
-
-
-<l>"There too, in living sculpture, might be seen</l>
-<l>The mad affection of the Cretan queen:</l>
-<l>Then how she cheats her bellowing lover's eye:</l>
-<l>The rushing leap; the doubtful progeny:</l>
-<l>The lower part a beast, a man above;</l>
-<l>The monument of their polluted love."</l></note>
+<note xml:lang="eng" n="314.1"> This story is alluded to by many poets, and especially by Virgil, Aeneid vi. 24. <l>Hic crudelis amor tauri, suppostaque furto</l> <l>Pasiphaé mistumque genus prolesque biformis</l> <l>Minotaurus inest, Veneris monumenta nefandea,</l> Or, as it is translated by Dryden— <l>"There too, in living sculpture, might be seen</l> <l>The mad affection of the Cretan queen:</l> <l>Then how she cheats her bellowing lover's eye:</l> <l>The rushing leap; the doubtful progeny:</l> <l>The lower part a beast, a man above;</l> <l>The monument of their polluted love."</l></note>
 
 
 <pb n="v.3.p.315"/>
-And he, being very ingenious, so as by his contrivances to discover things undiscoverable to any one else, made a cow of wood, and put Pasiphaé into it at one of the sides, and the bull rushed at the wooden cow as if it had been an animal of its own kind. And Pasiphaé, becoming pregnant at a certain period, brought forth an animal half man and half beast, called the minotaur. <ref n="315.1"/></p>
+And he, being very ingenious, so as by his contrivances to discover things undiscoverable to any one else, made a cow of wood, and put Pasiphaé into it at one of the sides, and the bull rushed at the wooden cow as if it had been an animal of its own kind. And Pasiphaé, becoming pregnant at a certain period, brought forth an animal half man and half beast, called the minotaur. <note xml:lang="eng" n="315.1"> Ovid describes this animal more than once— <l>Dedalus ut clausit, conceptum crimine matris</l> <l>Semibovemque virum, semivirumque bovem. </l> A. A. ii, 24, And again— <l>Nec tua mactisset nodoso stipite Theseu,</l> <l>Ardua parte virum dextera, parte bovem. </l> Her, x, 101.</note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="45">
@@ -4488,11 +4423,7 @@ And he, being very ingenious, so as by his contrivances to discover things undis
 
 
 
-<note xml:lang="eng" n="315.1"> Ovid describes this animal more than once—
-<l>Dedalus ut clausit, conceptum crimine matris</l>
-<l>Semibovemque virum, semivirumque bovem. </l> A. A. ii, 24, And again—
-<l>Nec tua mactisset nodoso stipite Theseu,</l>
-<l>Ardua parte virum dextera, parte bovem. </l> Her, x, 101.</note>
+<note xml:lang="eng" n="315.1"> Ovid describes this animal more than once— <l>Dedalus ut clausit, conceptum crimine matris</l> <l>Semibovemque virum, semivirumque bovem. </l> A. A. ii, 24, And again— <l>Nec tua mactisset nodoso stipite Theseu,</l> <l>Ardua parte virum dextera, parte bovem. </l> Her, x, 101.</note>
 
 
 <pb n="v.3.p.316"/>
@@ -4632,7 +4563,7 @@ names, call this love, blushing to confess the real truth concerning its charact
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="68">
-<p>"For no one of those who have the guardianship of the maiden entrusted them could be so base as to oppose an earnest and persevering entreaty, and especially as to refuse you since you, would be found, by strict examination, not to have falsely pretended a passion which you do not feel, or to have conceived only a superficial love for her, but one which is genuine and thoroughly established." <ref n="320.1"/>
+<p>"For no one of those who have the guardianship of the maiden entrusted them could be so base as to oppose an earnest and persevering entreaty, and especially as to refuse you since you, would be found, by strict examination, not to have falsely pretended a passion which you do not feel, or to have conceived only a superficial love for her, but one which is genuine and thoroughly established." <note xml:lang="eng" n="320.1">Deuteronomy xxii. 18.</note>
 
 
 </p>
@@ -4694,7 +4625,7 @@ spontaneous and voluntary defender of the person who appears to be unjustly trea
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="77">
-<p>And concerning her the judge must examine the matter very carefully, not referring everything to or making everything depend upon the place; for it is possible that a woman may be ravished against her will even in the middle of the city; and on the other hand even if outside the city, she may have voluntarily given herself up to an illicit connection. Wherefore the law, making a very careful and very admirably conceived defence, on behalf of a damsel ravished in the wilderness, says, "for the damsel cried out, and there was no one to help her;" <ref n="322.1"/> so that if she neither cried out nor resisted, but willingly consented to her ravisher, she must be looked upon as guilty, having only put forward the fact of the place, as a sophistical excuse to make it appear that she had been ravished.
+<p>And concerning her the judge must examine the matter very carefully, not referring everything to or making everything depend upon the place; for it is possible that a woman may be ravished against her will even in the middle of the city; and on the other hand even if outside the city, she may have voluntarily given herself up to an illicit connection. Wherefore the law, making a very careful and very admirably conceived defence, on behalf of a damsel ravished in the wilderness, says, "for the damsel cried out, and there was no one to help her;" <note xml:lang="eng" n="322.1"> Deuteronomy xxii. 27.</note> so that if she neither cried out nor resisted, but willingly consented to her ravisher, she must be looked upon as guilty, having only put forward the fact of the place, as a sophistical excuse to make it appear that she had been ravished.
 
 
 </p>
@@ -4722,7 +4653,7 @@ their first impulses whatever they may be; letting those passions proceed withou
 <p>and concerning these men we have this law enacted. .
 
 
-When those men who marry virgins in accordance with the law, <ref n="323.1"/> and who have sacrificed on the occasion and celebrated their marriage feast, and who yet afterwards preserve no natural affection for their wives but treat them with insolence, and behave to freeborn citizens as if they were courtesans, if they seek to procure a divorce, and not being able to find any pretext for such a separation, then betake themselves to bringing forward false accusations, and from an absence of any clear grounds of impeachment direct all their charges at things which cannot be made certain, and come forward and accuse them, saying that though they fancied that they had been marrying virgins, they found on the first occasion of their having intercourse together, that they were not so. When, I say, these men make such charges let all the elders be assembled to decide on the case, and let the parents of the woman who is accused also appear, to make their defence in this their common danger.
+When those men who marry virgins in accordance with the law, <note xml:lang="eng" n="323.1"> Deuteronomy xxii. 13.</note> and who have sacrificed on the occasion and celebrated their marriage feast, and who yet afterwards preserve no natural affection for their wives but treat them with insolence, and behave to freeborn citizens as if they were courtesans, if they seek to procure a divorce, and not being able to find any pretext for such a separation, then betake themselves to bringing forward false accusations, and from an absence of any clear grounds of impeachment direct all their charges at things which cannot be made certain, and come forward and accuse them, saying that though they fancied that they had been marrying virgins, they found on the first occasion of their having intercourse together, that they were not so. When, I say, these men make such charges let all the elders be assembled to decide on the case, and let the parents of the woman who is accused also appear, to make their defence in this their common danger.
 
 
 </p>
@@ -4903,7 +4834,7 @@ occasion, but ordained that the executioners should at once proceed to inflict t
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="105">
-<p>for sometimes a man having come into the market-place on some important business, meeting with some one who is inclined precipitately to accuse him, or who attempts to assault him, or who begins to pick a quarrel with him and engages him in a conflict, for the sake of separating from him and more speedily escaping him, either strikes his opponent with his fist or takes up a stone and throws it at him and knocks him down. <ref n="329.1"/>
+<p>for sometimes a man having come into the market-place on some important business, meeting with some one who is inclined precipitately to accuse him, or who attempts to assault him, or who begins to pick a quarrel with him and engages him in a conflict, for the sake of separating from him and more speedily escaping him, either strikes his opponent with his fist or takes up a stone and throws it at him and knocks him down. <note xml:lang="eng" n="329.1"> Exodus xxi, 18.</note>
 
 
 </p>
@@ -4928,7 +4859,7 @@ on the other. But if the man does not die immediately after receiving the blow, 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="108">
-<p>But if any one has a contest with a woman who is pregnant, and strike her a blow on her belly, and she miscarry, if the child which was conceived within her is still unfashioned and unformed, he shall be punished by a fine, both for the assault which he committed and also because he has prevented nature, who was fashioning and preparing that most excellent of all creatures, a human being, from bringing him into existence. But if the child which was conceived had assumed a distinct shape <ref n="330.1"/> in all its parts, having received all its proper connective and distinctive qualities, he shall die;</p>
+<p>But if any one has a contest with a woman who is pregnant, and strike her a blow on her belly, and she miscarry, if the child which was conceived within her is still unfashioned and unformed, he shall be punished by a fine, both for the assault which he committed and also because he has prevented nature, who was fashioning and preparing that most excellent of all creatures, a human being, from bringing him into existence. But if the child which was conceived had assumed a distinct shape <note xml:lang="eng" n="330.1"> Exodus xxi. 22.</note> in all its parts, having received all its proper connective and distinctive qualities, he shall die;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="109">
@@ -5006,7 +4937,7 @@ beasts which devour human flesh, since there is no one to keep them off, attack 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="120">
-<p>The sacred law says that the man, who has been killed without any intention that he should be so on the part of him who killed him, has been given up by God into the hands of his slayers; <ref n="333.1"/> in this way designing to make an excuse for the man who appears to have slain him as if he had slain a guilty person.</p>
+<p>The sacred law says that the man, who has been killed without any intention that he should be so on the part of him who killed him, has been given up by God into the hands of his slayers; <note xml:lang="eng" n="333.1">Exodus xxi, 13.</note> in this way designing to make an excuse for the man who appears to have slain him as if he had slain a guilty person.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="121">
@@ -5031,7 +4962,7 @@ imputed to him, even if he be the greatest man in the world.
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="123">
-<p>Therefore, the law has pronounced the sentence of banishment upon him who has slain a man, yet not of banishment any where, nor for ever; for it has assigned six cities, <ref n="334.1"/> one fourth portion of what the whole sacred tribe received as its inheritance, for those who were convicted of homicide; which, from the circumstances connected with them, it has named cities of refuge. And it fixed the time of this banishment as the length of the life of the high priest, permitting the exiles to return home after his death.
+<p>Therefore, the law has pronounced the sentence of banishment upon him who has slain a man, yet not of banishment any where, nor for ever; for it has assigned six cities, <note xml:lang="eng" n="334.1"> Numbers xxxv. 1.</note> one fourth portion of what the whole sacred tribe received as its inheritance, for those who were convicted of homicide; which, from the circumstances connected with them, it has named cities of refuge. And it fixed the time of this banishment as the length of the life of the high priest, permitting the exiles to return home after his death.
 
 
 <milestone unit="chapter" n="22"/><milestone unit="oldchapter" n="8"/></p>
@@ -5042,7 +4973,7 @@ imputed to him, even if he be the greatest man in the world.
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="125">
-<p>For when the prophet, after having been called up to the loftiest and most sacred of all the mountains in that district, was divinely instructed in the generic outlines of all the special laws, <ref n="334.2"/> and was out of sight of his people for many days; those of the people who were not of a peaceable disposition filled every place with the evils which arise from anarchy, and crowned all their iniquity with open impiety, turning into ridicule all those excellent and beautiful lessons concerning the honour due to the one true and living God, and having made a golden bull, an imitation of the Egyptian Typhos, and brought to it unholy sacrifices, and festivals unhallowed, and instituted profane and impious dances, with songs and hymns instead of lamentations;</p>
+<p>For when the prophet, after having been called up to the loftiest and most sacred of all the mountains in that district, was divinely instructed in the generic outlines of all the special laws, <note xml:lang="eng" n="334.2"> Exodus xxxii, 1.</note> and was out of sight of his people for many days; those of the people who were not of a peaceable disposition filled every place with the evils which arise from anarchy, and crowned all their iniquity with open impiety, turning into ridicule all those excellent and beautiful lessons concerning the honour due to the one true and living God, and having made a golden bull, an imitation of the Egyptian Typhos, and brought to it unholy sacrifices, and festivals unhallowed, and instituted profane and impious dances, with songs and hymns instead of lamentations;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="126">
@@ -5096,7 +5027,7 @@ of their excessive compassion and inconsolable grief for the dead, are eager for
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="131">
-<p>Moreover, I said before, he has appointed a time for their return, the death of the high priest, for the following reason. <ref n="336.1"/>
+<p>Moreover, I said before, he has appointed a time for their return, the death of the high priest, for the following reason. <note xml:lang="eng" n="336.1"> Numbers xxxv. 25.</note>
 
 
 As the relations of each individual who has been slain treacherously lie in wait to secure themselves revenge and justice upon those who treacherously slew him; in like manner the high priest is the relation and nearest of kin to the whole nation; inasmuch as he presides over and dispenses justice to all who dispute in accordance with the laws, and offers up prayers and sacrifices every day on behalf of the whole nation, and prays for blessings for the people as for his own brethren, and parents, and children, that every age and every portion of the nation, as if it were one body, may be united into one and the same society and union, devoted to peace and obedience to the law.
@@ -5202,7 +5133,7 @@ however, the servant turn out to have done any thing worthy of death, let him br
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="144">
 <head>CONCERNING THOSE BRUTE BEASTS WHICH ARE THE CAUSES OF A MAN'S DEATH.</head>
-<p>If a bull gore a man and kill him, let him be stoned. <ref n="339.1"/> For his flesh may not be either offered in sacrifice by the priests, nor eaten by men. Why not? Because it is not consistent with the law of God that man should take for food or for a seasoning to his food the flesh of an animal which has slain a man.</p>
+<p>If a bull gore a man and kill him, let him be stoned. <note xml:lang="eng" n="339.1"> Exodus xxi. 28.</note> For his flesh may not be either offered in sacrifice by the priests, nor eaten by men. Why not? Because it is not consistent with the law of God that man should take for food or for a seasoning to his food the flesh of an animal which has slain a man.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="145">
@@ -5235,7 +5166,7 @@ of shameful carelessness or folly, have left such places open, by which means so
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="148">
-<p>If, therefore, any traveller passing along the road, not knowing beforehand that there is any such pit, shall step on the hole, and fall in, and be killed, any one of the relations of the dead man who chooses may bring an accusation against those who made the pit, and the tribunal shall decide what punishment they ought to suffer, or what penalty they ought to pay. <ref n="340.1"/>
+<p>If, therefore, any traveller passing along the road, not knowing beforehand that there is any such pit, shall step on the hole, and fall in, and be killed, any one of the relations of the dead man who chooses may bring an accusation against those who made the pit, and the tribunal shall decide what punishment they ought to suffer, or what penalty they ought to pay. <note xml:lang="eng" n="340.1"> Exodus xxi. 33.</note>
 
 
 But if a beast fall in and perish, then they who dug the pit shall pay its value to its owner as if it were still alive, and they shall have the dead body for themselves.
@@ -5270,7 +5201,7 @@ For the lawgiver would, if it had been in his power, have condemned those men to
 
 
 <pb n="v.3.p.341"/>
-persons hanging on a tree;" <ref n="341.1"/> but let them be buried under the earth and be concealed from sight before sunset. For it was necessary to raise up on high all those who were enemies to every part of the world, so as to show most evidently to the sun, and to the heaven, and to the air, and to the water, and to the earth, that they had been chastised; and after that it was proper to remove them into the region of the dead, and to bury them, in order to prevent their polluting the things upon the earth.
+persons hanging on a tree;" <note xml:lang="eng" n="341.1"> Deutetonomy xxi. 23.</note> but let them be buried under the earth and be concealed from sight before sunset. For it was necessary to raise up on high all those who were enemies to every part of the world, so as to show most evidently to the sun, and to the heaven, and to the air, and to the water, and to the earth, that they had been chastised; and after that it was proper to remove them into the region of the dead, and to bury them, in order to prevent their polluting the things upon the earth.
 
 
 <milestone unit="chapter" n="29"/><milestone unit="oldchapter" n="3"/></p>
@@ -5365,7 +5296,7 @@ they have not been elated by the prosperity of their kinsmen, so as to exult in 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="166">
-<p>Perhaps you yourselves, O you venerable lawgivers, have had virtuous relations; but suppose they had been wicked, then it seems to me that you not only would never yourselves have devised any such commandments as this, but would have been furious with any one else who proposed such a law, because ...... <ref n="344.1"/> taking care to avoid all liability to terrible calamity, and desiring to live in security, is now in great danger, and is exposed to an equal degree of misfortune.
+<p>Perhaps you yourselves, O you venerable lawgivers, have had virtuous relations; but suppose they had been wicked, then it seems to me that you not only would never yourselves have devised any such commandments as this, but would have been furious with any one else who proposed such a law, because ...... <note xml:lang="eng" n="344.1"> There appears to be an hiatus in the text here. There is clearly a want of connection and coherence in the rest of the sentence as it stands now.</note> taking care to avoid all liability to terrible calamity, and desiring to live in security, is now in great danger, and is exposed to an equal degree of misfortune.
 
 
 For the one condition is liable to fear, which, though a person may guard against for himself, he will still not despise the safety of another, but the other state is free from all apprehension, and by it men have often been persuaded to neglect the safety of innocent men.
@@ -5420,7 +5351,7 @@ And the superintendence and management of these is allotted to the two sexes sep
 
 
 <pb n="v.3.p.346"/>
-overpower her and rush forth to aid him, still let her not be so audacious as to behave like a man, outrunning the nature of a woman; <ref n="346.1"/> but even while aiding him let her continue a woman.
+overpower her and rush forth to aid him, still let her not be so audacious as to behave like a man, outrunning the nature of a woman; <note xml:lang="eng" n="346.1">Deuteronomy xxv. 11.</note> but even while aiding him let her continue a woman.
 
 
 For it would be a very terrible thing if a woman, being desirous to deliver her husband from an insult, should expose herself to insult, by exhibiting human life as full of shamelessness and liable to great reproaches for her incurable boldness;</p>
@@ -5470,7 +5401,7 @@ There are two kinds of soul, much as there are two sexes among human relations; 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="179">
-<p>Very naturally, therefore, the law commands <ref n="347.1"/> that the executioner should cut off the hand of the woman which has laid hold of what it should not, speaking figuratively, and intimating not that the body shall be mutilated, being deprived of its most important part, but rather that it is proper to extirpate all the ungodly reasonings of the soul, using all things which are created as a stepping-stone; for the things which the woman is forbidden to take hold of are the symbols of procreation and generation.</p>
+<p>Very naturally, therefore, the law commands <note xml:lang="eng" n="347.1">Deuteronomy xxv. 12.</note> that the executioner should cut off the hand of the woman which has laid hold of what it should not, speaking figuratively, and intimating not that the body shall be mutilated, being deprived of its most important part, but rather that it is proper to extirpate all the ungodly reasonings of the soul, using all things which are created as a stepping-stone; for the things which the woman is forbidden to take hold of are the symbols of procreation and generation.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:3" n="180">
@@ -5509,7 +5440,7 @@ For to exact a different and wholly unequal punishment which has no connection w
 
 
 <pb n="v.3.p.349"/>
-of a servant or of a handmaiden, he shall let them depart free." <ref n="349.1"/> Because, as nature has assigned the chief position in the body to the head, having bestowed upon it a situation the most suitable to that pre-eminence, as it might give a citadel to a king (for having sent it forth to govern the body it has established it on a height, putting the whole composition of the body from the neck to the feet under it, as a pedestal might be placed under a statue), so also it has given the pre-eminence among the organs of the external senses to the eyes. At all events, it has assigned them a position above all the others, as if they were the chiefs, wishing to honour them not only by other things, but also by this most evident and conspicuous of all signs.
+of a servant or of a handmaiden, he shall let them depart free." <note xml:lang="eng" n="349.1">Exodus xxi. 26.</note> Because, as nature has assigned the chief position in the body to the head, having bestowed upon it a situation the most suitable to that pre-eminence, as it might give a citadel to a king (for having sent it forth to govern the body it has established it on a height, putting the whole composition of the body from the neck to the feet under it, as a pedestal might be placed under a statue), so also it has given the pre-eminence among the organs of the external senses to the eyes. At all events, it has assigned them a position above all the others, as if they were the chiefs, wishing to honour them not only by other things, but also by this most evident and conspicuous of all signs.
 
 
 <milestone unit="chapter" n="34"/><milestone unit="oldchapter" n="4"/></p>
@@ -5693,7 +5624,7 @@ have washed and purified themselves with sprinklings and ablutions; and even aft
 <note xml:lang="eng">GRC: in Yonge, this is "A TREATISE ON THOSE SPECIAL LAWS WHICH ARE CONTAINED UNDER AND HAVE REFERENCE TO THE EIGHTH, NINTH, AND TENTH COMMANDMENTS ON THEFT."</note>
 
 
-<milestone unit="chapter" n="1"/>I have in my previous treatises spoken of the laws relating to adultery and murder, and to all the subordinate offences which come under those head, with, as I persuade myself, all the accuracy which the case admits of, and now, proceeding in the regular order, I must consider what is the third commandment in the second table, but the eighth in all, if the two tables are taken together, namely, the commandment, "Thou shalt not steal." <ref n="355.1"/>
+<milestone unit="chapter" n="1"/>I have in my previous treatises spoken of the laws relating to adultery and murder, and to all the subordinate offences which come under those head, with, as I persuade myself, all the accuracy which the case admits of, and now, proceeding in the regular order, I must consider what is the third commandment in the second table, but the eighth in all, if the two tables are taken together, namely, the commandment, "Thou shalt not steal." <note xml:lang="eng" n="355.1"> Exodus xx. 13,</note>
 
 
 </p>
@@ -5904,7 +5835,7 @@ perceived the mischief that had taken place he endeavoured to drive them out aga
 
 
 <pb n="v.3.p.362"/>
-beginnings <ref n="362.1"/> of things, and may not awaken and stir up an invincible power which might otherwise have remained quiet.</p>
+beginnings <note xml:lang="eng" n="362.1"> This resembles Ovid— <l>Principiis obsta, sero medicina paratur,</l> <l>Cum mala per longas invaluere moras,</l> Which may be translated— <l>Check the first rise: all remedy's too late</l> <l>When long delay has made the mischief great.</l></note> of things, and may not awaken and stir up an invincible power which might otherwise have remained quiet.</p>
 
 
 
@@ -5934,11 +5865,7 @@ But we ought by all means to look upon the invisible God as an unseen third part
 <p>Let, then, the man who commits this great wickedness and denies his deposit not be ignorant that he has deceived him who committed it to him of his hope, and that he is concealing a wicked disposition under specious language, and that he is hypocritically pretending a bastard sort of faith while in reality faithless, showing that all his pledges are worthless and all his oaths disregarded, so that he
 
 
-<note xml:lang="eng" n="362.1"> This resembles Ovid—
-<l>Principiis obsta, sero medicina paratur,</l>
-<l>Cum mala per longas invaluere moras,</l> Which may be translated—
-<l>Check the first rise: all remedy's too late</l>
-<l>When long delay has made the mischief great.</l></note>
+<note xml:lang="eng" n="362.1"> This resembles Ovid— <l>Principiis obsta, sero medicina paratur,</l> <l>Cum mala per longas invaluere moras,</l> Which may be translated— <l>Check the first rise: all remedy's too late</l> <l>When long delay has made the mischief great.</l></note>
 
 
 <pb n="v.3.p.363"/>
@@ -5950,7 +5877,7 @@ neglects all human and all divine obligations; and that he is denying two deposi
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="34">
-<p>And if they are not taken, then the man who received the deposit shall go of his own accord before the divine tribunal, and stretching out his hands to heaven shall swear by his own life that he himself had no hand in the theft from any desire to appropriate what had been deposited with him, and that he did not voluntarily give it up to any one else; and that, moreover, he is not making a false statement of a robbery which has never taken place. <ref n="363.1"/>
+<p>And if they are not taken, then the man who received the deposit shall go of his own accord before the divine tribunal, and stretching out his hands to heaven shall swear by his own life that he himself had no hand in the theft from any desire to appropriate what had been deposited with him, and that he did not voluntarily give it up to any one else; and that, moreover, he is not making a false statement of a robbery which has never taken place. <note xml:lang="eng" n="363.1"> Exodus xxii, 7.</note>
 
 
 For it would be absurd to punish a man who has done no wrong, or for a man who had taken refuge in the assistance of a friend when he was being injured by others, now to become the cause of injury to that friend.
@@ -5996,7 +5923,7 @@ unjust appropriation of the animals by a false statement of their death.</p>
 "Ye shall not speak falsely, and bring false accusations against your neighbour.
 
 
-"And ye shall not swear by my name to compass an unjust end, and ye shall not profane my name." <ref n="364.1"/>
+"And ye shall not swear by my name to compass an unjust end, and ye shall not profane my name." <note xml:lang="eng" n="364.1"> Leviticus xix. 11.</note>
 
 
 </p>
@@ -6023,7 +5950,7 @@ But let such an one know that he is ungodly and impious, inasmuch as he is defil
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="41">
-<head>THOU SHALT NOT BEAR FALSE WITNESS. <ref n="365.1"/></head>
+<head>THOU SHALT NOT BEAR FALSE WITNESS. <note xml:lang="eng" n="365.1"> Exodus xx. 16.</note></head>
 <p>This is the ninth of the ten commandments, being the fourth in number of those in the second table; but one which is calculated to bestow ten thousand benefits on human life if it be kept, as, on the other hand, it may injure men in innumerable ways if it is neglected;</p>
 </div>
 
@@ -6039,7 +5966,7 @@ But let such an one know that he is ungodly and impious, inasmuch as he is defil
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="44">
-<p>For which reasons, in many parts of his enactment of the law, he commands that we should not approve of any wicked man or action. <ref n="365.2"/> For any approbation of what is not virtuous is likely to lead to giving false evidence; since every one to whom iniquity is a disagreeable and hateful thing is a friend of truth.</p>
+<p>For which reasons, in many parts of his enactment of the law, he commands that we should not approve of any wicked man or action. <note xml:lang="eng" n="365.2"> Exodus xxiii. 1.</note> For any approbation of what is not virtuous is likely to lead to giving false evidence; since every one to whom iniquity is a disagreeable and hateful thing is a friend of truth.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="45">
@@ -6099,8 +6026,8 @@ And by these men I mean soothsayers, and diviners, and augurs, and all other per
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="53">
-<p>Moreover there also was an excellent <ref n="367.1"/> commandment that Moses gave when he ordained that the judge should
-"not receive the testimony of one witness." <ref n="367.2"/> First of all, because it is possible that one person may without designing it have a false impression of a thing, or may be careless about it and therefore be deceived. For there are innumerable false opinions, which frequently arise from an innumerable variety of grounds;</p>
+<p>Moreover there also was an excellent <note xml:lang="eng" n="367.1"> Numbers xaxxv. 30. </note> commandment that Moses gave when he ordained that the judge should
+"not receive the testimony of one witness." <note xml:lang="eng" n="367.2">Deuteronomy xvii. 6; xix. 15.</note> First of all, because it is possible that one person may without designing it have a false impression of a thing, or may be careless about it and therefore be deceived. For there are innumerable false opinions, which frequently arise from an innumerable variety of grounds;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="54">
@@ -6144,7 +6071,7 @@ And by these men I mean soothsayers, and diviners, and augurs, and all other per
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="59">
-<p>In the first place the law enjoins the judge not to listen to vain reports. <ref n="368.1"/> Why is this? The law says, "My good man, let thy ears be purified." And they will be purified if they are continually washed out with a stream of
+<p>In the first place the law enjoins the judge not to listen to vain reports. <note xml:lang="eng" n="368.1"> Exodus xxiii 1.</note> Why is this? The law says, "My good man, let thy ears be purified." And they will be purified if they are continually washed out with a stream of
 
 
 <note xml:lang="eng" n="368.1"> Exodus xxiii 1.</note>
@@ -6169,7 +6096,7 @@ For, says the lawgiver, he who attends to those who give evidence on hearsay is 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="62">
-<p>The second commandment given to a judge is not to receive gifts; <ref n="369.1"/> for gifts, says the law, blind the eyes that see, and pervert justice, and do not permit the mind to travel along the level road which leads to righteousness;</p>
+<p>The second commandment given to a judge is not to receive gifts; <note xml:lang="eng" n="369.1"> Exodus xxiii. 8.</note> for gifts, says the law, blind the eyes that see, and pervert justice, and do not permit the mind to travel along the level road which leads to righteousness;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="63">
@@ -6198,7 +6125,7 @@ though they ought to prevail; but making their decision corrupt and mercenary.
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="66">
-<p>on which account Moses has very instructively commanded, that the judge shall pursue what is righteous in a righteous manner; <ref n="370.1"/> intimating under this figurative expression, that it is possible to do so in an unrighteous manner, because of those men who sell just and legal decisions for money, not only in the courts of justice, but everywhere in every part of land and sea, and I had almost said in all the transactions of life.
+<p>on which account Moses has very instructively commanded, that the judge shall pursue what is righteous in a righteous manner; <note xml:lang="eng" n="370.1"> Deuteronomy xvi. 19.</note> intimating under this figurative expression, that it is possible to do so in an unrighteous manner, because of those men who sell just and legal decisions for money, not only in the courts of justice, but everywhere in every part of land and sea, and I had almost said in all the transactions of life.
 
 
 </p>
@@ -6240,7 +6167,7 @@ familiarise them with both by words and actions, adapting it to and uniting it w
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="71">
-<p>For which reason it is fitting that a righteous judge should have it even concealed from him who the parties to the suit are, and that he should look at the undisguised, simple nature of the transactions themselves; so as not to be liable to judge in accordance with random opinion, but according to real truth, and to be guided by such an opinion as this, that judgment is of God; <ref n="371.1"/> and that the judge is the minister and steward of his judgment; and a steward is not allowed to give away the things of his master, as he has received as a pledge the most excellent of all the things
+<p>For which reason it is fitting that a righteous judge should have it even concealed from him who the parties to the suit are, and that he should look at the undisguised, simple nature of the transactions themselves; so as not to be liable to judge in accordance with random opinion, but according to real truth, and to be guided by such an opinion as this, that judgment is of God; <note xml:lang="eng" n="371.1"> Deuteronomy i. 17.</note> and that the judge is the minister and steward of his judgment; and a steward is not allowed to give away the things of his master, as he has received as a pledge the most excellent of all the things
 
 
 <note xml:lang="eng" n="371.1"> Deuteronomy i. 17.</note>
@@ -6254,7 +6181,7 @@ which exist in human life, from the most excellent of all beings.
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="72">
-<p>And in addition to what has already been said, there is another most admirable precept given which enjoins the judge "not to show pity upon the poor man in his judgment." <ref n="372.1"/>
+<p>And in addition to what has already been said, there is another most admirable precept given which enjoins the judge "not to show pity upon the poor man in his judgment." <note xml:lang="eng" n="372.1"> Exodus xxiii. 3.</note>
 
 
 While in other precepts the lawgiver has filled nearly the whole of the law with precepts of mercy and humanity, and has uttered great threats against arrogant and insolent men, and has proposed great rewards for those who endeavour to make amends for the misfortunes of their neighbours, and who look upon their superfluities not as their own exclusive possessions, but as the common property of every one in want;</p>
@@ -6320,41 +6247,10 @@ are in appearance good, but not in reality; a desire which produces grievous anx
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="81">
-<p>for when a person perceives this passion of covetousness after having started up rapidly, then resting for a short time, either with a view to spread out its alluring toils, or because it has learnt to entertain a hope of succeeding in its object, he then retires to a longer distance uttering reproaches against it; but the passion itself, being left behind and coming too late to succeed, struggles, bearing a Tantalus-like punishment in its miserable future; for it is said that Tantalus, when he desired to obtain any liquor to drink, was not able to do so, as the water retreated from his lips, <ref n="374.1"/> and if he wished to gather any fruit, it all
+<p>for when a person perceives this passion of covetousness after having started up rapidly, then resting for a short time, either with a view to spread out its alluring toils, or because it has learnt to entertain a hope of succeeding in its object, he then retires to a longer distance uttering reproaches against it; but the passion itself, being left behind and coming too late to succeed, struggles, bearing a Tantalus-like punishment in its miserable future; for it is said that Tantalus, when he desired to obtain any liquor to drink, was not able to do so, as the water retreated from his lips, <note xml:lang="eng" n="374.1"> The story of Tantalus is told in Homer, Od. xi. 581. <l n="582">καὶ μὴν Τάνταλον εἰσεῖδον κρατέρʼ ἄλγεʼ ἔχοντα</l> <l n="583">ἑστεῶτʼ ἐν λίμνῃ· ἡ δὲ προσέπλαζε γενείῳ·</l> <l n="584">στεῦτο δὲ διψάων, πιέειν δʼ οὐκ εἶχεν ἑλέσθαι·</l> <l n="585">ὁσσάκι γὰρ κύψειʼ ὁ γέρων πιέειν μενεαίνων,</l> <l n="586">τοσσάχʼ ὕδωρ ἀπολέσκετʼ ἀναβροχέν, ἀμφὶ δὲ ποσσὶ</l> <l n="587">γαῖα μέλαινα φάνεσκε, καταζήνασκε δὲ δαίμων.</l> <l n="588">δένδρεα δʼ ὑψιπέτηλα κατὰ κρῆθεν χέε καρπόν,</l> <l n="589">ὄγχναι καὶ ῥοιαὶ καὶ μηλέαι ἀγλαόκαρποι</l> <l n="590">συκέαι τε γλυκεραὶ καὶ ἐλαῖαι τηλεθόωσαι·</l> <l n="591">τῶν ὁπότʼ ἰθύσειʼ ὁ γέρων ἐπὶ χερσὶ μάσασθαι,</l> <l n="592">τὰς δʼ ἄνεμος ῥίπτασκε ποτὶ νέφεα σκιόεντα.</l> Or, as it is translated: by Pope, <l>"There Tantalus along the Stygian bounds,</l> <l>Pours out deep groans (with groans all hell resounds);</l> <l>Ev'n in the circling floods refreshment craves,</l> <l>And pines with thirst among a sea of waves;</l> <l>When to the water he his lip applies,</l> <l>Back from his lip the treacherous water flies.</l> <l>Above, beneath, around his hapless head,</l> <l>Trees of all kinds delicious fruitage spread;</l> <l>There figs, sky-dyed, a purple hue disclose,</l> <l>Green looks the olive, the pomegranate glows;</l> <l>There dangling pears exalting scents unfold,</l> <l>And yellow apples ripen into gold.</l> <l>The first he strives to seize; but blasts arise,</l> <l>Toss it on high, and whirl it to the skies."</l></note> and if he wished to gather any fruit, it all
 
 
-<note xml:lang="eng" n="374.1"> The story of Tantalus is told in Homer, Od. xi. 581.
-<l n="582">καὶ μὴν Τάνταλον εἰσεῖδον κρατέρʼ ἄλγεʼ ἔχοντα</l>
-                  <l n="583">ἑστεῶτʼ ἐν λίμνῃ· ἡ δὲ προσέπλαζε γενείῳ·</l>
-                  <l n="584">στεῦτο δὲ διψάων, πιέειν δʼ οὐκ εἶχεν ἑλέσθαι·</l>
-                  <l n="585">ὁσσάκι γὰρ κύψειʼ ὁ γέρων πιέειν μενεαίνων,</l>
-                  <l n="586">τοσσάχʼ ὕδωρ ἀπολέσκετʼ ἀναβροχέν, ἀμφὶ δὲ ποσσὶ</l>
-                  <l n="587">γαῖα μέλαινα φάνεσκε, καταζήνασκε δὲ δαίμων.</l>
-                  <l n="588">δένδρεα δʼ ὑψιπέτηλα κατὰ κρῆθεν χέε καρπόν,</l>
-                  <l n="589">ὄγχναι καὶ ῥοιαὶ καὶ μηλέαι ἀγλαόκαρποι</l>
-                  <l n="590">συκέαι τε γλυκεραὶ καὶ ἐλαῖαι τηλεθόωσαι·</l>
-                  <l n="591">τῶν ὁπότʼ ἰθύσειʼ ὁ γέρων ἐπὶ χερσὶ μάσασθαι,</l>
-                  <l n="592">τὰς δʼ ἄνεμος ῥίπτασκε ποτὶ νέφεα σκιόεντα.</l> Or, as it is translated: by Pope,
-
-
-<l>"There Tantalus along the Stygian bounds,</l>
-<l>Pours out deep groans (with groans all hell resounds);</l>
-<l>Ev'n in the circling floods refreshment craves,</l>
-<l>And pines with thirst among a sea of waves;</l>
-<l>When to the water he his lip applies,</l>
-
-
-<l>Back from his lip the treacherous water flies.</l>
-<l>Above, beneath, around his hapless head,</l>
-<l>Trees of all kinds delicious fruitage spread;</l>
-<l>There figs, sky-dyed, a purple hue disclose,</l>
-<l>Green looks the olive, the pomegranate glows;</l>
-<l>There dangling pears exalting scents unfold,</l>
-<l>And yellow apples ripen into gold.</l>
-
-
-<l>The first he strives to seize; but blasts arise,</l>
-<l>Toss it on high, and whirl it to the skies."</l></note>
+<note xml:lang="eng" n="374.1"> The story of Tantalus is told in Homer, Od. xi. 581. <l n="582">καὶ μὴν Τάνταλον εἰσεῖδον κρατέρʼ ἄλγεʼ ἔχοντα</l> <l n="583">ἑστεῶτʼ ἐν λίμνῃ· ἡ δὲ προσέπλαζε γενείῳ·</l> <l n="584">στεῦτο δὲ διψάων, πιέειν δʼ οὐκ εἶχεν ἑλέσθαι·</l> <l n="585">ὁσσάκι γὰρ κύψειʼ ὁ γέρων πιέειν μενεαίνων,</l> <l n="586">τοσσάχʼ ὕδωρ ἀπολέσκετʼ ἀναβροχέν, ἀμφὶ δὲ ποσσὶ</l> <l n="587">γαῖα μέλαινα φάνεσκε, καταζήνασκε δὲ δαίμων.</l> <l n="588">δένδρεα δʼ ὑψιπέτηλα κατὰ κρῆθεν χέε καρπόν,</l> <l n="589">ὄγχναι καὶ ῥοιαὶ καὶ μηλέαι ἀγλαόκαρποι</l> <l n="590">συκέαι τε γλυκεραὶ καὶ ἐλαῖαι τηλεθόωσαι·</l> <l n="591">τῶν ὁπότʼ ἰθύσειʼ ὁ γέρων ἐπὶ χερσὶ μάσασθαι,</l> <l n="592">τὰς δʼ ἄνεμος ῥίπτασκε ποτὶ νέφεα σκιόεντα.</l> Or, as it is translated: by Pope, <l>"There Tantalus along the Stygian bounds,</l> <l>Pours out deep groans (with groans all hell resounds);</l> <l>Ev'n in the circling floods refreshment craves,</l> <l>And pines with thirst among a sea of waves;</l> <l>When to the water he his lip applies,</l> <l>Back from his lip the treacherous water flies.</l> <l>Above, beneath, around his hapless head,</l> <l>Trees of all kinds delicious fruitage spread;</l> <l>There figs, sky-dyed, a purple hue disclose,</l> <l>Green looks the olive, the pomegranate glows;</l> <l>There dangling pears exalting scents unfold,</l> <l>And yellow apples ripen into gold.</l> <l>The first he strives to seize; but blasts arise,</l> <l>Toss it on high, and whirl it to the skies."</l></note>
 
 
 <pb n="v.3.p.375"/>
@@ -6369,7 +6265,7 @@ disappeared, the productiveness of the trees becoming suddenly barren;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="83">
-<p>And as the disease which the physicians call the herpes, <ref n="375.1"/> does not stop in one part of the body, but moves about and overruns the skin, and, as its name shows, creeps about (διέρπει), and becomes diffused in every direction, and spreading widely seizes hold of and infects with its contact the whole combination of the different parts of the body from the head to the feet, so in the same manner does covetous desire spread over the whole soul, and leave not even the smallest portion of it free from its inroads, imitating the power of fire when supplied with abundant fuel, for that spreads and burns away till it has devoured and destroyed everything with which it meets.
+<p>And as the disease which the physicians call the herpes, <note xml:lang="eng" n="375.1"> So called from ἕρπω, "to creep."</note> does not stop in one part of the body, but moves about and overruns the skin, and, as its name shows, creeps about (διέρπει), and becomes diffused in every direction, and spreading widely seizes hold of and infects with its contact the whole combination of the different parts of the body from the head to the feet, so in the same manner does covetous desire spread over the whole soul, and leave not even the smallest portion of it free from its inroads, imitating the power of fire when supplied with abundant fuel, for that spreads and burns away till it has devoured and destroyed everything with which it meets.
 
 
 <milestone unit="chapter" n="15"/><milestone unit="oldchapter" n="2"/></p>
@@ -6387,7 +6283,7 @@ disappeared, the productiveness of the trees becoming suddenly barren;</p>
 
 
 <pb n="v.3.p.376"/>
-world with indescribable evils; which even the whole circumference of the world has not been large enough to contain, but out of their vast number they, as if carried on by the impetuosity of a torrent, have fallen into the sea, and all seas in every region have been filled with hostile fleets. It is owing to this passion that all the terrible evils which are caused by naval wars have happened; and, coming upon all continents and all islands together, have thrown them into confusion, spreading everywhere and returning in their own steps like the warriors in the diaulos, <ref n="376.1"/> or like the ebb and flow of the tides of the sea, returning to the point from which they originally set out.
+world with indescribable evils; which even the whole circumference of the world has not been large enough to contain, but out of their vast number they, as if carried on by the impetuosity of a torrent, have fallen into the sea, and all seas in every region have been filled with hostile fleets. It is owing to this passion that all the terrible evils which are caused by naval wars have happened; and, coming upon all continents and all islands together, have thrown them into confusion, spreading everywhere and returning in their own steps like the warriors in the diaulos, <note xml:lang="eng" n="376.1"> The diaulos was the race in which the runners ran to the goal and back to the starting post.</note> or like the ebb and flow of the tides of the sea, returning to the point from which they originally set out.
 
 
 </p>
@@ -6473,7 +6369,7 @@ seducers, ravishers, adulterers, paederasts, practisers of licentiousness and in
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="98">
-<p>for he commanded men to offer first fruits of corn, and wine, and oil, and cattle, and other things; <ref n="378.1"/> and to distribute the first fruits among the sacrificers and the priests; among the sacrificers because of the gratitude due to God for the abundance and fertility of all things, and to the priests because of their sacred ministrations about the temple, and therefore they were worthy to receive wages for their services in respect of the sacred ceremonies. <ref n="378.2"/></p>
+<p>for he commanded men to offer first fruits of corn, and wine, and oil, and cattle, and other things; <note xml:lang="eng" n="378.1"> Numbers xviii. 12.</note> and to distribute the first fruits among the sacrificers and the priests; among the sacrificers because of the gratitude due to God for the abundance and fertility of all things, and to the priests because of their sacred ministrations about the temple, and therefore they were worthy to receive wages for their services in respect of the sacred ceremonies. <note xml:lang="eng" n="378.2"> Numbers xviii. 31.</note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="99">
@@ -6502,7 +6398,7 @@ is likely to be able to restrain the restive obstinacy of the passions, making t
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="101">
-<p>Now of land animals, the swine is confessed to be the nicest of all meats by those who eat it, <ref n="379.1"/> and of all aquatic animals the most delicate are the fish which have no scales; and Moses is above all other men skilful in training and inuring persons of a good natural disposition to the practise of virtue by frugality and abstinence, endeavouring to remove costly luxury from their characters,</p>
+<p>Now of land animals, the swine is confessed to be the nicest of all meats by those who eat it, <note xml:lang="eng" n="379.1"> Leviticus xi, 7.</note> and of all aquatic animals the most delicate are the fish which have no scales; and Moses is above all other men skilful in training and inuring persons of a good natural disposition to the practise of virtue by frugality and abstinence, endeavouring to remove costly luxury from their characters,</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="102">
@@ -6538,14 +6434,14 @@ proper that those who inflict evils should suffer similar calamities themselves,
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="105">
 <head>WHAT QUADRUPEDS ARE CLEAN.</head>
-<p>The animals which are clean and lawful to be used as food are ten in number; the heifer, the lamb, the goat, the stag, the antelope, the buffalo, the roebuck, the pygarga, the wildox, and the chamois, <ref n="380.1"/> for he always adheres to that arithmetical subtilty which, as he originally devised it with the minutest accuracy possible, he extends to all existing things, so that he establishes no ordinances, whether important or unimportant, without taking and as it were adapting this number to it as closely connected with the regulations which he is ordaining.
+<p>The animals which are clean and lawful to be used as food are ten in number; the heifer, the lamb, the goat, the stag, the antelope, the buffalo, the roebuck, the pygarga, the wildox, and the chamois, <note xml:lang="eng" n="380.1"> Deuteronomy xiv. 4.</note> for he always adheres to that arithmetical subtilty which, as he originally devised it with the minutest accuracy possible, he extends to all existing things, so that he establishes no ordinances, whether important or unimportant, without taking and as it were adapting this number to it as closely connected with the regulations which he is ordaining.
 
 
 Now of all the numbers beginning from the unit, the most perfect is the number ten, and as Moses says, it is the most sacred of all and a holy number, and by it he now limits the races of animals that are clean, wishing to assign the use of them to all those who partake of the constitution which he is establishing.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="106">
-<p>And he gives two tests and criteria of the ten animals thus enumerated <ref n="380.2"/> by two signs, first, that they must part the hoof, secondly, that they must chew the cud; for those which do neither, or only one of these things, are unclean.
+<p>And he gives two tests and criteria of the ten animals thus enumerated <note xml:lang="eng" n="380.2"> Leviticus xi. 3.</note> by two signs, first, that they must part the hoof, secondly, that they must chew the cud; for those which do neither, or only one of these things, are unclean.
 
 
 And these signs are both of them symbols of instruction and of the most scientific learning, by which the better is separated from the worse, so that all confusion between them is prevented;</p>
@@ -6586,7 +6482,7 @@ this process again sends it down into the belly, in the same manner the man who 
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="110">
 <head>WHAT AQUATIC ANIMALS ARE CLEAN.</head>
-<p>Having laid down these definitions with respect to land animals, he proceeds to describe what aquatic creatures are clean and lawful to be used for food; distinguishing them also by two characteristics as having fins or scales. <ref n="381.1"/> For those which have neither one nor the other, and those which have only one of the two, he rejects and prohibits. <ref n="381.2"/> And he must state the cause, which is not destitute of sense and propriety;</p>
+<p>Having laid down these definitions with respect to land animals, he proceeds to describe what aquatic creatures are clean and lawful to be used for food; distinguishing them also by two characteristics as having fins or scales. <note xml:lang="eng" n="381.1"> Leviticus xi. 9.</note> For those which have neither one nor the other, and those which have only one of the two, he rejects and prohibits. <note xml:lang="eng" n="381.2"> Deuteronomy xiv. 10.</note> And he must state the cause, which is not destitute of sense and propriety;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="111">
@@ -6615,7 +6511,7 @@ both, or even of one of the two, are sucked down by the current, not being able 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="113">
-<head>ABOUT REPTILES. <ref n="382.1"/></head>
+<head>ABOUT REPTILES. <note xml:lang="eng" n="382.1"> Leviticus xi. 20.</note></head>
 <p>And adhering to the same general idea the lawgiver asserts that those reptiles which have no feet, and which crawl onwards, dragging themselves along the ground on their bellies, or those which have four legs, or many feet, are all unclean as far as regards their being eaten.
 
 
@@ -6653,7 +6549,7 @@ of which are four in number; but in their subordinate species they are innumerab
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="116">
-<head>CONCERNING FLYING CREATURES. <ref n="383.1"/></head>
+<head>CONCERNING FLYING CREATURES. <note xml:lang="eng" n="383.1">Leviticus xi. 10.</note></head>
 <p>Having, therefore, in his ordinances already gone through all the different kinds of land animals and of those who live in the water, and having distinguished them in his code of laws as accurately as it was possible, Moses begins to investigate the remaining class of animals in the air; the innumerable kinds of flying creatures, rejecting all those which prey upon one another or upon man, all carnivorous birds, in short, all animals which are venomous, and all which have any power of plotting against others.</p>
 </div>
 
@@ -6683,7 +6579,7 @@ whether terrestrial, or aquatic, or aerial, to our use; and thus, taking as it w
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="119">
 <head>CONCERNING CARCASSES AND BODIES WHICH HAVE BEEN TORN BY WILD BEASTS.</head>
-<p>Moreover, Moses commands <ref n="384.1"/> that no man shall take of any dead carcass, or of any body which has been torn by wild beasts; partly because it is not fitting that man should share a feast with untameable beasts, so as to become almost a fellow reveller in their carnivorous festivals; and partly because perhaps it is injurious and likely to cause disease if the juice of the dead body becomes mingled with the blood, and perhaps, also, because it is proper to preserve that which has been pre-occupied and seized beforehand by death untouched, having a respect to the necessities of nature by which it has been seized.
+<p>Moreover, Moses commands <note xml:lang="eng" n="384.1"> Leviticus v. 2.</note> that no man shall take of any dead carcass, or of any body which has been torn by wild beasts; partly because it is not fitting that man should share a feast with untameable beasts, so as to become almost a fellow reveller in their carnivorous festivals; and partly because perhaps it is injurious and likely to cause disease if the juice of the dead body becomes mingled with the blood, and perhaps, also, because it is proper to preserve that which has been pre-occupied and seized beforehand by death untouched, having a respect to the necessities of nature by which it has been seized.
 
 
 </p>
@@ -6714,7 +6610,7 @@ For he ought to carry on war against them, not for the sake of unrighteous gain 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="122">
-<p>But some men, with open mouths, carry even the excessive luxury and boundless intemperance of Sardanapalus to such an indefinite and unlimited extent, being wholly absorbed in the invention of senseless pleasures, that they prepare sacrifices which ought never be offered, strangling their victims, and stifling the essence of life, <ref n="385.1"/> which they ought to let depart free and unrestrained, burying the blood, as it were, in the body. For it ought to have been sufficient for them to enjoy the flesh by itself, without touching any of those parts which have a connection with the soul or life.
+<p>But some men, with open mouths, carry even the excessive luxury and boundless intemperance of Sardanapalus to such an indefinite and unlimited extent, being wholly absorbed in the invention of senseless pleasures, that they prepare sacrifices which ought never be offered, strangling their victims, and stifling the essence of life, <note xml:lang="eng" n="385.1"> Leviticus xvii. 11.</note> which they ought to let depart free and unrestrained, burying the blood, as it were, in the body. For it ought to have been sufficient for them to enjoy the flesh by itself, without touching any of those parts which have a connection with the soul or life.
 
 
 </p>
@@ -6722,7 +6618,7 @@ For he ought to carry on war against them, not for the sake of unrighteous gain 
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="123">
 <head>CONCERNING THE SOUL OR LIFE OF MAN</head>
-<p>On which account Moses, in another passage, establishes a law concerning blood, that one may not eat the blood nor the fat. <ref n="385.2"/> The blood, for the reason which I have already mentioned, that it is the essence of the life; not of the mental and rational life, but of that which exists in accordance with the outward senses, to which it is owing that both we and irrational animals also have a common existence.
+<p>On which account Moses, in another passage, establishes a law concerning blood, that one may not eat the blood nor the fat. <note xml:lang="eng" n="385.2"> Leviticus iii. 17.</note> The blood, for the reason which I have already mentioned, that it is the essence of the life; not of the mental and rational life, but of that which exists in accordance with the outward senses, to which it is owing that both we and irrational animals also have a common existence.
 
 
 
@@ -6765,7 +6661,7 @@ And again, he gave us this injunction, in order to inculcate temperance and a ze
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="128">
-<p>For a vast cloud being raised <ref n="386.1"/> out of the sea showered down quails about the time of sunrise, and the camp and all the district around it for a day's journey for a well-girt active man was overshadowed all about with the birds. <ref n="386.2"/> And the height of the flight of the birds was distant from the ground a height of about two cubits, in order that they might be easily caught.</p>
+<p>For a vast cloud being raised <note xml:lang="eng" n="386.1"> Exodus, xvi. 13. </note> out of the sea showered down quails about the time of sunrise, and the camp and all the district around it for a day's journey for a well-girt active man was overshadowed all about with the birds. <note xml:lang="eng" n="386.2"> Numbers xi. 31.</note> And the height of the flight of the birds was distant from the ground a height of about two cubits, in order that they might be easily caught.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="129">
@@ -6781,14 +6677,14 @@ and being filled with piety to nourish their souls on that, and to abstain from 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="130">
-<p>and indeed at no distant time they did perish by the purging of their bile, <ref n="387.1"/> so that the place itself derived its name from the calamity which fell upon them, for it was called the graves of their lust, <ref n="387.2"/> than which there is not in the soul, as the scripture teaches us, any greater evil.
+<p>and indeed at no distant time they did perish by the purging of their bile, <note xml:lang="eng" n="387.1"> Numbers xi. 20</note> so that the place itself derived its name from the calamity which fell upon them, for it was called the graves of their lust, <note xml:lang="eng" n="387.2"> See Numbers xi. 34: "And he called the name of that place Kibroth-hattaavah, because there they buried the people that lusted."</note> than which there is not in the soul, as the scripture teaches us, any greater evil.
 
 
 </p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="131">
-<p>For which reason Moses says with great beauty in his recommendations, "Let not every man do that which seemeth good to his own eyes," <ref n="387.3"/> which is equivalent to saying, let not any one gratify his own desire, but let each person seek to please God, and the world, and nature, and wise men, repudiating self-love, if he would become a good and virtuous man.
+<p>For which reason Moses says with great beauty in his recommendations, "Let not every man do that which seemeth good to his own eyes," <note xml:lang="eng" n="387.3">  Deuteronomy xi, 8.</note> which is equivalent to saying, let not any one gratify his own desire, but let each person seek to please God, and the world, and nature, and wise men, repudiating self-love, if he would become a good and virtuous man.
 
 
 <milestone unit="chapter" n="25"/><milestone unit="oldchapter" n="2"/></p>
@@ -6846,7 +6742,7 @@ injunctions related to each one of the ten generic commandments, which have noth
 
 
 <pb n="v.3.p.389"/>
-no credit due to the ears, but to that most important and dominant part, stamping and impressing them on the most excellent of all offerings, a well approved seal; <ref n="389.1"/></p>
+no credit due to the ears, but to that most important and dominant part, stamping and impressing them on the most excellent of all offerings, a well approved seal; <note xml:lang="eng" n="389.1"> Deuteronomy vi. 6.</note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="138">
@@ -6864,7 +6760,7 @@ Moreover he says that, these things must have a certain motion; not one that sha
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="140">
-<p>But the man to whom it happens to represent to the eyes of his mind things which are not quiet but which are in motion, and exerting energies in accordance with nature, is entitled to be set down as a perfect man, and no longer to be reckoned among learners and pupils, but among teachers and instructors; and he ought to allow all the young men who are desirous to do so, to drink of his wisdom as of an abundant stream flowing from a living fountain of lessons and doctrines. <ref n="389.2"/>
+<p>But the man to whom it happens to represent to the eyes of his mind things which are not quiet but which are in motion, and exerting energies in accordance with nature, is entitled to be set down as a perfect man, and no longer to be reckoned among learners and pupils, but among teachers and instructors; and he ought to allow all the young men who are desirous to do so, to drink of his wisdom as of an abundant stream flowing from a living fountain of lessons and doctrines. <note xml:lang="eng" n="389.2"> Deuteronomy vi. 7.</note>
 
 
 And if there is any one who, out of modesty, is wanting of courage, and therefore delays, and is slow to approach him for the purpose of learning, let him go to him of his own accord, and pour into his ears a collection of admonitions, until the channels of his soul are filled with them.</p>
@@ -6938,7 +6834,7 @@ science teaching one what he ought to endure and dare.</p>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="149">
 <head>ABOUT NOT MOVING LAND-MARKS.</head>
-<p>There is also this commandment ordained which is of great common utility, that, "Thou shalt not move thy neighbours' land-marks which the former men have set up." <ref n="391.1"/> And this injunction is given, as it seems, not only with respect to inheritances, and to the boundaries of the land, in order to prohibit covetousness respecting them, but also as a guard to ancient customs; for customs are unwritten laws, being the doctrines of men of old, not engraved on pillars or written on paper which may be eaten by moths, but
+<p>There is also this commandment ordained which is of great common utility, that, "Thou shalt not move thy neighbours' land-marks which the former men have set up." <note xml:lang="eng" n="391.1"> Deuteronomy xix. 14.</note> And this injunction is given, as it seems, not only with respect to inheritances, and to the boundaries of the land, in order to prohibit covetousness respecting them, but also as a guard to ancient customs; for customs are unwritten laws, being the doctrines of men of old, not engraved on pillars or written on paper which may be eaten by moths, but
 
 <note xml:lang="eng" n="391.1"> Deuteronomy xix. 14.</note>
 
@@ -7001,7 +6897,7 @@ impressed in the souls of those living under the same constitution.
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="157">
-<p>The all-wise Moses seeing this by the power of his own soul, makes no mention of any authority being assigned by lot, but he has chosen to direct that all offices shall be elected to; therefore he says, "Thou shalt not appoint a stranger to be a ruler over thee, but one of thine own brethren," <ref n="393.1"/> implying that the appointment is to be a voluntary choice, and an irreproachable selection of a ruler, whom the whole multitude with one accord shall choose; and God himself will add his vote in favour of, and set his seal to ratify such an election, that being who is the
+<p>The all-wise Moses seeing this by the power of his own soul, makes no mention of any authority being assigned by lot, but he has chosen to direct that all offices shall be elected to; therefore he says, "Thou shalt not appoint a stranger to be a ruler over thee, but one of thine own brethren," <note xml:lang="eng" n="393.1"> Deuteronomy xvii. 15.</note> implying that the appointment is to be a voluntary choice, and an irreproachable selection of a ruler, whom the whole multitude with one accord shall choose; and God himself will add his vote in favour of, and set his seal to ratify such an election, that being who is the
 
 
 <note xml:lang="eng" n="393.1"> Deuteronomy xvii. 15.</note>
@@ -7026,7 +6922,7 @@ confirmer of all advantageous things, looking upon the man so chosen as the flow
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="160">
-<p>And from the first day on which any one enters upon his office, he orders that he shall write out a copy of the book of the law <ref n="394.1"/> with his own hand, which shall supply him with a summary and concise image of all the laws, because he wishes that all the ordinances which are laid down in it shall be firmly fixed in his soul; for while a man is reading the notions of what he is reading fleet away, being carried off by the rapidity of his utterance; but if he is writing they are stamped upon his heart at leisure, and they take up their abode in the heart of each individual as his mind dwells upon each particular, and settles itself to the contemplation of it, and does not depart to any other object, till it has taken a firm hold of that which was previously
+<p>And from the first day on which any one enters upon his office, he orders that he shall write out a copy of the book of the law <note xml:lang="eng" n="394.1"> Deuteronomy xvii. 18.</note> with his own hand, which shall supply him with a summary and concise image of all the laws, because he wishes that all the ordinances which are laid down in it shall be firmly fixed in his soul; for while a man is reading the notions of what he is reading fleet away, being carried off by the rapidity of his utterance; but if he is writing they are stamped upon his heart at leisure, and they take up their abode in the heart of each individual as his mind dwells upon each particular, and settles itself to the contemplation of it, and does not depart to any other object, till it has taken a firm hold of that which was previously
 
 
 <note xml:lang="eng" n="394.1"> Deuteronomy xvii. 18.</note>
@@ -7108,7 +7004,7 @@ as he would faint under the pressure and rapidity of all kinds of business comin
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="173">
-<p>And we can find clear instances of both kinds in the sacred laws, which it is well for us to imitate; for there was once a time in which Moses, alone by himself, decided all causes and all matters of legal controversy, labouring from morning till night. But after a time his father-in-law came to him, and seeing with what a weight of business he was overwhelmed, as all those who had any disputes were everlastingly coming upon him, he gave him most excellent advice, counselling him to choose subordinate magistrates, that they might decide the less important affairs, and that he might have only the more serious causes to occupy him, and by this means provide himself with time for rest. <ref n="397.1"/></p>
+<p>And we can find clear instances of both kinds in the sacred laws, which it is well for us to imitate; for there was once a time in which Moses, alone by himself, decided all causes and all matters of legal controversy, labouring from morning till night. But after a time his father-in-law came to him, and seeing with what a weight of business he was overwhelmed, as all those who had any disputes were everlastingly coming upon him, he gave him most excellent advice, counselling him to choose subordinate magistrates, that they might decide the less important affairs, and that he might have only the more serious causes to occupy him, and by this means provide himself with time for rest. <note xml:lang="eng" n="397.1"> Exodus xviii. 14.</note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="174">
@@ -7137,7 +7033,7 @@ his lieutenants and judges, bidding them refer the more important cases to him.
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="177">
-<p>for when Moses, that holy interpreter of the will of God, is raising a hymn in praise of the virtues of the living God in these terms, "God is great and mighty, one who is no respecter of persons, and who does not take gifts to guide him in his judgment." <ref n="398.1"/> he adds, in whose case it is that he gives judgment, not in the case of satraps, and tyrants, and men who have the power by land and sea, but he gives judgment respecting the stranger, and the orphan, and the widow.
+<p>for when Moses, that holy interpreter of the will of God, is raising a hymn in praise of the virtues of the living God in these terms, "God is great and mighty, one who is no respecter of persons, and who does not take gifts to guide him in his judgment." <note xml:lang="eng" n="398.1"> Deuteronomy x. 17.</note> he adds, in whose case it is that he gives judgment, not in the case of satraps, and tyrants, and men who have the power by land and sea, but he gives judgment respecting the stranger, and the orphan, and the widow.
 
 
 </p>
@@ -7190,7 +7086,7 @@ conduct; for if he has domestic examples of goodness which he may imitate, and y
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="183">
-<p>The law also forbids, by a most just and reasonable prohibition, the man who has undertaken the care and government of the common interests of the state, to behave with treachery among the people; <ref n="400.1"/> for a treacherous disposition is the mark of an illiberal and very slavish soul, which seeks to overshadow its real nature by hypocrisy;</p>
+<p>The law also forbids, by a most just and reasonable prohibition, the man who has undertaken the care and government of the common interests of the state, to behave with treachery among the people; <note xml:lang="eng" n="400.1"> Leviticus xix, 16.</note> for a treacherous disposition is the mark of an illiberal and very slavish soul, which seeks to overshadow its real nature by hypocrisy;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="184">
@@ -7248,7 +7144,7 @@ them;</p>
 
 
 <pb n="v.3.p.402"/>
-On which account it is commanded that the priests shall go soberly <ref n="402.1"/> to offer sacrifice, in order that no medicine such as causes men to err, or to speak and act foolishly may enter into the mind and obscure its vision,</p>
+On which account it is commanded that the priests shall go soberly <note xml:lang="eng" n="402.1"> Leviticus x. 9.</note> to offer sacrifice, in order that no medicine such as causes men to err, or to speak and act foolishly may enter into the mind and obscure its vision,</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="192">
@@ -7259,7 +7155,7 @@ On which account it is commanded that the priests shall go soberly <ref n="402.1
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="193">
-<p>Again, merchants and pedlars, and people in the market, and all those who deal in things necessary for life, <ref n="402.2"/> and who in consequence are conversant with measures, and weights, and balances, since they sell things both dry and wet, are put in subjection to the superintendants of the market, and these superintendants are bound to govern them if they act with moderation, doing what is right, not out of fear, but voluntarily, for spontaneous good conduct is in every case more honourable than that which proceeds from compulsion.
+<p>Again, merchants and pedlars, and people in the market, and all those who deal in things necessary for life, <note xml:lang="eng" n="402.2"> Leviticus xix. 36. </note> and who in consequence are conversant with measures, and weights, and balances, since they sell things both dry and wet, are put in subjection to the superintendants of the market, and these superintendants are bound to govern them if they act with moderation, doing what is right, not out of fear, but voluntarily, for spontaneous good conduct is in every case more honourable than that which proceeds from compulsion.
 
 
 </p>
@@ -7270,7 +7166,7 @@ On which account it is commanded that the priests shall go soberly <ref n="402.1
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="195">
-<p>and since wages are offered to artisans as a reward for their work, and since it is people in want who are artisans, and not men who have an abundance of wealth, the law commands that the payment of their wages shall not be delayed, but that their employers shall pay them the wages agreed upon the same day that they are earned; <ref n="402.3"/> for it is absurd for the rich to avail themselves of the services of the poor, and yet for those who live in plenty and affluence not at once to give the poor the proper remuneration for those services.</p>
+<p>and since wages are offered to artisans as a reward for their work, and since it is people in want who are artisans, and not men who have an abundance of wealth, the law commands that the payment of their wages shall not be delayed, but that their employers shall pay them the wages agreed upon the same day that they are earned; <note xml:lang="eng" n="402.3"> Deut. xxiv. 15.</note> for it is absurd for the rich to avail themselves of the services of the poor, and yet for those who live in plenty and affluence not at once to give the poor the proper remuneration for those services.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="196">
@@ -7290,7 +7186,7 @@ payment which is sure to be eventually repaid to be delayed beyond the proper ti
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="197">
-<p>Also this commandment is given with exceeding propriety, <ref n="403.1"/> which forbids anyone from blaspheming and speaking ill, especially of a deaf man, and of one who is unable to perceive by the aid of his outward senses the injuries which are done to him, nor to retaliate in an equal manner under similar circumstances; for that is the most iniquitous conflict of all, in which the one side is considered only in acting, and the other only in suffering;</p>
+<p>Also this commandment is given with exceeding propriety, <note xml:lang="eng" n="403.1"> Leviticus xix. 14.</note> which forbids anyone from blaspheming and speaking ill, especially of a deaf man, and of one who is unable to perceive by the aid of his outward senses the injuries which are done to him, nor to retaliate in an equal manner under similar circumstances; for that is the most iniquitous conflict of all, in which the one side is considered only in acting, and the other only in suffering;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="198">
@@ -7445,7 +7341,7 @@ impious; I mean the production of the fruit of trees, and of such crops as are d
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="220">
-<p>For if, says Moses, <ref n="408.1"/> they shut themselves up within their walls and make their necks stiff, then let your young men arm themselves well, and being provided with all the preparations necessary for war, go forth and fortify their camp all around, and watch in expectancy, not indulging their anger so as to neglect reason, but taking care to apply themselves to what must be done firmly and strenuously.</p>
+<p>For if, says Moses, <note xml:lang="eng" n="408.1"> Deuteronomy xx. 1.</note> they shut themselves up within their walls and make their necks stiff, then let your young men arm themselves well, and being provided with all the preparations necessary for war, go forth and fortify their camp all around, and watch in expectancy, not indulging their anger so as to neglect reason, but taking care to apply themselves to what must be done firmly and strenuously.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="221">
@@ -7511,7 +7407,7 @@ to destroy the crops.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="230">
-<p>We have now enumerated the matters which belong to justice; but as for justice itself, what poet or orator could celebrate it, in worthy terms, since it is beyond all panegyric and all praise? At all events, there is one most important good thing belonging to it, <ref n="410.1"/> which, even if one were to pass over and be silent about all its other parts, would be an all-sufficient panegyric on it;</p>
+<p>We have now enumerated the matters which belong to justice; but as for justice itself, what poet or orator could celebrate it, in worthy terms, since it is beyond all panegyric and all praise? At all events, there is one most important good thing belonging to it, <note xml:lang="eng" n="410.1"> The text has εὐμένεια, which Mangey pronounces corrupt.</note> which, even if one were to pass over and be silent about all its other parts, would be an all-sufficient panegyric on it;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1:4" n="231">

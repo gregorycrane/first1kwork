@@ -112,7 +112,7 @@ But at present the subject of our consideration is the world, taken in the first
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="5">
-<p>And the term corruption is used to signify a change for the worse; it is also used to signify the utter destruction of that which exists, a destruction so complete as to have no existence at all; for as nothing is generated out of nothing, so neither can anything which exists be destroyed so as to become non-existence. <ref n="22.1"/> For it is impossible that anything should be generated of that which has no existence anywhere, as equally so that what does exist should be so utterly destroyed as never to be mentioned or heard of again. And indeed in this spirit the tragedian says:— "Nought that e'er has been Completely dies, but things combined Before another union find; Quitting their former company, And so again in other forms are seen." <ref n="22.2"/></p>
+<p>And the term corruption is used to signify a change for the worse; it is also used to signify the utter destruction of that which exists, a destruction so complete as to have no existence at all; for as nothing is generated out of nothing, so neither can anything which exists be destroyed so as to become non-existence. <note xml:lang="eng" n="22.1">This is similar to Lucretius's doctrine- Nil igitur fieri de nihilo posse putandum est. </note> For it is impossible that anything should be generated of that which has no existence anywhere, as equally so that what does exist should be so utterly destroyed as never to be mentioned or heard of again. And indeed in this spirit the tragedian says:— "Nought that e'er has been Completely dies, but things combined Before another union find; Quitting their former company, And so again in other forms are seen." <note xml:lang="eng" n="22.2">From the Chrysippus of Euripides. </note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="6">
@@ -156,7 +156,7 @@ but that now he had a much greater fear hanging over him in consequence of those
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="13">
-<p>But some say that the world has been proved by Plato in the Timaeus to be both uncreated and indestructible, in the account of that divine assembly in which the younger gods are addressed by the eldest and the governor of them all in the following terms; <ref n="24.1"/>"O ye gods of gods, those works of which I am the father and the creator are indissoluble as long as I choose that they shall be so. Now everything which has been bound together is capable of being dissolved, but it is the part of an evil ruler to dissolve that which has been well combined and arranged, and which is in good condition. Wherefore, since you also have been created, you are not of necessity immortal or utterly indissoluble; nevertheless you shall not be dissolved, nor shall you be exposed to the fate of death, inasmuch as you have my will to keep you united, which is a still greater and more powerful bond than those by which you were bound together when you were first created."
+<p>But some say that the world has been proved by Plato in the Timaeus to be both uncreated and indestructible, in the account of that divine assembly in which the younger gods are addressed by the eldest and the governor of them all in the following terms; <note xml:lang="eng" n="24.1">Timaeus, p. 40. </note>"O ye gods of gods, those works of which I am the father and the creator are indissoluble as long as I choose that they shall be so. Now everything which has been bound together is capable of being dissolved, but it is the part of an evil ruler to dissolve that which has been well combined and arranged, and which is in good condition. Wherefore, since you also have been created, you are not of necessity immortal or utterly indissoluble; nevertheless you shall not be dissolved, nor shall you be exposed to the fate of death, inasmuch as you have my will to keep you united, which is a still greater and more powerful bond than those by which you were bound together when you were first created."
 </p>
 </div>
 
@@ -168,7 +168,7 @@ but that now he had a much greater fear hanging over him in consequence of those
 <p>But the forementioned opinion is better and truer, not only because throughout the whole treatise he affirms that the Creator of the gods is also the father and creator and maker of everything, and that the world is a most beautiful work of his and his offspring, being an imitation visible to the outward senses of an archetypal model appreciable only by the intellect, comprehending in itself as many objects of the outward senses as the model does objects
 <note xml:lang="eng" n="24.1">Timaeus, p. 40. </note>
 <pb n="v.4.p.25"/>
-of the intellect, since it is a most perfect impression of a most perfect model, and is addressed to the outward sense as the other is to the intellect. <ref n="25.1"/>
+of the intellect, since it is a most perfect impression of a most perfect model, and is addressed to the outward sense as the other is to the intellect. <note xml:lang="eng" n="25.1">There is probably some corruption in the text here, </note>
 </p>
 </div>
 
@@ -185,12 +185,12 @@ of the intellect, since it is a most perfect impression of a most perfect model,
 <l>Foundation firm and lasting for whatever </l>
 <l>Exists among mankind;" </l>
 
-<ref n="25.2"/> and as indestructible, because he has given no hint of its dissolution or destruction.
+<note xml:lang="eng" n="25.2">Hesiod, Theogon 116. </note> and as indestructible, because he has given no hint of its dissolution or destruction.
 </p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="18">
-<p>Now Chaos was conceived by Aristotle to be a place, because it is absolutely necessary that a place to receive them must be in existence before bodies. But some of the Stoics think that it is water, imagining that its name has been derived from effusion. <ref n="25.3"/> But however that may be, it is exceedingly plain that the world is spoken of by Hesiod as having been created:</p>
+<p>Now Chaos was conceived by Aristotle to be a place, because it is absolutely necessary that a place to receive them must be in existence before bodies. But some of the Stoics think that it is water, imagining that its name has been derived from effusion. <note xml:lang="eng" n="25.3"><foreign xml:lang="grc">Χύσις</foreign>, as if chaos were derived from <foreign xml:lang="grc">Χέω</foreign>, " to pour." </note> But however that may be, it is exceedingly plain that the world is spoken of by Hesiod as having been created:</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="19">
@@ -245,7 +245,7 @@ whole, which is the greatest possible absurdity, for the world, enjoying an unsu
 <pb n="v.4.p.35"/>
 must of necessity attend everything which is born, and incorruptibility must inevitably belong to everything which is unborn; since the poet who wrote the following iambic verse,
 
-<l>"All that is born must surely die,"</l> <ref n="35.1"/> appears to have spoken very correctly when he asserted this connection of destructibility with birth.
+<l>"All that is born must surely die,"</l> <note xml:lang="eng" n="35.1">Timaeus, p. 32. </note> appears to have spoken very correctly when he asserted this connection of destructibility with birth.
 </p>
 </div>
 
@@ -258,7 +258,7 @@ must of necessity attend everything which is born, and incorruptibility must ine
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="30">
-<p>But of all bonds, that is the worst which is forged by violence, and which, being violent, is also short-lived; for it is speedily broken by those who are bound in it, since they become restive from their desire for a motion in accordance with nature, to which they hasten; for as the tragic poet says, — <ref n="35.2"/>"And for things sprung from earth, they must Return unto their parent dust, While those from heavenly seed which rise Are borne uplifted to the skies. Nought that has once existed dies, Though often what has been combined Before, we separated find, Invested with another form."</p>
+<p>But of all bonds, that is the worst which is forged by violence, and which, being violent, is also short-lived; for it is speedily broken by those who are bound in it, since they become restive from their desire for a motion in accordance with nature, to which they hasten; for as the tragic poet says, — <note xml:lang="eng" n="35.2">A fragment from the Chrysippus of Euripides. </note>"And for things sprung from earth, they must Return unto their parent dust, While those from heavenly seed which rise Are borne uplifted to the skies. Nought that has once existed dies, Though often what has been combined Before, we separated find, Invested with another form."</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="31">
@@ -299,12 +299,12 @@ nature is desirous to keep and preserve, and if it were possible to make immorta
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="37">
-<p>It follows therefore of necessity, that the nature of the world must desire the durability of the universe; for it is not worse than particular natures, so that it should run away and desert its proper duties, and attempt to produce disease instead of health, and corruption and destruction instead of complete safety, since, <ref n="37.1"/>"High over all she lifts her beauteous face, And towers above her nymphs with heavenly grace, Fair as they all appear."
+<p>It follows therefore of necessity, that the nature of the world must desire the durability of the universe; for it is not worse than particular natures, so that it should run away and desert its proper duties, and attempt to produce disease instead of health, and corruption and destruction instead of complete safety, since, <note xml:lang="eng" n="37.1">Homer, Odyssey vi. 107, where the lines quoted are applied to Latona among her nymphs. </note>"High over all she lifts her beauteous face, And towers above her nymphs with heavenly grace, Fair as they all appear."
 But if this be true, then the world cannot be capable of destruction. Why so? Because the nature which holds it together is itself invincible by reason of its exceeding strength and power, by which it gets the mastery over every thing else which might be likely to injure it;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="38">
-<p>wherefore Plato has well said: <ref n="37.2"/>—"For nothing ever departed from it, nor did anything ever come to it from any quarter; for that was not possible; for there was nothing in existence which could come; for since it supplies itself with nutriment out of its own consumption, it also does everything and suffers everything in itself and by itself, and is compounded with the most consummate art. For he who created it thought that it would be better if wholly self-sufficient, than if in continual need of accessories from other quarters."
+<p>wherefore Plato has well said: <note xml:lang="eng" n="37.2">Timaeus, p. 33. </note>—"For nothing ever departed from it, nor did anything ever come to it from any quarter; for that was not possible; for there was nothing in existence which could come; for since it supplies itself with nutriment out of its own consumption, it also does everything and suffers everything in itself and by itself, and is compounded with the most consummate art. For he who created it thought that it would be better if wholly self-sufficient, than if in continual need of accessories from other quarters."
 <milestone unit="chapter" n="8"/><milestone unit="oldchapter" n="13"/></p>
 </div>
 
@@ -367,7 +367,7 @@ But as it is, they have wandered so far from true doctrine, that without being a
 <p>for how could it be said that he who had suffered no mutilation whatever, namely Theon, was taken off, and that Dion, who had lost a foot, was not injured? Very appropriately, he will reply, for Dion, who had had his foot cut off, falls back upon the original imperfection of Theon, and there cannot be two specific differences in the same subject, therefore it follows of necessity that Dion must remain, and that Theon must be taken off—
 
 <l>"So are we slain by arrows winged With our own feathers," </l>
-<ref n="40.1"/> as the tragic poet says. For any one, copying the form of this argument and adapting it to the entire world, may prove in the clearest manner that providence itself is liable to corruption.</p>
+<note xml:lang="eng" n="40.1">From the Myrmidons of AEschylus. The passage is evidently the original of the stanza in Waller's Ode to a Lady  " That eagle's fate and mine are one, Who on the shaft that made him die, Espied a feather of his own, Wherewith he wont to soar so high." </note> as the tragic poet says. For any one, copying the form of this argument and adapting it to the entire world, may prove in the clearest manner that providence itself is liable to corruption.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="50">
@@ -389,7 +389,7 @@ imperfect, since a part is less than the whole; and as the foot was cut off from
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="53">
-<p>And it is the most absurd of all ideas to fancy that there ever was a time when the world did not exist, for its nature is without any beginning and without any end, since these very expressions, "there was," "when," "formerly," all indicate time; and keeping to this view, then, according to the theory of the conflagration ...... <ref n="41.1"/>
+<p>And it is the most absurd of all ideas to fancy that there ever was a time when the world did not exist, for its nature is without any beginning and without any end, since these very expressions, "there was," "when," "formerly," all indicate time; and keeping to this view, then, according to the theory of the conflagration ...... <note xml:lang="eng" n="41.1">There is supposed to be a very large hiatus here. </note>
 
 he at a late period of his life entertained doubts and withheld any positive opinion; for it does not belong to youth, but to old age, to see clearly things of solemn importance which it is desirable to understand, and especially as to matters which it is not the outer sense, which is irrational and deceitful, that determines, but the pure and unalloyed intellect.
 
@@ -399,7 +399,7 @@ For that which has no existence is not put in motion, but it has been shown alre
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="54">
-<p>Perhaps some quibbling Stoic will say that time is admitted to be an interval of the motion of the world, but not of that world only which is arranged and adorned by itself, but also of that one which is conceived of in connection with the conflagration which has been spoken of; to whom we must reply, —"My good man, you, misapplying words, call what is disorderliness and a want of arrangement order (<foreign xml:lang="grc">κόσμος</foreign>), for if this thing which we see is correctly and appropriately called the world (<foreign xml:lang="grc">κόσμος</foreign>), <ref n="27.1"/> being arranged and adorned (<foreign xml:lang="grc">κεκοσμημένος</foreign>) as we see it by man, by the perfection of his skill, then any one would be surely correct in calling the change which is wrought in it by fire a want of order."
+<p>Perhaps some quibbling Stoic will say that time is admitted to be an interval of the motion of the world, but not of that world only which is arranged and adorned by itself, but also of that one which is conceived of in connection with the conflagration which has been spoken of; to whom we must reply, —"My good man, you, misapplying words, call what is disorderliness and a want of arrangement order (<foreign xml:lang="grc">κόσμος</foreign>), for if this thing which we see is correctly and appropriately called the world (<foreign xml:lang="grc">κόσμος</foreign>), <note xml:lang="eng" n="27.1">Philo is playing here on the two meanings of the word <foreign xml:lang="grc">κόσμος</foreign>, which signifies both "order " and " the world." </note> being arranged and adorned (<foreign xml:lang="grc">κεκοσμημένος</foreign>) as we see it by man, by the perfection of his skill, then any one would be surely correct in calling the change which is wrought in it by fire a want of order."
 <milestone unit="chapter" n="11"/><milestone unit="oldchapter" n="6"/></p>
 </div>
 
@@ -446,8 +446,7 @@ things, and by means of the stability of whatever desires she has once establish
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="63">
-<p>In reference to which fact it appears to me that the poets were very felicitous in the appellation which they gave to the earth when they called it Pandora, inasmuch as it gives all things,
-<note xml:lang="eng">πάντα δωρουμένην.</note> both such as are required for use and such as serve to pleasure and to enjoyment, and that not to some only but to all animals which enjoy life. Accordingly, if any one, when the spring was in its prime, should be borne on wings and raised aloft, and look down from his height upon the
+<p>In reference to which fact it appears to me that the poets were very felicitous in the appellation which they gave to the earth when they called it Pandora, inasmuch as it gives all things, <note xml:lang="eng">πάντα δωρουμένην.</note> both such as are required for use and such as serve to pleasure and to enjoyment, and that not to some only but to all animals which enjoy life. Accordingly, if any one, when the spring was in its prime, should be borne on wings and raised aloft, and look down from his height upon the
 <pb n="v.4.p.30"/>
 mountain and champaign country, and see the one abounding in rich grass, and verdant, producing herbage, and fodder, and barley, and wheat, and innumerable other kinds of crops such as are grown from seed which the husbandmen have strewn, and which the season of the year affords of its own accord, and the other overshadowed with branches and leaves by which the trees are adorned, and very full of fruits (not only such as are suitable for food, but also of such as are able to heal suffering, for the fruit of the olive relieves the fatigue of the body, and that of the vine, when drunk in moderation, relaxes the excessive pains of the soul),</p>
 </div>
@@ -672,7 +671,7 @@ Every body, when it is resolved into fire, is dissolved, and melted, and diffuse
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="103">
-<p>When therefore it has been extended and increased to such a degree, as to be very nearly equal to the infinite extent of the vacuum by the boundless and illimitable extension of its own diffusion, it then, according to them, is itself the principle of seed to itself; but when, according to a perfect regeneration of the parts, its entire substance ...... <ref n="48.1"/>  being contracted in the extinction of the fire into dense air; but when the air again is contracted, and when it settles down into water, then again the water is still further condensed, so as to be changed into earth, which is the best of all the elements. But all these arguments are beyond the ordinary ideas of those who are able to consider and argue upon the consequences of these things.
+<p>When therefore it has been extended and increased to such a degree, as to be very nearly equal to the infinite extent of the vacuum by the boundless and illimitable extension of its own diffusion, it then, according to them, is itself the principle of seed to itself; but when, according to a perfect regeneration of the parts, its entire substance ...... <note xml:lang="eng" n="48.1"> There seems a line or two lost here. </note>  being contracted in the extinction of the fire into dense air; but when the air again is contracted, and when it settles down into water, then again the water is still further condensed, so as to be changed into earth, which is the best of all the elements. But all these arguments are beyond the ordinary ideas of those who are able to consider and argue upon the consequences of these things.
 <milestone unit="chapter" n="20"/></p>
 </div>
 
@@ -769,8 +768,7 @@ to cut out and hollow other places by its continual dropping, and in this manner
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="121">
-<p>And they used to call Delos Anaphe, confirming the account here given by both names, since when it appeared above the waters <ref n="53.1"/> it became evident, <ref n="53.2"/> having been formerly invisible and unseen.
-<note xml:lang="eng">GRC: Following Cohn, this passage has been moved up.</note> on which account Pindar says respecting Delos—
+<p>And they used to call Delos Anaphe, confirming the account here given by both names, since when it appeared above the waters <note xml:lang="eng" n="53.1">The Greek word is <foreign xml:lang="grc">άναφανει̃σα</foreign>, from which '<foreign xml:lang="grc">Αναφὴ</foreign> is derived. </note> it became evident, <note xml:lang="eng" n="53.2"><foreign xml:lang="grc">Δήλη</foreign>, from which <foreign xml:lang="grc">Δη̄̃λος</foreign> is derived. </note> having been formerly invisible and unseen. <note xml:lang="eng">GRC: Following Cohn, this passage has been moved up.</note> on which account Pindar says respecting Delos—
 
 <l>"Hail, island raised by God, </l>
 <l>Chosen abode </l>
@@ -783,7 +781,7 @@ to cut out and hollow other places by its continual dropping, and in this manner
 <l>That dwells upon Olympus' height, </l>
 <l>Their chosen bards inspire </l>
 <l>To praise thee as earth's brightest, holiest light."</l>
- <ref n="53.3"/>
+ <note xml:lang="eng" n="53.3">This is part of an ode now lost. </note>
 
 For Pindar has here called Delos the daughter of the ocean, intending by this enigmatical expression to convey the idea which I have mentioned.
 </p>
@@ -852,7 +850,7 @@ If then, each of the separate parts of the world awaits utter destruction, it is
 <l>Another race the following spring supplies; </l>
 <l>They fall successive and successive rise." </l>
 
-<ref n="56.1"/> And so in like manner some portions of the mountains are broken off, and others grow in their stead:</p>
+<note xml:lang="eng" n="56.1">Homer, II. vi. 147. </note> And so in like manner some portions of the mountains are broken off, and others grow in their stead:</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="133">
@@ -888,7 +886,7 @@ the main-land, not only such as were near the coast, but even such as were compl
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1" n="139">
-<p>Are you ignorant of the celebrated account which is given of that most sacred Sicilian strait, which in old times joined Sicily to the continent of Italy? <ref n="58.1"/> and where vast seas on each side being excited by violent storms met together, coming from opposite directions, the land between them was overwhelmed and broken away; from which circumstance the city built in the neighbourhood was called Rhegium, <ref n="58.2"/> and the result was quite different from what any one would have expected; for the seas which had formerly been separated now flowed together and were united in one expanse; and the land which had previously united was now separated into two portions by the strait which intersected it, in consequence of which Sicily, which had previously formed a part of the mainland, was now compelled to be an island.
+<p>Are you ignorant of the celebrated account which is given of that most sacred Sicilian strait, which in old times joined Sicily to the continent of Italy? <note xml:lang="eng" n="58.1">This is alluded to by Virgil- Haec loca vi quondam, et vastâ convulsa ruinâ Tantum aevi longinqua valet mutare vetustas, Dissiluisse ferunt, quum protenus utraque tellus Una foret: venit medio vi pontus, et undis Hesperium Siculo latus abscidit, arvaque et urbes Litore diductas angusto interluit aestu.-Æn. iii. 419. Or, as it is translated by Dryden, " The Italian shore And fair Sicilia's coast were one before An earthquake caused the flaw; the roaring tides The passage broke that land from land divides, And where the lands retired the'rushing ocean rides Distinguished by the straits on either hand Now rising cities in long order stand, And fruitful fields; so much can time invade The mouldering work that beauteous nature made." </note> and where vast seas on each side being excited by violent storms met together, coming from opposite directions, the land between them was overwhelmed and broken away; from which circumstance the city built in the neighbourhood was called Rhegium, <note xml:lang="eng" n="58.2">'<foreign xml:lang="grc">Ρήγιον</foreign>, from <foreign xml:lang="grc">ρ́ήγνυμι</foreign>, " to break." </note> and the result was quite different from what any one would have expected; for the seas which had formerly been separated now flowed together and were united in one expanse; and the land which had previously united was now separated into two portions by the strait which intersected it, in consequence of which Sicily, which had previously formed a part of the mainland, was now compelled to be an island.
 </p>
 </div>
 

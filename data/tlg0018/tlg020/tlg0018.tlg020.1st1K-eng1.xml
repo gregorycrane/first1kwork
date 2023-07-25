@@ -87,7 +87,7 @@ target="https://archive.org/details/worksphilojudaeu02philuoft/page/396/mode/1up
 
 <milestone unit="chapter" n="1"/> The sacred laws having been written in five books, the first is called and inscribed Genesis, deriving its title from the creation (<foreign xml:lang="grc">γένεσις</foreign>) of the world, which it contains at the beginning; although there are ten thousand other matters also introduced which refer to peace and to war, or to fertility and barrenness, or to hunger and plenty, or to the terrible destructions which have taken place on earth by the agency of fire and water; or, on the contrary, to the birth and rapid
 
-<note xml:lang="eng" n="396.1">The rest of this treatise is lost. </note>
+
 <pb n="v.2.p.397"/>
 propagation of animals and plants in accordance with the admirable arrangement of the atmosphere, and the seasons of the year, and of men, some of whom lived in accordance with virtue, while others were associated with wickedness.
 </p>
@@ -127,7 +127,7 @@ making laws, never of deliberate purpose doing anything open to reproach, and fo
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="9">
-<p>For which reason, being desirous to deliver an admirable panegyric on the hopeful man, the sacred historian tells us, first, that "he hoped in the father and creator of the universe," <ref n="398.1"/> and adds in a subsequent passage, "This is the book of the generation of men," <ref n="398.2"/> and of their fathers, and grand-fathers who had existed previously; but he conceived that they were the ancestors of the mixed race, that is to say, of that purer and thoroughly sifted race which is the really rational one;</p>
+<p>For which reason, being desirous to deliver an admirable panegyric on the hopeful man, the sacred historian tells us, first, that "he hoped in the father and creator of the universe," <note xml:lang="eng" n="398.1">Genesis iv. 26. </note> and adds in a subsequent passage, "This is the book of the generation of men," <note xml:lang="eng" n="398.2"> Genesis v. 1. </note> and of their fathers, and grand-fathers who had existed previously; but he conceived that they were the ancestors of the mixed race, that is to say, of that purer and thoroughly sifted race which is the really rational one;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="10">
@@ -151,7 +151,7 @@ of being described and remembered, not with such a memory as is given by a recor
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="13">
-<p>and in numbers the number four is honoured among other philosophers, who have studied and admired the incorporeal essences, appreciable only by the intellect, and especially by the all-wise Moses, who magnifies the number four, and says that it is "holy and praiseworthy;" <ref n="399.1"/> and the reasons for which this character has been given to it are mentioned in a former treatise.</p>
+<p>and in numbers the number four is honoured among other philosophers, who have studied and admired the incorporeal essences, appreciable only by the intellect, and especially by the all-wise Moses, who magnifies the number four, and says that it is "holy and praiseworthy;" <note xml:lang="eng" n="399.1">Leviticus xix 21. </note> and the reasons for which this character has been given to it are mentioned in a former treatise.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="14">
@@ -169,7 +169,7 @@ of being described and remembered, not with such a memory as is given by a recor
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="17">
-<p>That which is placed in the next rank after hope is repentance for errors committed, and improvement; in reference to which principle Moses mentions next in order to Enos, the man who changed from a worse system of life to a better, who is called among the Hebrews Enoch, but as the Greeks would say, "gracious," of whom the following statement is made, "that Enoch pleased God, and was not found, because God transported him." <ref n="399.2"/></p>
+<p>That which is placed in the next rank after hope is repentance for errors committed, and improvement; in reference to which principle Moses mentions next in order to Enos, the man who changed from a worse system of life to a better, who is called among the Hebrews Enoch, but as the Greeks would say, "gracious," of whom the following statement is made, "that Enoch pleased God, and was not found, because God transported him." <note xml:lang="eng" n="399.2">Genesis v. 24 </note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="18">
@@ -184,7 +184,7 @@ alteration: and such a change is for the better, because it takes place through 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="19">
-<p>And the expression, "he was not found," <ref n="400.1"/> is very appropriately employed of him whose place was changed, either from the fact of his ancient blameable life being wiped out and effaced, and being no longer found, just as if it had never existed at all, or else because he whose place has been changed, and who is enrolled in a better class, is naturally difficult to be discovered. For wickedness is a very multiform and extensive thing, on which account it is known to many persons; but virtue is rare, so that it is not comprehended even by a few.</p>
+<p>And the expression, "he was not found," <note xml:lang="eng" n="400.1">This is not the translation of the bible which savs " and Enoch walked with God, and he was not, for God took him " </note> is very appropriately employed of him whose place was changed, either from the fact of his ancient blameable life being wiped out and effaced, and being no longer found, just as if it had never existed at all, or else because he whose place has been changed, and who is enrolled in a better class, is naturally difficult to be discovered. For wickedness is a very multiform and extensive thing, on which account it is known to many persons; but virtue is rare, so that it is not comprehended even by a few.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="20">
@@ -203,8 +203,7 @@ alteration: and such a change is for the better, because it takes place through 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="23">
 <p>On which account the good man shuts himself up, and remains for the most part at home, scarcely going
 
-<note xml:lang="eng" n="400.1">This is not the translation of the bible which savs " and Enoch
-walked with God, and he was not, for God took him " </note>
+<note xml:lang="eng" n="400.1">This is not the translation of the bible which savs " and Enoch walked with God, and he was not, for God took him " </note>
 <pb n="v.2.p.401"/>
 over his threshold, or if he does go out, for the sake of avoiding the crowds who come to visit him, he generally goes out of the city, and makes his abode in some country place, living more pleasantly with such companions as are the most virtuous of all mankind, whose bodies, indeed, time has dissolved, but whose virtues the records which are left of them keep alive, in poems and in prose, histories by which the soul is naturally improved and led on to perfection.
 </p>
@@ -245,7 +244,7 @@ is likewise appropriate, since the opposite quality to rest is unnatural agitati
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="31">
 <p>And the lawgiver magnifies the lover of virtue in such a way, that even when he is giving his genealogy, he does not trace himself as he usually does other persons, by giving a catalogue of his grandfathers and great grandfathers, and ancestors who are numbered as men and women, but he gives a list of certain virtues; and almost asserts in express words that there is no other house, or kindred, or country whatever to a wise man, except the virtues and the actions in accordance with virtues.
-"For these," says he, "are the generations of Noah; Noah was a just man, perfect in his generation, and one who pleased God." <ref n="402.1"/></p>
+"For these," says he, "are the generations of Noah; Noah was a just man, perfect in his generation, and one who pleased God." <note xml:lang="eng" n="402.1">Genesis vL 9. </note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="32">
@@ -298,7 +297,7 @@ will give to such men the best of her prizes;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="42">
-<p>but those also who lived in the most lofty mountains, for the great deep, <ref n="404.1"/> being raised to a height which it had never reached before, burst through its mouths with its whole collective impetuosity into the seas existing among us, and they overflowed and inundated all the islands and continents; and incessant floods of everlasting fountains, and of native rivers and torrents combined together, mingled with one another, and rising to a vast height, so as to surmount everything.</p>
+<p>but those also who lived in the most lofty mountains, for the great deep, <note xml:lang="eng" n="404.1">Genesis vii. 11. </note> being raised to a height which it had never reached before, burst through its mouths with its whole collective impetuosity into the seas existing among us, and they overflowed and inundated all the islands and continents; and incessant floods of everlasting fountains, and of native rivers and torrents combined together, mingled with one another, and rising to a vast height, so as to surmount everything.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="43">
@@ -347,7 +346,7 @@ changed is but half entire, having appropriated the earlier period of his life t
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="51">
-<p>for having added his own peculiar name to their names he has united them together, appropriating to himself an appellation composed of the three names: "For," says God, "this is my everlasting name: I am the God of Abraham, and the God of Isaac, and the God of Jacob," <ref n="406.1"/> using there the relative term instead of the absolute one; and this is very natural, for God stands in no need of a name. But though he does not stand in any such need, nevertheless he bestows his own title on the human race that they may
+<p>for having added his own peculiar name to their names he has united them together, appropriating to himself an appellation composed of the three names: "For," says God, "this is my everlasting name: I am the God of Abraham, and the God of Isaac, and the God of Jacob," <note xml:lang="eng" n="406.1">Exodus iii. 15. </note> using there the relative term instead of the absolute one; and this is very natural, for God stands in no need of a name. But though he does not stand in any such need, nevertheless he bestows his own title on the human race that they may
 
 <note xml:lang="eng" n="406.1">Exodus iii. 15. </note>
 <pb n="v.2.p.407"/>
@@ -376,7 +375,7 @@ have a refuge to which to betake themselves in supplications and prayers, and so
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="56">
 <p>We must, however, not remain in ignorance that the sacred historian has represented the first man, him who was formed out of the earth as the father of all those who existed before the deluge; and him who, with his whole family, was
 <pb n="v.2.p.408"/>
-the only person left out of so universal a destruction, because of his justice and his other excellencies and virtues, as the founder of the new race of men which was to flourish hereafter. And that venerable, and estimable, and glorious triad is comprehended by the sacred scriptures under one class, and called, "A royal priesthood, and a holy nation." <ref n="408.1"/></p>
+the only person left out of so universal a destruction, because of his justice and his other excellencies and virtues, as the founder of the new race of men which was to flourish hereafter. And that venerable, and estimable, and glorious triad is comprehended by the sacred scriptures under one class, and called, "A royal priesthood, and a holy nation." <note xml:lang="eng" n="408.1">Exodus xix. G. </note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="57">
@@ -487,7 +486,7 @@ And if it be invisible, wonder not at that, for neither can the mind which is in
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="77">
-<p>And the most visible proof of this migration in which the mind quitted astronomy and the doctrines of the Chaldaeans, is this. For it is said in the scriptures that the very moment that the wise man quitted his abode, "God appeared unto Abraham," <ref n="412.1"/> to whom, therefore, it is plain that he was not visible before, when he was adhering to the studies of the Chaldaeans, and attending to the motions of the stars, not properly comprehending any nature whatever, which was well arranged and appreciable by the intellect only, apart from the world and the essence perceptible by the outward senses.</p>
+<p>And the most visible proof of this migration in which the mind quitted astronomy and the doctrines of the Chaldaeans, is this. For it is said in the scriptures that the very moment that the wise man quitted his abode, "God appeared unto Abraham," <note xml:lang="eng" n="412.1">Genesis xii. 7. </note> to whom, therefore, it is plain that he was not visible before, when he was adhering to the studies of the Chaldaeans, and attending to the motions of the stars, not properly comprehending any nature whatever, which was well arranged and appreciable by the intellect only, apart from the world and the essence perceptible by the outward senses.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="78">
@@ -635,7 +634,7 @@ a most peaceful disposition, and, as they say, is anxious whenever it is about t
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="107">
-<p>It has been said then that the disposition of the Egyptians is inhospitable and intemperate; and the humanity of him who has been exposed to their conduct deserves admiration, for he <ref n="418.1"/> in the middle of the day beholding as it were three men travelling (and he did not perceive that they were in reality of a more divine nature), ran up and entreated them with great perseverance not to pass by his tent, but as was becoming to go in and receive the rites of hospitality: and they knowing the truth of the man not so much by what he said, as by his mind which they could look into, assented to his request without hesitation;</p>
+<p>It has been said then that the disposition of the Egyptians is inhospitable and intemperate; and the humanity of him who has been exposed to their conduct deserves admiration, for he <note xml:lang="eng" n="418.1">Genesis xviii. 1, &amp;c. </note> in the middle of the day beholding as it were three men travelling (and he did not perceive that they were in reality of a more divine nature), ran up and entreated them with great perseverance not to pass by his tent, but as was becoming to go in and receive the rites of hospitality: and they knowing the truth of the man not so much by what he said, as by his mind which they could look into, assented to his request without hesitation;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="108">
@@ -760,7 +759,7 @@ own advantage are not given through affection, but because they are not looked u
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="132">
-<p>For when the wise man entreats those persons who are in the guise of three travellers to come and lodge in his house, he speaks to them not as three persons, but as one, and says, "My lord, if I have found favour with thee, do not thou pass by thy servant." <ref n="423.1"/> For the expressions, "my lord," and "with thee," and "do not thou pass by," and others of the same kind, are all such as are naturally addressed to a single individual, but not to many. And when those persons, having been entertained in his house, address their entertainer in an affectionate manner, it is again one of them who promises that he by himself will be present, and will bestow on him the seed of a child of his own, speaking in the following words: "I will return again and visit thee again, according to the time of life, and Sarah thy wife shall have a son." <ref n="423.2"/>
+<p>For when the wise man entreats those persons who are in the guise of three travellers to come and lodge in his house, he speaks to them not as three persons, but as one, and says, "My lord, if I have found favour with thee, do not thou pass by thy servant." <note xml:lang="eng" n="423.1">  Genesis xviii. 3. </note> For the expressions, "my lord," and "with thee," and "do not thou pass by," and others of the same kind, are all such as are naturally addressed to a single individual, but not to many. And when those persons, having been entertained in his house, address their entertainer in an affectionate manner, it is again one of them who promises that he by himself will be present, and will bestow on him the seed of a child of his own, speaking in the following words: "I will return again and visit thee again, according to the time of life, and Sarah thy wife shall have a son." <note xml:lang="eng" n="423.2">Genesis xviii. 10. </note>
 <milestone unit="chapter" n="26"/></p>
 </div>
 
@@ -935,7 +934,7 @@ one; also, whether there are five elements of the whole universe, or whether hea
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="166">
-<p>On which account the holy scriptures very beautifully represent it as "a little city, and yet not a little one," <ref n="430.1"/> describing the power of sight under this figure. For it is said to be little, inasmuch as it is but a small portion of the faculties which exist in us; and yet great, inasmuch as it desires great things, being eager to behold the entire heaven and the whole world.
+<p>On which account the holy scriptures very beautifully represent it as "a little city, and yet not a little one," <note xml:lang="eng" n="430.1">Genesis mix. 20. </note> describing the power of sight under this figure. For it is said to be little, inasmuch as it is but a small portion of the faculties which exist in us; and yet great, inasmuch as it desires great things, being eager to behold the entire heaven and the whole world.
 <milestone unit="chapter" n="32"/></p>
 </div>
 
@@ -972,7 +971,7 @@ others, was himself entertained; expounding every part of the passage with as mu
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="173">
 <p>And the father collected stones wherewith to build the altar; and when his son saw everything else
 <pb n="v.2.p.432"/>
-prepared for the celebration of the sacrifice, but no animal, he looked to his father and said, "My father, behold the fire and the wood, but where is the victim for the burnt sacrifice?" <ref n="432.1"/></p>
+prepared for the celebration of the sacrifice, but no animal, he looked to his father and said, "My father, behold the fire and the wood, but where is the victim for the burnt sacrifice?" <note xml:lang="eng" n="432.1"> Genesis xxii. 7. </note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="174">
@@ -1010,7 +1009,7 @@ or from much rain, or from disease and pestilence; and others to satisfy the dem
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="181">
-<p>And also that barbarous nations have for many ages practised the sacrifice of their children as if it were a holy work and one looked upon with favour by God, whose wickedness is mentioned by the holy Moses. For he, blaming them for this pollution, says, that, "They burn their sons and their daughters to their gods." <ref n="433.1"/></p>
+<p>And also that barbarous nations have for many ages practised the sacrifice of their children as if it were a holy work and one looked upon with favour by God, whose wickedness is mentioned by the holy Moses. For he, blaming them for this pollution, says, that, "They burn their sons and their daughters to their gods." <note xml:lang="eng" n="433.1">Deuteronomy xii. 31. </note></p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="182">
@@ -1137,7 +1136,7 @@ For other men, even if they have yielded up their children to be sacrificed on b
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="206">
-<p>For this reason, it seems to me to have been, that Sarah, <ref n="438.1"/> the namesake of virtue, who had previously laughed, denied her laughter to the person who questioned her as to the cause of it, fearing lest she might be deprived of her rejoicing, as belonging to no created being, but to God alone; on which account the holy Word encouraged her, and said, "Be not afraid," thou hast laughed a genuine laugh, and thou hast a share in real joy;</p>
+<p>For this reason, it seems to me to have been, that Sarah, <note xml:lang="eng" n="438.1">Genesis xviii. iS. </note> the namesake of virtue, who had previously laughed, denied her laughter to the person who questioned her as to the cause of it, fearing lest she might be deprived of her rejoicing, as belonging to no created being, but to God alone; on which account the holy Word encouraged her, and said, "Be not afraid," thou hast laughed a genuine laugh, and thou hast a share in real joy;</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="207">
@@ -1276,7 +1275,7 @@ he fell upon the enemy by night, after they had supped, and when they were just 
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="234">
-<p>And he did not cease from attacking them until he had utterly destroyed the hostile army with their kings, and slain them all to a man in front of their camp, and had brought back his brother's son after this splendid and most glorious victory, bringing back also as fair booty all their cavalry, and all the multitude of their beasts of burden, and a most enormous quantity of spoil. <ref n="444.1"/>
+<p>And he did not cease from attacking them until he had utterly destroyed the hostile army with their kings, and slain them all to a man in front of their camp, and had brought back his brother's son after this splendid and most glorious victory, bringing back also as fair booty all their cavalry, and all the multitude of their beasts of burden, and a most enormous quantity of spoil. <note xml:lang="eng" n="444.1">Genesis xiv. 13. </note>
 </p>
 </div>
 
@@ -1410,7 +1409,7 @@ indignant at nature for having reclaimed what belonged to her as her due; and be
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="261">
-<p>And then, not concealing in their own minds their ideas of the greatness and beauty of his virtue, for it was all admirable, they approached him and addressed him thus:—"Thou art a king from God among us." <ref n="449.1"/> Speaking most truly, for all other kingdoms are established by man by means of wars, and military expeditions, and indescribable evils, which those persons who aim at power inflict mutually on one another, slaying one another, and raising up vast forces of infantry, and cavalry, and fleets. But the kingdom of the wise man is bestowed upon him by God; and the virtuous man receiving it is not the cause of evil to any one, but is rather the author to all his subjects of the
+<p>And then, not concealing in their own minds their ideas of the greatness and beauty of his virtue, for it was all admirable, they approached him and addressed him thus:—"Thou art a king from God among us." <note xml:lang="eng" n="449.1">Genesis xxiii. 6. </note> Speaking most truly, for all other kingdoms are established by man by means of wars, and military expeditions, and indescribable evils, which those persons who aim at power inflict mutually on one another, slaying one another, and raising up vast forces of infantry, and cavalry, and fleets. But the kingdom of the wise man is bestowed upon him by God; and the virtuous man receiving it is not the cause of evil to any one, but is rather the author to all his subjects of the
 
 <note xml:lang="eng" n="449.1">Genesis xxiii. 6. </note>
 <pb n="v.2.p.450"/>
@@ -1472,7 +1471,7 @@ from all virtue, we must call only long-lived children, having never been instru
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="273">
 <p>And God, admiring this man for his faith (<foreign xml:lang="grc">πίστις</foreign>) in him, gives him a pledge (<foreign xml:lang="grc">πίστις</foreign>) in return, namely, a confirmation by an oath of the gifts which he had promised him; no longer conversing with him as God might with man, but as one friend with another.
-For he says, "By myself have I sworn," <ref n="452.1"/> by him that is whose word is an oath, in order that Abraham's mind may be established still more firmly and immoveably than before.</p>
+For he says, "By myself have I sworn," <note xml:lang="eng" n="452.1">Genesis xv. 6. </note> by him that is whose word is an oath, in order that Abraham's mind may be established still more firmly and immoveably than before.</p>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="274">
@@ -1481,7 +1480,7 @@ For he says, "By myself have I sworn," <ref n="452.1"/> by him that is whose wor
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1" n="275">
-<p>Thus much is sufficient to say on this subject. But God, adding to the multitude and magnitude of the praises of the wise man one single thing as a crowning point, says that "this man fulfilled the divine law, and all the commandments of God," <ref n="452.2"/> not having been taught to do so by written books, but in accordance with the unwritten law of his nature, being anxious to obey all healthful and salutary impulses. And what is the duty of man except most firmly to believe those things which God asserts?
+<p>Thus much is sufficient to say on this subject. But God, adding to the multitude and magnitude of the praises of the wise man one single thing as a crowning point, says that "this man fulfilled the divine law, and all the commandments of God," <note xml:lang="eng" n="452.2">Genesis xxvi. 5. </note> not having been taught to do so by written books, but in accordance with the unwritten law of his nature, being anxious to obey all healthful and salutary impulses. And what is the duty of man except most firmly to believe those things which God asserts?
 </p>
 </div>
 
