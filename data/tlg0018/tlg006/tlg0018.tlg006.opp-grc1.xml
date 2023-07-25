@@ -94,7 +94,6 @@
   </langUsage>
  </profileDesc>
  <revisionDesc>
-  <change who="GRC" when="2023-05-24">GRC added 154+ corrections, each marked with a <corr/> tag.</change>
   <change who="Lia H" when="2018-01-16">updated teiHeader</change>
  </revisionDesc>
  </teiHeader>
