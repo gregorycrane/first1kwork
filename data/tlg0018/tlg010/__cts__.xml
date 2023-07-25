@@ -6,8 +6,11 @@
   </ti:edition>
 
 <ti:translation urn="urn:cts:greekLit:tlg0018.tlg010.1st1K-eng1" xml:lang="eng" workUrn="urn:cts:greekLit:tlg0018.tlg010">
-    <ti:label xml:lang="lat">De Plantatione</ti:label>
-    <ti:description xml:lang="eng">Philo of Alexandria, "THE SECOND PART OF THE TREATISE ABOUT THE PLANTING OF NOAH," translator: Charles Duke Yonge (George Bell and Sons, London, 1854)</ti:description>
+<ti:label xml:lang="eng">About the Planting of Noah</ti:label>
+<ti:description xml:lang="eng">The works of Philo Judaeus, the contemporary of Josephus, volume 1. Yonge, C. D., translator. London: Bohn. 1854.</ti:description>
+
 </ti:translation>
 
 </ti:work>
+
+

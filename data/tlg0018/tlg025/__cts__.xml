@@ -6,8 +6,11 @@
   </ti:edition>
 
 <ti:translation urn="urn:cts:greekLit:tlg0018.tlg025.1st1K-eng1" xml:lang="eng" workUrn="urn:cts:greekLit:tlg0018.tlg025">
-    <ti:label xml:lang="lat">De Virtutibus</ti:label>
-    <ti:description xml:lang="eng">Philo of Alexandria, "A TREATISE ON THREE VIRTUES, THAT I$ TO SAY, ON COURAGE, HUMANITY, AND REPENTANCE, ON COURAGE," translator: Charles Duke Yonge (Henry G. Bohn, London, 1855)</ti:description>
+<ti:label xml:lang="eng">On Three Virtues, that is to say, on Courage, Humanity, and Repentance</ti:label>
+<ti:description xml:lang="eng">The works of Philo Judaeus, the contemporary of Josephus, volume 3. Yonge, C. D., translator. London: Bohn. 1855.</ti:description>
+
 </ti:translation>
 
 </ti:work>
+
+

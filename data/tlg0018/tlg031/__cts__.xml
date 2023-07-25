@@ -6,8 +6,11 @@
   </ti:edition>
 
 <ti:translation urn="urn:cts:greekLit:tlg0018.tlg031.1st1K-eng1" xml:lang="eng" workUrn="urn:cts:greekLit:tlg0018.tlg031">
-    <ti:label xml:lang="lat">Legatio Ad Gaium</ti:label>
-    <ti:description xml:lang="eng">Philo of Alexandria, "A TREATISE ON THE VIRTUES AND ON THE OFFICE OF AMBASSADORS. ADDRESSED TO CAIUS," translator: Charles Duke Yonge (Henry G. Bohn, London, 1855)</ti:description>
+<ti:label xml:lang="eng">On the Virtues and on the Office of Ambassadors. Adressed to Caius</ti:label>
+<ti:description xml:lang="eng">The works of Philo Judaeus, the contemporary of Josephus, volume 4. Yonge, C. D., translator. London: Bohn. 1855.</ti:description>
+
 </ti:translation>
 
 </ti:work>
+
+
