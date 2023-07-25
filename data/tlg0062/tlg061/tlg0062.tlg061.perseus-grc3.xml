@@ -46,7 +46,8 @@
                     </imprint>
                     <biblScope unit="volume">6</biblScope>
                 </monogr>
-                <ref target="https://hdl.handle.net/2027/osu.32435024202103">Hathi Trust</ref>
+<ref target="https://archive.org/details/luciankilb06luciuoft/page/229/mode/2up">Internet Archive</ref>
+<ref target="https://hdl.handle.net/2027/osu.32435024202103?urlappend=%3Bseq=245">Hathi Trust</ref>
             </biblStruct>
         </listBibl>
     </sourceDesc>
@@ -78,7 +79,7 @@
 <text>
 <body>
 <div type="edition" n="urn:cts:greekLit:tlg0062.tlg061.perseus-grc3" xml:lang="grc">
-<pb n="6.228"/>
+<pb n="v.6.p.228"/>
 <head>DΙΑΛΟΓΟΣ ΠΡΟΣ ΗΣΙΟΔΟΝ</head>
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg061.perseus-grc3" n="1">
 <sp><speaker>ΛΥΚΙΝΟΣ</speaker><p> Ἀλλὰ ποιητὴν μὲν ἄριστον εἶναί σε, ὦ Ἡσίοδε,
@@ -109,7 +110,7 @@
 γε πάντως ἐνέχεσθαι· ἢ γὰρ ἐψεύσω, εἰ καὶ πικρὸν
 
 
-<pb n="6.230"/>
+<pb n="v.6.p.230"/>
 
 εἰπεῖν, ὡς ὑποσχομένων σοι τῶν Μουσῶν καὶ τὰ
 μέλλοντα προλέγειν δύνασθαι· ἢ αἱ μὲν ἔδοσαν
@@ -147,7 +148,7 @@
 τε ἂν ἐθέλωσι καὶ ἐφ' ὅσον ἂν οἴωνται καλῶς
 ἔχειν μεταδιδόασιν.
 
-<pb n="6.232"/>
+<pb n="v.6.p.232"/>
 ἀπολογίας.
 <note xml:lang="mul" n="6.232.1">ἀπολογιας γ: ἀστυλογίας β.</note></p></sp></div>
 
@@ -184,7 +185,7 @@
 νομίζοιτο.</p></sp>
 
 
-<pb n="6.234"/></div>
+<pb n="v.6.p.234"/></div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg061.perseus-grc3" n="7">
 <sp><speaker>ΛΥΚΙΝΟΣ</speaker><p> Τοῦτο μὲν οὖν, ὦ θαυμαστὲ Ἡσίοδε, καὶ πάνυ
@@ -229,7 +230,7 @@
 
 
 
-<pb n="6.236"/>
+<pb n="v.6.p.236"/>
 
 κἀμὲ μάντιν λέγων. προερῶ γὰρ καὶ προθεσπιῶ
 καὶ ἄνευ Κασταλίας καὶ δάφνης καὶ τρίποδος

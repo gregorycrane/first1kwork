@@ -72,7 +72,7 @@
 <div type="translation" n="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" xml:lang="eng">
 <pb n="v.1.p.99"/>
 <head>Nigrinus<note xml:lang="eng">Except through Lucian, nothing is known of this philosopher. Some have sought to identify him with one Albinus, about whom we have scarcely any information, and others have thought him a child of Lucian’s fancy. But it is quite possible that he really existed, and led, as Lucian says, a life of retirement.</note></head>
-<div type="textpart" subtype="section" n="intro">
+<div type="textpart" xml:base="urn:cts:greekLit:tlg0062.tlg007.perseus-eng2" subtype="section" n="intro">
 <head>LETTER TO NIGRINUS</head>
 <p>Best wishes to Nigrinus from Lucian !</p>
 
