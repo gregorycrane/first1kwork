@@ -51,7 +51,7 @@
 </imprint>
 <biblScope unit="volume">1</biblScope>
 </monogr>
-<ref target="http://hdl.handle.net/2027/mdp.39015058551063">HathiTrust</ref>
+<ref target="https://hdl.handle.net/2027/mdp.39015058551063?urlappend=%3Bseq=39%3Bownerid=1458754-43">HathiTrust</ref>
 </biblStruct>
 </sourceDesc>
 
@@ -1754,10 +1754,10 @@ choses : c’étaient les adversaires les plus déclarés de la
 paix dans les deux États, l’un à cause de ses succès
 militaires et de la gloire qu’ils lui valaient, l’autre parce
 qu’il sentait qu’en temps de paix ses crimes seraient
-plus en vue, ses calomnies moins facilement acceptées<note xml:lang="mul">Ou trouve la même pensée dans Plutarque, Nici&amp;s, ch. 9.</note>.
+plus en vue, ses calomnies moins facilement acceptées<note xml:lang="mul">Ou trouve la même pensée dans Plutarque, Niciâs, ch. 9.</note>.
 <note xml:lang="eng" type="footnote">i Ce territoire était en litige entre Lacédémone et Argos. Voyez livre v, ch. 41.</note>
 <note xml:lang="eng" type="footnote">2 Voyez ch. 29.</note>
-<note xml:lang="eng" type="footnote">3 Ou trouve la même pensée dans Plutarque, Nici&amp;s, ch. 9.</note>
+<note xml:lang="eng" type="footnote">3 Ou trouve la même pensée dans Plutarque, Niciâs, ch. 9.</note>
 <pb n="v.2.p.15"/>
 Après eux, les hommes qui avaient les prétentions les
 mieux fondées à la direction des affaires dans les deux
@@ -3910,14 +3910,14 @@ n’est séparée de Carthage que par une fort courte traversée.</p>
 </div>
 <div type="textpart" subtype="chapter" xml:base="cts:urn:tlg0003.tlg001.opp-fre1:6" n="3">
 <p>III. Parmi les Grecs, les Chalcidiens, les premiers,
-passèrent d’Eubée en Sicile, et fondèrent, sous la conduite de Thouclès, la ville de Naxos<note xml:lang="mul">Naxos était située à peu de distance de la colline où fut b&amp;tie plus tard Tauroménium (Taormina).</note>, ainsi que l’autel
+passèrent d’Eubée en Sicile, et fondèrent, sous la conduite de Thouclès, la ville de Naxos<note xml:lang="mul">Naxos était située à peu de distance de la colline où fut bâtie plus tard Tauroménium (Taormina).</note>, ainsi que l’autel
 d’Apollon Archégétès, qui est maintenant hors de la
 ville<note xml:lang="mul">Appien, contemporain des Antonins, parle de cette statue (Guerre civile, liv. v) comme existant encore de son temps.</note> : c’est sur cet autel que les théores, envoyés
 hors de la Sicile, font leur premier sacrifice. L’année
 suivante, Archias, l’un des Héraclides, parti de Corinthe, fonda Syracuse. Il chassa d’abord les Sicèles de
 l’île<note xml:lang="mul">L’île Ortygie.</note> où est aujourd’hui la ville intérieure, maintenant reliée à la terre ferme; par la suite des temps une
 muraille y réunit la ville extérieure, qui devint ellemême très-populeuse. Thouclès et les Chalcidiens, partis de Naxos cinq ans après la fondation de Syracuse,
-<note xml:lang="eng" type="footnote">1 Naxos était située à peu de distance de la colline où fut b&amp;tie plus tard Tauroménium (Taormina).</note>
+<note xml:lang="eng" type="footnote">1 Naxos était située à peu de distance de la colline où fut bâtie plus tard Tauroménium (Taormina).</note>
 <note xml:lang="eng" type="footnote">2 Appien, contemporain des Antonins, parle de cette statue (Guerre civile, liv. v) comme existant encore de son temps.</note>
 <note xml:lang="eng" type="footnote">3 L’île Ortygie.</note>
 <pb n="v.2.p.96"/>
@@ -5190,7 +5190,7 @@ magistrature annuelle, en particulier le fils du tyran
 Hippias, nommé Pisistrate comme son aïeul. C’est lui
 <pb n="v.2.p.142"/>
 qui a élevé, sous son archontat, l'autel des douze
-dieux sur l’Agora, et celui d’Apollon dans le Pythium<note xml:lang="mul">Temple d’Apollon Pythien, &amp; Athènes.</note>.
+dieux sur l’Agora, et celui d’Apollon dans le Pythium<note xml:lang="mul">Temple d’Apollon Pythien, à Athènes.</note>.
 Plus tard le peuple athénien ajouta de nouvelles constructions à celui de l’Agora pour l’agrandir et fit
 disparaître l’inscription; celle du Pythium, quoique
 fruste, est encore lisible; elle porte :</p>
@@ -5216,7 +5216,7 @@ l’aîné et lui succéda dans la tyrannie. D’ailleurs, jamais,
 je crois, Hippias n’aurait pu s’emparer ainsi de la tyrannie sans résistance dès le premier moment, s’il avait dû
 succéder le jour, même<note xml:lang="mul">C’est-à-dire an moment même du meurtre.</note> à Hipparque, mort dans l’exercice du pouvoir. Au contraire, la crainte à laquelle il
 avait dès longtemps habitué les citoyens et le choix de
-<note xml:lang="eng" type="footnote">• Temple d’Apollon Pythien, &amp; Athènes.</note>
+<note xml:lang="eng" type="footnote">• Temple d’Apollon Pythien, à Athènes.</note>
 <note xml:lang="eng" type="footnote">8 Elle prouve seulement qu'Hippias eut des enfants. Toute celte argumentation est loin d’être concluante.</note>
 <note xml:lang="eng" type="footnote">5 C’est-à-dire an moment même du meurtre.</note>
 <pb n="v.2.p.143"/>
@@ -8771,7 +8771,7 @@ valu à Nicias toute leur bienveillance; car il avait té-</p>
 <p>I. Quand la nouvelle parvint à Athènes, on refusa
 longtemps de croire à cet anéantissement total de
 l’armée, même après le témoignage positif de soldats
-de l’expédition, bien connus pour tels<note xml:lang="mul">Je rends ainsi les mots τοΐς πάνυ των στρατιωτών, qui n’ont pas été compris des traducteurs. Il ne peut pas être question ici de soldats d’élite, ou de soldats distingués, ce qui n’a aucune importance dans la circonstance; le témoignage d’hommes qui avaient vu, qui faisaient incontestablement partie de l’expédition, τοῖς πάνυ τ. σ.' avait au contraire une irrécusable autorité.  Le désastre avait été d’abord annoncé par un b&amp;tiraent de commerce. Voir Plutarque, Nicias, 30.</note>, et échappés au
+de l’expédition, bien connus pour tels<note xml:lang="mul">Je rends ainsi les mots τοΐς πάνυ των στρατιωτών, qui n’ont pas été compris des traducteurs. Il ne peut pas être question ici de soldats d’élite, ou de soldats distingués, ce qui n’a aucune importance dans la circonstance; le témoignage d’hommes qui avaient vu, qui faisaient incontestablement partie de l’expédition, τοῖς πάνυ τ. σ.' avait au contraire une irrécusable autorité.  Le désastre avait été d’abord annoncé par un bâtiraent de commerce. Voir Plutarque, Nicias, 30.</note>, et échappés au
 désastre. Mais quand la vérité fut connue, le peuple
 s’indigna contre les orateurs qui avaient concouru à
 l’enthousiasmer pour l'expédition, comme s’il ne l’eût
@@ -8781,7 +8781,7 @@ soumettre la Sicile. On ne voyait de tous côtés que
 sujets d’affliction; à la douleur de l’événement se joignaient les craintes, les terreurs profondes dont on
 était assiégé. Chacun en particulier avait à déplorer
 quelque perte; la ville entière regrettait cette multi-
-<note xml:lang="eng" type="footnote">1 Je rends ainsi les mots τοΐς πάνυ των στρατιωτών, qui n’ont pas été compris des traducteurs. Il ne peut pas être question ici de soldats d’élite, ou de soldats distingués, ce qui n’a aucune importance dans la circonstance; le témoignage d’hommes qui avaient vu, qui faisaient incontestablement partie de l’expédition, τοῖς πάνυ τ. σ.' avait au contraire une irrécusable autorité.  Le désastre avait été d’abord annoncé par un b&amp;tiraent de commerce. Voir Plutarque, Nicias, 30.</note>
+<note xml:lang="eng" type="footnote">1 Je rends ainsi les mots τοΐς πάνυ των στρατιωτών, qui n’ont pas été compris des traducteurs. Il ne peut pas être question ici de soldats d’élite, ou de soldats distingués, ce qui n’a aucune importance dans la circonstance; le témoignage d’hommes qui avaient vu, qui faisaient incontestablement partie de l’expédition, τοῖς πάνυ τ. σ.' avait au contraire une irrécusable autorité.  Le désastre avait été d’abord annoncé par un bâtiraent de commerce. Voir Plutarque, Nicias, 30.</note>
 <pb n="v.2.p.277"/>
 tude d’hoplites et de cavaliers, cette jeunesse derrière laquelle on ne voyait plus rien de semblable pour
 la remplacer; le deuil était partout! D’un autre côté,
@@ -10296,9 +10296,9 @@ avec les cent vingt jeunes Grecs dont ils se servaient
 à l’occasion pour les coupsde m ain; ils surprirent au
 conseil les sénateurs de la fève, et leur ordonnèrent de
 sortir en recevant leur salaire. Ils avaient apporté euxmêmes leur traitement pour tout le temps qui restait
-à courir<note xml:lang="mul">Jusqu’au moment où expirait leur magistrature annuelle. On voulait sans doute les calmer en leur payant les quelques mois qui restaient &amp; courir.</note>, et le leur remirent à la sortie.</p>
+à courir<note xml:lang="mul">Jusqu’au moment où expirait leur magistrature annuelle. On voulait sans doute les calmer en leur payant les quelques mois qui restaient à courir.</note>, et le leur remirent à la sortie.</p>
 <note xml:lang="eng" type="footnote">* Pour ne pas éveiller l’attention.</note>
-<note xml:lang="eng" type="footnote">• Jusqu’au moment où expirait leur magistrature annuelle. On voulait sans doute les calmer en leur payant les quelques mois qui restaient &amp; courir.</note>
+<note xml:lang="eng" type="footnote">• Jusqu’au moment où expirait leur magistrature annuelle. On voulait sans doute les calmer en leur payant les quelques mois qui restaient à courir.</note>
 <pb n="v.2.p.333"/>
 </div>
 <div type="textpart" subtype="chapter" xml:base="cts:urn:tlg0003.tlg001.opp-fre1:8" n="70">
@@ -10406,7 +10406,7 @@ démocratiques.</p>
 cents eussent en main le pouvoir. Ceux-ci, à l’arrivée
 du <hi rend="italic">Paralos</hi>, mirent aux fers deux ou trois de ceux qui
 le montaient, ôtèrent aux autres leur vaisseau, les
-firent passer sur un autre bâtiment affecté au transport des troupes<note xml:lang="mul">Le Parafas, ou la Paralienne, était un vaisseau chargé ordinairement de missions de confiance; il portait les messages, conduisait les généraux à leur poste. On regardait comme un honneur de monter ce bâtiment. C’était donc faire outrage &amp; l’équipage que de le transborder sur un simple b&amp;timent de transport.</note> et les envoyèrent croiser autour de
+firent passer sur un autre bâtiment affecté au transport des troupes<note xml:lang="mul">Le Parafas, ou la Paralienne, était un vaisseau chargé ordinairement de missions de confiance; il portait les messages, conduisait les généraux à leur poste. On regardait comme un honneur de monter ce bâtiment. C’était donc faire outrage à l’équipage que de le transborder sur un simple bâtiment de transport.</note> et les envoyèrent croiser autour de
 ï’Eubée. Quant à Cbéréas, il trouva moyen de se cacher
 lorsqu’il vit ce qui se passait, et retourna à Samos où
 il fit connaître à l’armée, en exagérant toutes choses, la
@@ -10423,7 +10423,7 @@ d’autres détails tout aussi mensongers.</p>
 se jeter sur les principaux meneurs du complot oligarchique et sur leurs complices; mais ceux qui étaient
 plus calmes s’interposèrent pour les en empêcher; on
 leur fit comprendre qu’en présence de la flotte ennemie, mouillée à peu dé distance et prête à combattre,
-<note xml:lang="eng" type="footnote">1 Le Parafas, ou la Paralienne, était un vaisseau chargé ordinairement de missions de confiance; il portait les messages, conduisait les généraux à leur poste. On regardait comme un honneur de monter ce bâtiment. C’était donc faire outrage &amp; l’équipage que de le transborder sur un simple b&amp;timent de transport.</note>
+<note xml:lang="eng" type="footnote">1 Le Parafas, ou la Paralienne, était un vaisseau chargé ordinairement de missions de confiance; il portait les messages, conduisait les généraux à leur poste. On regardait comme un honneur de monter ce bâtiment. C’était donc faire outrage à l’équipage que de le transborder sur un simple bâtiment de transport.</note>
 <pb n="v.2.p.338"/>
 ils pouvaient tout perdre, et on parvint à les calmer.
 Ensuite Thrasybule, fils de Lycos, et Thrasylle, les
@@ -10643,13 +10643,13 @@ gens de mer, se précipite sur Astyochos pour le frapper. Celui-ci, prévoyant l
 auprès d’un autel; il ne fut pas blessé, et la foule se dispersa.</p>
 <p>Les Milésiens attaquèrent par surprise le fort bâti
 dans leur ville par Tissaphernes, s’en emparèrent et en
-chassèrent la garnison<note xml:lang="mul">Lorsque Milet, après sa défection, se soumit à Tissaphernes, il b&amp;tit un fort dans la ville et y mit garnison (voyez I. vm, ch. 58).</note>. Ils eurent en cela l’assentiment des autres alliés, et en particulier des Syracusains. Mais Lichas blâma cette mesure<note xml:lang="mul">Lichas était &amp; la tête des commissaires lacédémoniens chargés de surveiller Astyochos (voyez 1. vin, ch. 43, 52).</note> : il dit que les
+chassèrent la garnison<note xml:lang="mul">Lorsque Milet, après sa défection, se soumit à Tissaphernes, il bâtit un fort dans la ville et y mit garnison (voyez I. vm, ch. 58).</note>. Ils eurent en cela l’assentiment des autres alliés, et en particulier des Syracusains. Mais Lichas blâma cette mesure<note xml:lang="mul">Lichas était à la tête des commissaires lacédémoniens chargés de surveiller Astyochos (voyez 1. vin, ch. 43, 52).</note> : il dit que les
 Milésiens et tous ceux qui habitaient sur les terres du
 Roi devaient rester soumis à Tissaphernes à des conditions modérées, et le ménager jusqu’à ce que la
 guerre fût terminée heureusement. Les Milésiens, qui
 avaient contre lui d’autres griefs analogues, ne lui pardonnèrent pas ce propos et, lorsque plus tard il mou-
-<note xml:lang="eng" type="footnote">1 Lorsque Milet, après sa défection, se soumit à Tissaphernes, il b&amp;tit un fort dans la ville et y mit garnison (voyez I. vm, ch. 58).</note>
-<note xml:lang="eng" type="footnote">* Lichas était &amp; la tête des commissaires lacédémoniens chargés de surveiller Astyochos (voyez 1. vin, ch. 43, 52).</note>
+<note xml:lang="eng" type="footnote">1 Lorsque Milet, après sa défection, se soumit à Tissaphernes, il bâtit un fort dans la ville et y mit garnison (voyez I. vm, ch. 58).</note>
+<note xml:lang="eng" type="footnote">* Lichas était à la tête des commissaires lacédémoniens chargés de surveiller Astyochos (voyez 1. vin, ch. 43, 52).</note>
 <pb n="v.2.p.346"/>
 rut de maladie, ils s’opposèrent à ce qu’il fût inhumé
 à l’endroit choisi par les Lacédémoniens présents sur
