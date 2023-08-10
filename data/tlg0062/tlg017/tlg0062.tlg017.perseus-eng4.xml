@@ -56,9 +56,12 @@ target="https://archive.org/details/worksoflucianofs03luciuoft/page/71/mode/1up"
 </fileDesc>
 <encodingDesc>
 <p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.</p>
-<refsDecl n="CTS">
-<cRefPattern n="section" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
-</refsDecl>
+ <refsDecl n="CTS">
+  <cRefPattern matchPattern="(\w+)"
+   replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+   <p>This pointer pattern extracts section.</p>
+  </cRefPattern>
+ </refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -71,7 +74,7 @@ target="https://archive.org/details/worksoflucianofs03luciuoft/page/71/mode/1up"
 <div type="translation" n="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4" xml:lang="eng">
 <head>ZEUS CROSS-EXAMINED</head>
 <head><label>Cyniscus</label>. <label>Zeus</label></head>
-<div type="textpart" subtype="section" n="1">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="1">
 <p><label>Cyniscus</label> Zeus: I am not going to trouble you with requests for a fortune or a throne; you get prayers enough of that sort from other people, and from your habit of convenient deafness I gather that you experience a difficulty in answering them. But there is one thing I should like, which would cost you no trouble to grant.</p>
 
 <p><label>Zeus</label> Well, Cyniscus? You shall not be disappointed, if your expectations are as reasonable as you say.</p>
@@ -82,7 +85,7 @@ target="https://archive.org/details/worksoflucianofs03luciuoft/page/71/mode/1up"
 
 
 
-<pb n="72"/>
+<pb n="v.3.p.72"/>
 
 
 </p>
@@ -94,7 +97,7 @@ target="https://archive.org/details/worksoflucianofs03luciuoft/page/71/mode/1up"
 </p></div>
 
 
-<div type="textpart" subtype="section" n="2">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="2">
 <p><label>Cyniscus</label> Then when Homer says, for instance, in another place,
 
 <l>Lest unto Hell thou go, outstripping Fate,</l>
@@ -110,19 +113,19 @@ Lachesis, and Atropus?</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="3">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="3">
 <p><label>Cyniscus</label> But one also hears a great deal about Destiny and Fortune. Who are they, and what is the extent of their power? Is it equal to that of the Fates? or greater perhaps? People are always talking about the insuperable might of Fortune and Destiny.</p>
 
 <p><label>Zeus</label> It is not proper, Cyniscus, that you should know all. But what made you ask me about the Fates?
 </p></div>
 
 
-<div type="textpart" subtype="section" n="4">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="4">
 <p><label>Cyniscus</label> Ah, you must tell me one thing more first. Do the Fates also control you Gods? Do you depend from their thread?
 
 
 
-<pb n="73"/>
+<pb n="v.3.p.73"/>
 
 
 </p>
@@ -138,7 +141,7 @@ I listened to that passage with shuddering reverence; I was much impressed with 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="5">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="5">
 <p><label>Zeus</label> I do not catch the drift of your questions.</p>
 
 <p><label>Cyniscus</label> Come, I will speak my_mind; and in the name of Destiny and the Fates take not my candour amiss. If the case stands thus, if the Fates are mistresses of all, and their decisions unalterable, then why do men sacrifice to you, and bring hecatombs, and pray for good at your hands? If our prayers can neither save us from evil nor procure us any boon from Heaven,
@@ -147,14 +150,14 @@ I fail to see what we get for our trouble.
 </p></div>
 
 
-<div type="textpart" subtype="section" n="6">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="6">
 <p><label>Zeus</label> These are nice questions! I see how it is,—you have been with the sophists; accursed race! who would deny us all concern in human affairs. Yes, these are just the points they raise, impiously seeking to pervert mankind from the way of sacrifice and prayer: it is all thrown away, forsooth! the Gods take no thought for mankind; they have no power on the earth.—Ah well; they will be sorry for it some day.</p>
 
 <p><label>Cyniscus</label> Now, by Clotho’s own spindle, my questions are free from all sophistic taint. How it has come about, I know not;
 
 
 
-<pb n="74"/>
+<pb n="v.3.p.74"/>
 
 
 
@@ -167,7 +170,7 @@ there is no use in sacrifice. Let us begin again. I will put you a few more ques
 </p></div>
 
 
-<div type="textpart" subtype="section" n="7">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="7">
 <p><label>Cyniscus</label> Everything proceeds from the Fates, you say?</p>
 
 <p><label>Zeus</label> Yes.</p>
@@ -185,14 +188,14 @@ there is no use in sacrifice. Let us begin again. I will put you a few more ques
 </p></div>
 
 
-<div type="textpart" subtype="section" n="8">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="8">
 <p><label>Zeus</label> But this eternity is an eternity of happiness; the life of Gods is one round of blessings.</p>
 
 <p><label>Cyniscus</label> Not all Gods’ lives. Even in Heaven there are distinctions, not to say mismanagement. You are happy, of course: you are king, and you can haul up earth and sea as it were a bucket from: the well. But look at Hephaestus: a cripple; a common blacksmith. Look at Prometheus: be gets nailed up on Caucasus, And I need not remind you that your own father lies fettered in Tartarus at this hour. It seems, too,
 
 
 
-<pb n="75"/>
+<pb n="v.3.p.75"/>
 
 
 
@@ -202,7 +205,7 @@ that Gods are liable to fall in love; and to receive wounds; nay, they may even 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="9">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="9">
 <p><label>Zeus</label> Take care, Cyniscus: you are going too far. You will repent of this one day.</p>
 
 <p><label>Cyniscus</label> Spare your threats: you know that nothing can happen to me, except what Fate has settled first. I notice, for instance, that even temple-robbers do not always get punished; most of them, indeed, slip through your hands. Not destined to be caught, I suppose.</p>
@@ -212,7 +215,7 @@ that Gods are liable to fall in love; and to receive wounds; nay, they may even 
 <p><label>Cyniscus</label> You seem to be very much afraid of these gentlemen, for some reason.</p></div>
 
 
-<div type="textpart" subtype="section" n="10">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="10">
 <p>Not one word can I say, but you must think I picked it up from them. Oblige me by answering another question; I could desire no better authority than yours. What is this Providence? Is she a Fate too? or some greater, a mistress of the Fates?</p>
 
 <p><label>Zeus</label> I have already told you that there are things which it is not proper for you to know. You said you were only going to ask me one question, instead of which you go on quibbling without end. I see what it is you are at: you want to make out that we Gods take no thought for human affairs.</p>
@@ -221,7 +224,7 @@ that Gods are liable to fall in love; and to receive wounds; nay, they may even 
 
 
 
-<pb n="76"/>
+<pb n="v.3.p.76"/>
 
 
 
@@ -231,7 +234,7 @@ the Gods going to push Destiny aside and make a bid for government?
 </p></div>
 
 
-<div type="textpart" subtype="section" n="11">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="11">
 <p><label>Zeus</label> Not at all; but the Fates work through us.</p>
 
 <p><label>Cyniscus</label> I see: you are their servants, their underlings. But that comes to the same thing: it is still they who design; you are only their tools, their instruments.</p>
@@ -243,7 +246,7 @@ the Gods going to push Destiny aside and make a bid for government?
 </p></div>
 
 
-<div type="textpart" subtype="section" n="12">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="12">
 <p><label>Zeus</label> So! You would deprive even the Fates of honour? You seem determined to reduce all to one level. Well, we Gods have at least one claim on you: we do prophesy and foretell what the Fates have disposed.</p>
 
 <p><label>Cyniscus</label> Now even granting that you do, what is the use of knowing what one has to expect, when one can by no possibility take any precautions? Are you going to tell me that a man who finds out that he is to die by a steel point can escape the doom by shutting himself up? Not he. Fate will take him out hunting, and there will be his steel: Adrastus will hurl his spear at the boar, miss the brute, and get Croesus’s
@@ -251,7 +254,7 @@ the Gods going to push Destiny aside and make a bid for government?
 
 
 
-<pb n="77"/>
+<pb n="v.3.p.77"/>
 
 
 
@@ -259,7 +262,7 @@ the Gods going to push Destiny aside and make a bid for government?
 son; Fate’s inflexible law directs his aim.</p></div>
 
 
-<div type="textpart" subtype="section" n="13">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="13">
 <p>The full absurdity of the thing is seen in the case of Latus:
 
 <l>Seek not for offspring in the Gods’ despite;</l>
@@ -268,7 +271,7 @@ son; Fate’s inflexible law directs his aim.</p></div>
 Was not this advice superfluous, seeing that the end must come? Accordingly we find that the oracle does not deter Laius from begetting a son, nor that son from being his slayer. On the whole, I cannot see that your prophegies entitle you to reward.</p></div>
 
 
-<div type="textpart" subtype="section" n="14">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="14">
 <p>I even set aside the obscurity of the oracles, which are generally contrived to cut both ways. You omitted to mention, for instance, whether Croesus—‘ the Halys crossed ’
 —should destroy his own or Cyrus’s ‘mighty realm.’ It might be either, so far as the oracle goes.</p>
 
@@ -279,19 +282,19 @@ Was not this advice superfluous, seeing that the end must come? Accordingly we f
 </p></div>
 
 
-<div type="textpart" subtype="section" n="15">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="15">
 <p><label>Zeus</label> You leave us nothing, then? We exercise no control, we are not entitled to sacrifice, we are very drills and adzes,
 But you may well despise me: why do I sit here listening to all this, with my thunder-bolt beneath my arm?</p>
 
 <p><label>Cyniscus</label> Nay, smite, if the thunder-bolt is my destiny. I shall think none the worse of you; I shall know it is all Clotho’s doing; I will not even blame the bolt that wounds me. And by the way—talking of thunder-bolts—there is one thing I will ask you and Destiny to explain; you can answer for her.</p></div>
 
 
-<div type="textpart" subtype="section" n="16">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="16">
 <p>Why is it that you leave all the pirates and temple-robbers and tuffians and perjurers to themselves, and direct your shafts (as
 
 
 
-<pb n="78"/>
+<pb n="v.3.p.78"/>
 
 
 
@@ -303,7 +306,7 @@ you are always doing) against an oak-tree or a stone or a harmless mast, or even
 <p><label>Cyniscus</label> Well, I suppose I must not ask you all (Providence and Destiny and you) why honest Phocion died in utter poverty and destitution, like Ayistides before him, while those two unwhipped puppies, Callias and Alcibiades, and the ruffian Midias, and that Aeginetan libertine Charops, who starved his own mother to death, were all rolling in money? nor again why Socrates was handed over to the Eleven instead of Meletus? nor yet why the effeminate Sardanapalus was a king, and one high-minded Persian after another went to the cross for refusing to countenance his doings?</p></div>
 
 
-<div type="textpart" subtype="section" n="17">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="17">
 <p>I say nothing of our own days, in which villains and money-grubbers prosper, and honest men are oppressed with want and sickness and a thousand distresses, and can hardly call their souls their own.</p>
 
 <p><label>Zeus</label> Surely you know, Cyniscus, what punishments await the evil-doers after death, and how happy will be the lot of the righteous?</p>
@@ -313,7 +316,7 @@ you are always doing) against an oak-tree or a stone or a harmless mast, or even
 </p></div>
 
 
-<div type="textpart" subtype="section" n="18">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="18">
 <p><label>Zeus</label> What! you doubt that there are punishments and rewards to come? You doubt of that judgement-seat before which every soul is arraigned?</p>
 
 <p><label>Cyniscus</label> I have heard mention of a judge in that connexion;
@@ -321,7 +324,7 @@ you are always doing) against an oak-tree or a stone or a harmless mast, or even
 
 
 
-<pb n="79"/>
+<pb n="v.3.p.79"/>
 
 
 
@@ -359,14 +362,14 @@ one Minos, a Cretan. Ah, yes, tell me about him: they say he is your son?</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="19">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg017.perseus-eng4:" n="19">
 <p><label>Zeus</label> I am not going to speak to you any more, You are an unscrupulous man; a sophist. I shall go away and leave you to yourself.</p>
 
 <p><label>Cyniscus</label> I wanted to ask you where the Fates lived; and how they managed to attend to all the details of such a vast mass of
 
 
 
-<pb n="80"/>
+<pb n="v.3.p.80"/>
 
 
 
@@ -376,4 +379,4 @@ business, just those three. I do not envy them their lot; they must have a busy 
 </p></div>
 </div>
 
-</div></body></text></TEI>
+</body></text></TEI>

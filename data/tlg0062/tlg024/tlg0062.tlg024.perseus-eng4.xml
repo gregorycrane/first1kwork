@@ -57,9 +57,12 @@ target="https://archive.org/details/worksoflucianofs01luciuoft/page/190/mode/1up
 </fileDesc>
 <encodingDesc>
 <p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.</p>
-<refsDecl n="CTS">
-<cRefPattern n="section" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
-</refsDecl>
+ <refsDecl n="CTS">
+  <cRefPattern matchPattern="(\w+)"
+   replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+   <p>This pointer pattern extracts section.</p>
+  </cRefPattern>
+ </refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -70,9 +73,9 @@ target="https://archive.org/details/worksoflucianofs01luciuoft/page/190/mode/1up
 <text xml:lang="eng">
 <body>
 <div type="translation" n="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4" xml:lang="eng">
-<head>SALE OF CREEDS<note n="190.1"> The distinction between the personified creeds or philosophies here offered for sale, and their various founders or principal exponents, is but loosely kept up. Not only do most of the creeds bear the names of their founders, but some are even credited with their physical peculiarities and their personal experiences.</note></head>
+<head>SALE OF CREEDS<note xml:lang="eng" n="v.1.p.190.n.1"> The distinction between the personified creeds or philosophies here offered for sale, and their various founders or principal exponents, is but loosely kept up. Not only do most of the creeds bear the names of their founders, but some are even credited with their physical peculiarities and their personal experiences.</note></head>
 <head><label>Zeus</label>. <label>Hermes</label>. <label>Pythagoras</label>. <label>Diogenes</label>. <label>Heraclitus</label>. <label>Socrates</label>. <label>Chrysippus</label>. <label>Democritus</label> Several Dealers. <label>Scepticism</label>. Creeds</head>
-<div type="textpart" subtype="section" n="1">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="1">
 <p></p>
 
 <p><label>Zeus</label> Now get those benches straight there, and make the place fit to be seen. Bring up the lots, one of you, and put them in line. Give them a rub up first, though; we must have them looking their best, to attract bidders. Hermes, you can declare the sale-room open, and a welcome to all comers.—For Sale! A varied assortment of Live Creeds. Tenets of every description—Cash on delivery; or credit allowed on suitable security.</p>
@@ -84,7 +87,7 @@ target="https://archive.org/details/worksoflucianofs01luciuoft/page/190/mode/1up
 </p></div>
 
 
-<div type="textpart" subtype="section" n="2">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="2">
 <p><label>Heraclitus</label> What are we to put up first?</p>
 
 <p><label>Zeus</label> The Ionic fellow, with the long hair. He seems a showy piece of goods.</p>
@@ -101,7 +104,7 @@ First Dealer. He looks all right. And what can he do?
 
 
 
-<pb n="191"/></p>
+<pb n="v.1.p.191"/></p>
 
 <p><label>Heraclitus</label> Magic, music, arithmetic, geometry, astronomy, jugglery. Prophecy in all its branches,</p>
 
@@ -112,7 +115,7 @@ First Dealer. He looks all right. And what can he do?
 </p></div>
 
 
-<div type="textpart" subtype="section" n="3">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="3">
 <p><label>First Dealer</label>  Where do you come from?</p>
 
 <p><label>Pythagoras</label> Samos.</p>
@@ -142,7 +145,7 @@ First Dealer. He looks all right. And what can he do?
 </p></div>
 
 
-<div type="textpart" subtype="section" n="4">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="4">
 <p><label>Pythagoras</label> Next you will learn to count.</p>
 
 <p><label>First Dealer</label> I can do that already.</p>
@@ -161,7 +164,7 @@ First Dealer. He looks all right. And what can he do?
 
 
 
-<pb n="192"/></p>
+<pb n="v.1.p.192"/></p>
 
 <p><label>Pythagoras</label> Clearly. That cannot move which lacks shape and form. You will also find that God is a number; an intelligence; a harmony.</p>
 
@@ -170,7 +173,7 @@ First Dealer. He looks all right. And what can he do?
 <p><label>Pythagoras</label></p></div>
 
 
-<div type="textpart" subtype="section" n="5">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="5">
 <p>More than this, you have to learn that you yourself are § not the person you appear to be.</p>
 
 <p><label>First Dealer</label> What, I am some one else, not the I who am speaking to you?</p>
@@ -180,7 +183,7 @@ First Dealer. He looks all right. And what can he do?
 <p><label>First Dealer</label> Why then I shall be immortal, and take one shape after another?</p></div>
 
 
-<div type="textpart" subtype="section" n="6">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="6">
 <p>But enough of this, And now what is your diet?</p>
 
 <p><label>Pythagoras</label> Of living things I eat none. All else I eat, except beans.</p>
@@ -203,14 +206,14 @@ I must have him at any price. What do you start him at?</p>
 
 
 
-<pb n="193"/></p>
+<pb n="v.1.p.193"/></p>
 
 <p><label>Zeus</label> They are welcome to him. Now up with the next.
 </p></div>
 
 
-<div type="textpart" subtype="section" n="7">
-<p><label>Heraclitus</label> What about yonder grubby Pontian<note n="193.1">See Diogenes in Notes.</note>?</p>
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="7">
+<p><label>Heraclitus</label> What about yonder grubby Pontian<note xml:lang="eng" n="v.1.p.193.n.1">See Diogenes in Notes.</note>?</p>
 
 <p><label>Zeus</label> Yes, he will do.</p>
 
@@ -240,7 +243,7 @@ They call him Dog for short.</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="8">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="8">
 <p><label>Second Dealer</label> Tell me, good fellow, where do you come from?</p>
 
 <p><label>Diogenes</label> Everywhere.</p>
@@ -258,7 +261,7 @@ They call him Dog for short.</p>
 
 
 
-<pb n="194"/></p>
+<pb n="v.1.p.194"/></p>
 
 <p><label>Second Dealer</label> Then why no lion’s-skin? You have the orthodox club.</p>
 
@@ -271,7 +274,7 @@ They call him Dog for short.</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="9">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="9">
 <p>Second D. Well, prophet; and if I buy you, how shall you handle my case?</p>
 
 <p><label>Diogenes</label> I shall commence operations by stripping off your superfluities, putting you into fustian, and leaving you closeted with Necessity. Then I shall give you a course of hard labour. You will sleep on the ground, drink water, and fill your belly as best you can, Have you money? ‘Take my advice and throw it into the sea. With wife and children and country you will not concern yourself; there will be no more of that nonsense. You will exchange your present home for a sepulchre, a ruin, or a tub. What with lupines and close-written tomes, your knapsack will never be empty; and you will vote yourself happier than any king. Nor will you esteem it any inconvenience, if a flogging or a turn of the rack should fall to your lot.</p>
@@ -285,13 +288,13 @@ They call him Dog for short.</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="10">
-<p><label>Diogenes</label> ‘The heart may burn, the tongue knows nought thereof’<note n="194.1">Hippolytus (in Euripides’s play of that name) is reproached with having broken an oath, and thus defends himself; ‘The tongue hath sworn: the heart knew nonght thereof.’</note>
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="10">
+<p><label>Diogenes</label> ‘The heart may burn, the tongue knows nought thereof’<note xml:lang="eng" n="v.1.p.194.n.1">Hippolytus (in Euripides’s play of that name) is reproached with having broken an oath, and thus defends himself; ‘The tongue hath sworn: the heart knew nonght thereof.’</note>
 
 
 
 
-<pb n="195"/>
+<pb n="v.1.p.195"/>
 
 
 
@@ -303,7 +306,7 @@ Above all, be bold, be impudent; distribute your abuse impartially to king and c
 </p></div>
 
 
-<div type="textpart" subtype="section" n="11">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="11">
 <p>Second D, Oh, vile creed! Monstrous creed! Avaunt!</p>
 
 <p><label>Diogenes</label> But look you, it is all so easy; it is within every man’s reach. No education is necessary, no nonsensical argumentation. I offer you a short cut to Glory. You may be the merest clown—cobbler, fishmonger, carpenter, money-changer; yet there is nothing to prevent your becoming famous. Given brass and boldness, you have only to learn to wag your tongue with dexterity.</p>
@@ -315,7 +318,7 @@ Above all, be bold, be impudent; distribute your abuse impartially to king and c
 </p></div>
 
 
-<div type="textpart" subtype="section" n="12">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="12">
 <p><label>Zeus</label> Now for the Cyrenaic, the crowned and purple-robed.</p>
 
 <p><label>Heraclitus</label> Attend please, gentlemen all. A most valuable article, this, and calls for a long purse.’ Look at him, A sweet thing in creeds. A creed for a king. Has any gentleman a use for the Lap of Luxury? Who bids?:</p>
@@ -326,13 +329,13 @@ Above all, be bold, be impudent; distribute your abuse impartially to king and c
 
 
 
-<pb n="196"/></p>
+<pb n="v.1.p.196"/></p>
 
 <p><label>Heraclitus</label> Please not to worry him with questions, sir. He is drunk, and cannot answer; his tongue plays him tricks, as you see.</p>
 
 <p><label>Third Dealer</label> And who in his senses would buy such an abandoned reprobate? How he smells of scent! And how he slips and staggers about! Well, you must speak for him, Hermes. What can he do? What is his line?</p>
 
-<p><label>Heraclitus</label> Well, for any gentleman who is not strait-laced, who loves a pretty girl, a bottle, and a jolly companion, he is the very thing. He is also a past master in gastronomy, and a connoisseur in voluptuousness generally. He was educated at Athens, and has served royalty in Sicily<note n="196.1">See Aristippus in Notes.</note>, where he had a very good character. Here are his principles in a nutshell: Think the worst of things: make the most of things: get all possible pleasure out of things.</p>
+<p><label>Heraclitus</label> Well, for any gentleman who is not strait-laced, who loves a pretty girl, a bottle, and a jolly companion, he is the very thing. He is also a past master in gastronomy, and a connoisseur in voluptuousness generally. He was educated at Athens, and has served royalty in Sicily<note xml:lang="eng" n="v.1.p.196.n.1">See Aristippus in Notes.</note>, where he had a very good character. Here are his principles in a nutshell: Think the worst of things: make the most of things: get all possible pleasure out of things.</p>
 
 <p><label>Third Dealer</label> You must look for wealthier purchasers. My purse is not equal to such a festive creed.</p>
 
@@ -341,7 +344,7 @@ Above all, be bold, be impudent; distribute your abuse impartially to king and c
 </p></div>
 
 
-<div type="textpart" subtype="section" n="13">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="13">
 <p><label>Zeus</label> Put it aside, and up with another. Stay, take the pair from Abdera and Ephesus; the creeds of Smiles and Tears. They shall make one lot.</p>
 
 <p><label>Heraclitus</label> Come forward, you two. Lot No. 4. A superlative pair. The smartest brace of creeds on our catalogue.</p>
@@ -357,13 +360,13 @@ Above all, be bold, be impudent; distribute your abuse impartially to king and c
 <p><label>Fourth Dealer</label> Your vanity is infinite, if you like. Stop that laughing, you rascal.—</p></div>
 
 
-<div type="textpart" subtype="section" n="14">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="14">
 <p>And you, my poor fellow, what are you crying for? I must see what I can make of you.
 
 
 
 
-<pb n="197"/></p>
+<pb n="v.1.p.197"/></p>
 
 <p><label>Heraclitus</label> I am thinking, friend, upon human affairs; and well may I weep and lament, for the doom of all is sealed. Hence my compassion and my sorrow. For the present, I think not of it; but the future!—the future is all bitterness. Conflagration and destruction of the world. I weep to think that nothing abides, All things are whirled together in confusion. Pleasure and pain, knowledge and ignorance, great and small; up and down they go, the playthings of Time.</p>
 
@@ -396,7 +399,7 @@ Above all, be bold, be impudent; distribute your abuse impartially to king and c
 </p></div>
 
 
-<div type="textpart" subtype="section" n="15">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="15">
 <p><label>Heraclitus</label> The Athenian there? Old Chatterbox?</p>
 
 <p><label>Zeus</label> By all means.</p>
@@ -412,7 +415,7 @@ Above all, be bold, be impudent; distribute your abuse impartially to king and c
 <p><label>Socrates</label> And could he have a better? The love I teach is of.
 
 
-<pb n="198"/>
+<pb n="v.1.p.198"/>
 
 
 the spirit, not of the flesh. Under my roof, be sure, a boy will come to no harm.</p>
@@ -422,7 +425,7 @@ the spirit, not of the flesh. Under my roof, be sure, a boy will come to no harm
 </p></div>
 
 
-<div type="textpart" subtype="section" n="16">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="16">
 <p><label>Socrates</label> Now by Dog and Plane-tree, it is as I say!</p>
 
 <p><label>Fifth Dealer</label> Heracles! What strange Gods are these?</p>
@@ -432,7 +435,7 @@ the spirit, not of the flesh. Under my roof, be sure, a boy will come to no harm
 </p></div>
 
 
-<div type="textpart" subtype="section" n="17">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="17">
 <p>Fifth D. Quite so. My mistake. Now what is your manner of life?</p>
 
 <p><label>Socrates</label> I live in a city of my own building; I make my own laws, and have a novel constitution of my own.</p>
@@ -452,7 +455,7 @@ the spirit, not of the flesh. Under my roof, be sure, a boy will come to no harm
 </p></div>
 
 
-<div type="textpart" subtype="section" n="18">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="18">
 <p>Fifth D. Unparalleled generosity!—And now, what are the main features of your philosophy?</p>
 
 <p><label>Socrates</label> Ideas and types of things. All things that you see, the earth and all that is upon it, the sea, the sky,—each has its counterpart in the invisible world.</p>
@@ -465,7 +468,7 @@ the spirit, not of the flesh. Under my roof, be sure, a boy will come to no harm
 
 
 
-<pb n="199"/></p>
+<pb n="v.1.p.199"/></p>
 
 <p><label>Fifth Dealer</label> I see no signs of these ‘types’ of yours.</p>
 
@@ -480,7 +483,7 @@ the spirit, not of the flesh. Under my roof, be sure, a boy will come to no harm
 </p></div>
 
 
-<div type="textpart" subtype="section" n="19">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="19">
 <p><label>Heraclitus</label> What name?</p>
 
 <p><label>Fifth Dealer</label> Dion; of Syracuse.</p>
@@ -500,7 +503,7 @@ the spirit, not of the flesh. Under my roof, be sure, a boy will come to no harm
 <p><label>Zeus</label> Call the next lot.</p></div>
 
 
-<div type="textpart" subtype="section" n="20">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="20">
 <p>Stoicism; the creed of the sorrowful countenance, the close-cropped creed.</p>
 
 <p><label>Heraclitus</label> Ah yes, several customiers, I fancy, are on the look-out for him. Virtue incarnate! The very quintessence of creeds!
@@ -512,7 +515,7 @@ Who is for universal monopoly?</p>
 
 
 
-<pb n="200"/></p>
+<pb n="v.1.p.200"/></p>
 
 <p><label>Seventh Dealer</label> And I suppose sole cook, sole tanner, sole carpenter, and all that?</p>
 
@@ -521,7 +524,7 @@ Who is for universal monopoly?</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="21">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="21">
 <p>Seventh D. Regard me as your purchaser, good fellow, and tell me all about yourself. I dare say you think it rather hard to be sold for a slave?</p>
 
 <p><label>Chrysippus</label> Not at all. These things are beyond our control. And what is beyond our control is indifferent.</p>
@@ -541,7 +544,7 @@ Who is for universal monopoly?</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="22">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="22">
 <p>Seventh D. Oh, subtle! What else can you tell me?</p>
 
 <p><label>Chrysippus</label> I have verbal involutions, for the better hampering, crippling, and muzzling of my antagonists. This is performed by the use of the far-famed syllogism.</p>
@@ -556,7 +559,7 @@ Who is for universal monopoly?</p>
 
 
 
-<pb n="201"/>
+<pb n="v.1.p.201"/>
 
 
 guess correctly whether he means to restore him or not. Which are you going to say?</p>
@@ -583,7 +586,7 @@ Better still, there is the ‘Electra’ and the ‘Man in the Hood.’</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="23">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="23">
 <p><label>Chrysippus</label> Well, but the Man in the Hood is your father. You don’t know the Man in the Hood. Therefore you don’t know your own father.</p>
 
 <p><label>Seventh Dealer</label> Why, no. But if I take his hood off, I shall get at the facts. Now tell me, what is the end of your philosophy?
@@ -593,7 +596,7 @@ What happens when you reach the goal of virtue?</p>
 
 
 
-<pb n="202"/></p>
+<pb n="v.1.p.202"/></p>
 
 <p><label>Seventh Dealer</label> All this is exalted and magnanimous to a degree. But what am I to think when I find that you are also the creed of cent-per-cent, the creed of the usurer? Has be swallowed his hellebore? is be made perfect in virtue?</p>
 
@@ -602,7 +605,7 @@ What happens when you reach the goal of virtue?</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="24">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="24">
 <p>Seventh D, And the same applies to the fees you take from your youthful pupils? None but the true believer sells virtue for a fee?</p>
 
 <p><label>Chrysippus</label> Quite right. I take the fee in my pupil’s interest, not because I want it. The world is made up of diffusion and accumulation. I accordingly practise my pupil in the former, and myself in the latter.</p>
@@ -615,7 +618,7 @@ What happens when you reach the goal of virtue?</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="25">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="25">
 <p><label>Chrysippus</label> It cripples; it ties the tongue, and turns the brain. Nay, I have but to will it, and you are stone this instant.</p>
 
 <p><label>Seventh Dealer</label> Stone! You are no Perseus, friend?</p>
@@ -627,7 +630,7 @@ What happens when you reach the goal of virtue?</p>
 <p><label>Chrysippus</label> Well, and an animal is a body?
 
 
-<pb n="203"/></p>
+<pb n="v.1.p.203"/></p>
 
 <p><label>Seventh Dealer</label> Yes.</p>
 
@@ -673,7 +676,7 @@ Is every body animate?</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="26">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="26">
 <p><label>Zeus</label> Don’t waste time. Next lot,—the Peripatetic!</p>
 
 <p><label>Heraclitus</label> Now, my beauty, now, Affluence! Gentlemen, if you want Wisdom for your money, here is a creed that comprises all knowledge.:</p>
@@ -684,7 +687,7 @@ Is every body animate?</p>
 
 
 
-<pb n="204"/></p>
+<pb n="v.1.p.204"/></p>
 
 <p><label>Eighth Dealer</label> How can that be?</p>
 
@@ -711,7 +714,7 @@ Is every body animate?</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="27">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg024.perseus-eng4:" n="27">
 <p><label>Heraclitus</label> He is yours,</p>
 
 <p><label>Zeus</label> What have we left?</p>
@@ -728,7 +731,7 @@ Is every body animate?</p>
 
 
 
-<pb n="205"/></p>
+<pb n="v.1.p.205"/></p>
 
 <p><label>Ninth Dealer</label> Are not we something?</p>
 
@@ -780,7 +783,7 @@ Is every body animate?</p>
 
 
 
-<pb n="206"/></p>
+<pb n="v.1.p.206"/></p>
 
 <p><label>Ninth Dealer</label> Oh, V'll send you to the treadmill. That will convince you with a vengeance that I am your master.</p>
 
@@ -796,4 +799,4 @@ Is every body animate?</p>
 
 
 
-</div></body></text></TEI>
+</body></text></TEI>

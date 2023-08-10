@@ -4,8 +4,8 @@
     <teiHeader xml:lang="eng">
 <fileDesc>
 <titleStmt>
+<title xml:lang="eng">Dialogues of the Courtesans</title>
 <title xml:lang="grc">Ἑταιρικοὶ διάλογοι</title>
-<title>Dialogues of the Courtesans</title>
 <author>Lucian of Samosata</author>
 <editor role="translator">Matthew Donald Macleod</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
@@ -35,7 +35,7 @@
             <biblStruct>
                 <monogr>
                     <author>Lucian of Samosata</author>
-                    <title>Lucian with an English Translation</title>
+                    <title xml:lang="eng">Lucian with an English Translation</title>
                     <editor role="translator">Matthew Donald Macleod</editor>
                     <imprint>
                         <pubPlace>London</pubPlace>

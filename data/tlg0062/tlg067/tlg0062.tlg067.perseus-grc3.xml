@@ -5,7 +5,7 @@
 <fileDesc>
 <titleStmt>
 <title xml:lang="grc">Ἐνάλιοι διάλογοι</title>
-<title>Dialogues of the Sea-Gods</title>
+<title xml:lang="eng">Dialogues of the Sea-Gods</title>
 <author>Lucian of Samosata</author>
 <editor>Matthew Donald Macleod</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
@@ -35,7 +35,7 @@
             <biblStruct>
                 <monogr>
                     <author>Lucian of Samosata</author>
-                    <title>Lucian with an English Translation</title>
+                    <title xml:lang="eng">Lucian with an English Translation</title>
                     <editor>Matthew Donald Macleod</editor>
                     <imprint>
                         <pubPlace>London</pubPlace>
@@ -323,7 +323,9 @@
 <sp><speaker>ΠΟΣΕΙΔΩΝ</speaker><p>Οἶδα οὐκ ἄμορφον, ὦ Ἀλφειέ, τὴν Ἀρέθουσαν,
 ἀλλὰ διαυγής ἐστι καὶ διὰ καθαροῦ
 ἀναβλύζει καὶ τὸ ὕδωρ ἐπιπρέπει ταῖς ψηφῖσιν
- ὅλον ὑπὲρ αὐτῶν φαινόμενον ἀργυροειδές. <milestone unit="altpage" n="297"/> </p></sp>
+ ὅλον ὑπὲρ αὐτῶν φαινόμενον ἀργυροειδές. </p></sp>
+<milestone unit="altpage" n="297"/>
+
 
 <sp><speaker>ΑΛΦΕΙΟΣ</speaker><p>Ὡς ἀληθῶς οἶσθα τὴν πηγήν, ὦ Πόσειδον· παρ'
 ἐκείνην οὖν ἀπέρχομαι.</p></sp>
@@ -517,7 +519,9 @@
 
 <sp><speaker>ΠΟΣΕΙΔΩΝ</speaker><p>Ἀλλὰ τῷ Διονύσῳ ἀχαριστεῖν,
 <note xml:lang="mul" n="7.200.1">Ἀμφιτρίτη, οὐκ ἀχαριστεῖν ἄξιον γ.</note>
- ὦ Ἀμφιτρίτη, οὐκ ἄξιον. <milestone unit="altpage" n="313"/> </p></sp>
+ ὦ Ἀμφιτρίτη, οὐκ ἄξιον. </p></sp>
+<milestone unit="altpage" n="313"/>
+
 
 <sp><speaker>ΝΗΡΕΙΔΕΣ</speaker><p>Αὕτη δὲ ἄρα τί παθοῦσα κατέπεσεν ἀπὸ τοῦ
 κριοῦ, ὁ ἀδελφὸς δὲ ὁ Φρίξος ἀσφαλῶς ὀχεῖται;</p></sp>
@@ -530,7 +534,9 @@
  ἅμα συσχεθεῖσα καὶ ἰλιγγιάσασα
 πρὸς τὸ σφοδρὸν τῆς πτήσεως ἀκρατὴς
 ἐγένετο τῶν κεράτων τοῦ κριοῦ, ὧν τέως ἐπείληπτο,
- καὶ κατέπεσεν ἐς τὸ πέλαγος. <milestone unit="altpage" n="314"/> </p></sp>
+ καὶ κατέπεσεν ἐς τὸ πέλαγος. </p></sp>
+<milestone unit="altpage" n="314"/>
+
 
 
 <pb n="v.7.p.202"/>
@@ -716,7 +722,9 @@
 δεῖται γάρ τι αὐτῆς.</p></sp>
 
 <sp><speaker>ΠΟΣΕΙΔΩΝ</speaker><p>Πεπράξεται ταῦτα, ὦ Ἶρι. τίνα δ’ ὅμως παρέξει
- τὴν χρείαν αὐτῷ ἀναφανεῖσα καὶ μηκέτι πλέουσα; <milestone unit="altpage" n="315"/> </p></sp>
+ τὴν χρείαν αὐτῷ ἀναφανεῖσα καὶ μηκέτι πλέουσα; </p></sp>
+<milestone unit="altpage" n="315"/>
+
 
 <sp><speaker>ΙΡΙΣ</speaker><p>Τὴν Λητὼ ἐπ' αὐτῆς δεῖ ἀποκυῆσαι· ἤδη δὲ
 πονήρως ὑπὸ τῶν ὠδίνων ἔχει.</p></sp>
@@ -797,12 +805,14 @@
 εἴργασται. ὁρᾷς γοῦν ὅπως διάκειμαι ἀπὸ
 <note xml:lang="mul" n="7.214.4">ὑπὸ β.</note>
  τῶν
- ἐγκαυμάτων. <milestone unit="altpage" n="318"/> </p></sp>
+ ἐγκαυμάτων. </p></sp>
+<milestone unit="altpage" n="318"/>
+
 
 <sp><speaker>ΘΑΛΑΣΣΑ</speaker><p>Θολερός, ὦ Ξάνθε, καὶ θερμός, ὡς εἰκός, τὸ
 αἷμα μὲν ἀπὸ τῶν νεκρῶν, ἡ θέρμη δέ, ὡς φῄς, ἀπὸ
 τοῦ πυρός· καὶ εἰκότως, ὦ Ξάνθε, ὃς ἐπὶ τὸν ἐμὸν
-υἱ&lt;ων&gt;ὸν
+υἱ<add>ων</add>ὸν
 <note xml:lang="mul" n="7.214.5">υἱὸν γβ: corr. edd..</note>
  ὥρμησας οὐκ αἰδεσθεὶς ὅτι Νηρεΐδος υἱὸς ἦν.</p></sp>
 

@@ -56,9 +56,12 @@ target="https://archive.org/details/worksoflucianofs03luciuoft/page/167/mode/1up
 </fileDesc>
 <encodingDesc>
 <p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.</p>
-<refsDecl n="CTS">
-<cRefPattern n="section" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
-</refsDecl>
+ <refsDecl n="CTS">
+  <cRefPattern matchPattern="(\w+)"
+   replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+   <p>This pointer pattern extracts section.</p>
+  </cRefPattern>
+ </refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -71,7 +74,7 @@ target="https://archive.org/details/worksoflucianofs03luciuoft/page/167/mode/1up
 <div type="translation" n="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4" xml:lang="eng">
 <head>THE PARASITE: A DEMONSTRATION THAT SPONGING IS A PROFESSION</head>
 <head><label>Tychiades</label>. <label>Simon</label></head>
-<div type="textpart" subtype="section" n="1">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="1">
 <p><label>Tychiades</label> I am curious about you, Simon. Ordinary people, free and slaves alike, have some trade or profession that enables them to benefit themselves and others; you seem to be an exception.</p>
 
 <p><label>Simon</label> I do not quite see what you mean, Tychiades; put it a little clearer.</p>
@@ -97,7 +100,7 @@ worse than you take me for.</p>
 
 
 
-<pb n="168"/>
+<pb n="v.3.p.168"/>
 
 
 
@@ -129,7 +132,7 @@ more in your way; are you a carpenter or cobbler? Your circumstances are hardly 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="2">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="2">
 <p><label>Tychiades</label> Why, what sane man would call sponging a profession?</p>
 
 <p><label>Simon</label> I, for one. And if you think I am not sane, put down my innocence of other professions to insanity, and let that be my sufficient excuse. My lady Insanity, they say, is unkind to her votaries in most respects; but at least she excuses their offences, which she makes herself responsible for, like a schoolmaster or tutor.</p>
@@ -144,7 +147,7 @@ more in your way; are you a carpenter or cobbler? Your circumstances are hardly 
 
 
 
-<pb n="169"/>
+<pb n="v.3.p.169"/>
 
 
 
@@ -167,7 +170,7 @@ to Phidias; I am as proud of my profession as Phidias of his Zeus.</p>
 <p><label>Simon</label> Simon the Sponger, Dion the Philosopher. I shall like mine as well as he his.</p></div>
 
 
-<div type="textpart" subtype="section" n="3">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="3">
 <p><label>Tychiades</label> Well, well, your taste in titles concerns me very little. Come now to the next absurdity.</p>
 
 <p><label>Simon</label> Which is?</p>
@@ -189,12 +192,12 @@ to Phidias; I am as proud of my profession as Phidias of his Zeus.</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="4">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="4">
 <p><label>Simon</label> An art, as I once heard a wise man say, is a body of perceptions regularly employed for some useful purpose in human life.
 
 
 
-<pb n="170"/>
+<pb n="v.3.p.170"/>
 
 
 </p>
@@ -214,7 +217,7 @@ But among men how tell the base apart? Virtue and vice stamp not the outward fle
 </p></div>
 
 
-<div type="textpart" subtype="section" n="5">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="5">
 <p>Next, there is the faculty of so directing your words and actions as to effect intimacy and convince your patron of your devotion: is that consistent with weak understanding or perception?</p>
 
 <p><label>Tychiades</label> Certainly not.</p>
@@ -227,7 +230,7 @@ But among men how tell the base apart? Virtue and vice stamp not the outward fle
 
 
 
-<pb n="171"/>
+<pb n="v.3.p.171"/>
 
 
 
@@ -235,13 +238,13 @@ But among men how tell the base apart? Virtue and vice stamp not the outward fle
 </p></div>
 
 
-<div type="textpart" subtype="section" n="6">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="6">
 <p>The next point to be established is, that sponging depends not merely on perceptions, but on perceptions regularly employed. Nothing simpler. The perceptions on which other arts are based frequently remain unemployed by their owner for days, nights, months, or years, without his art’s perishing; whereas, if those of the sponger were to miss their daily exercise, not merely his art would perish, but he with it.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="7">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="7">
 <p>There remains the ‘useful purpose in human life’; it would take a madman to question that here. I find nothing that serves a more useful purpose in human life than eating and drinking; without them you cannot live.</p>
 
 <p><label>Tychiades</label> That is true.
@@ -249,7 +252,7 @@ But among men how tell the base apart? Virtue and vice stamp not the outward fle
 </p></div>
 
 
-<div type="textpart" subtype="section" n="8">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="8">
 <p><label>Simon</label> Moreover, sponging is not to be classed with beauty and strength, and so called a quality instead of an art?</p>
 
 <p><label>Tychiades</label> No.</p>
@@ -278,7 +281,7 @@ But among men how tell the base apart? Virtue and vice stamp not the outward fle
 
 
 
-<pb n="172"/>
+<pb n="v.3.p.172"/>
 
 
 
@@ -288,7 +291,7 @@ bruises and with the former in death; but no one will tell you of a sponger who 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="9">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="9">
 <p><label>Tychiades</label> That seems to be the upshot. But now proceed tog give us a good definition of your art.</p>
 
 <p><label>Simon</label> Well thought of. And I fancy this will about do: Sponging is the art of eating and drinking, and of the talk by which these may be secured; its end is Pleasure.</p>
@@ -300,7 +303,7 @@ bruises and with the former in death; but no one will tell you of a sponger who 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="10">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="10">
 <p>And that it does I will soon show you. The wise Homer, admiring the sponger’s life as the only blissful enviable one, has this:
 
 I say no fairer end may be attained
@@ -317,7 +320,7 @@ Moreover, the character to whom he entrusts these words is not just any one; it 
 
 
 
-<pb n="173"/>
+<pb n="v.3.p.173"/>
 
 
 
@@ -328,20 +331,20 @@ Stoic. But no; he never said theirs was a fairer end. And again, when he was liv
 </p></div>
 
 
-<div type="textpart" subtype="section" n="11">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="11">
 <p>It was a remarkable piece of impudence on Epicurus’s part to appropriate the end that belongs to sponging for his system of Happiness. That it was a bit of larceny—Epicurus having nothing, and the sponger much, to do with Pleasure—I will soon show you, I take it that Pleasure means, first, bodily tranquillity, and secondly, an untroubled soul. Well, the sponger attains both, Epicurus neither. A man who is busy inquiring into the earth’s shape, the infinity of worlds, the sun’s size, astronomic distances, the elements, the existence or non-existenée of Gods, and who is engaged in incessant controversies about the end—he is a prey not merely to human, but to cosmic perturbations, Whereas the sponger, convinced that all is for the best in the best of all possible worlds, living secure and calm with no such perplexities to trouble him, eats and sleeps and lies on his back, letting his hands and feet look after themselves, like Odysseus on his passage home from Scheria.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="12">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="12">
 <p>But here is anindependent refutation of Epicurus’s pretensions to Pleasure. Our Epicurus, whoever his Wisdom may be, either is, or is not, supplied with victuals. If he is not, so far from having a pleasurable life, he will have no life at all. If he is, does he get them out of his own means, or from some one else? If the latter, he is a sponger, and not what he says he is; if the former, he will not have a pleasurable life.</p>
 
 <p><label>Tychiades</label> How so?
 
 
 
-<pb n="174"/>
+<pb n="v.3.p.174"/>
 
 
 </p>
@@ -359,13 +362,13 @@ Stoic. But no; he never said theirs was a fairer end. And again, when he was liv
 </p></div>
 
 
-<div type="textpart" subtype="section" n="13">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="13">
 <p>That sponging is an art, has now been abundantly proved; it remains to show its superiority; and this I shall take in two divisions: first, it has a general superiority to all the arts; and, secondly, it is superior to each of them separately. ‘The general superiority is this: the arts have to be instilled by dint of toil, threats and blows—regrettable necessities, all of them; my own art, of which the acquisition costs no toil, is perhaps the only exception, Who ever came away from dinner in tears?
 with the schoolroom it is different; or who ever went out to dinner with the dismal expression characteristic of going: to
 
 
 
-<pb n="175"/>
+<pb n="v.3.p.175"/>
 
 
 
@@ -376,31 +379,31 @@ let him go without. Oh, the mouth is very useful for reward and punishment.
 </p></div>
 
 
-<div type="textpart" subtype="section" n="14">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="14">
 <p>Again, with the other arts the result comes only after the learning is done; their fruits alone are agreeable; ‘long and steep the road thereto.’ Sponging is once more an exception, in that profit and learning here go hand in hand; you grasp your end as soon as you begin. And whereas all other arts aré
 practised solely for the sustenance they will ultimately bring, the sponger has his sustenance from the day he starts. You realize, of course, that the farmer’s object in farming is something else than farming, the carpenter’s something different from abstract carpentering; but the sponger has no ulterior object; occupation and pre-occupation are for him one and the same.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="15">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="15">
 <p>Then it is no news to any one that other professions slave habitually, and get just one or two holidays a month; States keep some monthly and some yearly festivals; these are their times of enjoyment. But the sponger has thirty festivals a month; every day is a red-letter day with him.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="16">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="16">
 <p>Once more, success in the other arts presupposes a diet as abstemious as any invalid’s; eat and drink to your heart’s content, and you make no progress in your studies.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="17">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="17">
 <p>Other arts, again, are useless to their professor unless he has his plant; you cannot play the flute if you have not one to play; lyrical music requires a lyre, horsemanship a horse. But of ours one of the excellences and conveniences is that no instrument is required for its exercise.
 
 
 
-<pb n="176"/>
+<pb n="v.3.p.176"/>
 
 
 
@@ -408,25 +411,25 @@ practised solely for the sustenance they will ultimately bring, the sponger has 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="18">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="18">
 <p>Other arts we pay, this we are paid, to learn.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="19">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="19">
 <p>Further, while the rest have their teachers, no one teaches sponging; it is a gift from Heaven, as Socrates said of poetry.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="20">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="20">
 <p>Then do not forget that, while the others have to be suspended during a journey or a voyage, this may be in full swing under those circumstances too.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="21">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="21">
 <p><label>Tychiades</label> No doubt about that.</p>
 
 <p><label>Simon</label> Another point that strikes me is that other arts feel the need of this one, but not vice versa.</p>
@@ -440,7 +443,7 @@ practised solely for the sustenance they will ultimately bring, the sponger has 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="22">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="22">
 <p><label>Simon</label> Ah, I know nothing about that. But now look here: you know how common and mean are the beginnings of the other arts; that of sponging, on the contrary, is noble. Friendship, that theme of the encomiast, is neither more nor less, you will find, than the beginning of sponging.</p>
 
 <p><label>Tychiades</label> How do you make that out?</p>
@@ -451,17 +454,17 @@ Friend, indeed! by what right? he has never eaten or drunk with us. You see; onl
 </p></div>
 
 
-<div type="textpart" subtype="section" n="23">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="23">
 <p>Next take a sound proof, though not the only one, that it is the most royal of the arts: at the rest of them men have to work (not to mention toil and sweat) in the sitting or standing posture, which marks them for the absolute slaves of their art, whereas the sponger is free to recline like a king.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="24">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="24">
 <p>As to his happy condition, I need no more than allude to the
 
 
-<pb n="177"/>
+<pb n="v.3.p.177"/>
 
 
 
@@ -471,7 +474,7 @@ wise-Homer’s words; he it is, and he alone, that ‘planteth not, nor ploughs�
 </p></div>
 
 
-<div type="textpart" subtype="section" n="25">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="25">
 <p>Again, while knavery and folly are no bar to rhetoric, mathematics, or copper-working, no knave or fool can get on as a sponger.</p>
 
 <p><label>Tychiades</label> Dear, dear, what an amazing profession! I am almost tempted to exchange my own for it.
@@ -479,13 +482,13 @@ wise-Homer’s words; he it is, and he alone, that ‘planteth not, nor ploughs�
 </p></div>
 
 
-<div type="textpart" subtype="section" n="26">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="26">
 <p><label>Simon</label> I consider I have now established its superiority to art in general; let us next show how it excels individual arts. And it would be silly to compare it with the trades; I leave that to its detractors, and undertake to prove it superior to the greatest and most honourable professions. Such by universal acknowledgement are Rhetoric and Philosophy; indeed, some people insist that no name but science is grand enough for them; so if I prove sponging to be far above even these, a fortiori it will excel the others as Nausicaa her maids.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="27">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="27">
 <p>Now, its first superiority it enjoys over Philosophy and Rhetoric alike, and this is in the matter of real existence; it can claim that, they cannot. Instead of our having a single consistent notion of Rhetoric, some of us consider it an art, some the negation of art, some a mere artfulness, and so on. Similarly there is no unity in Philosophy’s subject, or in its relation to it; Epicurus takes one view, the Stoics another, the Academy, the Peripatetics, others; in fact Philosophy has as many definitions as definers. So far at least victory wavers between them, and their profession cannot be called one. The conclusion is obvious; I utterly deny that what has no real existence can be an art. To illustrate: there is one and only one Arithmetic; twice two is four whether here or in Persia;
 Greeks and barbarians have no quarrel over that; but philosophies are many and various, agreed neither upon their beginnings nor their ends.
 
@@ -493,7 +496,7 @@ Greeks and barbarians have no quarrel over that; but philosophies are many and v
 
 
 
-<pb n="178"/>
+<pb n="v.3.p.178"/>
 
 
 
@@ -503,26 +506,26 @@ Tyc. Perfectly true; they call Philosophy one, but they make it many.
 </p></div>
 
 
-<div type="textpart" subtype="section" n="28">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="28">
 <p><label>Simon</label> Well, such a want of harmony might be excused in other arts, they being of a contingent nature, and the perceptions on which they are based not being immutable, But that Philosophy should lack unity, and even conflict with itself like instruments out of tune—how can that be tolerated? Philosophy, then, is not one, for I find its diversity infinite. And it cannot be many, because it is Philosophy, not philosophies.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="29">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="29">
 <p>The real existence of Rhetoric must incur the same criticism,
 That with the same subject-matter all professors should not agree, but maintain conflicting opinions, amounts to a demonstration: that which is differently apprehended cannot exist. ‘The inquiry whether a thing is this or that, in place of agreement that it is one, is tantamount to a negation of its existence.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="30">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="30">
 <p>How different is the case of Sponging! for Greeks or barbarians, one in nature and subject and method. No one will tell you that these sponge this way, and those that; there are no spongers with peculiar principles, to match those of Stoics and Epicureans, that I know of; they are all agreed; their conduct and their end alike harmonious, Sponging, I take it on this showing, is just Wisdom itself.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="31">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="31">
 <p><label>Tychiades</label> Yes, I think you have dealt with that point sufficiently; apart from that, how do you show the inferiority of Philosophy to your art?</p>
 
 <p><label>Simon</label> I must first mention that no sponger was ever in love with Philosophy; but many philosophers are recorded to have set their hearts on Sponging, to which they still remain constant.</p>
@@ -533,7 +536,7 @@ That with the same subject-matter all professors should not agree, but maintain 
 
 
 
-<pb n="179"/>
+<pb n="v.3.p.179"/>
 
 
 </p>
@@ -549,13 +552,13 @@ That with the same subject-matter all professors should not agree, but maintain 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="32">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="32">
 <p>Aeschines the Socratic, now, author of dialogues as witty as they are long, brought them with him to Sicily in the hope that they would gain him the royal notice of Dionysius; having given a reading of the Miltiades, and found himself famous, he settled down in Sicily to sponge on Dionysius and forget Socratic composition.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="33">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="33">
 <p>Again, I suppose you will pass Aristippus of Cyrene as a distinguished philosopher?</p>
 
 <p><label>Tychiades</label> Assuredly.</p>
@@ -565,7 +568,7 @@ That with the same subject-matter all professors should not agree, but maintain 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="34">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="34">
 <p>Well then, Plato, the noblest of you all, came to Sicily with the same view; he did a few days’ sponging, but found himself incompetent and had to leave. He went back to Athens, took considerable pains with himself, and then had another try, with exactly the same result, however. Plato’s Sicilian disaster seems to me to bear comparison with that of Nicias.</p>
 
 <p><label>Tychiades</label> Your authority for all this, pray?
@@ -573,33 +576,33 @@ That with the same subject-matter all professors should not agree, but maintain 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="35">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="35">
 <p><label>Simon</label> Oh, there are plenty of authorities; but I will specify Aristoxenus the musician, a weighty one enough, and himself attached as a sponger to Neleus. Then you of course know that Euripides held this relation to Archelaus till the day of his death, and Anaxarchus to Alexander.
 
 
 
 
-<pb n="180"/>
+<pb n="v.3.p.180"/>
 
 
 
 </p></div>
 
-<div type="textpart" subtype="section" n="36"><p>As for Aristotle, that tiro in all arts was a tiro here too.
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="36"><p>As for Aristotle, that tiro in all arts was a tiro here too.
 </p></div>
 
-<div type="textpart" subtype="section" n="37"><p>I have shown you, then, and without exaggeration, the philosophic passion for sponging. On the other hand, no one can point to a sponger who ever cared to philosophize.
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="37"><p>I have shown you, then, and without exaggeration, the philosophic passion for sponging. On the other hand, no one can point to a sponger who ever cared to philosophize.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="38">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="38">
 <p>But of course, if never to be hungry, thirsty, or cold, is to be happy, the sponger is the man who is in that position. Cold hungry philosophers you may see any day, but never a cold hungry sponger; the man would not be a sponger, that is all, but a wretched pauper, no better than a philosopher.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="39">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="39">
 <p><label>Tychiades</label> Well, let that pass. And now what about those many points in which your art is superior to Rhetoric and Philosophy?</p>
 
 <p><label>Simon</label> Human life, my dear sir, has its times and seasons; there is peace time and there is war time. These provide unfailing tests for the character of arts and their professors. Shall we take war time first, and see who will do-best for himself and for his city under those conditions?</p>
@@ -609,7 +612,7 @@ That with the same subject-matter all professors should not agree, but maintain 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="40">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="40">
 <p><label>Simon</label> Well, to make the thing more natural, and enable you to take it seriously, let us picture the circumstances. Sudden news has come of a hostile invasion; it has to be met; we are not going to sit still while our outlying territory is laid waste; the -
 commander-in-chief issues orders for a general muster of all liable to serve; the troops gather, including philosophers, thetoricians, and spongers. We had better strip them first, as the proper preliminary to arming. Now, my dear sir, have a look at them individually and see how they shape. Some of them you will find thin and white with underfeeding—all gooseflesh, as if they were lying wounded already. Now, when you think of a hard day, a stand-up fight with press and dust and wounds, what is it but a sorry jest to talk of such starvelings’
 being able to stand it?
@@ -617,14 +620,14 @@ being able to stand it?
 </p></div>
 
 
-<div type="textpart" subtype="section" n="41">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="41">
 <p>Now go and inspect the sponger. Full-bodied, flesh a nice
 
 1
 
 
 
-<pb n="181"/>
+<pb n="v.3.p.181"/>
 
 
 
@@ -634,7 +637,7 @@ colour, neither white like a woman’s nor tanned like a slave’s; you can see 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="42">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="42">
 <p>But why deal in conjecture when there are facts to hand? I make the simple statement that in war, of all the rhetoricians and philosophers who ever lived, most never ventured outside the city walls, and the few who did, under compulsion, take their places in the ranks left their posts and went home.</p>
 
 <p><label>Tychiades</label> A bold extravagant assertion. Well, prove it.</p>
@@ -643,7 +646,7 @@ colour, neither white like a woman’s nor tanned like a slave’s; you can see 
 
 
 
-<pb n="182"/>
+<pb n="v.3.p.182"/>
 
 
 
@@ -651,7 +654,7 @@ colour, neither white like a woman’s nor tanned like a slave’s; you can see 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="43">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="43">
 <p><label>Tychiades</label> Yes, I know all that. But then these are orators, trained to speak, not to fight. But the philosophers; you cannot say the same of them.</p>
 
 <p><label>Simon</label> Oh, yes; they discuss manliness every day, and do a great deal more towards wearing out the word Virtue than the orators; but you will find them still greater cowards and shirkers. How do I know? —In the first place, can any one name a philosopher killed in battle? No, they either do not serve, or else run away. Antisthenes, Diogenes, Crates, Zeno, Plato, Aeschines,
@@ -662,14 +665,14 @@ Aristotle, and all their company, never set eyes on a battle array. Their wise S
 </p></div>
 
 
-<div type="textpart" subtype="section" n="44">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="44">
 <p>But come now, if you don’t mind, to the sponger’s military behaviour; and also tell me whether there is any sponging recorded of the ancients.</p>
 
 <p><label>Simon</label> My dear fellow, the most uneducated of us has surely heard enough of Homer to know that he makes the best of his heroes spongers. The great Nestor, whose tongue distilled honeyed speech, sponged on the King; Achilles was, and was known for, the most upright of the Greeks in form and in mind; but neither for him, for Ajax, nor for Diomede, has Agamemnon such admiring praise as for Nestor. It is not for ten Ajaxes or Achilleses that he prays; no, Troy would have been taken long ago, if he had had in his host ten men like—that old sponger. Idomeneus, of Zeus’s own kindred, is also represented in the same relation to Agamemnon.
 
 
 
-<pb n="183"/>
+<pb n="v.3.p.183"/>
 
 
 
@@ -677,7 +680,7 @@ Aristotle, and all their company, never set eyes on a battle array. Their wise S
 </p></div>
 
 
-<div type="textpart" subtype="section" n="45">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="45">
 <p><label>Tychiades</label> I know the passages; but I do not feel sure of the sense in which they were spongers. Si, Well, recall the lines in which Agamemnon addresses Idomeneus.</p>
 
 <p><label>Tychiades</label> How do they go?</p>
@@ -692,12 +695,12 @@ Even as for me, whene’er it lists thee drink.</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="46">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="46">
 <p><label>Simon</label> Why, Tychiades, what else was Patroclus’s relation to Achilles? and he was as fine a fellow, all round, as any Greek of them all. Judging by his actions, I cannot make out that he was inferior to Achilles himself. When Hector had forced the gates and was fighting inside by the ships, it was Patroclus who repelled him and extinguished the flames which had got a hold on Protesilaus’s ship; yet one would not have said the people aboard her were inefficient—Ajax and Teucer they were, one as good in the mél¢e as the other with his bow. A great number of the barbarians, including Sarpedon the son of Zeus,
 
 
 
-<pb n="184"/>
+<pb n="v.3.p.184"/>
 
 
 
@@ -708,7 +711,7 @@ And all the score my spear had given to death.
 </p></div>
 
 
-<div type="textpart" subtype="section" n="47">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="47">
 <p><label>Tychiades</label> Yes, you have proved him a good man; but can you show him to have been not Achilles’s friend, but a sponger?</p>
 
 <p><label>Simon</label> I will produce you his own statement to that effect.</p>
@@ -731,12 +734,12 @@ that is, gave him the right of sponging; if he had meant to allude to Patroclus 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="48">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="48">
 <p>Again, did not Aristogiton, poor and of mean extraction, as Thucydides describes him, sponge on Harmodius? He was also, of course, in love with him—a quite natural relation between the two classes. This sponger it was, then, who
 
 
 
-<pb n="185"/>
+<pb n="v.3.p.185"/>
 
 
 
@@ -746,19 +749,19 @@ delivered Athens from tyranny, and now adorns the marketplace in bronze, side by
 </p></div>
 
 
-<div type="textpart" subtype="section" n="49">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="49">
 <p>But what sort of a guess do you make at the sponger’s behaviour in war? In the first place, he will fight on a full belly, as Odysseus advises. You must feed the man who is to fight, he says, however early in the morning it may happen to be. The time that others spend in fitting on helmet or breastplate with nervous care, or in anticipating the horrors of battle, he will devote to putting away his food with a cheerful countenance, and as soon as business begins you will find him in front. His patron will take his place behind him, sheltering under his shield as Teucer under Ajax’s; when missiles begin to fly the sponger will expose himself for his patron, whose safety he values more than his own.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="50">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="50">
 <p>Should he fall in battle, neither officer nor comrade need feel ashamed of that great body, which now reclines as appropriate an ornament of the battle-field as it once was of the dining-room. A pretty sight is a philosopher’s body by its side, withered, squalid, and bearded; he was dead before the fight began, poor weakling. Who would not despise the city whose guards are such miserable creatures? Who would not suppose, seeing these pallid, hairy manikins scattered on the ground, that it had none to fight for it, and so had turned out its gaol-birds to fill the ranks? That is how the spongers differ from the rhetoricians and philosophers in war.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="51">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="51">
 <p>Then in peace time, sponging seems to me as much better than philosophy as peace itself than war. Be kind enough to glance first at the scenes of peace.</p>
 
 <p><label>Tychiades</label> I do not quite know what they are; but let us glance at them, by all means.</p>
@@ -767,7 +770,7 @@ delivered Athens from tyranny, and now adorns the marketplace in bronze, side by
 
 
 
-<pb n="186"/>
+<pb n="v.3.p.186"/>
 
 
 
@@ -781,12 +784,12 @@ the courts, the wrestling-schools and gymnasia, the huntingfield and the dining-
 </p></div>
 
 
-<div type="textpart" subtype="section" n="52">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="52">
 <p>But enough of this. What impression does one get of the sponger’s actual life, when one compares it with the other? First it will be found that he is indifferent to reputation, and does not care a jot what people think about him, whereas all rhetoricians and philosophers without exception are the slaves of vanity, reputation, and what is worse, of money. No one could be more careless of the pebbles on the shore than the sponger is of money; he would as soon touch fire as gold. But the rhetoricians and, as if that were not bad enough, the professed philosophers, are beneath contempt in this respect.. No
 
 
 
-<pb n="187"/>
+<pb n="v.3.p.187"/>
 
 
 
@@ -796,13 +799,13 @@ need to illustrate in the case of the rhetoricians; but of the philosophers whos
 </p></div>
 
 
-<div type="textpart" subtype="section" n="53">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="53">
 <p>But their susceptibilities are by no“means limited to these; pain, temper, jealousy, and all sorts of desires, must be added; all of which the sponger is beyond the reach of; he does not yield to temper because on the one hand he has fortitude, and on the other hand he has no one to irritate him. Or if he is by any chance moved to wrath, there is nothing disagreeable or sullen about it; it entertains and amuses merely. As to pain, he has less of that to endure than anybody, one of his profession’s recommendations and privileges being just that immunity. He has neither money, house, slave, wife, nor children—those hostages to Fortune. He desires neither fame, wealth, nor beauty.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="54">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="54">
 <p><label>Tychiades</label> He will feel pain if the supplies run short, I presume.</p>
 
 <p><label>Simon</label> Ah, but you see, he is not a sponger if that happens.</p>
@@ -815,7 +818,7 @@ need to illustrate in the case of the rhetoricians; but of the philosophers whos
 
 
 
-<pb n="188"/>
+<pb n="v.3.p.188"/>
 
 
 
@@ -823,25 +826,25 @@ need to illustrate in the case of the rhetoricians; but of the philosophers whos
 </p></div>
 
 
-<div type="textpart" subtype="section" n="55">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="55">
 <p>Then all philosophers and rhetoricians are timorous creatures together. You may generallysee them carrying sticks on their walks; well, of course they would not go armed if they were not afraid. And they bar their‘doors elaborately, iér fear of night attacks. Now our man just latches his rdom door, so that the wind may not blow it open; if there is a noise in the night, it is all the same to him as if there were none; he will travel a lonely road and wear no sword; he does not know what fear is. But I am always seeing philosophers, though there is nothing to be afraid of, carrying bows and arrows; as for their sticks, they take them to bath or breakfast with them.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="56">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="56">
 <p>Again, no one can accuse a sponger of adultery, violence, rape, or in fact of any crime whatsoever. One guilty of such offences will not be sponging, but ruining himself. If he is caught in adultery, his style thenceforth is taken from his offence. Just as a piece of cowardice brings a man not repute, but disrepute, so, I take it, the sponger who commits an offence loses his previous title and gets in exchange that proper to the offence. Of such offences on the part of rhetoricians and philosophers, on the other hand, we have not only abundant examples in our own time, but records against the ancients in their own writings. There is an Apology of Socrates, of Aeschines, of -
 Hyperides, of Demosthenes, and indeed of most of their kind. There is no sponger’s apology extant, and you will never hear of anybody’s bringing a suit against one.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="57">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="57">
 <p>Now I suppose you will tell me that the sponger’s life may be better than theirs, but his death is worse. Not a bit of it; it is a far happier one. We know very well that all or most philosophers have had the wretched fate they deserved, some by poison after condemnation for heinous crimes, some by burning alive, some by strangury, some in exile. No one can adduce a sponger’s death to match these; he eats and drinks, and dies
 
 
 
-<pb n="189"/>
+<pb n="v.3.p.189"/>
 
 
 
@@ -851,7 +854,7 @@ a blissful death. If you are told that any died a violent one, be sure it was no
 </p></div>
 
 
-<div type="textpart" subtype="section" n="58">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="58">
 <p><label>Tychiades</label> I must say, you have done well for your kind against the philosophers. And now look at it from the patron’s point of view; does he get his money’s worth? It strikes me the rich man does the kindness, confers the favour, finds the food, and it is all a little discreditable to the man who takes them.</p>
 
 <p><label>Simon</label> Now, really, Tychiades, that is rather silly of you. Can you not see that a rich man, if he had the gold of Gyges, is yet poor as long as he dines alone, and no better than a tramp if he goes abroad unattended? A soldier without his arms, a dress without its purple, a horse without its trappings, are poor things; and a rich man without his sponger is a mean, cheap spectacle. The sponger gives lustre to the patron, never the patron to the other.
@@ -859,13 +862,13 @@ a blissful death. If you are told that any died a violent one, be sure it was no
 </p></div>
 
 
-<div type="textpart" subtype="section" n="59">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="59">
 <p>Moreover, none of the reproach that you imagine attaches to sponging; you refer, of course, to the difference in their degrees; but then it is an advantage to the rich man to keep the other; apart from his ornamental use, he is a most valuable bodyguard. In battle no one will be over ready to undertake the rich man with such a comrade at his side; and you can hardly, having him, die by poison. Who would dare attempt such a thing, with him tasting your food and drink? So he brings you not only credit, but insurance. His affection is such that he will run all risks; he would never leave his patron to face the dangers of the table alone; no, he would rather eat and die with him.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="60">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg030.perseus-eng4:" n="60">
 <p><label>Tychiades</label> You have stated your case without missing a point,
 Simon. Do not tell me you were unprepared again; you have been trained in a good school, man. But one thing more I
 should like to know. There is a nasty sound about the word sponger, don’t you think?</p>
@@ -874,7 +877,7 @@ should like to know. There is a nasty sound about the word sponger, don’t you 
 
 
 
-<pb n="190"/>
+<pb n="v.3.p.190"/>
 
 
 
@@ -905,9 +908,9 @@ me by giving what you consider the right answers to my questions, Sponging is an
 
 <p><label>Simon</label> So I presume an out-diner is better than a diner?</p>
 
-<p><label>Tychiades</label> Indisputable. Henceforward I shall come to you morne ing and afternoon like a schoolboy for lessons, And I am sure you ought to do your very best for me, as your first pupil. The first child is always the mother’s joy, you know.<note>It has been necessary, in § 60, to tamper a little with the Greek in order to get the point, such as it is; but it has not been seriously misrepresented.</note>
+<p><label>Tychiades</label> Indisputable. Henceforward I shall come to you morne ing and afternoon like a schoolboy for lessons, And I am sure you ought to do your very best for me, as your first pupil. The first child is always the mother’s joy, you know.<note xml:lang="eng">It has been necessary, in § 60, to tamper a little with the Greek in order to get the point, such as it is; but it has not been seriously misrepresented.</note>
 
 </p></div>
 </div>
 
-</div></body></text></TEI>
+</body></text></TEI>

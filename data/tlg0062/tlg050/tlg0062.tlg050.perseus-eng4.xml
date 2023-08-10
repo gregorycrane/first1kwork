@@ -56,9 +56,12 @@ target="https://archive.org/details/worksoflucianofs04luciuoft/page/165/mode/1up
 </fileDesc>
 <encodingDesc>
 <p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.</p>
-<refsDecl n="CTS">
-<cRefPattern n="section" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
-</refsDecl>
+ <refsDecl n="CTS">
+  <cRefPattern matchPattern="(\w+)"
+   replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+   <p>This pointer pattern extracts section.</p>
+  </cRefPattern>
+ </refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -71,7 +74,7 @@ target="https://archive.org/details/worksoflucianofs04luciuoft/page/165/mode/1up
 <div type="translation" n="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4" xml:lang="eng">
 <head>THE GODS IN COUNCIL</head>
 <head><label>Zeus</label>. <label>Hermes</label>. <label>Momus</label> </head>
-<div type="textpart" subtype="section" n="1">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="1">
 <p><label>Zeus</label> Now, gentlemen, enough of that muttering and whispering in corners. You complain that our banquets are thrown open to a number of undesirable persons. Very well: the Assembly has been convened for the purpose of dealing with this very point, and every one is at liberty to declare his sentiments openly, and bring what allegations he will—Hermes, make formal proclamation to that effect.</p>
 
 <p><label>Hera</label> All duly qualified divinities are hereby invited to address the Assembly on the subject of foreigners and immigrants.</p>
@@ -81,18 +84,18 @@ target="https://archive.org/details/worksoflucianofs04luciuoft/page/165/mode/1up
 </p></div>
 
 
-<div type="textpart" subtype="section" n="2">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="2">
 <p><label>Zeus</label> It is not needed; you have heard the proclamation.</p>
 
 <p><label>Momus</label>  I desire, then, to protest against the insufferable vanity of some among us who, not content with their own promotion to godhead, would introduce their dependants and underlings here as our equals. Sir, I shall express myself on this subject with that blunt sincerity which is inseparable from my character. I am known to the world as one whose unfettered tongue cannot refrain from speech in the presence of wrong-doing; as one who probes matters to the bottom, and says what he thinks, without concealment, without fear, and without scruple. My frankness is burdensome to the generality of Gods, who mistake it for censoriousness; I have been termed by such the Accuser General.</p></div>
 
 
-<div type="textpart" subtype="section" n="3">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="3">
 <p>But I shall none the less avail myself of the freedom accorded to me by the proclamation—and by your permission, sir—to speak my mind without reserve-—There are, I repeat it, many persons who, despite their mixed origin, have been admitted to our feasts and councils upon terms of
 
 
 
-<pb n="166"/>
+<pb n="v.4.p.166"/>
 
 
 
@@ -104,12 +107,12 @@ equality; and who, not satisfied with this, have brought hither their servants a
 </p></div>
 
 
-<div type="textpart" subtype="section" n="4">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="4">
 <p><label>Momus</label>  This is really most gratifying. Such encouragement is precisely what I should have expected of a king of your exalted spirit; I will mention the name. I refer, in fact, to Dionysus. Although the mother of this truly estimable demi-god was not only a mortal, but a barbarian, and his maternal grandfather a tradesman in Phoenicia, one Cadmus, it was thought necessary to confer immortality upon him. With his own conduct since that time, I am not concerned; I shall have nothing to say on the subject of his snood, his inebriety, or his manner of walking. You may all see him for yourselves: an effeminate, half-witted creature, reeking of strong liquor from the early hours of the day. But we are indebted to him for the presence of a whole tribe of his followers, whom he has introduced into our midst under the title of Gods, Such are Pan, Silenus, and the Satyrs; coarse persons, of frisky tendencies and eccentric appearance, drawn chiefly from the goat-herd class. The first-mentioned of these, besides being horned, has the hind-quarters of a goat, and his enormous beard is not unlike that of the same animal. Silenus is an old man with a bald head and a snub nose, who is generally to be seen riding on a donkey; he is of Lydian extraction, The Satyrs are Phrygians; they too are bald, and have pointed ears, and sprouting horns, like those of young kids. When I add that every one of these persons is provided with a tail, you will realize the extent of our
 
 
 
-<pb n="167"/>
+<pb n="v.4.p.167"/>
 
 
 
@@ -117,7 +120,7 @@ equality; and who, not satisfied with this, have brought hither their servants a
 obligation to Dionysus.</p></div>
 
 
-<div type="textpart" subtype="section" n="5">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="5">
 <p>And with these theological curiosities before their eyes, we wonder why it is that men think lightly of the Gods! I might have added that Dionysus has also brought us a couple of ladies: Ariadne is one, his mistress, whose crown is now set among the host of stars; the other is farmer Icarius’s daughter. And the cream of the jest is still to come: the dog,
 Erigone’s dog, must be translated too; the poor child would never be happy in Heaven without the sweet little pet! What can we call this but a drunken freak?</p>
 
@@ -126,7 +129,7 @@ Erigone’s dog, must be translated too; the poor child would never be happy in 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="6">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="6">
 <p><label>Zeus</label> Now, Momus, I see what you are coming to: but you will kindly leave Asclepius and Heracles alone. Asclepius is a physician, and restores the sick; he is More worth than many men.</p>
 
 <p>And Heracles is my own son, and purchased his immortality with many toils, So not one word against either of them.</p>
@@ -136,12 +139,12 @@ Erigone’s dog, must be translated too; the poor child would never be happy in 
 <p><label>Momus</label>  Worse than that, according to what they say in Crete: your tomb is there on view. Not that I believe them, any more than I believe that Aegium story, about your being a changeling.</p></div>
 
 
-<div type="textpart" subtype="section" n="7">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="7">
 <p>But there is one thing that I think ought to be made clear. You yourself, sir, have set us the example in loose conduct of this kind; it is you we have to thank—you and your terrestrial gallantries and your transformations—for the present mixed state of society. We are quite uneasy about it. You will be caught, some day, and sacrificed as a bull; or some
 
 
 
-<pb n="168"/>
+<pb n="v.4.p.168"/>
 
 
 
@@ -151,7 +154,7 @@ Actaeon, and Learchus, only mortals, and poor devils at that.
 </p></div>
 
 
-<div type="textpart" subtype="section" n="8">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="8">
 <p>You see, sir, ever since you gave the entrée to people of this sort, and turned your attention to the daughters of Earth, all the rest have followed suit; and the scandalous part of it is, that the Goddesses are just as bad as the Gods. Of the cases of Anchises, Tithonus, Endymion, Iasion, and others, I need say nothing; they are familiar to every one, and it would be tedious to expatiate further.</p>
 
 <p><label>Zeus</label> Now I will have no reflections on Ganymede’s antecedents; I shall be very angry with you, if you hurt the boy’s feelings.</p>
@@ -159,26 +162,26 @@ Actaeon, and Learchus, only mortals, and poor devils at that.
 <p><label>Momus</label>  Ah; and out of consideration for him I suppose I must also abstain from any reference to the eagle, which is now a God like the rest of us, perches upon the royal sceptre, and may be expected at any moment to build his nest upon the head of Majesty?—</p></div>
 
 
-<div type="textpart" subtype="section" n="9">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="9">
 <p>Well, you must allow me Attis, Corybas, and Sabazius: by what contrivance, now, did they get here? and that Mede there, Mithras, with the candys and tiara? why, the fellow cannot speak Greek; if you pledge him, he does not know what you mean. The consequence is, that Scythians and Goths, observing their success, snap their fingers at us, and distribute divinity and immortality right and left; that was how the slave Zamolxis’s name slipped into our register.</p></div>
 
 
-<div type="textpart" subtype="section" n="10">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="10">
 <p>However, let that pass. But I should just like to ask that Egyptian
 
 
 
-<pb n="169"/>
+<pb n="v.4.p.169"/>
 
 
 
 
-there—the dog-faced gentleman in the linen suit<note>Anubis.</note> —who he is, and whether he proposes to establish his divinity by barking? And will the piebald bull yonder<note>Apis.</note>, from Memphis, explain what use he has for a temple, an oracle, or a priest? As for the ibises and monkeys and goats and worse absurdities that are bundled in upon us, goodness knows how, from Egypt, I am ashamed to speak of them; nor do I understand how you, gentlemen, can endure to see such creatures enjoying a prestige equal to or greater than your own.—And you yourself, sir, must surely find ram’s horns a great inconvenience?
+there—the dog-faced gentleman in the linen suit<note xml:lang="eng">Anubis.</note> —who he is, and whether he proposes to establish his divinity by barking? And will the piebald bull yonder<note xml:lang="eng">Apis.</note>, from Memphis, explain what use he has for a temple, an oracle, or a priest? As for the ibises and monkeys and goats and worse absurdities that are bundled in upon us, goodness knows how, from Egypt, I am ashamed to speak of them; nor do I understand how you, gentlemen, can endure to see such creatures enjoying a prestige equal to or greater than your own.—And you yourself, sir, must surely find ram’s horns a great inconvenience?
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="11">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="11">
 <p><label>Zeus</label> Certainly, it is disgraceful the way these Egyptians go on. At the same time, Momus, there is an occult significance in most of these things; and it ill becomes you, who are not of the initiated, to ridicule them.</p>
 
 <p><label>Momus</label>  Oh, come now: a God is one thing, and a person with a dog’s head is another; I need no initiation to tell me that.</p>
@@ -188,8 +191,8 @@ there—the dog-faced gentleman in the linen suit<note>Anubis.</note> —who he 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="12">
-<p><label>Momus</label>  Trophonius and Amphilochus come next. The thought of the latter, in particular, causes my blood to boil: the father<note>Amphiaraus, the father of Amphilochus, neither slew his own mother, Hypermnestra, nor procured her death. He did, however, procure the death of his wife, Eriphyle, at the hand of her son Alcmaeon; and in this remote sense was a matricide. It must be confessed that a great deal of the peculiar guilt of matricide evaporates in the process of explanation. The reader may prefer to suppose simply that Lucian has made a slip.</note>
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="12">
+<p><label>Momus</label>  Trophonius and Amphilochus come next. The thought of the latter, in particular, causes my blood to boil: the father<note xml:lang="eng">Amphiaraus, the father of Amphilochus, neither slew his own mother, Hypermnestra, nor procured her death. He did, however, procure the death of his wife, Eriphyle, at the hand of her son Alcmaeon; and in this remote sense was a matricide. It must be confessed that a great deal of the peculiar guilt of matricide evaporates in the process of explanation. The reader may prefer to suppose simply that Lucian has made a slip.</note>
 is a matricide and an outcast, and the son, if you please, sets up for a prophet in Cilicia, and retails information—usually incorrect—to a believing public at the rate of twopence an oracle. That is how Apollo here has fallen into disrepute: it needs but a quack (and quacks are plentiful), a sprinkling of oil, and a garland or two, and an oracle may be had in these days wherever there is an altar or a stone pillar. Fever patients may now
 
 
@@ -200,7 +203,7 @@ is a matricide and an outcast, and the son, if you please, sets up for a prophet
 
 
 
-<pb n="170"/>
+<pb n="v.4.p.170"/>
 
 
 
@@ -210,7 +213,7 @@ be cured either at Olympia by the statue of Polydamas the athlete, or in Thasos 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="13">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="13">
 <p>That is all I have to say on the subject of bastards and new importations. But I have also observed with considerable amusement the introduction of various strange names, denoting persons who neither have nor could conceivably have any existence among us. Show me this Virtue of whom we hear so much; show me Nature, and Destiny, and Fortune, if they are anything more than unsubstantial names, the vain imaginings of some philosopher’s empty head. Yet these flimsy personifications have so far gained upon the weak intelligences of mankind, that not a man will now sacrifice to us, knowing that though he should present us with a myriad of hecatombs,
 Fortune will none the less work out that destiny which has been appointed for each man from the beginning. I should take it kindly of you, sir, if you would tell me whether you have ever seen Virtue or Fortune or Destiny anywhere? I
 know that you must have heard of them often enough, from the philosophers, unless your ears are deaf enough to be proof against their bawlings.</p>
@@ -220,7 +223,7 @@ know that you must have heard of them often enough, from the philosophers, unles
 </p></div>
 
 
-<div type="textpart" subtype="section" n="14">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="14">
 <p>In conclusion, sir, I have drawn up a bill dealing with this subject; which, with your permission, I shall now read.</p>
 
 <p><label>Zeus</label> Very well; some of your points are reasonable enough. We must put a check on these abuses, or they will get worse.
@@ -228,7 +231,7 @@ know that you must have heard of them often enough, from the philosophers, unles
 
 
 
-<pb n="171"/>
+<pb n="v.4.p.171"/>
 
 
 </p>
@@ -241,12 +244,12 @@ false Gods troubling our banquets with a tumultuous rout of miscellaneous polygl
 And whereas the said persons have presumptuously forced themselves into the places of genuine and old-established deities and in contravention of law and custom have further claimed prtceaetie of the same deities upon the Earth:</p></div>
 
 
-<div type="textpart" subtype="section" n="15">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="15">
 <p>It has seemed good to the Senate and People that an Assembly be convened upon Olympus at or about the time of the winter solstice for the purpose of electing a Commission of Inquiry the Commissioners to be duly-qualified Gods seven in number of whom three to be appointed from the most ancient Senate of Cronus and the remaining four from the twelve Gods of whom Zeus to be one and the said Commissioners shall before taking their seats swear by Styx according to the established form and Hermes shall summon by proclamation all such as claim admission to the Assembly to appear and bring with them sworn witnesses together with documentary proofs of their origin and all such persons shall successively appear before the Commissioners and the Commissioners after examination of their claims shall either declare them to be Gods or dismiss them to their own tombs and family vaults and if the Commissioners subsequently discover in Heaven any person so disqualified from entering such person shall be thrown into Tartarus</p></div>
 
 
 
-<pb n="172"/>
+<pb n="v.4.p.172"/>
 
 
 
@@ -254,7 +257,7 @@ And whereas the said persons have presumptuously forced themselves into the plac
 
 
 
-<div type="textpart" subtype="section" n="16">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="16">
 <p> and further each God shall follow bis own profession and no other and tt shall not be lawful either for Athene to heal the sick or for Asclepius to deliver oracles or for Apollo to practise three professions at once but only one either prophecy or music or medicine
 
 
@@ -262,732 +265,22 @@ And whereas the said persons have presumptuously forced themselves into the plac
 according as he shall select </p></div>
 
 
-<div type="textpart" subtype="section" n="17">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="17">
 <p>and instructions shall be issued to
 
 philosophers forbidding them either to invent meaningless names or to talk nonsense about matters of which they know nothing </p></div>
 
 
-<div type="textpart" subtype="section" n="18">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="18">
 <p>and if a temple and sacrificial honours have already been accorded to any disqualified person his statue shall be thrown down and that of Zeus or Hera or Athene or other God substituted in its place and his city shall provide him with a tomb and set up a pillar in lieu of his altar and against any person refusing to appear before the Commissioners in accordance with the proclamation judgement shall be given by default.</p>
 
 <p>That, gentlemen, is the Bill.</p></div>
 
 
-<div type="textpart" subtype="section" n="19">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg050.perseus-eng4:" n="19">
 <p><label>Zeus</label> And a very equitable one it is, Momus. All in favour of this Bill hold up their hands! Or no: our opponents are sure to be in a majority. You may all go away now, and when Hermes makes the proclamation, every one must come, bringing with him complete particulars and proofs, with his father’s and mother’s names, his tribe and clan, and the reason and circumstances of his deification. And any of you who fail to produce your proofs will find it is no use having great temples on the Earth, or passing there for Gods; that will not help you with the Commissioners. F.
 
 </p></div>
 </div>
 
-<div type="edition" subtype="work" n="tlg0061.tlg006">
-<head>THE CYNIC</head>
-<head><label>Lycinus</label>. <label>A Cynic</label></head>
-
-<div type="textpart" subtype="section" n="1">
-<p><label>Lycinus</label> Give an account of yourself, my man. You wear a beard and let your hair grow; you eschew shirts; you exhibit your skin; your feet are bare; you choose a wandering, outcast, beastly life; unlike other people, you make your own body
-
-
-
-<pb n="173"/>
-
-
-
-
-the object of your severities; you go from place to place sleeping on the hard ground where chance finds you, with the result that your old cloak, neither light nor soft nor gay to begin with, has a plentiful load of filth to carry about with it. Why 4s it all?</p>
-
-<p><label>Cynic</label>  It meets my needs. It was easy to come by, and it gives its owner no trouble. It is the cloak for me.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="2">
-<p>Pray tell me, do you not call extravagance a vice?</p>
-
-<p><label>Lycinus</label> Oh, yes.</p>
-
-<p><label>Cynic</label>  And economy a virtue?</p>
-
-<p><label>Lycinus</label> Yes, again.</p>
-
-<p><label>Cynic</label>  Then, if you find me living economically, and others extravagantly, why blame me instead of them?</p>
-
-<p><label>Lycinus</label> I do not call your life more economical than other people’s; I call it more destitute—destitution and want, that is what it is; you are no better than the poor who beg their daily bread.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="3">
-<p><label>Cynic</label>  That brings us to the questions, What is want, and what is sufficiency? Shall we try to find the answers?</p>
-
-<p><label>Lycinus</label> If you like, yes.</p>
-
-<p><label>Cynic</label>  A man’s sufficiency is that which meets his necessities; will that do?</p>
-
-<p><label>Lycinus</label> I pass that.</p>
-
-<p><label>Cynic</label>  And want occurs when the supply falls short of necessity
-—does not meet the need?</p>
-
-<p><label>Lycinus</label> Yes.</p>
-
-<p><label>Cynic</label>  Very well, then, I am not in want; nothing of mine fails to satisfy my need.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="4">
-<p><label>Lycinus</label> How do you make that out?</p>
-
-<p><label>Cynic</label>  Well, consider the purpose of anything we require; the purpose of a house is protection?</p>
-
-<p><label>Lycinus</label> Yes.</p>
-
-<p><label>Cynic</label>  Clothing—what is that for? protection too, I think.
-
-
-
-<pb n="174"/>
-
-
-</p>
-
-<p><label>Lycinus</label> Yes.</p>
-
-<p><label>Cynic</label>  But now, pray, what is the purpose of the protection, in turn? the better condition of the protected, I
-presume.</p>
-
-<p><label>Lycinus</label> I agree.</p>
-
-<p><label>Cynic</label>  Then do you think my feet are in worse condition than yours?</p>
-
-<p><label>Lycinus</label> I cannot say.</p>
-
-<p><label>Cynic</label>  Oh, yes; look at it this way;; what have feet to do?</p>
-
-<p><label>Lycinus</label> Walk.</p>
-
-<p><label>Cynic</label>  And do you think my feet walk worse than yours, or than the average man’s?</p>
-
-<p><label>Lycinus</label> Oh, not that, I dare say.</p>
-
-<p><label>Cynic</label>  Then they are not in worse condition, if they do their work as well.</p>
-
-<p><label>Lycinus</label> That may be so.</p>
-
-<p><label>Cynic</label>  So it appears that, as far as feet go, I am in no worse condition than other people.</p>
-
-<p><label>Lycinus</label> No, I do not think you are.</p>
-
-<p><label>Cynic</label>  Well, the rest of my body, then? If it is in worse condition, it must be weaker, strength being the virtue of the body. Is mine weaker?</p>
-
-<p><label>Lycinus</label> Not that I see.</p>
-
-<p><label>Cynic</label>  Consequently, neither my feet nor the rest of my body need protection, it seems; if they did, they would be in bad condition; for want is always an evil, and deteriorates the thing concerned. But again, there is no sign, either, of my body’s being nourished the worse for its nourishment’s being of a common sort.</p>
-
-<p><label>Lycinus</label> None whatever.</p>
-
-<p><label>Cynic</label>  It would not be healthy, if it were badly nourished; for bad food injures the body.</p>
-
-<p><label>Lycinus</label> That is true.
-
-
-
-<pb n="175"/>
-
-
-
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="5">
-<p><label>Cynic</label>  If so, it is for you to explain why you blame me and depreciate my life and call it miserable.</p>
-
-<p><label>Lycinus</label> Easily explained. Nature (which you honour) and the Gods have given us the earth, and brought all sorts of good things out of it, providing us with abundance not merely for our necessities, but for our pleasures; and then you abstain from all or nearly all of it, and utilize these good things no more than the beasts. Your drink is water, just like theirs; you eat what you pick up, like a dog, and the dog’s bed is as good as yours; straw is enough for either of you. Then your clothes are no more presentable than a beggar’s. Now, if this sort of contentment is to pass for wisdom, God must have been all wrong in making sheep woolly, filling grapes with wine, and providing all our infinite variety of oil, honey, and the rest, that we might have food of every sort, pleasant drink, money, soft beds, fine houses, all the wonderful paraphernalia of civilization, in fact; for the productions of art are God’s gifts to us too. To live without all these would be miserable enough even if one could not help it, as prisoners cannot, for instance; it is far more so if the abstention is forced upon a man by himself; it is then sheer madness.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="6">
-<p><label>Cynic</label>  You may be right. But take this case, now. A rich man, indulging genial kindly instincts, entertains at a banquet all sorts and conditions of men; some of them are sick, others sound, and the dishes provided are as various as the guests. There is one of these to whom nothing comes amiss; he has his finger in every dish, not only the ones within easy reach, but those some way off that were intended for the invalids; this though he is in rude health, has not more than one stomach, requires little to nourish him, and is likely to be upset by a surfeit. What is your opinion of this gentleman? is he a man of sense?</p>
-
-<p><label>Lycinus</label> Why, no.
-
-
-
-<pb n="176"/>
-
-
-</p>
-
-<p><label>Cynic</label>  Is he temperate?</p>
-
-<p><label>Lycinus</label> No, nor that.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="7">
-<p><label>Cynic</label>  Well, then there is another guest at the same table; he seems unconscious of all that variety, fixes on some dish close by that suits his need, eats moderately of it and confines himself to it without a glance at the rest. You surely find him a more temperate and better man than the other?</p>
-
-<p><label>Lycinus</label> Certainly.</p>
-
-<p><label>Cynic</label>  Do you see, or must I explain?</p>
-
-<p><label>Lycinus</label> What?</p>
-
-<p><label>Cynic</label>  That the hospitable entertainer is God, who provides this variety of all kinds that each may have something to suit him; this is for the sound, that for the sick; this for the strong and that for the weak; it is not all for all of us; each is to take what is within reach, and of that only what he most needs.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="8">
-<p>Now you others are like the greedy unrestrained person who lays hands on everything; local productions will not do for you, the world must be your storehouse; your native land and its seas are quite insufficient; you purchase your pleasures from the ends of the earth, prefer the exotic to the home growth, the costly to the cheap, the rare to the common; in fact you would rather have troubles and complications than avoid them. Most of the precious instruments of happiness that you so pride yourselves upon are won only by vexation and worry. Give a moment’s thought, if you will, to the gold you all pray for, to the silver, the costly houses, the elaborate dresses, and do not forget their conditions precedent, the trouble and toil and danger they cost—nay, the blood and mortality and ruin; not only do numbers perish at sea on their account, or endure miseries in the acquisition or working of them; besides that, they have very likely to be fought for, or the desire of them makes friends plot against friends, children against parents, wives against husbands.
-
-
-
-
-<pb n="177"/>
-
-
-
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="9">
-<p>And how purposeless it all is! embroidered clothes have no more warmth in them than others, gilded houses keep out the rain no better, the drink is no sweeter out of a silver cup, or a gold one for that matter, an ivory bed makes sleep no softer; on the contrary, your fortunate man on his ivory bed between his delicate sheets constantly finds himself wooing sleep in vain. And as to the elaborate dressing of food, I need hardly say that instead of aiding nutrition it injures the body and breeds diseases in it.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="10">
-<p>As superfluous to mention the abuse of the sexual instinct, so easily managed if indulgence were not made an object. And if madness and corruption were limited to that—; but men must take nowadays to perverting the use of everything they have, turning it to unnatural purposes, like him who insists on making a carriage of a couch.</p>
-
-<p><label>Lycinus</label> Is there such a person?</p>
-
-<p><label>Cynic</label>  Why, he is you; you for whom men are beasts of burden, you who make them shoulder your couch-carriages, and loll up there yourselves in luxury, driving your men like so many asses and bidding them turn this way and not that; this is one of the outward and visible signs of your happiness.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="11">
-<p>Again, when people use edible things not for food but to get dye out of—the murex-dyers, for instance—are they not abusing God’s gifts?</p>
-
-<p><label>Lycinus</label> Certainly not; the flesh of the murex can provide a pigment as well as food.</p>
-
-<p><label>Cynic</label>  Ah, but it was not made for that. So you can force a mixing-bowl to do the work of a saucepan; but that is not what it was made for. However, it is impossible to exhaust these people’s wrong-headedness; it is endless. And because I will not join them, you reproach me, My life is that of the orderly man I described; I make merry on what comes to hand, use what is cheap, and have no yearning for the elaborate and exotic.
-
-
-
-
-
-<pb n="178"/>
-
-
-
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="12">
-<p>Moreover, if you think that because I need and use but few things I live the life of a beast, that argument lands you in the conclusion that the Gods are yet lower than the beasts; for they have no needs at all. But to clear your ideas on the comparative merits of great and small needs, you have only to reflect that children have more needs than adults, women than men, the sick than the well, and generally the inferior than the superior. Accordingly, the Gods have no needs, and those men the fewest who are nearest Gods.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="13">
-<p>Take Heracles, the best man that ever lived, a divine man, and rightly reckoned a God; was it wrong-headedness that made him go about in nothing but a lion’s skin, insensible to all the needs you feel? No, he was not wrong-headed, who.
-righted other people’s wrongs; he was not poor, who was lord of land and sea. Wherever he went, he was master; he never met his superior or his equal as long as he lived. Do you supfose he could not get sheets and shoes, and therefore went as he did? absurd! he had self-control and fortitude; he-wanted power, and not luxury.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="14">
-<p>And Theseus his disciple—king of all the Athenians, son of posidon, says the legend, and best of his generation,—he too chose to go naked and unshod; it was his pleasure to let his hair and beard grow; and not his pleasure only, but all his contemporaries’; they were better men than you, and would no more have let you shave them than a lioa would; soft smooth flesh was very well for women, they thought; as for them, they were men, and were content to look it; the beard was man’s ornament, like the lion’s, or the horse’s mane; God had made certain beautiful and decorative additions to those creatures; and so he had to man, in the beard. Well, I admire those ancients and would fain be like them; I have not the smallest admiration for the present generation’s wonderful felicity—tables! clothes! bodies artificially polished all
-
-
-
-<pb n="179"/>
-
-
-
-over! not a hair to grow on any of the places where nature plants it!
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="15">
-<p>My prayer would be that my feet might be just hoofs, like Chiron’s in the story, that I might need bedclothes no more than the lion, and costly food no more than the dog. Let my sufficient bed be the whole earth, my house this universe, and the food of my choice the easiest procurable. May I have no need, I nor any that I call friend, of gold and silver. For all human evils spring from the desire of these, seditions and wars, conspiracies and murders, The fountain of them all is the desire of more. Never be that-desire mine; let me never wish for more than my share, but be content with less.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="16">
-<p>Such are our aspirations—considerably different from other people’s. It is no wonder that our get-up is peculiar, since the peculiarity of our underlying principle is so marked. I cannot make out why you allow a harpist his proper robe and get-up—and so the flute-player has his, and the tragic actor his—, but will not be consistent and recognize any uniform for a good man; the good man must be like every one else, of course, regardless of the fact that every one else is all wrong. Well, if the good are to have a uniform of their own, there can be none better than that which the average sensual man will consider most improper, and reject with most decision for himself.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="17">
-<p>Now my uniform consists of a rough hairy skin, a threadbare cloak, long hair, and bare feet, whereas yours is for all the world that of some minister to vice; there is not a pin to choose between you—the gay colours, the soft texture, the number of garments you are swathed in, the shoes, the sleeked hair, the very scent of you; for the more blessed you are, the more do you exhale perfumes like his. What value can one attach to a man whom one’s nose would identify for one of those minions? The consequence is, you are equal to no more work than they are, and to quite as much pleasure. You feed like them, you
-
-
-
-
-
-<pb n="180"/>
-
-
-
-
-sleep like them, you walk like them—except so far as you avoid walking by getting yourselves conveyed like parcels by porters or animals; as for me, my feet take me anywhere that I want to go. I can put up with cold and heat and be content with the works of God—such a miserable wretch am I—, whereas you blessed ones are displeased with everything that happens and grumble without ceasing; what is is intolerable, what is not you pine for, in winter for summer, in summer for winter, in heat for cold, in cold for heat, as fastidious and peevish as so many invalids; only their reason is to be found in their illness, and yours in your characters.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="18">
-<p>And then, because we occasionally make mistakes in practice, you recommend us to change our plan and correct our principles, the fact being that you in your own affairs go quite at random, never acting on deliberation or reason, but always on habit and appetite. You are no better than people washed about by a flood; they drift with the current, you with your appetites. There is a story of a man on a vicious horse that just gives your case. The horse ran away with him, and at the pace it was going at he could not get off. A man in the way asked him where he was off to; ‘wherever this beast chooses,’ was the reply. So if one asked you where you were bound for, if you cared to tell the truth you would say either generally, wherever your appetites chose, or in particular, where pleasure chose to-day, where fancy chose to-morrow, and where avarice chose another day; or sometimes it is rage, sometimes fear, sometimes any other such feeling, that takes you whither it will. You ride not one horse, but many at different times, all vicious, and all out of control. They are carrying you straight for pits and cliffs; but you do not realize that you are bound for a fall till the fall comes.
-
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="19">
-<p>The old cloak, the shaggy hair, the whole get-up that you ridicule, has this effect; it enables me to live a quiet life, doing
-
-
-
-<pb n="181"/>
-
-
-
-
-as I will and keeping the company I want. No ignorant uneducated person will have anything to say to one dressed like this; and the soft livers turn the other way as soon as I am in sight. But the refined, the reasonable, the earnest, seek me out; they are the men who seek me, because they are the men I wish to see. At the doors of those whom the world counts happy I do not dance attendance; their gold crowns and their purple I call ostentation, and them I laugh to scorn.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="20">
-<p>These externals that you pour contempt upon, you may learn that they are seemly enough not merely for good men, but for Gods, if you will look at the Gods’ statues; do those resemble you, or me? Do not confine your attention to Greece; take a tour round the foreign temples too, and see whether the Gods treat their hair and beards like me, or let the painters and sculptors shave them. Most of them, you will find, have no more shirt than I have, either. I hope you will not venture to describe again as mean an appearance that is accepted as godlike. H.
-
-</p></div>
-</div>
-
-<div type="edition" subtype="work" n="tlg062.tlg070">
-<head>THE PURIST PURIZED</head>
-<head><label>Lycinus</label>. <label>Purist</label> </head>
-<div type="textpart" subtype="section" n="1">
-<p><label>Lycinus</label> Are you the man whose scent is so keen for a blunder, and who is himself blunder-proof?</p>
-
-<p><label>Purist</label> I think I may say so.</p>
-
-<p><label>Lycinus</label> I suppose one must be blunder-proof, to detect the man who is not so?</p>
-
-<p><label>Purist</label> Assuredly.</p>
-
-<p><label>Lycinus</label> Do I understand that you are proof?</p>
-
-<p><label>Purist</label> How could I call myself educated, if I made blunders at my age?</p>
-
-<p><label>Lycinus</label> Well, shall you be able to detect a culprit, and convict him if he denies it?
-
-
-
-<pb n="182"/>
-
-
-</p>
-
-<p><label>Purist</label> Of course I shall.</p>
-
-<p><label>Lycinus</label> Catch me out, then; I will make one just now.</p>
-
-<p><label>Purist</label> Say on.</p>
-
-<p><label>Lycinus</label> Why, the deed is done, and you have missed it.</p>
-
-<p><label>Purist</label> You are joking, of course?</p>
-
-<p><label>Lycinus</label> No, upon my honour. The blunder is made, and you none the wiser. Well, try again; but you are not infallible on these sort of things.</p>
-
-<p><label>Purist</label> Well?</p>
-
-<p><label>Lycinus</label> Again, the blunder made, and you unconscious.</p>
-
-<p><label>Purist</label> How can that be, before you have opened your lips?</p>
-
-<p><label>Lycinus</label> Oh yes, I opened them, and to a blunder; but you never see them. I quite doubt you seeing this one even.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="2">
-<p><label>Purist</label> Well, there is something very queer about it if I do not know a solecism when I hear it.</p>
-
-<p><label>Lycinus</label> One begins to doubt, when a man has missed three.</p>
-
-<p><label>Purist</label> Three? What do you mean?</p>
-
-<p><label>Lycinus</label> A complete triolet of them.</p>
-
-<p><label>Purist</label> You are certainly joking.</p>
-
-<p><label>Lycinus</label> And you are as certainly a poor detective.</p>
-
-<p><label>Purist</label> If you were to say something, one might have a chance.</p>
-
-<p><label>Lycinus</label> Four chances you have had, and no result. It would have been a fine feather in your hat to have got them all.</p>
-
-<p><label>Purist</label> Nothing fine about it; it is no more than I undertook.</p>
-
-<p><label>Lycinus</label> Why, there you are again!</p>
-
-<p><label>Purist</label> Again?</p>
-
-<p><label>Lycinus</label> ‘Feather in your hat’?!</p>
-
-<p><label>Purist</label> I don’t know what you mean.</p>
-
-<p><label>Lycinus</label> Precisely; you do not know. And now suppose you go first; you do not like following, that is what it is; you understand, if you chose.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="3">
-<p><label>Purist</label> Oh, I am willing enough; only you have not made any solecisms in the usual sense.
-
-
-
-<pb n="183"/>
-
-
-</p>
-
-<p><label>Lycinus</label> How about that last? Now watch me well, as you did not get me that time.</p>
-
-<p><label>Purist</label> I cannot say I did.</p>
-
-<p><label>Lycinus</label> Now for a rabbit, then; there, that’s him! Has he got by? There he is, that’s him, I tell you. Hims enough to fill a warren, if you don’t wake up.</p>
-
-<p><label>Purist</label> Oh, I am wide awake.</p>
-
-<p><label>Lycinus</label> Well, they are gone.</p>
-
-<p><label>Purist</label> Never!</p>
-
-<p><label>Lycinus</label> The fact is, your too much learning renders you unconscious to solecisms; whatever case I take, it is always the same.</p></div>
-
-
-<div type="textpart" subtype="section" n="4">
-<p><label>Purist</label> What you mean by that I am sure I don’t know; but I have often caught people out in blunders.</p>
-
-<p><label>Lycinus</label> Well, you will catch me about the time that you are a sucking child again. By the way, a babe laying in his cradle would hardly jar on your notions of grammar, if you have not yet got me.</p>
-
-<p><label>Purist</label> Well, I am convinced.</p>
-
-<p><label>Lycinus</label> Now, if we cannot detect blunders like these, we are not likely to know much about our own; you see, you have just missed another. Very well now, never again call yourself competent either to detect blunders or to avoid them.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="5">
-<p>This is my blunt way, you see. Socrates of Mopsus, with whom I was acquainted in Egypt, used to put his corrections more delicately, so as not to humiliate the offender. Here are some specimens:
-
-What time do you set out on your travels?—What time? Oh, I see, you thought I started to-day.</p>
-
-<p>The patrimonial income supplies me well enough.—Patrimonial? But your father is not dead?</p>
-
-<p>So-and-so is a tribes-man of mine.—Oh, you are a savage, are you?
-
-
-
-<pb n="184"/>
-
-
-
-
-</p>
-
-<p>The fellow is a boozy.—Oh, Boozy was his mother’s name, was it?</p>
-
-<p>Worser luck I never knew.—Well, you need not make it worserer.</p>
-
-<p>I always said he had a good ’eart.—Yes, quite an artist.</p>
-
-<p>So glad to see you, old cock!—Come, allow me humanity.</p>
-
-<p>Contemptuous fellow! I would not go near him.—If he were contemptible, it would not matter, I suppose.</p>
-
-<p>He is the most unique of friends.—Good; one likes degrees in uniqueness.</p>
-
-<p>How aggravating!—Indeed? what does it aggravate?</p>
-
-<p>So I ascended up.—Ingenious man, doubling your speed like that.</p>
-
-<p>I had to do it; I was in an engagement.—Like Xenophon’s hoplites.</p>
-
-<p>I got round him.—Comprehensive person.</p>
-
-<p>They went to law, but were compounded.—You don’t say they didn’t get apart again?
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="6">
-<p>He would apply the same delicate treatment to people unsound in their Attic.</p>
-
-<p>‘That’s the truth of it,’ said some one, ‘between you and I.'</p>
-
-<p>‘Ah no, you will have to admit that you and me are wrong there.’</p>
-
-<p>Another person giving a circumstantial account of a local legend said: ‘So when she mingled with Heracles—’ ‘Without Heracles’s mingling with her?’</p>
-
-<p>He asked a man who told him that he must have a close crop, what his particular felony had been.</p>
-
-<p>‘There I quarrel,’ said his opponent in an argument. ‘It takes two to make a quarrel.’
-
-
-
-
-
-<pb n="185"/>
-
-
-
-
-</p>
-
-<p>When some one described his sick servant as undergomg torture, he asked, ‘What for? what do they suppose they are going to get out of him?’</p>
-
-<p>Some one was said to be going ahead in his studies. ‘Let me see,’ he said; ‘it is Plato, I think, who calls that making progress.’</p>
-
-<p>'Will we have a fine day?'' ‘If God shall.’
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="7">
-<p>‘Archaist, curse not thy friend!’ he retorted, to a man who called him curst instead of crusty.</p>
-
-<p>A man once used the phrase, ‘I was trying to save his face.
-<milestone unit="para"/>‘But is he in any danger of losing it?’ asked Socrates.</p>
-
-<p>'Chided,’ said one man, ‘chode,’ another. He disclaimed all acquaintance with either form.</p>
-
-<p>A person who volunteered ‘but and if’ was commended for his generosity.</p>
-
-<p>Some one tried him with ‘y-pleased’; ‘no, no,’ said he;
-'that is too much of a good thing.’</p>
-
-<p>‘I expect him momently,’ some one announced. ‘A good phrase,’ he said; ‘so is “minutely”; we have excellent authority for “daily.” ’</p>
-
-<p>'Look you!’ said a man, meaning ‘look.’ ‘Yes, what am I to look you at?’</p>
-
-<p>He took up a man who said, ‘Yes, I can grapple with that,’
-meaning that he understood, with ‘Oh, you are going to throw me, are you? how?’</p>
-
-<p>‘How shrill those fives are!’ said some one. ‘Oh, come now,’ said Socrates; ‘seditions and strives, but not drums and fives.’</p>
-
-<p>‘That man is heavily weighed,” one man observed. ‘You are quite right; there is no such word as weighted.’
-
-
-
-<pb n="186"/>
-
-
-
-
-‘He has thrived on it,’ some one assured him. ‘The people among whom he has thrived cannot be very particular.’</p>
-
-<p>People were very fond of calling it at-one-ment. ‘Yes, all right,’ he would say; ‘I know what it means.’</p>
-
-<p>Mention being made of a black-hen, he supposed that would be the female of the grey-cock.</p>
-
-<p>Some one said he had been eating sparrowgrass. ‘You'll be trying groundsel next,’ was his comment.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="8">
-<p>But enough of Socrates. Shall we have another match on the old lines? I will give you nothing but first-rate ones. Have your eyes open. You will surely be able to do it now, after hearing such a list of them.</p>
-
-<p><label>Purist</label> I am by no means so sure of that. Proceed, however.</p>
-
-<p><label>Lycinus</label> Not sure? well, but here you have the door broad open.</p>
-
-<p><label>Purist</label> Say on.</p>
-
-<p><label>Lycinus</label> I have said.</p>
-
-<p><label>Purist</label> Nothing that I observed.</p>
-
-<p><label>Lycinus</label> What, not observed ‘broad open’?</p>
-
-<p><label>Purist</label> No.</p>
-
-<p><label>Lycinus</label> Well, what is to happen, if you cannot follow now? Every man can crow on his own hay-cock, and I thought this was yours. Did you get that hay-cock? You don’t seem to attend; look at the mutual help Socrates and I have just given you.</p>
-
-<p><label>Purist</label> I am attending; but you are so sly with them.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="9">
-<p><label>Lycinus</label> Monstrous sly, is it not, to say ‘mutual’ instead of
-‘joint'? Well, that is settled up; but for your general ignorance, I defy any God short of Apollo to cure it. He gives council to all who ask it; but on you that council is thrown away.</p>
-
-<p><label>Purist</label> Yes, I declare, so it was!
-
-
-
-<pb n="187"/>
-
-
-</p>
-
-<p><label>Lycinus</label> Perhaps one at a time are too few?</p>
-
-<p><label>Purist</label> I think that must be it.</p>
-
-<p><label>Lycinus</label> How did ‘one are’ get past you?</p>
-
-<p><label>Purist</label> Ah, I didn’t see it, again.</p>
-
-<p><label>Lycinus</label> By the way, do you know of any one who is on the look in for a wife?</p>
-
-<p><label>Purist</label> What are you talking about?</p>
-
-<p><label>Lycinus</label> Show me the man who is on the look in, and I will show you a solecist.</p>
-
-<p><label>Purist</label> But what have I to do with solecists on the look in for wives?</p>
-
-<p><label>Lycinus</label> Ah, if you knew that, you would be the man you pretend to be. So much for that. Now, if a man came to you and said that he had left his wife’s home, would you stand that?</p>
-
-<p><label>Purist</label> Of course I should, if he had provocation.</p>
-
-<p><label>Lycinus</label> And if you caught him committing a solecism, would 5 you stand it?</p>
-
-<p><label>Purist</label> Certainly not.</p>
-
-<p><label>Lycinus</label> Quite right too. We should never permit solecisms in a friend, but teach him better. Now, what are your feelings when you hear a man deprecating his own merits, and depreciating his friend’s excessive gratitude?</p>
-
-<p><label>Purist</label> Feelings? only that he shows a very proper feeling.</p>
-
-<p><label>Lycinus</label> Then, as you cannot feel the difference between ‘deprecate’ and ‘depreciate,’ shall we conclude that you are an ignoramus? </p>
-
-<p><label>Purist</label> Outrageous insolence!</p>
-
-<p><label>Lycinus</label> Outrageous? I shall be, ere much, if I go on talking to you.—Now I should have said that ‘ere much’ was a blunder, but it does not strike you so.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="10">
-<p><label>Purist</label> Oh, stop, for goodness’ sake! Look here, try this way; I want to get my profit out of it too.</p>
-
-<p><label>Lycinus</label> Well?
-
-
-
-<pb n="188"/>
-
-
-</p>
-
-<p><label>Purist</label> Suppose you were to go through all the blunders you say I have missed, and tell me what is the right thing for each.</p>
-
-<p><label>Lycinus</label> Good gracious, no; it would take us till midnight. No; you can look those out for yourself. Meanwhile, we had better take fresh ones, as we have only a quarter of an hour (by the way, never pronounce the ‘h’ in hour; that sounds dreadful). Then as to that outrage which you say I have committed upon you; if I were to speak of an outrage committed against you, that would be another thing.</p>
-
-<p><label>Purist</label> Would it?</p>
-
-<p><label>Lycinus</label> Yes; an outrage upon you must be committed upon you personally, in the shape of blows, interference with your liberty, or the like. An outrage agaiust you is upon something that belongs to you; he who does an outrage upon your wife, child, friend, or slave, does it against you. This distinction, however, does not apply to inanimate things. An ‘outrage against’</p>
-
-<p>a legitimate phrase with them, as when Plato talks in the Symposium of an outrage against a proverb.</p>
-
-<p><label>Purist</label> Ah, I see now.</p>
-
-<p><label>Lycinus</label> Do you also see that the exchange of one for the other is a solecism?</p>
-
-<p><label>Purist</label> Yes, I shall know that for the future.</p>
-
-<p><label>Lycinus</label> And if a person were to use ‘interchange’ there instead of ‘exchange,’ what would you take him to mean?</p>
-
-<p><label>Purist</label> Just the same.</p>
-
-<p><label>Lycinus</label> Why, how can they be equivalent? Exchange is merely the substitution of one expression for another, the improper for the proper; whereas interchange involves a false statement<note><p>The words here represented by ‘exchange’ and ‘interchange’ are the Greek verbs from which are derived the grammarian’s names for the (not very clearly distinguished) figures of speech, Hypallage and Enallage. We take it, however, that ‘exchange’ and ‘interchange’ give the distinction fairly in the present context, the former indicating a single, the latter a mutual substitution between two terms. For if one of the two differs from the other in being more comprehensive, as ‘outrage against’ is more comprehensive than ‘outrage upon,’ it is then true that the substitution of the more for the less comprehensive has no worse effect than making the statement lack precision, while the double substitution produces a false statement.</p><p>Let it be supposed that A kicks B’s dog. Four descriptions aye conceivable:—</p><p>(1) It is an outrage upon the dog.</p><p>(2) It is an outrage against B.</p><p>(3) It is an outrage against the dog.</p><p>(4) It is an outrage upon B. The first two can both be stated; each is true, and each is precise. (3) can also be stated; ‘exchange' has taken place; the more comprehensive term has been substituted; the statement is true, but not precise. But if (3) and (4) are both stated, ‘interchange’ has taken place; the less comprehensive has been substituted for the more, as well as vice versa; and (4) is not only not precise, it is false.</p></note>.
-
-
-<pb n="189"/>
-
-
-
-
-</p>
-
-<p><label>Purist</label> I see now; exchange is the use of a loose instead of a precise expression, while interchange is the use of both expressions, each in the other’s place.</p>
-
-<p><label>Lycinus</label> These subtleties are not unpleasing. Similarly, when we are concerned with a person, it is in our own interest; but when we are concerned for him, it is in his. It is true the phrases are sometimes confused, but there are those who observe the distinction; and it is as well to be on the safe side.</p>
-
-<p><label>Purist</label> Quite true.
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="11">
-<p><label>Lycinus</label> Now, can you tell me the difference between ‘setting’ and ‘sitting,’ or between ‘be seated ’ and ‘sit’?</p>
-
-<p><label>Purist</label> No; but I have heard you say that ‘sit yourself’ is a barbarism,;</p>
-
-<p><label>Lycinus</label> Yes, quite so; but now I tell you that ‘be seated ’ is not the same as ‘sit.’</p>
-
-<p><label>Purist</label> Why, what may the difference be?</p>
-
-<p><label>Lycinus</label> When a man is on his legs, you can only tell him to be seated; but if he is seated already, you can tell him to sit still.
-
-
-
-
-
-<pb n="190"/>
-
-
-
-
-Sit where thou art; we find us seats: elsewhere. It means ‘remain sitting,’ you see. Here again we have to say that it is a mistake to reverse the expressions. And as to
-‘set’ and ‘sit,’ surely it is the whole difference between transitive and intransitive?
-
-</p></div>
-
-
-<div type="textpart" subtype="section" n="12">
-<p><label>Purist</label> That is clear enough; go on; this is the way to teach.</p>
-
-<p><label>Lycinus</label> Or the only way you can learn? Well, do you know what a historian is?
-
-<note>The explanation of this point appears to have dropped out of
-the MSS.—Translators.</note></p>
-
-
-<p><label>Purist</label> Oh, yes, I quite see, after your lucid explanation.</p>
-
-<p><label>Lycinus</label> Now I daresay you think servility and servitude are the same; but I am aware of a considerable difference between them.</p>
-
-<p><label>Purist</label> Namely—?</p>
-
-<p><label>Lycinus</label> The first depends on yourself, the other on some one else.</p>
-
-<p><label>Purist</label> Quite right.</p>
-
-<p><label>Lycinus</label> Oh, you will pick up all sorts of information, if you give up thinking you know more than you do.</p>
-
-<p><label>Purist</label> I give it up from this moment.</p>
-
-<p><label>Lycinus</label> Then we will break off for the present, and take the rest another time H. &amp; F.
-
-
-</p></div>
-</div>
 </body></text></TEI>
-</div></body></text></TEI>

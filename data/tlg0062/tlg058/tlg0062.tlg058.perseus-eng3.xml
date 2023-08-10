@@ -4,8 +4,8 @@
     <teiHeader xml:lang="eng">
 <fileDesc>
 <titleStmt>
+<title xml:lang="eng">A Slip of the Tongue in Greeting</title>
 <title xml:lang="grc">Ὑπέρ τοῦ ἐν τῇ προσαγορεύσει πταισμάτως</title>
-<title>A Slip of the Tongue in Greeting</title>
 <author>Lucian of Samosata</author>
 <editor role="translator">Kenneth Kilburn</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
@@ -35,7 +35,7 @@
             <biblStruct>
                 <monogr>
                     <author>Lucian of Samosata</author>
-                    <title>Lucian with an English Translation</title>
+                    <title xml:lang="eng">Lucian with an English Translation</title>
                     <editor role="translator">Kenneth Kilburn</editor>
                     <imprint>
                         <pubPlace>London</pubPlace>

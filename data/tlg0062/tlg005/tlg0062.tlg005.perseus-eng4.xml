@@ -56,9 +56,12 @@ target="https://archive.org/details/worksoflucianofs03luciuoft/page/259/mode/1up
 </fileDesc>
 <encodingDesc>
 <p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.</p>
-<refsDecl n="CTS">
-<cRefPattern n="section" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
-</refsDecl>
+ <refsDecl n="CTS">
+  <cRefPattern matchPattern="(\w+)"
+   replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+   <p>This pointer pattern extracts section.</p>
+  </cRefPattern>
+ </refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -71,20 +74,20 @@ target="https://archive.org/details/worksoflucianofs03luciuoft/page/259/mode/1up
 <div type="translation" n="urn:cts:greekLit:tlg0062.tlg005.perseus-eng4" xml:lang="eng">
 <head>SWANS AND AMBER</head>
 
-<div type="textpart" subtype="section" n="1">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng4:" n="1">
 <p>You have no doubt a proper faith in the amber legend—how it is the tears shed by poplars on the Eridanus for Phaethon, the said poplars being his sisters, who were changed to trees in the course of their mourning, and continue to distil their lacrimal amber. That was what the poets taught me, and I looked forward, if ever fortune should bring me to the Eridanus, to standing under a poplar, catching a few tears in a fold of my dress, and having a supply of the commodity.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="2">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng4:" n="2">
 <p>Sure enough, I found myself there not long ago upon another errand, and had occasion to go up the Eridanus; but, though I was all eyes, I saw neither poplars nor amber, and the natives had not so much as heard of Phaethon. I started my inquiries by asking when we should come to the amber poplars; the boatmen only laughed, and requested explanations. I told them the story: Phaethon was a son of Helius, and when he grew up came to his father and asked if he might drive his car, and be the day-maker just that once. His father con-
 
 82
 
 
 
-<pb n="260"/>
+<pb n="v.3.p.260"/>
 
 
 
@@ -94,30 +97,30 @@ sented, but he was thrown out and killed, and his mourning sisters ‘in this la
 </div>
 
 
-<div type="textpart" subtype="section" n="3">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng4:" n="3">
 <p>'What liar took you in like that, sir?' they said; ‘we never saw a coachman spilt; and where are the poplars? why, do you suppose, if it was true, we would row or tow up stream for sixpences? we should only have to collect poplar-tears to be rich men.’ This truth impressed me a good deal; I said no more, and was painfully conscious of my childishness in trusting the poets; they deal in such extravagant fictions, they come to scorn sober fact. Here was one hope gone; I had set my heart upon it, and was as much chagrined as if I had dropped the amber out of my hands; I had had all my plans ready for the various uses to which it was to be put.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="4">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng4:" n="4">
 <p>However, there was one thing I still thought I really should find there, and that was flocks of swans singing on the banks. We were still on the way up, and I applied to the boatmen again: ‘About what time do the swans take post for their famous musical entertainment?—Apollo’s fellow craftsmen, you know, who were changed here from men to birds, and still sing in memory of their ancient art.’
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="5">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng4:" n="5">
 <p>But they only jeered at me: ‘Are you going to lie all day about our country and our river, pray? We are always on the water; we have worked all our lives on the Eridanus; well, we do see a swan now and again in the marshes; and a harsh feeble croak their note is; crows or jackdaws are sirens to them; as for sweet singing such as you tell of, not a ghost of it. We cannot make out where you folk get all these tales about us.’
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="6">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg005.perseus-eng4:" n="6">
 <p>Such disappointments are the natural consequence of trusting picturesque reporters. Well now, I am afraid the newcomers among you, who hear me for the first time, may have been
 
 
 
-<pb n="261"/>
+<pb n="v.3.p.261"/>
 
 
 
@@ -127,4 +130,4 @@ expecting swans and amber from me, and may presently depart laughing at the peop
 </p></div>
 </div>
 
-</div></body></text></TEI>
+</body></text></TEI>

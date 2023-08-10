@@ -57,9 +57,12 @@ target="https://archive.org/details/worksoflucianofs02luciuoft/page/41/mode/1up"
 </fileDesc>
 <encodingDesc>
 <p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.</p>
-<refsDecl n="CTS">
-<cRefPattern n="section" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
-</refsDecl>
+ <refsDecl n="CTS">
+  <cRefPattern matchPattern="(\w+)"
+   replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+   <p>This pointer pattern extracts section.</p>
+  </cRefPattern>
+ </refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -72,24 +75,24 @@ target="https://archive.org/details/worksoflucianofs02luciuoft/page/41/mode/1up"
 <div type="translation" n="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4" xml:lang="eng">
 <head>HERMOTIMUS, OR THE RIVAL PHILOSOPHIES</head>
 
-<div type="textpart" subtype="section" n="1">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="1">
 <head><label>Lycinus</label>. <label>Hermotimus</label></head>
 
 <p><label>Lycinus</label> Good morning, Hermotimus; I guess by your book and the pace you are going at that you are on your way to lecture, and a little late. You were conning over something as you walked, your lips working and muttering, your hand flung out this way and that as you got a speech into order in your mind; you were doubtless inventing one of your crooked questions, or pondering some tricky problem; never a vacant mind, even in the streets; always on the stretch and in earnest, bent on advancing in your studies.</p>
 
-<p><label>Hermotimus</label> I admit the impeachment; I was running over the details of what he said in yesterday’s lecture. One must lose no chance, you know; the Coan doctor<note n="41.1">Hippocrates.</note> spoke so truly: ars longa, vita brevis. And what he referred to was only physic—a simpler matter. As to philosophy, not only will you never attain it, however long you study, unless you are wide awake all the time, contemplating it with intense eager gaze; the stake is so tremendous, too,—whether you shall rot miserably with the vulgar herd, or be counted among philosophers and reach Happiness.
+<p><label>Hermotimus</label> I admit the impeachment; I was running over the details of what he said in yesterday’s lecture. One must lose no chance, you know; the Coan doctor<note xml:lang="eng" n="v.2.p.41.n.1">Hippocrates.</note> spoke so truly: ars longa, vita brevis. And what he referred to was only physic—a simpler matter. As to philosophy, not only will you never attain it, however long you study, unless you are wide awake all the time, contemplating it with intense eager gaze; the stake is so tremendous, too,—whether you shall rot miserably with the vulgar herd, or be counted among philosophers and reach Happiness.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="2">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="2">
 <p><label>Lycinus</label> A glorious prize, indeed! however, you cannot be far off it now, if one may judge by the time you have given to philosophy, and the extraordinary vigour of your long pursuit. For twenty years now, I should say, I have watched you perpetually
 
 
 
 
 
-<pb n="42"/>
+<pb n="v.2.p.42"/>
 
 
 
@@ -105,7 +108,7 @@ going to your professors, generally bent over a book taking notes of past lectur
 </p></div>
 
 
-<div type="textpart" subtype="section" n="3">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="3">
 <p><label>Lycinus</label> Ah, but Hesiod, your own authority, tells us, Well begun is half done; so we may safely call you half-way by this time.</p>
 
 <p><label>Hermotimus</label> Not even there yet; that would indeed have been much.</p>
@@ -121,12 +124,12 @@ going to your professors, generally bent over a book taking notes of past lectur
 </p></div>
 
 
-<div type="textpart" subtype="section" n="4">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="4">
 <p><label>Lycinus</label> You must be of good cheer and keep a stout heart; gaze at the end of your climb and the Happiness at the top, and remember that he is working with you. What prospect does he hold out? when are you to be up? does he think you will
 
 
 
-<pb n="43"/>
+<pb n="v.2.p.43"/>
 
 
 
@@ -144,7 +147,7 @@ be on the top next year—by the Great Mysteries, or the Panathenaea, say?</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="5">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="5">
 <p><label>Hermotimus</label> There is no resemblance, Lycinus; this is not a thing, as you conceive it, to be compassed and captured quickly, though ten thousand Alexanders were to assault it; in that case, the scalers would have been legion. As it is, a good number begin the climb with great confidence, and do make progress, some very little indeed, others more; but when they get half-way, they find endless difficulties and discomforts, lose heart, and turn back, panting, dripping, and exhausted. But those who endure to the end reach the top, to be blessed thenceforth with wondrous days, looking down from their height upon the ants which are the rest of mankind.</p>
 
 <p><label>Lycinus</label> Dear me, what tiny things you make us out—not so big as the Pygmies even, but positively grovelling on the face of the earth. I quite understand it; your thoughts are up aloft already. And we, the common men that walk the earth, shall mingle you with the Gods in our prayers; for you are translated above the clouds, and gone up whither you have so long striven.</p>
@@ -153,7 +156,7 @@ be on the top next year—by the Great Mysteries, or the Panathenaea, say?</p>
 
 
 
-<pb n="44"/>
+<pb n="v.2.p.44"/>
 
 
 
@@ -161,7 +164,7 @@ be on the top next year—by the Great Mysteries, or the Panathenaea, say?</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="6">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="6">
 <p><label>Lycinus</label> But you have never told me how far, in terms of time.</p>
 
 <p><label>Hermotimus</label> No; for I know not precisely myself. My guess is that it will not be more than twenty years; by that time I shall surely be on the summit.</p>
@@ -181,7 +184,7 @@ be on the top next year—by the Great Mysteries, or the Panathenaea, say?</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="7">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="7">
 <p><label>Lycinus</label> But is there indeed Happiness up there—and worth all the pains? How can you tell? You have never been up yourself.</p>
 
 <p><label>Hermotimus</label> I trust my master’s word; and he knows well; is he not on the topmost height?</p>
@@ -196,7 +199,7 @@ be on the top next year—by the Great Mysteries, or the Panathenaea, say?</p>
 
 
 
-<pb n="45"/>
+<pb n="v.2.p.45"/>
 
 
 
@@ -206,7 +209,7 @@ knowledge of all things as they are; but wealth and glory and pleasure and all b
 <p><label>Lycinus</label></p></div>
 
 
-<div type="textpart" subtype="section" n="8">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="8">
 <p>By Heracles (and his death on Oeta), they quit themselves like men, and have their reward, it seems. But there is one thing I should like to know: are they allowed to come down from their elevation sometimes, and have a taste of what they left behind them? or when they have once got up, must they stay there, conversing with Virtue, and smiling at wealth and glory and pleasure?</p>
 
 <p><label>Hermotimus</label> The latter, assuredly; more than that, a man once admitted of Virtue’s company will never be subject to wrath or fear or desire any more; no, nor can he feel pain, nor any such sensation.</p>
@@ -223,13 +226,13 @@ but no—let me keep a good tongue in my head—it were irreverent to pry into w
 </p></div>
 
 
-<div type="textpart" subtype="section" n="9">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="9">
 <p><label>Lycinus</label> Well, then—most of your account I followed and accepted
 —how they grow wise and brave and just, and the rest—indeed I was quite fascinated by it; but then you went on to say they despised wealth and glory and pleasure; well, just there (quite between ourselves, you know) I was pulled up; I thought of
 
 
 
-<pb n="46"/>
+<pb n="v.2.p.46"/>
 
 
 
@@ -251,7 +254,7 @@ a scene-t’other day with—shall I tell you whom? Perhaps we can do without a 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="10">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="10">
 <p><label>Hermotimus</label> Ah, be is a bad character, always an unconscionable time paying his debts. There are plenty of others who owe the professor money, and he has never treated any of them so; they pay him his interest punctually.</p>
 
 <p><label>Lycinus</label> Not so fast; what in the world does it matter to him, if they do not pay up? he is purified by philosophy, and has no further need of the cast clothes of Oeta.</p>
@@ -264,7 +267,7 @@ no, but he has little ones; his care is to save them from indigence.</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="11">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="11">
 <p><label>Hermotimus</label> Well, I have no time to argue it, Lycinus; I must not be late for lecture, lest in the end I find myself left behind.</p>
 
 <p><label>Lycinus</label> Don’t be afraid, my duteous one; to-day is a holiday; I can save you the rest of your walk.</p>
@@ -275,7 +278,7 @@ no, but he has little ones; his care is to save them from indigence.</p>
 
 
 
-<pb n="47"/>
+<pb n="v.2.p.47"/>
 
 
 
@@ -285,7 +288,7 @@ trusted; there was a tablet over the door announcing in large print, No meeting 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="12">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="12">
 <p><label>Hermotimus</label> Which had the victory, though, he or Euthydemus—if Midas said anything about that?</p>
 
 <p><label>Lycinus</label> Why, at first, I gathered, it was very even between them; but you Stoics had it in the end, and your master was much too hard for him. Euthydemus did not even get off whole; he had a great cut on his head. He was pretentious, insisted on proving his point, would not give in, and proved a hard nut to crack; so your excellent professor, who had a goblet as big as Nestor’s in his hand, brought this down on him as he lay within easy reach, and the victory was his.</p>
@@ -297,12 +300,12 @@ trusted; there was a tablet over the door announcing in large print, No meeting 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="13">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="13">
 <p>But we have time to spare—you might tell a friend like me the story of your start in philosophy; then I might perhaps,
 
 
 
-<pb n="48"/>
+<pb n="v.2.p.48"/>
 
 
 
@@ -324,7 +327,7 @@ if it is not too late, begin now and join your school; you are my friends; you w
 </p></div>
 
 
-<div type="textpart" subtype="section" n="14">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="14">
 <p>Now, is there only one road to philosophy—the Stoic way?
 they tell me there are a great many other philosophers; is that so?</p>
 
@@ -341,12 +344,12 @@ they tell me there are a great many other philosophers; is that so?</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="15">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="15">
 <p><label>Lycinus</label> Then, as you love me, answer this: when you first went in pursuit of philosophy, you found many gates wide open; what induced you to pass the others by, and go in at the Stoic gate? Why did you asspme that that was the only true one,
 
 
 
-<pb n="49"/>
+<pb n="v.2.p.49"/>
 
 
 
@@ -367,7 +370,7 @@ am now.</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="16">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="16">
 <p><label>Lycinus</label> Then this must be my first lesson from you—how one can decide out of hand which is the best and the true philosophy to be taken, and the others left.</p>
 
 <p><label>Hermotimus</label> 1 will tell you: I observed that it attracted most disciples, and thence inferred that it was superior.</p>
@@ -382,7 +385,7 @@ am now.</p>
 
 
 
-<pb n="50"/>
+<pb n="v.2.p.50"/>
 
 
 
@@ -394,7 +397,7 @@ judge by guesswork and impression, indeed, on a thing of this importance! You ar
 </p></div>
 
 
-<div type="textpart" subtype="section" n="17">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="17">
 <p><label>Lycinus</label> And, of course, it was other people who so described them; you would not have taken their own word for their excellences.</p>
 
 <p><label>Hermotimus</label> Certainly not; it was others who said it.</p>
@@ -412,7 +415,7 @@ judge by guesswork and impression, indeed, on a thing of this importance! You ar
 </p></div>
 
 
-<div type="textpart" subtype="section" n="18">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="18">
 <p><label>Hermotimus</label> But you see, Lycinus, I did not depend on their judgement entirely, but on my own too. I saw the Stoics going about with dignity, decently dressed and groomed, ever with a thoughtful air and a manly countenance, as far from effeminacy as from the utter repulsive negligence of the Cynics, bearing themselves, in fact, like moderate men; and every one admits that moderation is right.</p>
 
 <p><label>Lycinus</label> Did you ever see them behaving like your master, as I described him to you just now? Lending money and clamouring for payment, losing their tempers in philosophic debates, and making other exhibitions of themselves? Or perhaps these are trifles, so long as the dress is decent, the beard long, and the
@@ -420,7 +423,7 @@ judge by guesswork and impression, indeed, on a thing of this importance! You ar
 
 
 
-<pb n="51"/>
+<pb n="v.2.p.51"/>
 
 
 
@@ -430,7 +433,7 @@ hair close-cropped?, We are provided for the future, then, with an infallible ru
 </p></div>
 
 
-<div type="textpart" subtype="section" n="19">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="19">
 <p>Nay, do not play with me like this; you want to see whether I shall catch you at it.</p>
 
 <p><label>Hermotimus</label> Why do you say that?</p>
@@ -444,7 +447,7 @@ hair close-cropped?, We are provided for the future, then, with an infallible ru
 </p></div>
 
 
-<div type="textpart" subtype="section" n="20">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="20">
 <p>What I mean is this: was it not from admiration of their Spirit that you joined them, expecting to have your own spirit purified?</p>
 
 <p><label>Hermotimus</label> Assuredly.</p>
@@ -454,7 +457,7 @@ hair close-cropped?, We are provided for the future, then, with an infallible ru
 
 
 
-<pb n="52"/>
+<pb n="v.2.p.52"/>
 
 
 
@@ -464,7 +467,7 @@ observation, in talk and-debate and the conduct they inspire. You have probably 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="21">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="21">
 <p><label>Hermotimus</label> You trifle, Lycinus. I made a pious choice, and do not repent it; that is enough for me.</p>
 
 <p><label>Lycinus</label> And will you yet make a mystery of it to your friend, and let him be lost with the vulgar herd?</p>
@@ -480,13 +483,13 @@ observation, in talk and-debate and the conduct they inspire. You have probably 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="22">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="22">
 <p>I conceive Virtue, then, under the figure of a State whose
 
 
 
 
-<pb n="53"/>
+<pb n="v.2.p.53"/>
 
 
 
@@ -496,7 +499,7 @@ citizens are happy—as your professor, who is one of them, phrases it,—absolu
 </p></div>
 
 
-<div type="textpart" subtype="section" n="23">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="23">
 <p><label>Hermotimus</label> Well, Lycinus? Must not all men yearn to belong to a State like that, and never count the toil of getting there, nor lose heart over the time it takes? Enough that one day they will arrive, and be naturalized, and given the franchise.</p>
 
 <p><label>Lycinus</label> In good truth, Hermotimus, we should devote all our efforts to this, and neglect everything else; we need pay little heed to any claims of our earthly country; we should steel our hearts against the clingings and cryings of children or parents, if we have them; it is well if we can induce them to go with us; but, if they will not or cannot, shake them off and march straight for the city of bliss, leaving your coat in their hands, if they lay hold of it to keep you back, in your hurry to get there; what matter for a coat? You will be admitted there without one.
@@ -504,12 +507,12 @@ citizens are happy—as your professor, who is one of them, phrases it,—absolu
 </p></div>
 
 
-<div type="textpart" subtype="section" n="24">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="24">
 <p>I remember hearing'a description of it all once before from an old man, who urged me to go there with him. He would show me the way, enroll me when I got there, introduce me to his own circles, and promise me a share in the universal Happiness. But I was stiff-necked, in my youthful folly (it was some fifteen years ago); else might I have been in the outskirts, nay,
 
 
 
-<pb n="54"/>
+<pb n="v.2.p.54"/>
 
 
 
@@ -519,7 +522,7 @@ haply at the very gates, by now. Among the noteworthy things he told me, I seem 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="25">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="25">
 <p><label>Hermotimus</label> There, now; you see I am not wasting my pains on trifles; I yearn to be counted among the citizens of that fair and happy State.</p>
 
 <p><label>Lycinus</label> Why, your yearning is mine too; there is nothing I
@@ -531,7 +534,7 @@ would sooner pray for. If the city had been near at hand and plain for all to se
 
 
 
-<pb n="55"/>
+<pb n="v.2.p.55"/>
 
 
 
@@ -541,13 +544,13 @@ and toil. Yet all these are supposed to lead to the one city, though they take s
 </p></div>
 
 
-<div type="textpart" subtype="section" n="26">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="26">
 <p>That is where my difficulty lies; whichever of them I try, there is sure to be a most respectable person stationed just at the entrance, with a welcoming hand and an exhortation to go his way; each of them says he is the only one who knows the straight road; his rivals are all mistaken, have never been themselves, nor learnt the way from competent guides. I go to his neighbour, and he gives the same assurances about bis way, abusing the other respectable persons; and so the next, and the next, and the next. This multiplicity and dissimilarity of the roads gives me searchings of heart, and still more the assertiveness and self-satisfaction of the guides; I really cannot tell which turning or whose directions are most likely to bring me to the city.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="27">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="27">
 <p><label>Hermotimus</label> Oh, but I can solve that puzzle for you; you cannot go wrong, if you trust those who have been already.</p>
 
 <p><label>Lycinus</label> Which do you mean? those who have been by which road, and under whose guidance? It is the old puzzle in a new form; you have only substituted men for measures.</p>
@@ -562,7 +565,7 @@ and toil. Yet all these are supposed to lead to the one city, though they take s
 
 
 
-<pb n="56"/>
+<pb n="v.2.p.56"/>
 
 
 
@@ -575,12 +578,12 @@ the real goal, he got to Babylon and thought he had seen Corinth
 </p></div>
 
 
-<div type="textpart" subtype="section" n="28">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="28">
 <p><label>Lycinus</label> Then, my dear good man, this choice of roads and guides is quite a serious matter; we can by no means just follow our noses; we shall be discovering that we are well on the way to Babylon or Bactria instead of to Corinth. Nor is it advisable to toss up, either, on the chance that we may hit upon the right way if we start upon any one at a venture. That is no impossibility; it may have come off once and again in a cycle; but I cannot think we ought to gamble recklessly with such high stakes, nor commit our hopes to a frail craft, like the wise men who went to sea in a bowl; we should have no fair complaint against Fortune, if her arrow or dart did not precisely hit the centre; the odds are ten thousand to one against her; just so the archer in Homer—Teucer, I suppose it was—when he meant to hit the dove, only cut the string, which held it; of course it is infinitely more likely that the point of the arrow will find its billet in one of the numberless other places, than just in that particular central one. And as to the perils of blundering into one of the wrong roads instead of the right one, misled by a belief in the discretion of Fortune, here is an illustration:—it is no easy matter to turn back and get safe into port when you have once cast loose your moorings and committed yourself to the breeze; you are at the mercy of the sea, frightened, sick and sorry with your tossing about, most likely.
 
 
 
-<pb n="57"/>
+<pb n="v.2.p.57"/>
 
 
 
@@ -590,7 +593,7 @@ Your mistake was at the beginning: before leaving, you should have gone up to so
 </p></div>
 
 
-<div type="textpart" subtype="section" n="29">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="29">
 <p><label>Hermotimus</label> Much better so, Lycinus. However, I know that, if you go the whole round, you will find no better guides or more expert pilots than the Stoics; if you mean ever to get to Corinth, you will follow them, in the tracks of Chrysippus and Zeno. It is the only way to do it.;</p>
 
 <p><label>Lycinus</label> Ah, many can play at the game of assertion. Plato’s fellow traveller, Epicurus’s follower, and all the rest, will tell me just what you do, that I shall never get to Corinth except with whichever of them it is. So I must either believe them all, or disbelieve impartially. The latter is much the safest, until we have found out the truth.
@@ -598,12 +601,12 @@ Your mistake was at the beginning: before leaving, you should have gone up to so
 </p></div>
 
 
-<div type="textpart" subtype="section" n="30">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="30">
 <p>Put a case, now: just as I am, as uncertain as ever which of the whole number has the truth, I choose your school; I rely on you, who are my friend, but who still know only the Stoic doctrine, and have not travelled any way but that. Now some God brings Plato, Pythagoras, Aristotle, and the rest to life again; they gather round and cross-examine me, or actually sue me in court for constructive defamation; Good Lycinus, they say, what possessed or who induced you to exalt Chrysippus and Zeno at our expense? we are far older established; they are mere creatures of yesterday; yet you never gave us a hearing, nor inquired into our statements at all. Well, what am I to plead? will it avail me to say I trusted my friend Hermotimus? I feel sure they will say, We know not this Hermotimus, who he ts, nor be us 3 you bad no right to condemn us all, and give judgement by default against us, on the authority of a man who knew only one of the philosophic roads, and even that, perhaps,
 
 
 
-<pb n="58"/>
+<pb n="v.2.p.58"/>
 
 
 
@@ -613,7 +616,7 @@ imperfectly. These are not the instructions issued to juries, Lycinus; they are 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="31">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="31">
 <p>Then one of them might proceed to question me like this:
 Suppose, Lycinus, that an Ethiopian who bad never been abroad in bis life, nor seen other men like us, were to state categorically in an Ethiopian assembly that there did not exist on earth any white or yellow men—nothing but blacks—, would his statement be accepted? or would some Ethiopian elder remark, How do you know, my confident friend? you have never been in foreign parts, nor had any experience of other nations, Shall I tell him the old man’s question was justified? what do you advise, my counsel?</p>
 
@@ -626,14 +629,14 @@ Suppose, Lycinus, that an Ethiopian who bad never been abroad in bis life, nor s
 </p></div>
 
 
-<div type="textpart" subtype="section" n="32">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="32">
 <p><label>Lycinus</label> The next step will be the application; my questioner will say, Now Lycinus, let us suppose an analogue, in a person acquainted only with the Stoic doctrine, like your friend Hermotimus; he bas never travelled in Plato’s country, or to Epicurus, or any other land; now, if he were to state that there was no such beauty or truth in those many countries as there is in the Porch and its teaching, would you not be justified in considering it bold of him to give you his opinion about them all, whereas he knew only one, having never set foot outside the bounds of Ethiopia? What reply do you advise to that?</p>
 
 <p><label>Hermotimus</label> The perfectly true one, of course, that it is indeed the
 
 
 
-<pb n="59"/>
+<pb n="v.2.p.59"/>
 
 
 
@@ -643,13 +646,13 @@ Stoic doctrine that we study fully, being minded to sink or swim with that, but 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="33">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="33">
 <p><label>Lycinus</label> Do you suppose the Platonists, Pythagoreans, Epicureans, and other schools, will let that pass? or will they laugh out loud and say, What remarkable methods your friend has, Lycinus! he accepts our adversaries character of us, and gathers our doctrines from the description of people who do not know, or deliberately misrepresent them. If he were to see an athlete getting his muscles in trim by kicking high, or hitting out at empty space as though he were getting a real blow home, would he (in the capacity of umpire) at once proclaim him victor, because be could not help winning? No; he would reflect that these displays are easy and safe, when there is no defence to be reckoned with, and that the real decision must wait till he has beaten and mastered his opponent, and the latter ‘has had enough? Well then, do not let Hermotimus suppose from his teachers? sparrings toith our shadows (for we are not there) that they have the victory, or that our doctrines are so easily upset; tell him the business is too like the sand houses which children, having built them weak, have no difficulty in overturning, or, to change the figure, like people practising archery; they make a straw target, hang it to a post, plant it a little way off, and then let fly at it; if they bit and get through the straw, they burst into a shout, as 1f it were
 @ great triumph to have driven through the dry stuff. That is not the way the Persians take, or those Scythian tribes which use the bow. Generally, when they shoot, in the first place they are themselves mounted and in motion, and secondly, they like the mark to be moving too; it 1s not to be stationary, waiting for the arrival of the arrow, but passing at full speed; they can usually kill beasts, and their marksmen hit birds. If it ever happens that they want to test the actual impact on a target, they set up one of
 
 
 
-<pb n="60"/>
+<pb n="v.2.p.60"/>
 
 
 
@@ -661,7 +664,7 @@ stout wood, or a shield of raw bide; piercing that, they reckon that their shaft
 </p></div>
 
 
-<div type="textpart" subtype="section" n="34">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="34">
 <p>So say all of them, one after the other.</p>
 
 <p>I suspect that Plato, with his intimate knowledge of Sicily, will add an anecdote from there. Gelo of Syracuse had disagreeable breath, but did not find it out himself for a long time, no one venturing to mention such a circumstance to a tyrant. At last a foreign woman who had a connexion with him dared to tell him; whereupon he went to his wife and scolded her for never having, with all her opportunities of knowing, warned him of it; she put in the defence that, as she had never been familiar or at close quarters with any other man, she had supposed all men were like that. So Hermotimus (Plato will say) after his exclusive association with Stoics, cannot be expected to know the savour of other people’s mouths.</p>
@@ -670,12 +673,12 @@ stout wood, or a shield of raw bide; piercing that, they reckon that their shaft
 </p></div>
 
 
-<div type="textpart" subtype="section" n="35">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="35">
 <p><label>Hermotimus</label> For Heaven’s sake, Lycinus, let us leave Plato, Aristotle, Epicurus, and the rest of them alone; to argue with them is not for me. Why not just hold a private inquiry, you and I, whether philosophy is what I say it is? As for the Ethiopians and Gelo’s wife, what a long way you have brought them on none of their business!
 
 
 
-<pb n="61"/>
+<pb n="v.2.p.61"/>
 
 
 </p>
@@ -691,7 +694,7 @@ stout wood, or a shield of raw bide; piercing that, they reckon that their shaft
 </p></div>
 
 
-<div type="textpart" subtype="section" n="36">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="36">
 <p><label>Lycinus</label> Not to the point. You compare accepted with disputed facts, whereas they are completely different. Tell me, did you ever meet a man who said twice two was seven or eleven?</p>
 
 <p><label>Hermotimus</label> Not 1; any one who did not make four of it must be mad.</p>
@@ -704,7 +707,7 @@ stout wood, or a shield of raw bide; piercing that, they reckon that their shaft
 
 
 
-<pb n="62"/>
+<pb n="v.2.p.62"/>
 
 
 
@@ -714,7 +717,7 @@ say everything is material, and Plato recognizes an immaterial element also in a
 </p></div>
 
 
-<div type="textpart" subtype="section" n="37">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="37">
 <p><label>Hermotimus</label> It seems to me, Lycinus, you do not understand what I mean.</p>
 
 <p><label>Lycinus</label> Very well, put it plainer, if it is something different from that.</p>
@@ -740,12 +743,12 @@ say everything is material, and Plato recognizes an immaterial element also in a
 </p></div>
 
 
-<div type="textpart" subtype="section" n="38">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="38">
 <p><label>Lycinus</label> There is no why, if you really find it, and can be certain it is the missing article, the sacred object being unmistakable. But there are some differences in this case, friend; the
 
 
 
-<pb n="63"/>
+<pb n="v.2.p.63"/>
 
 
 
@@ -763,12 +766,12 @@ temple-visitors are not two, so that if one has not got the booty the other has,
 </p></div>
 
 
-<div type="textpart" subtype="section" n="39">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="39">
 <p>For the source of all the difficulty is this: every one who is stripped has something or other on him, one a bowl, one a cup, one a garland, which again may be bronze, gold, or silver; but whether the one he has is the sacred one, is not yet clear. It is absolutely impossible to know which man to accuse of sacrilege; even if all the objects were similar, it would be uncertain who had robbed the God; for such things may be private property too. Our perplexity, of course, is simply due to the fact that the missing cup—assume it to be a cup—has no inscription; if either the God’s or the donor’s name had been on it, we should not have had all this trouble; when we found the inscribed one, we should have stopped stripping and inconveniencing other visitors. I suppose, Hermotimus, you have often been at athletic meetings?
 
 
 
-<pb n="64"/>
+<pb n="v.2.p.64"/>
 
 
 </p>
@@ -788,18 +791,18 @@ temple-visitors are not two, so that if one has not got the booty the other has,
 </p></div>
 
 
-<div type="textpart" subtype="section" n="40">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="40">
 <p><label>Hermotimus</label> In old days, when Heracles presided, bay leaaves——____</p>
 
 <p><label>Lycinus</label> No old days, thank you; tell me what you saw with your own eyes.</p>
 
-<p><label>Hermotimus</label> A consecrated silver urn is produced, and into it are thrown little lots about the size of a bean, with letters on them. Two are marked alpha<note n="64.1">The Greek alphabet runs: alpha, beta, gamma, delta, epsilon, zeta, eta, theta, iota, kappa, lambda, mu, nu, xi, omicron, pi, tho, sigma, tau, upsilon, phi, chi, psi, omega.</note>, two beta, two more gamma, and so on, if the competitors run to more than that—two lots always to each letter. A competitor comes up, makes a prayer to Zeus, dips his hand into the urn, and pulls out one lot; then another oes the same; there is a policeman to each drawer, who holds is hand so that he cannot see what letter he has drawn. When all have drawn, the chief police officer, I think it is, or one of the stewards themselves—I cannot quite remember this detail—, goes round and examines the lots while they stand in a circle, and puts together the two alphas for the wrestling or pancratium, and so for the two betas, and the rest. That is the procedure when the number of competitors is even, as eight, four, or twelve. If it is five, seven, nine, or other odd number, an odd letter is marked on one lot, which is put in with the
+<p><label>Hermotimus</label> A consecrated silver urn is produced, and into it are thrown little lots about the size of a bean, with letters on them. Two are marked alpha<note xml:lang="eng" n="v.2.p.64.n.1">The Greek alphabet runs: alpha, beta, gamma, delta, epsilon, zeta, eta, theta, iota, kappa, lambda, mu, nu, xi, omicron, pi, tho, sigma, tau, upsilon, phi, chi, psi, omega.</note>, two beta, two more gamma, and so on, if the competitors run to more than that—two lots always to each letter. A competitor comes up, makes a prayer to Zeus, dips his hand into the urn, and pulls out one lot; then another oes the same; there is a policeman to each drawer, who holds is hand so that he cannot see what letter he has drawn. When all have drawn, the chief police officer, I think it is, or one of the stewards themselves—I cannot quite remember this detail—, goes round and examines the lots while they stand in a circle, and puts together the two alphas for the wrestling or pancratium, and so for the two betas, and the rest. That is the procedure when the number of competitors is even, as eight, four, or twelve. If it is five, seven, nine, or other odd number, an odd letter is marked on one lot, which is put in with the
 
 
 
 
 
-<pb n="65"/>
+<pb n="v.2.p.65"/>
 
 
 
@@ -809,7 +812,7 @@ others, not having a duplicate. Whoever draws this is a bye, and waits till the 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="41">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="41">
 <p><label>Lycinus</label> Stop there; that is just what I wanted. There are nine of them, we will say, and they have all drawn, and the lots are in their hands. You go round—for I promote you from spectator to steward—examining the letters; and I suppose you will not know who is the bye till you have been to them all and paired them.</p>
 
 <p><label>Hermotimus</label> How do you mean?</p>
@@ -819,7 +822,7 @@ others, not having a duplicate. Whoever draws this is a bye, and waits till the 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="42">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="42">
 <p><label>Hermotimus</label> But suppose you come upon it first or second, what will you do then?</p>
 
 <p><label>Lycinus</label> Never mind me; I want to know what you will do, Mr. Steward. Will you say at once, Here is the bye? or will you have to go round to all, and see whether there is a duplicate to be found, it being impossible to know the bye till you have seen all the lots?</p>
@@ -834,7 +837,7 @@ others, not having a duplicate. Whoever draws this is a bye, and waits till the 
 
 
 
-<pb n="66"/>
+<pb n="v.2.p.66"/>
 
 
 
@@ -848,7 +851,7 @@ others, not having a duplicate. Whoever draws this is a bye, and waits till the 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="43">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="43">
 <p><label>Lycinus</label> You have gone on the assumption that the letters are taken in alphabetical order, until at a particular one the number of competitors runs short; and I grant you it may be done so at Olympia. But suppose we were to pick out five letters at random, say chi, sigma, zeta, kappa, theta, and duplicate the other four on the lots for eight competitors, but put a single zeta on the ninth, which we meant to indicate the bye—what then would you do if you came on the zeta first? How can you tell that its holder is the bye till you have been all round and found no counterpart to it? for you could not tell by the alphabetical order, as at Olympia.</p>
 
 <p><label>Hermotimus</label> A difficult question.
@@ -856,7 +859,7 @@ others, not having a duplicate. Whoever draws this is a bye, and waits till the 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="44">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="44">
 <p><label>Lycinus</label> Look at the same thing another way. Suppose we put no letters at all on the lots, but, instead of them, signs and marks such as the Egyptians use for letters, men with dogs’ or lions’ heads. Or no, those are rather too strange; let us avoid hybrids, and put down simple forms, as well as our draughtsmanship will allow—men on two lots, horses on two, a pair of cocks, a pair of dogs, and let a lion be the mark of the ninth. Now, if you hit upon the lion at the first try, how can you tell that this is the bye-maker, until you have gone all round and seen whether any one else has a lion to match?</p>
 
 <p><label>Hermotimus</label> Your question is too much for me.</p>
@@ -864,13 +867,13 @@ others, not having a duplicate. Whoever draws this is a bye, and waits till the 
 <p><label>Lycinus</label> No wonder; there is no plausible answer.</p></div>
 
 
-<div type="textpart" subtype="section" n="45">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="45">
 <p>Consequently,
 
 
 
 
-<pb n="67"/>
+<pb n="v.2.p.67"/>
 
 
 
@@ -880,7 +883,7 @@ if we mean to find either the man who has the sacred cup, or the bye, or our bes
 </p></div>
 
 
-<div type="textpart" subtype="section" n="46">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="46">
 <p><label>Hermotimus</label> True.</p>
 
 <p><label>Lycinus</label> Well then, can you name me a man who has tried every road in philosophy? one who, knowing the doctrine of Pythagoras, Plato, Aristotle, Chrysippus, Epicurus, and the rest, has ended by selecting one out of all these roads, because he has proved it genuine, and had found it by experience to be the only one that led straight to Happiness? If we can meet with such a man, we are at the end of our troubles.</p>
@@ -890,7 +893,7 @@ if we mean to find either the man who has the sacred cup, or the bye, or our bes
 </p></div>
 
 
-<div type="textpart" subtype="section" n="47">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="47">
 <p><label>Lycinus</label> What shall we do, then? I do not think we ought to despair, in the momentary absence of such a guide. Perhaps the best and safest plan of all is to set to work oneself, go through every system, and carefully examine the various doctrines.</p>
 
 <p><label>Hermotimus</label> That is what seems to be indicated. I am afraid, though, there is an obstacle in what you said just now: it is not
@@ -898,7 +901,7 @@ if we mean to find either the man who has the sacred cup, or the bye, or our bes
 
 
 
-<pb n="68"/>
+<pb n="v.2.p.68"/>
 
 
 
@@ -920,7 +923,7 @@ easy, when you have committed yourself with a spread of canvas to the wind, to g
 </p></div>
 
 
-<div type="textpart" subtype="section" n="48">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="48">
 <p><label>Lycinus</label> Very well, which shall we start with? However, that will make no difference; we may begin with whomsoever we fancy, Pythagoras, say; how long shall we allow for learning the whole of Pythagoreanism? and do not omit the five years of silence; including those, I suppose thirty altogether will do; or, if you do not like that, still we cannot put it lower than twenty.</p>
 
 <p><label>Hermotimus</label> Put it at that.</p>
@@ -937,7 +940,7 @@ easy, when you have committed yourself with a spread of canvas to the wind, to g
 
 
 
-<pb n="69"/>
+<pb n="v.2.p.69"/>
 
 
 
@@ -951,7 +954,7 @@ taking high figures, either, as you will see if you reflect upon the number of o
 </p></div>
 
 
-<div type="textpart" subtype="section" n="49">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="49">
 <p><label>Hermotimus</label> You must decide about that; but I see that, at the best, it will be but few who will get through the course, though they begin philosophy and life together.</p>
 
 <p><label>Lycinus</label> In that case, what are we to do? Must we withdraw our previous admission, that no one can choose the best out of many without trying all? We thought selection without experiment a method of inquiry savouring more of divination than of judgement, did we not?</p>
@@ -963,12 +966,12 @@ taking high figures, either, as you will see if you reflect upon the number of o
 </p></div>
 
 
-<div type="textpart" subtype="section" n="50">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="50">
 <p><label>Hermotimus</label> Ah, Lycinus, your arguments seem to me more or less logical, but—but—to be frank with you—I hate to hear you going through them and wasting your acuteness. I suspect it
 
 
 
-<pb n="70"/>
+<pb n="v.2.p.70"/>
 
 
 
@@ -980,7 +983,7 @@ was in an evil hour that I came out to-day and met you; my hopes were almost in 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="51">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="51">
 <p><label>Hermotimus</label> No, no; it is just your way; you want to crow over me; you detest philosophy—I cannot tell why—and poke fun at philosophers.</p>
 
 <p><label>Lycinus</label> Hermotimus, I cannot show what truth is, so well as wise people like you and your professor; but one thing I do know.
@@ -990,14 +993,14 @@ about it, and that is that it is not pleasant to the ear; falsehood is far more 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="52">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="52">
 <p><label>Hermotimus</label> Well, well; are we to give up Philosophy, then, and idle our lives away like the common herd?</p>
 
 <p><label>Lycinus</label> What have I said to justify that? My point is not that we are to give up philosophy, but this: whereas we are ta
 
 
 
-<pb n="71"/>
+<pb n="v.2.p.71"/>
 
 
 
@@ -1007,7 +1010,7 @@ pursue philosophy, and whereas there are many roads, each professing to lead to 
 <p><label>Hermotimus</label> What is the good of answering your questions?</p></div>
 
 
-<div type="textpart" subtype="section" n="53">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="53">
 <p>You say no one can judge for himself, unless he can devote the life of a phoenix to going round experimenting; and on the other hand you refuse to trust either previous experience or the multitude of favourable testimony.</p>
 
 <p><label>Lycinus</label> Where is your multitude, with knowledge and experience of all? Never mind the multitude; one man who answers the description will do for me. But if you mean the people who do not know, their mere numbers will never persuade me, as long as they pronounce upon all from knowledge of, at the most, one.</p>
@@ -1019,12 +1022,12 @@ pursue philosophy, and whereas there are many roads, each professing to lead to 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="54">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="54">
 <p><label>Hermotimus</label> Well, but, Lycinus, it may be all very well to insist on going the round, testing the various statements, and eschewing any other method of choice; but it is ridiculous to spend so many years on each experiment, as though there were no such thing as judging from samples. That device seems to me quite
 
 
 
-<pb n="72"/>
+<pb n="v.2.p.72"/>
 
 
 
@@ -1034,7 +1037,7 @@ simple, and economical of time. There is a story that some sculptor, Phidias, I 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="55">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="55">
 <p><label>Lycinus</label> Upon my word, how confident you are in your faculty of divining the whole from the parts! and yet I remember being told just the opposite—that knowledge of the whole includes that of the parts, but not vice versa. Well, but tell me; when Phidias saw the claw, would he ever have known it for a lion’s,
 if he had never seen a lion? Could you have said the hand was a man’s, if you had never known or seen aman? Why are you dumb? Let me make the only possible answer for you—that you could not; I am afraid Phidias has modelled his lion all for —
 nothing; for it proves to be neither here nor there. What resemblance is there? What enabled you and Phidias to recognize the parts was just your knowledge of the wholes—
@@ -1043,12 +1046,12 @@ the lion and the man. But in philosophy—the Stoic, for instance—how will the
 </p></div>
 
 
-<div type="textpart" subtype="section" n="56">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="56">
 <p>Then you say it is easy to hear in a few hours the essentials of all philosophy—meaning, I suppose, their principles and ends, their accounts of God and the soul, their views on the material and the immaterial, their respective identification of pleasure or goodness with the desirable and the Happy; well, it is easy—it is quite a trifle—to deliver an opinion after such a hearing; but really to know where the truth lies will be work, I suspect, not for a few hours, but for a good many days. If
 
 
 
-<pb n="73"/>
+<pb n="v.2.p.73"/>
 
 
 
@@ -1059,13 +1062,13 @@ imagine they only wanted to establish the truth of those few points which you th
 </p></div>
 
 
-<div type="textpart" subtype="section" n="57">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="57">
 <p>Or, if you like, I can suggest a still simpler way; you need not shed all this blood in sacrifice to any God, nor employ an expensive priest; put into an urn a set of tablets, each marked with a philosopher’s name, and tell a boy (he must be quite young, and his parents both be living) to go to the urn and pick out whichever tablet his hand first touches; and live a philosopher ever after, of the school which then comes out triumphant.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="58">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="58">
 <p><label>Hermotimus</label> This is buffoonery, Lycinus; I should not have expected it of you. Now tell me, did you ever buy wine? in person, I mean.</p>
 
 <p><label>Lycinus</label> Many a time.</p>
@@ -1084,7 +1087,7 @@ imagine they only wanted to establish the truth of those few points which you th
 
 
 
-<pb n="74"/>
+<pb n="v.2.p.74"/>
 
 
 </p>
@@ -1098,7 +1101,7 @@ imagine they only wanted to establish the truth of those few points which you th
 </p></div>
 
 
-<div type="textpart" subtype="section" n="59">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="59">
 <p><label>Lycinus</label> What an adept at evasion you are, Hermotimus! How you slip through one’s fingers! However, it is all the better this time; you fancied yourself out, but you have flopped into the net again.</p>
 
 <p><label>Hermotimus</label> What do you mean?</p>
@@ -1107,7 +1110,7 @@ imagine they only wanted to establish the truth of those few points which you th
 
 
 
-<pb n="75"/>
+<pb n="v.2.p.75"/>
 
 
 
@@ -1118,7 +1121,7 @@ if he had always said the same thing; one hearing would have been enough.
 </p></div>
 
 
-<div type="textpart" subtype="section" n="60">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="60">
 <p><label>Hermotimus</label> So it would.</p>
 
 <p><label>Lycinus</label> How could you have known the whole of his doctrines from the first taste, then? They were not homogencous, like the wine; novelty to-day, and novelty to-morrow on the top of it. Consequently, dear friend, short of drinking the whole cask, you might soak to no purpose; Providence seems to me to have hidden the philosophic Good right at the bottom, underneath the lees. So you will have to drain it dry, or you will never get to that nectar for which I know you have so long thirsted. According to your idea, it has such virtue that, could you once taste it and swallow the very least drop, you would straightway have perfect wisdom; so they say the Delphian prophetess is inspired by one draught of the sacred spring with answers for those who consult the oracle. But it seems not to be so; you have drunk more than half the cask; yet you told me you were only beginning yet.
@@ -1126,7 +1129,7 @@ if he had always said the same thing; one hearing would have been enough.
 </p></div>
 
 
-<div type="textpart" subtype="section" n="61">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="61">
 <p>Now see whether this is not a better analogy. You shall keep your merchant, and your cask; but the contents of the latter are not to be wine, but assorted seeds. On the top is wheat, next beans, then barley, below that lentils, then peas—
 and other kinds yet. You go to buy seeds, and he takes some wheat out of that layer, and puts it in your hand as a sample; now, could you tell by looking at that whether the peas were sound, the lentils tender, and the beans full?</p>
 
@@ -1136,7 +1139,7 @@ and other kinds yet. You go to buy seeds, and he takes some wheat out of that la
 
 
 
-<pb n="76"/>
+<pb n="v.2.p.76"/>
 
 
 
@@ -1147,13 +1150,13 @@ but here, the more you take away, the more remains.
 </p></div>
 
 
-<div type="textpart" subtype="section" n="62">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="62">
 <p>And I have another similar remark to make about these specimen drops of philosophy. Do not fancy I am libelling it, if I say it is like hemlock, aconite, or other deadly poison. Those too, though they have death in them, will not kill if a man scrapes off the tiniest particle with the edge of his nail and tastes it; if they are not taken in the right quantity, the right manner, and the right vehicle, the taker will not die; you were wrong in claiming that the least possible quantity is enough to base a generalization on.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="63">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="63">
 <p><label>Hermotimus</label> Oh, have it your own way, Lycinus. Well then, we have got to live a hundred years, and go through all this trouble? There is no other road to philosophy?</p>
 
 <p><label>Lycinus</label> No, none; and we need not complain; as you very truly said, ars longa, vita brevis. But I do not know what has come over you; you now make a grievance of it, if you cannot before set of sun develop into a Chrysippus, a Plato, a Pythagoras.</p>
@@ -1164,7 +1167,7 @@ but here, the more you take away, the more remains.
 
 
 
-<pb n="77"/>
+<pb n="v.2.p.77"/>
 
 
 </p>
@@ -1178,7 +1181,7 @@ but here, the more you take away, the more remains.
 </p></div>
 
 
-<div type="textpart" subtype="section" n="64">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="64">
 <p><label>Lycinus</label> It says that seeing and going through all philosophies will not suffice, if you want to choose the best of them; the most important qualification is still missing.</p>
 
 <p><label>Hermotimus</label> Indeed? Which?</p>
@@ -1190,12 +1193,12 @@ but here, the more you take away, the more remains.
 </p></div>
 
 
-<div type="textpart" subtype="section" n="65">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="65">
 <p><label>Lycinus</label> I hardly dare tell you—even that is not exhaustive; I am afraid, after all, the solid basis we thought we had found
 
 
 
-<pb n="78"/>
+<pb n="v.2.p.78"/>
 
 
 
@@ -1213,7 +1216,7 @@ was imaginary. You know how fishermen often let down their nets, feel a weight, 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="66">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="66">
 <p><label>Hermotimus</label> How can it possibly be?</p>
 
 <p><label>Lycinus</label> This way: take a correct number, twenty; suppose, I
@@ -1229,7 +1232,7 @@ mean, a man has twenty beans in his closed hand, and asks ten different persons 
 
 
 
-<pb n="79"/>
+<pb n="v.2.p.79"/>
 
 
 
@@ -1243,7 +1246,7 @@ found the beginning. I suppose we ought first to have ascertained that the truth
 </p></div>
 
 
-<div type="textpart" subtype="section" n="67">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="67">
 <p><label>Hermotimus</label> Then, according to you, we shall never finish our quest nor be philosophers, but have to give it up and live the life of laymen. What you say amounts to that: philosophy is impossible and inaccessible to a mere mortal; for you expect the aspirant first to choose the best philosophy; and you considered that the only guarantee of such choice’s being correct was to go through all philosophy before choosing the truest. Then in reckoning the number of years required by each you spurned all limits, extended the thing to several generations, and made out the quest of truth too long for the individual life; and now you crown all by proving success doubtful even apart from all that; you say it is uncertain whether the philosophers have ever found truth at all.</p>
 
 <p><label>Lycinus</label> Could you state on oath that they have?</p>
@@ -1255,7 +1258,7 @@ found the beginning. I suppose we ought first to have ascertained that the truth
 </p></div>
 
 
-<div type="textpart" subtype="section" n="68">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="68">
 <p><label>Hermotimus</label> For instance?</p>
 
 <p><label>Lycinus</label> Is it not said that, among the professed Stoics, Platonists, and Epicureans, some do know their respective doctrines, and some do not (without prejudice to their general respectability)?</p>
@@ -1264,7 +1267,7 @@ found the beginning. I suppose we ought first to have ascertained that the truth
 
 
 
-<pb n="80"/>
+<pb n="v.2.p.80"/>
 
 
 </p>
@@ -1278,13 +1281,13 @@ found the beginning. I suppose we ought first to have ascertained that the truth
 </p></div>
 
 
-<div type="textpart" subtype="section" n="69">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="69">
 <p>If you could find a teacher, now, who understood demonstra-
 - tion and controversial method, and would impart his knowledge to you, you would be quit of your troubles; the best and the true would straightway be revealed to you, at the bidding of this art of demonstration, while falsehood would stand convicted; you would make your choice with confidence; judgement would be followed by philosophy; you would reach your long-desired Happiness, and live in its company, which sums up all good things.
 
 
 
-<pb n="81"/>
+<pb n="v.2.p.81"/>
 
 
 </p>
@@ -1298,20 +1301,20 @@ found the beginning. I suppose we ought first to have ascertained that the truth
 </p></div>
 
 
-<div type="textpart" subtype="section" n="70">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="70">
 <p><label>Lycinus</label> Why, my friend, even if we find some one who claims to know this art of demonstration, and is willing to impart it, we shall surely not take his word for it straight off; we shall look about for another man to resolve us whether the first is telling the truth. Finding number two, we shall still be uncertain whether our guarantor really knows the difference between a good judge and a bad, and shall need a number three to guarantee number two; for how can we possibly know ourselves how to select the best judge? You see how far this must go; the thing is unending; its nature does not allow us to draw the line and put a stop to it; for you will observe that all the demonstrations that can possibly be thought of are themselves unfounded and open to dispute; most of them struggle to establish their certainty by appealing to facts as questionable as themselves; and the rest produce certain truisms with which they compare, quite illegitimately, the most speculative theories, and then say they have demonstrated the latter: our eyes tell us there are altars to the Gods; therefore there must be Gods; that is the sort of thing.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="71">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="71">
 <p><label>Hermotimus</label> How unkindly you treat me, Lycinus, turning my treasure into ashes; I suppose all these years are to have been lost labour.
 
 
 
 
 
-<pb n="82"/>
+<pb n="v.2.p.82"/>
 
 
 </p>
@@ -1321,13 +1324,13 @@ found the beginning. I suppose we ought first to have ascertained that the truth
 </p></div>
 
 
-<div type="textpart" subtype="section" n="72">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="72">
 <p>As you love me, do not treat me like that. I see you digging up treasure, spreading your wings, nursing extravagant ideas, indulging impossible hopes; and I love you too well to leave you to the company of a life-long dream—a pleasant one, if you will, but yet a dream; I beseech you to get up and take to some every-day business, such as may direct the rest of your life’s
 
 
 
 
-<pb n="83"/>
+<pb n="v.2.p.83"/>
 
 
 
@@ -1337,19 +1340,19 @@ course by common sense. Your acts and your thoughts up to now have been no more 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="73">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="73">
 <p>I fancy you hearing from some teller of tales how there is a certain lady of perfect beauty, beyond the Graces themselves or the Heavenly Aphrodite, and then, without ever an inquiry whether his tale is true, and such a person to be found on earth, falling straight in love with her, like Medea in the story enamoured of a dream-Jason. And what most drew you on to love, you and the others who worship the same phantom, was, if I am not mistaken, the consistent way in which the inventor of the lady added to his picture, when once he had got your ear. That was the only thing you all looked to, with that he turned you about as he would, having got his first hold upon you, averring that he was leading you the straight way to your beloved. After the first step, you see, all was easy; none of you ever looked round when he came to the entrance, and inquired whether it was the right one, or whether he had accidentally taken the wrong; no, you all followed in your predecessors’ footsteps, like sheep after the bell-wether, whereas the right thing was to decide at the entrance whether you should go in.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="74">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="74">
 <p>Perhaps an illustration will make my meaning clearer: when one of those audacious poets affirms that there was once a threeheaded and six-handed man, if you accept that quietly without questioning its possibility, he will proceed to fill in the picture consistently—six eyes and ears, three voices talking at once, three mouths eating, and thirty fingers instead of our poor ten all told; if he has to fight, three of his hands will have a buckler, wicker targe, or shield apiece, while of the other three one swings an
 
 
 
 
-<pb n="84"/>
+<pb n="v.2.p.84"/>
 
 
 
@@ -1359,12 +1362,12 @@ axe, another hurls a spear, and the third wields a sword. It is too late to carp
 </p></div>
 
 
-<div type="textpart" subtype="section" n="75">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="75">
 <p>Just so you, when you have granted the principles of any school, believe in the deductions from them, and take their consistency, false as it is, for a guarantee of truth. Then with some of you, hope travels through, and you die before you have seen the truth and detected your deceivers, while the rest, disillusioned too late, will not turn back for shame: what, confess at their years that they have been abused with toys all this time? so they hold on desperately, putting the best face upon it and making all the converts they can, to have the consolation of good company in their deception; they are well aware that to speak out is to sacrifice the respect and superiority and honour they are accustomed to; so they will not do it if it may be helped, knowing the height from which they will fall to the
 
 
 
-<pb n="85"/>
+<pb n="v.2.p.85"/>
 
 
 
@@ -1374,21 +1377,21 @@ common level. Just a few are found with the courage to say they were deluded, an
 </p></div>
 
 
-<div type="textpart" subtype="section" n="76">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="76">
 <p>But now for goodness’ sake let us drop all this, cover it up with an amnesty, and let it be as if it had not been said; let us assume that the Stoic philosophy, and no other, is correct; then we can examine whether it is practicable and possible, or its disciples wasting their pains; it makes wonderful promises, I am told, about the Happiness in store for those who reach the summit; for none but they shall enter into full possession of the true Good. The next point you must help me with—
 whether you have ever met such a Stoic, such a pattern of Stoicism, as to be unconscious of pain, untempted by pleasure, free from wrath, superior to envy, contemptuous of wealth, and, in one word, Happy; such should the example and model of the Virtuous life be; for any one who falls short in the slightest degree, even though he is better than other men at all points, is not complete, and in that case not yet Happy.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="77">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="77">
 <p><label>Hermotimus</label> 1 never saw such a man.</p>
 
 <p><label>Lycinus</label> I am glad you do not palter with the truth. But what are your hopes in pursuing philosophy, then? You see that neither your own teacher, nor his, nor his again, and so on to the tenth generation, has been absolutely wise and so attained Happiness. It will not serve you to say that it is enough to get near Happiness; that is no good; a person on the doorstep is just as much outside and in the air as another a long way off, though with the difference that the former is tantalized by anearer view. So it is to get into the neighbourhood of Happiness—I will grant you so much—that you toil like this, wearing
 
 
 
-<pb n="86"/>
+<pb n="v.2.p.86"/>
 
 
 
@@ -1399,19 +1402,19 @@ never overtaken.
 </p></div>
 
 
-<div type="textpart" subtype="section" n="78">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="78">
 <p>Well, overtake it, if that is your plan, grasp it and have it whole, this something, mysterious to me, of which the possession is sufficient reward for such toils; this something which I
 wonder how long you will have the enjoyment of, old man that you will be, past all pleasure, with one foot in the grave; ah, but perhaps, like a brave soul, you are getting ready for another life, that you may spend it the better when you come to it, having learned how to live: as though one should take so long preparing and elaborating a superlative dinner that he fainted with hunger and exhaustion!
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="79">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="79">
 <p>However, there is another thing I do not think you have observed: Virtue is manifested, of course, in action, in doing what is just and wise and manly; but you—and when I say you, I mean the most advanced philosophers—you do not seek these things and ensue them, but spend the greater part of your life conning over miserable sentences and demonstrations and problems; it is the man who does best at these that you hail a glorious victor. And I believe that is why you admire this experienced old professor of yours: he nonplusses his associates, knows how to put crafty questions and inveigle you into pitfalls; so you pay no attention to the fruit—which consists in action—, but are extremely busy with the husks, and smother each other with the leaves in your debates; come now, Hermotimus, what else are you about from morning to night?
 
 
 
-<pb n="87"/>
+<pb n="v.2.p.87"/>
 
 
 </p>
@@ -1424,43 +1427,43 @@ wonder how long you will have the enjoyment of, old man that you will be, past a
 </p></div>
 
 
-<div type="textpart" subtype="section" n="80">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="80">
 <p>And here let me ask you whether, putting aside his discourse, you would choose to resemble your master, and be as passionate, as sordid, as quarrelsome, ay, and as addicted to pleasure (though that trait of his is not generally known). Why no answer,
 Hermotimus? Shall I tell you a plea for philosophy which Tlately heard? It was from the mouth of an old, old man, who has quite a company of young disciples. He was angrily demanding his fees from one of these; they were long overdue, he said; the day stated in the agreement was the first of the month, and it was now the fifteenth.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="81">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="81">
 <p>The youth’s uncle was there, a rustic person without any notion of your refinements; and by way of stilling the storm, Come, come, sir, says he, you need not make such a fuss because we have bought words of you and not yet settled the bill. As to what you have sold us, you have got tt still; your stock of learning is none the less; and in what I really sent the boy to you for, you have not improved him a bit; he has carried off and seduced neighbour Echecrates’s daughter, and there would have been an action for assault, only Echecrates ts a poor man; but the prank cost me a couple of bundred. And the other day he struck bis mother; she had tried to stop him when he was smuggling wine out of the house, for one of his club-dinners, I suppose. As to temper and conceit and impudence and brass and lying, he was not half so bad twelve months ago as he is now. That 1s where I should have liked him to profit by your teaching; and we could have done without bis knowing the stuff he reels off at table every day: 'a
 
 
 
-<pb n="88"/>
+<pb n="v.2.p.88"/>
 
 
 
 
-crocodile <note n="88.1">See Puzzles in Notes.</note> seized hold of a baby,’ says he, ‘and promised to give tt back if its father could answer’—the Lord knows what; or how, ‘day<note>See Puzzles in Notes.</note> being, night cannot be’; and sometimes his worship twists round what we say somehow or other, till there we are with horns? on our beads! We just laugh at it—most of all when be stuffs up bis ears and repeats to himself what he calls temperaments and conditions and conceptions and impressions, and a lot more like that. And he tells us God is not in heaven, but goes about in everything, wood and stone and animals—the meanest of them, too; and if his mother asks him why he talks such stuff, he laughs at her and says if once he gets the ‘stuff’ pat off, there will be nothing to prevent him from being the only rich man, the only king, and counting every one else slaves and offscourings.
+crocodile <note xml:lang="eng" n="v.2.p.88.n.1">See Puzzles in Notes.</note> seized hold of a baby,’ says he, ‘and promised to give tt back if its father could answer’—the Lord knows what; or how, ‘day<note xml:lang="eng">See Puzzles in Notes.</note> being, night cannot be’; and sometimes his worship twists round what we say somehow or other, till there we are with horns? on our beads! We just laugh at it—most of all when be stuffs up bis ears and repeats to himself what he calls temperaments and conditions and conceptions and impressions, and a lot more like that. And he tells us God is not in heaven, but goes about in everything, wood and stone and animals—the meanest of them, too; and if his mother asks him why he talks such stuff, he laughs at her and says if once he gets the ‘stuff’ pat off, there will be nothing to prevent him from being the only rich man, the only king, and counting every one else slaves and offscourings.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="82">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="82">
 <p>When he had finished, mark the reverend philosopher’s answer, You should consider, he said, that if he had never come to me, he would have behaved far worse—very possibly have come to the gallows. As it 1s, philosophy and the respect he has for it have been a check upon him, so that you find he keeps within bounds and is not quite unbearable; the philosophic system and name tutor him with their presence, and the thought of disgracing them shames him. I should be quite justified in taking your money, if not for any positive improvement I have effected, yet for the abstentions due to bis respect for philosophy; the very nurses will tell you as much: children should go to school, because, even if they are not old enough to learn, they will at least be out of mischief there. My conscience is quite easy about him; if you like to select any of your friends who ts acquainted with Stoicism and bring him bere to-morrow, you shall see how the boy can question and answer, how much he has learnt, how many books he has read on axioms, syllogisms, conceptions, duty, and all sorts of subjects. As for his hitting bis mother or seducing girls, what have I to do with that? am I his keeper?
 
 
 
 
 
-<pb n="89"/>
+<pb n="v.2.p.89"/>
 
 
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="83">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="83">
 <p>A dignified defence of philosophy for an old man! Perhaps you will say too that it is a good enough reason for pursuing it, if it will keep us from worse employments. Were our original expectations from philosophy at all of a different nature, by the way? did they contemplate anything beyond a more decent behaviour than the average 2? Why this obstinate silence?</p>
 
 <p><label>Hermotimus</label> Oh, why but that I could cry like a baby? It cuts me to the heart, it is all so true; it is too much for me, when I
@@ -1469,24 +1472,24 @@ think of my wretched, wasted years—paying all that money for iny own labour, t
 </p></div>
 
 
-<div type="textpart" subtype="section" n="84">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="84">
 <p><label>Lycinus</label> No need for tears, dear fellow; that is a very sensible fable of Aesop’s. A man sat on the shore and counted the waves breaking; missing count, he was excessively annoyed. But the fox came up and said to him: ‘Why vex yourself, good sir, over the past ones? you should let them go, and begin counting afresh.’ So you, since this is your mind, had better reconcile yourself now to living like an ordinary man; you will give up your extravagant haughty hopes and put yourself on a level with the commonalty; if you are sensible, you will not be ashamed to unlearn in your old age, and change your course for a better.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="85">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="85">
 <p>Now I beg you not to fancy that I have said all this as an anti-Stoic, moved by any special dislike of your school; my arguments hold against all schools. I should have said just the same if you had chosen Plato or Aristotle, and condemned the others unheard. But, as Stoicism was your choice, the argument has seemed to be aimed at that, though it had no such special application.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="86">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng4:" n="86">
 <p><label>Hermotimus</label> You are quite right. And now I will be off to metamorphose myself, When we next meet, there will be no long, shaggy beard, no artificial composure; I shall be natural, as
 
 
 
-<pb n="90"/>
+<pb n="v.2.p.90"/>
 
 
 
@@ -1496,4 +1499,4 @@ a gentleman should. I may go as far as a fashionable coat, by way of publishing 
 </p></div>
 </div>
 
-</div></body></text></TEI>
+</body></text></TEI>

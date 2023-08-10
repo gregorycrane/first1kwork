@@ -57,9 +57,12 @@ target="https://archive.org/details/worksoflucianofs01luciuoft/page/167/mode/1up
 </fileDesc>
 <encodingDesc>
 <p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.</p>
-<refsDecl n="CTS">
-<cRefPattern n="section" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
-</refsDecl>
+ <refsDecl n="CTS">
+  <cRefPattern matchPattern="(\w+)"
+   replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+   <p>This pointer pattern extracts section.</p>
+  </cRefPattern>
+ </refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -74,16 +77,16 @@ target="https://archive.org/details/worksoflucianofs01luciuoft/page/167/mode/1up
 
 <head><label>Hermes</label>. <label>Charon</label> <label>Solon</label>. <label>Croesus</label></head>
 
-<div type="textpart" subtype="section" n="1">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="1">
 <p></p>
 
 <p><label>Hermes</label> So gay, Charon? What makes you leave your ferry to come up here? You are quite a stranger in the upper world.</p>
 
-<p><label>Charon</label> I thought I should like to see what life is like; what men do with it, and what are these blessings of which they all lament the loss when they come down to us. Never one of them has made the passage dry-eyed. So I got leave from Pluto to take a day off, like that Thessalian lad,<note n="167.1"> See Protesilaus in Notes.</note> you know; and here I am,
+<p><label>Charon</label> I thought I should like to see what life is like; what men do with it, and what are these blessings of which they all lament the loss when they come down to us. Never one of them has made the passage dry-eyed. So I got leave from Pluto to take a day off, like that Thessalian lad,<note xml:lang="eng" n="v.1.p.167.n.1"> See Protesilaus in Notes.</note> you know; and here I am,
 
 
 
-<pb n="168"/>
+<pb n="v.1.p.168"/>
 
 
 in the light of day. I am in luck, it seems, to fall in with you. You will show me round, of course, and point out all that‘is to be seen, as you know all about it.</p>
@@ -95,12 +98,12 @@ in the light of day. I am in luck, it seems, to fall in with you. You will show 
 <p><label>Hermes</label> Clearly this is to be a flogging matter for me.</p></div>
 
 
-<div type="textpart" subtype="section" n="2">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="2">
 <p>There will go some shrewd knocks to the settlement of this reckoning. However, I must give you a helping hand. What is one to do, when a friend is so pressing? Now, as to going over everything thoroughly, it is out of the question; it would take us years. Meanwhile, I should have tHe hue-and-cry out after me, you would be neglecting your ghostly work, Pluto would lose the shades that you ought to be shipping over all that time, and Aeacus would never take a single toll, and would be
 
 
 
-<pb n="169"/>
+<pb n="v.1.p.169"/>
 
 
 proportionately furious. We have only to think, therefore, of contriving you a general view of what is going on.</p>
@@ -112,14 +115,14 @@ proportionately furious. We have only to think, therefore, of contriving you a g
 </p></div>
 
 
-<div type="textpart" subtype="section" n="3">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="3">
 <p><label>Charon</label> You know what I sometimes say to you on the ship, Hermes.—If a sudden gust strikes the sail from a new quarter, and the waves are rising high, you landsmen know not what to make of it; you are for taking in sail, or slackening the sheet, or letting her go before the wind, and then I tell you not to trouble your heads, for I know what to do. Well, now it is your turn; you are sailing this ship; do as you think best, and I'll sit quiet, as a passenger should, and obey orders.</p>
 
 <p><label>Hermes</label> Just so; leave it to me, and I will find a good look-out. How would Caucasus do? Or is Parnassus higher? Olympus, perhaps, is higher than either of them. Olympus! stay, that reminds me; I have a happy thought. But there is work for two here; I shall want your assistance.</p>
 
 <p><label>Charon</label> Give your orders. I’ll bear a hand, to the best of my ability.</p>
 
-<p><label>Hermes</label> Homer tells us how the sons of Aloeus<note n="169.1">See Ofus in Neies.</note> (they were but two, like ourselves) took it into their heads, when they were yet children, to drag up Ossa from its foundations, and plant it on the top of Olympus, and then Pelion on the top of all; they thought that would serve as a ladder for getting into heaven. The two boys were rightly punished for their presumption.
+<p><label>Hermes</label> Homer tells us how the sons of Aloeus<note xml:lang="eng" n="v.1.p.169.n.1">See Ofus in Neies.</note> (they were but two, like ourselves) took it into their heads, when they were yet children, to drag up Ossa from its foundations, and plant it on the top of Olympus, and then Pelion on the top of all; they thought that would serve as a ladder for getting into heaven. The two boys were rightly punished for their presumption.
 
 
 
@@ -127,7 +130,7 @@ proportionately furious. We have only to think, therefore, of contriving you a g
 
 
 
-<pb n="170"/>
+<pb n="v.1.p.170"/>
 
 
 
@@ -137,7 +140,7 @@ But we have no design against the Gods: why should not we take the hint, and mak
 </p></div>
 
 
-<div type="textpart" subtype="section" n="4">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="4">
 <p><label>Charon</label> What, shall we two be able to lift Pelion or Ossa?</p>
 
 <p><label>Hermes</label> Why not? We are gods; I should hope we are as good as those two infants.</p>
@@ -157,12 +160,12 @@ He holds up the entire heaven by himself, Gods and all. And I dare say you have 
 There! What think you of this? Is it suave work? is it poetry?</p></div>
 
 
-<div type="textpart" subtype="section" n="5">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="5">
 <p>I must run up, and see whether we shall want another storey. Oh dear, we are no way up as yet. On the East, it is all I can do to make out Ionia and Lydia; on the West is nothing but Italy and Sicily; on the North, nothing to be seen beyond the Danube; and on the South, Crete, none too clear. It looks to me as if we should want Oeta, my nautical friend; and Parnassus into the bargain
 
 
 
-<pb n="171"/></p>
+<pb n="v.1.p.171"/></p>
 
 <p><label>Charon</label> So be it; but take care not to make the height too great for the width; or down we shall come, ladder and all, and pay our footing in the Homeric school of architecture with a cracked crown apiece.</p>
 
@@ -176,7 +179,7 @@ That’s better! A fine view. You can come now.</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="6">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="6">
 <p><label>Charon</label> I see a vast stretch of land, and a huge lake surrounding it, and mountains, and rivers bigger than Cocytus and Pyriphlegethon; and men, tiny little things! and I suppose their dens.</p>
 
 <p><label>Hermes</label> Dens? Those are cities!</p>
@@ -193,7 +196,7 @@ That’s better! A fine view. You can come now.</p>
 
 
 
-<pb n="172"/>
+<pb n="v.1.p.172"/>
 
 
 with you.’ And before the words were out of his mouth, down came a tile—started somehow from the roof—and he was a dead man! Ha, ha, thought I, that promise will never be kept.—
@@ -202,7 +205,7 @@ So I think I shall go down again; I want to see and hear.
 </p></div>
 
 
-<div type="textpart" subtype="section" n="7">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="7">
 <p><label>Hermes</label> Sit where you are. I will soon put that right; you shall see with the best; Homer has a charm for this too. Now, the moment I say the lines, there must be no more dull eyes; all must be clear as daylight. Don’t forget!</p>
 
 <p><label>Charon</label> Say on.</p>
@@ -221,12 +224,12 @@ Well? Are the eyes any better?</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="8">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="8">
 <p>I should like to know, for instance,
 
 
 
-<pb n="173"/>
+<pb n="v.1.p.173"/>
 
 
 
@@ -243,7 +246,7 @@ Well? Are the eyes any better?</p>
 <p><label>Charon</label> Well, never mind him. We shall have sport enough with him before long; he will come aboard with no strength left to pick up a gnat, let alone a bull.</p></div>
 
 
-<div type="textpart" subtype="section" n="9">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="9">
 <p>But pray,
 <l>Who is yon haughty hero?</l>
 No Greek, to judge by his dress.</p>
@@ -259,12 +262,12 @@ No Greek, to judge by his dress.</p>
 <p><label>Hermes</label></p></div>
 
 
-<div type="textpart" subtype="section" n="10">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="10">
 <p>Stranger, you have now seen my stores of treasure, my heaps
 
 
 
-<pb n="174"/>
+<pb n="v.1.p.174"/>
 
 
 of bullion, and all my riches. Tell me therefore, whom do you account the happiest of mankind?</p>
@@ -288,7 +291,7 @@ of bullion, and all my riches. Tell me therefore, whom do you account the happie
 <p><label>Charon</label> Bravo, Solon; you have not forgotten us! As you say, Charon’s ferry is the proper place for the decision of these questions.—</p></div>
 
 
-<div type="textpart" subtype="section" n="11">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="11">
 <p>But who are these men whom Croesus is sending out? And what have they got on their shoulders?</p>
 
 <p><label>Hermes</label> Those are bars of gold; they are going to Delphi, to pay for an oracle, which oracle will presently be the ruin of Croesus. But oracles are a hobby of his.</p>
@@ -303,7 +306,7 @@ of bullion, and all my riches. Tell me therefore, whom do you account the happie
 
 
 
-<pb n="175"/>
+<pb n="v.1.p.175"/>
 
 
 this men will endure slavery and imprisonment; for this they traffic and sail the seas.;</p>
@@ -319,7 +322,7 @@ this men will endure slavery and imprisonment; for this they traffic and sail th
 </p></div>
 
 
-<div type="textpart" subtype="section" n="12">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="12">
 <p><label>Solon</label> Croesus, will those bars be any use to Apollo, do you think?</p>
 
 <p><label>Croesus</label> Any use! Why there is nothing at Delphi to be compared to them.</p>
@@ -348,7 +351,7 @@ this men will endure slavery and imprisonment; for this they traffic and sail th
 
 
 
-<pb n="176"/></p>
+<pb n="v.1.p.176"/></p>
 
 <p><label>Croesus</label> The protector, of course.</p>
 
@@ -371,7 +374,7 @@ this men will endure slavery and imprisonment; for this they traffic and sail th
 </p></div>
 
 
-<div type="textpart" subtype="section" n="13">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="13">
 <p><label>Hermes</label> This blunt sincerity is not to the Lydian’s taste. Things are come to a strange pass, he thinks, if a poor man is to hold up his head, and speak his mind in this frank manner! He will remember Solon presently, when the time comes for Cyrus to conduct him in chains to the pyre. I heard Clotho, the other day, reading over the various dooms. Among other things, Croesus was to be led captive by Cyrus, and Cyrus to be murdered by the queen of the Massagetae. There she is: that Scythian woman, riding on a white horse; do you see?</p>
 
 <p><label>Charon</label> Yes.</p>
@@ -380,7 +383,7 @@ this men will endure slavery and imprisonment; for this they traffic and sail th
 
 
 
-<pb n="177"/>
+<pb n="v.1.p.177"/>
 
 
 and Ethiopia, will finally slay the god Apis, and die a raving madman.</p>
@@ -388,7 +391,7 @@ and Ethiopia, will finally slay the god Apis, and die a raving madman.</p>
 <p><label>Charon</label> What fun! Why, at this moment no one would presume to meet their eyes; from such a height do they look down on the rest of mankind. Who would believe that before long one of them will be a captive, and the other have his head in a bottle of blood?—</p></div>
 
 
-<div type="textpart" subtype="section" n="14">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="14">
 <p>But who is that in the purple robe, Hermes?— the one with the diadem? His cook has just been cleaning a fish, and is now handing him a ring,—‘in yonder sea-girt isle’; ''tis, sure, some king.'</p>
 
 <p><label>Hermes</label> Ha, ha! A parody, this time——That is Polycrates, tyrant of Samos. He is extremely well pleased with his lot: yet that slave who now stands at his side will betray him to the satrap Oroetes, and he will be crucified. It will not take long to overturn his prosperity, poor man! This, too, I had from Clotho.</p>
@@ -399,7 +402,7 @@ Let them know that they are men. And let them be exalted in the meantime; the hi
 </p></div>
 
 
-<div type="textpart" subtype="section" n="15">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="15">
 <p><label>Hermes</label> So much for royalty; and now to the common herd. Do you see them, Charon;—on their ships and on the field of battle; crowding the law-courts and following the plough; usurers here, beggars there?</p>
 
 <p><label>Charon</label> I see them. What a jostling life it is! What a world of ups and downs! Their cities remind me of bee-hives. Every man keeps a sting for his neighbour’s service; and a few, like wasps, make spoil of their weaker brethren. But what are all these misty shapes that beset them on every side?</p>
@@ -410,13 +413,13 @@ Let them know that they are men. And let them be exalted in the meantime; the hi
 
 
 
-<pb n="178"/>
+<pb n="v.1.p.178"/>
 
 
 and such like. They differ in their habits. The Folly is a domestic creature, with vested rights of its own. The same with the Grudge, the Hate, the Envy, the Greed, the Knownot, and the What’s-to-do. But the Fear and the Hope fly overhead. The Fear swoops on its prey from above; sometimes it is content with startling a man out of his wits, sometimes it frightens him in real earnest. The Hope hovers almost within reach, and just when a man thinks he is going to catch it, off it flies, and leaves him gaping—like Tantalus in the water, you know.</p></div>
 
 
-<div type="textpart" subtype="section" n="16">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="16">
 <p>Now look ¢losely, and you will make out the Fates up aloft, spinning each man his spindle-full; from that spindle a man hangs by a narrow thread. Do you see what looks like a cobweb, coming down to each man from the spindles?</p>
 
 <p><label>Charon</label> I see each has a very slight thread. They are mostly entangled, one with another, and that other with a third.</p>
@@ -428,14 +431,14 @@ and such like. They differ in their habits. The Folly is a domestic creature, wi
 </p></div>
 
 
-<div type="textpart" subtype="section" n="17">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="17">
 <p><label>Hermes</label> My dear Charon, there is no word for the absurdity of it. They do take it all so seriously, that is the best of it; and then, long before they have finished scheming, up comes good old Death, and whisks them off, and all is over! You observe that he has a fine staff of assistants at his command;—agues, consumptions, fevers, inflammations, swords, robbers, hemlock,
 
 
 
 
 
-<pb n="179"/>
+<pb n="v.1.p.179"/>
 
 
 juties, tyrants,—not one of which gives them a moment’s concern so long as they are prosperous; but when they come to grief, then it is Alack! and Well-a-day! and Oh dear me!
@@ -444,18 +447,18 @@ If only they would start with a clear understanding that they are mortal, that a
 </p></div>
 
 
-<div type="textpart" subtype="section" n="18">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="18">
 <p><label>Charon</label> Yes! I see it all; and I ask myself, what is the satisfaction in life? What is it that men bewail the loss of? Take their kings; they seem to be best off, though, as you say, they have their happiness on a precarious tenure; but apart from that, we shall find their pleasures to be cuewelghed by the vexations inseparable from their position—worry and anxiety, flattery here, conspiracy there, enmity everywhere; to say
 
 
 
-<pb n="180"/>
+<pb n="v.1.p.180"/>
 
 
 nothing of the tyranny of Sorrow, Disease, and Passion, with whom there is confessedly no respect of persons. And if the king’s lot is a hard one, we may make a pretty shrewd guess at that of the commoner.</p></div>
 
 
-<div type="textpart" subtype="section" n="19">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="19">
 <p>Come now, I will give you a similitude for the life of man. Have you ever stood at the foot of a waterfall, and marked the bubbles rising to the surface and gathering into foam? Some are quite small, and break as soon as they are born. Others last longer; new ones come to join them, and they swell up to a great size: yet in the end they burst, as surely as the rest; it cannot be otherwise. There you have human life. All men are bubbles, great or small, inflated with the breath of life. Some are destined to last for a brief space, others perish in the very moment of birth: but all must inevitably burst.</p>
 
 <p><label>Hermes</label> Homer compares mankind to leaves. Your simile is full as good as his.
@@ -463,19 +466,19 @@ nothing of the tyranny of Sorrow, Disease, and Passion, with whom there is confe
 </p></div>
 
 
-<div type="textpart" subtype="section" n="20">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="20">
 <p><label>Charon</label> And being the things they are, they do—the things you see; squabbling among themselves, and contending for dominion and power and riches, all of which they will have to leave behind them, when they come down to us with their penny apiece. Now that we are up here, how would it be for me to cry out to them at the top of my voice, to abstain from their vain endeavours, and live with the prospect of Death before their eyes?
 <milestone unit="para"/>‘Fools’ (I might say), ‘why so much in earnest? Rest from your toils. You will not live for ever. Nothing of the pomp of this world will endure; nor can any man take anything hence when he dies. He will go naked out of the world, and his house and his lands and his gold will be another’s, and ever another’s.’ If I were to call out something of this sort, loud enough for them to hear, would it not do some good? Would not the world be the better for it?
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="21">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="21">
 <p><label>Hermes</label> Ah, my poor friend, you know not what you say. Ignorance and deceit have done for them what Odysseus did for his
 
 
 
-<pb n="181"/>
+<pb n="v.1.p.181"/>
 
 
 
@@ -493,7 +496,7 @@ crew when he was afraid of the Sirens; they have waxed men’s ears up so effect
 </p></div>
 
 
-<div type="textpart" subtype="section" n="22">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="22">
 <p><label>Charon</label> There is still one thing I had a fancy to see. Show me the receptacles into which they put the corpses, and your office will have been discharged.</p>
 
 <p><label>Hermes</label> Ah, sepulchres, those are called, or tombs, or graves. Well, do you see those mounds, and columns, and pyramids, outside the various city walls? Those are the store-chambers of the dead.</p>
@@ -505,7 +508,7 @@ What does it all mean?</p>
 
 
 
-<pb n="182"/></p>
+<pb n="v.1.p.182"/></p>
 
 <p><label>Charon</label> Eat and drink, when their skulls are dry bone? But I am wasting my breath: you bring them down every day;— you can say whether they are likely ever to get up again, once they are safely underground! That would be too much of a good thing! You would have your work cut out for you and no mistake, if you had not only to bring them down, but also to take them up again when they wanted a drink. Oh, fools and blockheads! You little know how we arrange matters, or what a gulf is set betwixt the living and the dead!
 
@@ -518,7 +521,7 @@ What does it all mean?</p>
 <p><label>Hermes</label> Bless me, what a deluge of Homer!</p></div>
 
 
-<div type="textpart" subtype="section" n="23">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="23">
 <p>And now I think of it, I must show you Achilles’s tomb. There it is on the Trojan shore, at Sigeum. “And across the water is Rhoeteum, where Ajax lies buried.</p>
 
 <p><label>Charon</label> Rather small tombs, considering. Now show me the great cities, those that we hear talked about in Hades; Nineveh, Babylon, Mycenae, Cleonae, and Troy itself. I shipped numbers across from there, I remember. For ten years running I had no time to haul my boat up and clean it.</p>
@@ -527,7 +530,7 @@ What does it all mean?</p>
 
 
 
-<pb n="183"/>
+<pb n="v.1.p.183"/>
 
 
 stranger still, so do rivers! Inachus is gone from Argos—not a puddle left.</p>
@@ -536,7 +539,7 @@ stranger still, so do rivers! Inachus is gone from Argos—not a puddle left.</p
 </p></div>
 
 
-<div type="textpart" subtype="section" n="24">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg023.perseus-eng4:" n="24">
 <p>By the way, what is that battle going on over there? What are they murdering one another about?</p>
 
 <p><label>Hermes</label> It is between the Argives and the Lacedaemonians. The general who lies there half-dead, writing an inscription on the trophy with his own blood, is Othryades.</p>
@@ -557,4 +560,4 @@ stranger still, so do rivers! Inachus is gone from Argos—not a puddle left.</p
 
 
 
-</div></body></text></TEI>
+</body></text></TEI>

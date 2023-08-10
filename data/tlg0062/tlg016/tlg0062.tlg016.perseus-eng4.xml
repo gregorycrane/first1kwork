@@ -57,9 +57,12 @@ target="https://archive.org/details/worksoflucianofs01luciuoft/page/230/mode/1up
 </fileDesc>
 <encodingDesc>
 <p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.</p>
-<refsDecl n="CTS">
-<cRefPattern n="section" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
-</refsDecl>
+ <refsDecl n="CTS">
+  <cRefPattern matchPattern="(\w+)"
+   replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+   <p>This pointer pattern extracts section.</p>
+  </cRefPattern>
+ </refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -74,7 +77,7 @@ target="https://archive.org/details/worksoflucianofs01luciuoft/page/230/mode/1up
 
 <head><label>Charon</label>. <label>Clotho</label>. <label>Hermes</label>. <label>Shades</label>. <label>Rhadamanthus</label>. <label>Tisiphone</label>. <label>Cynic</label>. <label>Megapenthes.</label>. <label>Micyllus</label>. <label>Lamp</label>. <label>Bed</label></head>
 
-<div type="textpart" subtype="section" n="1">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="1">
 <p></p>
 
 <p><label>Charon</label> You see how it is, Clotho; here has all been ship-shape and ready for a start this long time; the hold baled out, the mast stepped, the sail hoisted, every oar in its rowlock; it is no fault of mine that we don’t weigh anchor and sail. 'Tis Hermes keeps us; he should have been here long ago. Not a passenger on board, as you may see; and we might have made the trip three times over by this. Evening is coming on now; and never a penny taken all day! I know how it will be: Pluto will think I have been wanting to my work. It is not I that am to blame, but our fine gentleman of a supercargo. He is just like any mortal: he has taken a drink of their Lethe up there, and forgotten to come back to us. He'll be wrestling with the lads, or playing on his lyre, or giving his precious gift of the gab a good airing; or he’s off after plunder, the rascal, for what I know: ’tis all in the day’s work with him. He is getting too independent: he ought to remember that he belongs to us, one half of him.
@@ -82,14 +85,14 @@ target="https://archive.org/details/worksoflucianofs01luciuoft/page/230/mode/1up
 </p></div>
 
 
-<div type="textpart" subtype="section" n="2">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="2">
 <p><label>Clotho</label> Well, well, Charon; perhaps he has been busy: Zeus may have had some particular occasion for his services in the upper world; he has the use of him too, remember.</p>
 
 <p><label>Charon</label> That doesn’t say that he should make use of him beyond
 
 
 
-<pb n="231"/>
+<pb n="v.1.p.231"/>
 
 
 what’s reasonable. Hermes is common property. We have never kept him here when he was due to go. No, I know what itis. In these parts of ours all is mist and gloom and darkness, and nothing to be had but asphodel and libations and sacrificial cakes and meats, Yonder in Heaven, all’s bright, with plenty of ambrosia, and no end of nectar. Small wonder that he likes to loiter there. When he leaves us, ’tis on wings; it is as though he escaped from prison. But when the time comes for return, he tramps it on foot, and has much ado to get here at all.
@@ -97,7 +100,7 @@ what’s reasonable. Hermes is common property. We have never kept him here when
 </p></div>
 
 
-<div type="textpart" subtype="section" n="3">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="3">
 <p><label>Clotho</label> Well, never mind now; here he comes, look, and a fine host of passengers with him; a fine flock, rather; he hustles them along with his staff like so many goats, But what’s this? One of them is bound, and another enjoying the joke; and there is one with a wallet slung beside him, and a stick in his hand; a cantankerous-looking fellow; he keeps the rest moving. And just look at Hermes! Bathed in perspiration, and his feetcovered with dust! See how he pants; he is quite out of breath. What is the matter, Hermes? Tell us all about it; you seem disturbed.</p>
 
 <p><label>Hermes</label> The matter is that this rascal ran away; I had to go after him, and had well nigh played you false for this trip, I can tell you.</p>
@@ -111,12 +114,12 @@ what’s reasonable. Hermes is common property. We have never kept him here when
 </p></div>
 
 
-<div type="textpart" subtype="section" n="4">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="4">
 <p><label>Hermes</label> Tried! He would have got clean away, but for that capital fellow there with the club; he gave me a hand, and we caught and bound him. The whole way along, from the moment that Atropus handed him over to me, he dragged and
 
 
 
-<pb n="232"/>
+<pb n="v.1.p.232"/>
 
 
 hung back, and dug his heels into the ground: it was no easy work getting him along. Every now and then he would take to prayers and entreaties: Would I let him go just for a few minutes? he would make it worth my while. Of course I was not going to do that; it was out of the question.—Well, we had actually got to the very pit’s mouth, when somehow or other this double-dyed knave managed to slip off, whilst I was telling over the Shades to Aeacus, as usual, and he checking them by your sister’s invoice. The consequence was, we were one short of tally. Aeacus raised his eyebrows. ‘Hermes,’ he said, ‘everything in its right place: no larcenous work here, please. You play enough of those tricks in Heaven. We keep strict accounts here: nothing escapes us. The invoice says
@@ -126,7 +129,7 @@ I coloured up at that; and then all at once I remembered what had happened on th
 </p></div>
 
 
-<div type="textpart" subtype="section" n="5">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="5">
 <p><label>Clotho</label> There now, Charon! And we were beginning to accuse Hermes of neglect.</p>
 
 <p><label>Charon</label> Well, and why are we waiting here, as if there had not been enough delay already?</p>
@@ -139,7 +142,7 @@ I coloured up at that; and then all at once I remembered what had happened on th
 
 
 
-<pb n="233"/></p>
+<pb n="v.1.p.233"/></p>
 
 <p><label>Charon</label> A precious haul, on my word!—These are but green grapes, Hermes.</p>
 
@@ -154,7 +157,7 @@ I coloured up at that; and then all at once I remembered what had happened on th
 </p></div>
 
 
-<div type="textpart" subtype="section" n="6">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="6">
 <p><label>Clotho</label> Bring up the wounded next, Hermes. Now I can get to work. Tell me how you were killed. Or no; I had better look at my notes, and call you over. Eighty-four due to be killed in battle yesterday, in Mysia, ‘These to include Gobares, son of Oxyartes.</p>
 
 <p><label>Hermes</label> Adsunt.</p>
@@ -178,12 +181,12 @@ I coloured up at that; and then all at once I remembered what had happened on th
 <p><label>Clotho</label> Yes, certainly; and all who were shipwrecked; it is the same kind of death. And those who died of fever, bring them too, the doctor Agathocles and all.</p></div>
 
 
-<div type="textpart" subtype="section" n="7">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="7">
 <p>Then there was a Cynic philosopher, who was to have succumbed to a dinner with
 
 
 
-<pb n="234"/>
+<pb n="v.1.p.234"/>
 
 
 
@@ -199,7 +202,7 @@ Dame Hecate, eked out with sacrificial eggs and a raw cuttle-fish; where is he?<
 </p></div>
 
 
-<div type="textpart" subtype="section" n="8">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="8">
 <p><label>Clotho</label> Let me see; who is he?</p>
 
 <p><label>Hermes</label> Megapenthes, son of Lacydes; tyrant.</p>
@@ -228,7 +231,7 @@ Dame Hecate, eked out with sacrificial eggs and a raw cuttle-fish; where is he?<
 
 
 
-<pb n="235"/></p>
+<pb n="v.1.p.235"/></p>
 
 <p><label>Megapenthes.</label> It is too bad of you, Clotho, to hand over my property to my worst enemy.</p>
 
@@ -242,7 +245,7 @@ You only succeeded to it by murdering him, and butchering his children before hi
 </p></div>
 
 
-<div type="textpart" subtype="section" n="9">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="9">
 <p><label>Megapenthes.</label> A word in your ear, madam; no one else must hear this.—Sirs, withdraw for a space.—Clotho, if you will let me escape, I pledge myself to give you a quarter of a million sterling this very day.</p>
 
 <p><label>Clotho</label> Ha, ha! So your millions are still running in your head?</p>
@@ -266,12 +269,12 @@ You only succeeded to it by murdering him, and butchering his children before hi
 </p></div>
 
 
-<div type="textpart" subtype="section" n="10">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="10">
 <p><label>Megapenthes.</label> Oh, but I am quite prepared to give security for my expeditious return, Nay, I could provide a substitute, if preferred;—my well-beloved!
 
 
 
-<pb n="236"/></p>
+<pb n="v.1.p.236"/></p>
 
 <p><label>Clotho</label> Wretch! How often have you prayed that he might survive you!</p>
 
@@ -282,7 +285,7 @@ You only succeeded to it by murdering him, and butchering his children before hi
 </p></div>
 
 
-<div type="textpart" subtype="section" n="11">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="11">
 <p><label>Megapenthes.</label> Well, Clotho, I hope you will not refuse my last request.</p>
 
 <p><label>Clotho</label> Which is?</p>
@@ -311,14 +314,14 @@ Need I explain that the cringing courtiers who lauded your every word and deed w
 
 
 
-<pb n="237"/></p>
+<pb n="v.1.p.237"/></p>
 
 <p><label>Clotho</label> Oh, you want to know too much. It is high time you came on board.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="12">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="12">
 <p><label>Megapenthes.</label> Clotho, I had a particular reason for desiring one more glimpse of daylight. I have a burning grievance!</p>
 
 <p><label>Clotho</label> And what is that? Something of vast importance, I make no doubt.</p>
@@ -328,7 +331,7 @@ I burned with resentment: but there I lay stark and cold, and could do nothing. 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="13">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="13">
 <p><label>Clotho</label> Never mind what you would do to them, but come on board. The hour is at hand when you must appear before the tribunal.</p>
 
 <p><label>Megapenthes.</label> And who will presume to give his vote against a tyrant?</p>
@@ -339,7 +342,7 @@ I burned with resentment: but there I lay stark and cold, and could do nothing. 
 
 
 
-<pb n="238"/>
+<pb n="v.1.p.238"/>
 
 
 pauper! I have been a king,—let me be a slave! Only let me live!</p>
@@ -365,7 +368,7 @@ pauper! I have been a king,—let me be a slave! Only let me live!</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="14">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="14">
 <p><label>Micyllus</label> And what of me, mistress? Am I to be left out of the reckoning? Because I am poor, must I be the last to come aboard?</p>
 
 <p><label>Clotho</label> Who are you?</p>
@@ -378,29 +381,29 @@ pauper! I have been a king,—let me be a slave! Only let me live!</p>
 
 
 
-<pb n="239"/>
+<pb n="v.1.p.239"/>
 
 
 thought happy while he lived; he was feared and respected by all: he had his gold and his silver; his fine clothes and his horses and his banquets; his smart pages and his handsome ladies,—and had to leave them all. No wonder if he was vexed, and felt the tug of parting. For I know not how it is, but these things are like birdlime: a man’s soul sticks to them, and will not easily come away; they have grown to be a part of him. Nay, ’tis as if men were bound in some chain that nothing can break; and when by sheer force they are dragged away, they cry out and beg for mercy. They are bold enough for aught else, but show them this .ame road to Hades, and they prove to be but cowards. They turn about, and must ever be looking back at what they have left behind them, far off though it be,—like men that are sick for love. So it was with the fool yonder: as we came along, he was for running away; and now he tires you with his entreaties.</p></div>
 
 
-<div type="textpart" subtype="section" n="15">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="15">
 <p>As for me, I had no stake in life; lands and horses, money and goods, fame, statues,—I had none of them; I could not have been in better trim: it needed but one nod from Atropus,—I was busied about a boot at the time, but down I flung knife and leather with a will, jumped up, and never waited to get my shoes, or wash the blacking from my hands, but joined the procession there and then, ay, and headed it, looking ever forward; I had left nothing behind me that called for a backward glance. And, on my word, things begin to look well already. Equal rights for all, and no man better than his neighbour; that is hugely to my liking. And from what I can learn there is no collecting of debts in this country, and no taxes; better still, no shivering in winter, no sickness, no hard knocks from one’s betters. All is peace. The tables are turned: the laugh is with us poor men; it is the rich that make moan, and are ill at ease.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="16">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="16">
 <p><label>Clotho</label> To be sure, I noticed that you were laughing, some time ago. What was it in particular that excited your mirth?
 
 
 
-<pb n="240"/></p>
+<pb n="v.1.p.240"/></p>
 
 <p><label>Micyllus</label> I'll tell you, best of Goddesses. Being next door to a tyrant up there, I was all eyes for what went on in his house; and he seemed to me neither more nor less than a God. I saw the embroidered purple, the host of courtiers, the gold, the jewelled goblets, the couches with their feet of silver: and I thought, this is happiness. As for the sweet savour that arose when his dinner was getting ready, it was too much for me; such blessedness seemed more than human. And then his proud looks and stately walk and high carriage, striking admiration into all beholders! It seemed almost as if he must be handsomer than other men, and a good eighteen inches taller. But when he was dead, he made a queer figure, with all his finery gone; though I laughed more at myself than at him: there had I been worshipping mere scum on no better authority than the smell of roast meat, and reckoning happiness by the blood of Lacedaemonian sea-snails!</p></div>
 
 
-<div type="textpart" subtype="section" n="17">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="17">
 <p>There was Gniphon the usurer, too, bitterly reproaching himself for having died without ever knowing the taste of wealth, leaving all his money to his nearest relation and heir-at-law, the spendthrift Rhodochares, when he might have had the enjoyment of it himself. When I saw him, I laughed as if I should never stop: to think of him as he used to be, pale, wizened, with a face full of care, his fingers the only rich part of him, for they had the talents to count,—scraping the money together bit by bit, and all to be squandered in no time by that favourite of Fortune, Rhodochares!—But what are we waiting for now? There will be time enough on the voyage to enjoy their woebegone faces, and have our laugh out.</p>
 
 <p><label>Clotho</label> Come on board, and then the ferryman can haul up the anchor.
@@ -408,12 +411,12 @@ thought happy while he lived; he was feared and respected by all: he had his gol
 </p></div>
 
 
-<div type="textpart" subtype="section" n="18">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="18">
 <p><label>Charon</label> Now, now! What are you doing here? The boat is full, You wait till to-morrow. We can bring you across in the morning.
 
 
 
-<pb n="241"/></p>
+<pb n="v.1.p.241"/></p>
 
 <p><label>Micyllus</label> What right have you to leave me behind,—a shade of twenty-four hours’ standing? I tell you what it is, I shall have you up before Rhadamanthus. A plague on it, she’s moving!
 And here I shall be left all by myself. Stay, though: why not swim across in their wake? No matter if I get tired; a dead man will scarcely be drowned. Not to mention that I have not a penny to pay my fare.</p>
@@ -427,7 +430,7 @@ And here I shall be left all by myself. Stay, though: why not swim across in the
 </p></div>
 
 
-<div type="textpart" subtype="section" n="19">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="19">
 <p><label>Charon</label> And where is he to sit now he is here?_ We are full up, as you may see,</p>
 
 <p><label>Hermes</label> What do you say to the tyrant’s shoulders?</p>
@@ -449,14 +452,14 @@ And here I shall be left all by myself. Stay, though: why not swim across in the
 </p></div>
 
 
-<div type="textpart" subtype="section" n="20">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="20">
 <p><label>Cynic</label> Oh, my lands, my lands!—Ah, my money, my money!— Farewell, my fine palace!—The thousands that fellow will have to squander!—Ah, my helpless children!—To think of the vines I planted last year! Who, ah who, will pluck the grapes?</p>
 
 <p><label>Hermes</label> Why, Micyllus, have you never an Oh or an Ah? It is
 
 
 
-<pb n="242"/>
+<pb n="v.1.p.242"/>
 
 
 quite improper that any shade should cross the stream, and make no moan.</p>
@@ -472,7 +475,7 @@ quite improper that any shade should cross the stream, and make no moan.</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="21">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="21">
 <p><label>Charon</label> Wait a bit! Fares first, please. Your fare, Micyllus; every one else has paid; one penny.</p>
 
 <p><label>Micyllus</label> You don’t expect to get a penny out of the poor cobbler?
@@ -487,14 +490,14 @@ You’re joking, Charon; or else this is what they call a ‘castle in the air.�
 </p></div>
 
 
-<div type="textpart" subtype="section" n="22">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="22">
 <p><label>Micyllus</label> Bless me, how dark it is! Where is handsome Megillus now? There would be no telling Simmiche from Phryne. All complexions are alike here, no question of beauty, greater or less. Why, the cloak I thought so shabby before passes muster here as well as royal purple; the darkness hides both alike. Cyniscus, whereabouts are you?</p>
 
 <p><label>Cynic</label> Use your ears; here I am. We might walk together. What do you say?
 
 
 
-<pb n="243"/></p>
+<pb n="v.1.p.243"/></p>
 
 <p><label>Micyllus</label> Very good; give me your hand.—I suppose you have been admitted to the mysteries at Eleusis? That must have been something like this, I should think?</p>
 
@@ -505,7 +508,7 @@ You’re joking, Charon; or else this is what they call a ‘castle in the air.�
 </p></div>
 
 
-<div type="textpart" subtype="section" n="23">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="23">
 <p><label>Hermes</label> Here they are, Tisiphone. One thousand and four.</p>
 
 <p><label>Tisiphone</label> It is time we had them. Rhadamanthus has been waiting.</p>
@@ -527,7 +530,7 @@ You’re joking, Charon; or else this is what they call a ‘castle in the air.�
 </p></div>
 
 
-<div type="textpart" subtype="section" n="24">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="24">
 <p><label>Hermes</label> If any one has an accusation to bring against Cyniscus here present, let him come forward.</p>
 
 <p><label>Cynic</label> No one stirs!</p>
@@ -544,7 +547,7 @@ You’re joking, Charon; or else this is what they call a ‘castle in the air.�
 
 
 
-<pb n="244"/>
+<pb n="v.1.p.244"/>
 
 
 rubbed out apparently, or cut out. How do you explain this, Cyniscus? How did you get such a clean skin again?</p>
@@ -556,7 +559,7 @@ rubbed out apparently, or cut out. How do you explain this, Cyniscus? How did yo
 </p></div>
 
 
-<div type="textpart" subtype="section" n="25">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="25">
 <p><label>Micyllus</label> Mine is a very small affair, too, Rhadamanthus; I shall not keep you long. I have been stripped all this time; so do take me next.</p>
 
 <p><label>Rhadamanthus</label> And who may you be?</p>
@@ -572,19 +575,19 @@ rubbed out apparently, or cut out. How do you explain this, Cyniscus? How did yo
 </p></div>
 
 
-<div type="textpart" subtype="section" n="26">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="26">
 <p><label>Cynic</label> There is in fact no need of an accusation. You will very soon know the man by the marks upon him. My words however may serve to unveil him, and to show his character in a clearer light. With the conduct of this monster as a private citizen, I need not detain you. Surrounded with a bodyguard, and aided by unscrupulous accomplices, he rose against his native city, and established a lawless rule. The persons put to death by him without trial are to be counted by thousands, and it was the confiscation of their property that gave him his enormous wealth. Since then, there is no conceivable iniquity
 
 
 
-<pb n="245"/>
+<pb n="v.1.p.245"/>
 
 
 which he has not perpetrated. His hapless fellow-citizens have been subjected to every form of cruelty and insult. Virgins have been seduced, boys corrupted, the feelings of his subjects outraged in every possible way. His overweening pride, his insolent bearing towards all who had to do with him, were such as no doom of yours can adequately requite. A man might with more security have fixed his gaze upon the blazing sun, than upon yonder tyrant. As for the refined cruelty of his punishments, it baffles description; and not even his familiars were exempt. That this accusation has not been brought without sufficient grounds, you may easily satisfy yourself, by summoning the murderer’s victims.—Nay, they need no summons; see, they are here; they press round as though they would stifle him. Every man there, Rhadamanthus, fell a prey to his iniquitous designs. Some had attracted his attention by the beauty of their wives; others by their resentment at the forcible abduction of their children; others by their wealth; others again by their understanding, their moderation, and their unvarying disapproval of his conduct.
 </p></div>
 
 
-<div type="textpart" subtype="section" n="27">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="27">
 <p><label>Rhadamanthus</label> Villain, what have you to say to this?</p>
 
 <p><label>Megapenthes.</label> I committed the murders referred to. As for the rest, the adulteries and corruptions and seductions, it is all a pack of lies.</p>
@@ -603,7 +606,7 @@ which he has not perpetrated. His hapless fellow-citizens have been subjected to
 
 
 
-<pb n="246"/></p>
+<pb n="v.1.p.246"/></p>
 
 <p><label>Rhadamanthus</label> Why, your unwillingness to speak is the most telling evidence of all!—Lamp, now let us have yours.;</p>
 
@@ -613,7 +616,7 @@ I saw some very queer things, though, monstrous queer. Many is the time I have s
 </p></div>
 
 
-<div type="textpart" subtype="section" n="28">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="28">
 <p><label>Rhadamanthus</label> Enough of verbal evidenee. Now, just divest yourself of that purple, and we will see what you have in the way of brands. Goodness gracious, the man’s a positive network!
 Black and blue with them! Now, what punishment can we givehim? A bathin Pyriphlegethon? The tender mercies of Cerberus, perhaps?</p>
 
@@ -630,7 +633,7 @@ Black and blue with them! Now, what punishment can we givehim? A bathin Pyriphle
 </p></div>
 
 
-<div type="textpart" subtype="section" n="29">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg016.perseus-eng4:" n="29">
 <p><label>Rhadamanthus</label> What is the idea in that?</p>
 
 <p><label>Cynic</label> His earthly pomp and power for ever in his mind; his fingers ever busy on the tale of blissful items;—’tis a heavy sentence!</p>
@@ -638,4 +641,3 @@ Black and blue with them! Now, what punishment can we givehim? A bathin Pyriphle
 <p><label>Rhadamanthus</label> True. Be this the tyrant’s doom. Place him in fetters at Tantalus’s side,—never to forget the things of earth. F.</p></div>
 </div>
 </body></text></TEI>
-</div></body></text></TEI>

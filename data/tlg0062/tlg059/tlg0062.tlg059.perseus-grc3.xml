@@ -5,7 +5,7 @@
 <fileDesc>
 <titleStmt>
 <title xml:lang="grc">Ἀπολογία</title>
-<title>Apology for the "Salaried Posts in Great Houses"</title>
+<title xml:lang="eng">Apology for the "Salaried Posts in Great Houses"</title>
 <author>Lucian of Samosata</author>
 <editor>Kenneth Kilburn</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
@@ -35,7 +35,7 @@
             <biblStruct>
                 <monogr>
                     <author>Lucian of Samosata</author>
-                    <title>Lucian with an English Translation</title>
+                    <title xml:lang="eng">Lucian with an English Translation</title>
                     <editor>Kenneth Kilburn</editor>
                     <imprint>
                         <pubPlace>London</pubPlace>

@@ -5,7 +5,7 @@
 <fileDesc>
 <titleStmt>
 <title xml:lang="grc">Νεκρικοὶ διάλογοι</title>
-<title>Dialogues of the Dead</title>
+<title xml:lang="eng">Dialogues of the Dead</title>
 <author>Lucian of Samosata</author>
 <editor>Matthew Donald Macleod</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
@@ -35,7 +35,7 @@
             <biblStruct>
                 <monogr>
                     <author>Lucian of Samosata</author>
-                    <title>Lucian with an English Translation</title>
+                    <title xml:lang="eng">Lucian with an English Translation</title>
                     <editor>Matthew Donald Macleod</editor>
                     <imprint>
                         <pubPlace>London</pubPlace>
@@ -137,10 +137,11 @@
 ἄπορα ἐρωτᾶν διδάσκουσι τὸν νοῦν.</p></sp>
 
 <sp><speaker>ΠΟΛΥΔΕΥΚΗΣ</speaker><p>Ἀλλὰ ἐμὲ ἀμαθῆ καὶ ἀπαίδευτον εἶναι φάσκουσι
- κατηγοροῦντα τῆς σοφίας αὐτῶν. <milestone unit="altchap" n="333"/> </p></sp>
+ κατηγοροῦντα τῆς σοφίας αὐτῶν. </p></sp>
 
 <pb n="v.7.p.6"/>
 
+<milestone unit="altchap" n="333"/>
 <sp><speaker>ΔΙΟΓΕΝΗΣ</speaker><p>Σὺ δὲ οἰμώζειν αὐτοὺς παρ' ἐμοῦ λέγε.</p></sp>
 
 <sp><speaker>ΠΟΛΥΔΕΥΚΗΣ</speaker><p>Καὶ ταῦτα, ὦ Διόγενες, ἀπαγγελῶ.</p></sp>
@@ -697,8 +698,10 @@
 δίψαν πεφοβημένος.</p></sp>
 
 <sp><speaker>ΤΑΝΤΑΛΟΣ</speaker><p>Οὐδὲ τὸν ἐλλέβορον, ὦ Μένιππε, ἀναίνομαι πιεῖν,
- γένοιτό μοι μόνον. <milestone unit="altchap" n="408"/> </p></sp>
+ γένοιτό μοι μόνον. </p></sp>
 
+
+<milestone unit="altchap" n="408"/>
 <sp><speaker>ΜΕΝΙΠΠΟΣ</speaker><p>Θάρρει, ὦ Τάνταλε, ὡς οὔτε σὺ
 <note xml:lang="mul" n="7.38.2">οὔτε συ om. γ.</note>
  οὔτε ἄλλος
@@ -730,8 +733,10 @@
 <sp><speaker>ΧΕΙΡΩΝ</speaker><p>Ἐρῶ πρὸς σὲ οὐκ ἀσύνετον ὄντα. οὐκ ἦν ἔτι
  ἡδὺ ἀπολαύειν
 <note xml:lang="mul" n="7.40.1">οὐκ ἦν ἔτι ἡδὺ ἀπολαύειν β: οὐδέν τι ἡδὺ ἀπέλαυον γ.</note>
- τῆς ἀθανασίας. <milestone unit="altchap" n="435"/> </p></sp>
+ τῆς ἀθανασίας. </p></sp>
 
+
+<milestone unit="altchap" n="435"/>
 <sp><speaker>ΜΕΝΙΠΠΟΣ</speaker><p>Οὐχ ἡδὺ ἦν ζῶντα ὁρᾶν τὸ φῶς;</p></sp>
 
 <sp><speaker>ΧΕΙΡΩΝ</speaker><p>Οὔκ, ὦ Μένιππε· τὸ γὰρ ἡδὺ ἔγωγε ποικίλον
@@ -748,7 +753,7 @@
 
 ἕκαστον, ὥσπερ ἀκολουθοῦντα θάτερον θατέρῳ·
 ἐνεπλήσθην οὖν αὐτῶν· οὐ γὰρ ἐν τῷ αὐτῷ ἀεὶ, ἀλλὰ
-καὶ ἐν τῷ &lt;μὴ&gt; μετασχεῖν
+καὶ ἐν τῷ <add>μὴ</add> μετασχεῖν
 <note xml:lang="mul" n="7.42.1">μὴ μετασχεῖν Hermann: μετασχεῖν codd.: μεταβαλεῖν Lehmann: μεταστῆναι Hemsterhuys: μεταλλάσσειν Post.</note>
  ὅλως τὸ τερπνὸν ἦν.</p></sp>
 
@@ -1242,11 +1247,11 @@
 προστάτην αἱρούμενοι καὶ στρατηγὸν ἐπὶ τοὺς
 βαρβάρους, ἔνιοι δὲ καὶ τοῖς δώδεκα θεοῖς προστιθέντες
 καὶ οἰκοδομοῦντές σοι νεὼς καὶ θύοντες ὡς
- δράκοντος υἱῷ. <milestone unit="altchap" n="392"/></p></sp>
+ δράκοντος υἱῷ. </p></sp>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg066.perseus-grc3:13" n="3">
-<sp><p>ἀλλ’ εἰπέ μοι, ποῦ σε οἱ Μακεδόνες ἔθαψαν;</p></sp>
+<sp><p><milestone unit="altchap" n="392"/>ἀλλ’ εἰπέ μοι, ποῦ σε οἱ Μακεδόνες ἔθαψαν;</p></sp>
 
 
 <pb n="v.7.p.70"/>
@@ -1301,8 +1306,10 @@
 αὐτὸς λαμβάνων· γόης, ὦ Διόγενες, ἅνθρωπος καὶ
 τεχνίτης. πλὴν ἀλλὰ τοῦτό γε ἀπολέλαυκα τῆς
 σοφίας αὐτοῦ, τὸ λυπεῖσθαι ὡς ἐπὶ μεγίστοις
- ἀγαθοῖς ἐκείνοις, ἃ κατηριθμήσω μικρῷ γε ἔμπροσθεν. <milestone unit="altchap" n="394"/> </p></sp>
+ ἀγαθοῖς ἐκείνοις, ἃ κατηριθμήσω μικρῷ γε ἔμπροσθεν. </p></sp>
 
+
+<milestone unit="altchap" n="394"/>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg066.perseus-grc3:13" n="6">
@@ -1341,8 +1348,10 @@
 <sp><speaker>ΧΑΡΩΝ</speaker><p>Τίθει πέντε δραχμὰς καὶ ὀβολοὺς δύο.</p></sp>
 
 <sp><speaker>ΕΡΜΗΣ</speaker><p>Καὶ ἀκέστραν ὑπὲρ τοῦ ἱστίου· πέντε ὀβολοὺς
- ἐγὼ κατέβαλον. <milestone unit="altchap" n="342"/> </p></sp>
+ ἐγὼ κατέβαλον. </p></sp>
 
+
+<milestone unit="altchap" n="342"/>
 <sp><speaker>ΧΑΡΩΝ</speaker><p>Καὶ τούτους προστίθει.</p></sp>
 
 <sp><speaker>ΕΡΜΗΣ</speaker><p>Καὶ κηρὸν ὡς ἐπιπλάσαι τοῦ σκαφιδίου τὰ
@@ -1466,8 +1475,10 @@
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg066.perseus-grc3:16" n="1">
 <sp><speaker>ΤΕΡΨΙΩΝ</speaker><p>Τοῦτο, ὦ Πλούτων, δίκαιον, ἐμὲ μὲν τεθνάναι
 τριάκοντα ἔτη γεγονότα, τὸν δὲ ὑπὲρ τὰ
- ἐνενήκοντα γέροντα Θούκριτον ζῆν ἔτι; <milestone unit="altchap" n="347"/> </p></sp>
+ ἐνενήκοντα γέροντα Θούκριτον ζῆν ἔτι; </p></sp>
 
+
+<milestone unit="altchap" n="347"/>
 <sp><speaker>ΠΛΟΥΤΩΝ</speaker><p>Δικαιότατον μὲν οὖν, ὦ Τερψίων, εἴ γε ὁ μὲν
 ζῇ μηδένα εὐχόμενος ἀποθανεῖν τῶν φίλων, σὺ δὲ
 παρὰ πάντα τὸν χρόνον ἐπεβούλευες αὐτῷ περιμένων
@@ -1564,8 +1575,10 @@
 
 <sp><speaker>ΠΛΟΥΤΩΝ</speaker><p>Θάρρει, ὦ Τερψίων· καὶ Φείδων γὰρ καὶ
 Μέλανθος καὶ ὅλως ἅπαντες προελεύσονται αὐτοῦ
- ὑπὸ ταῖς αὐταῖς φροντίσιν. <milestone unit="altchap" n="355"/> </p></sp>
+ ὑπὸ ταῖς αὐταῖς φροντίσιν. </p></sp>
 
+
+<milestone unit="altchap" n="355"/>
 <sp><speaker>ΤΕΡΨΙΩΝ</speaker><p>Ἐπαινῶ ταῦτα. ζῴης ἐπὶ μήκιστον, ὡ Θούκριτε.</p></sp>
 
 
@@ -1718,8 +1731,10 @@
 <sp><speaker>ΠΟΛΥΣΤΡΑΤΟΣ</speaker><p>Οὔκ, ἀλλ’ ἐραστὰς εἶχον μυρίους.</p></sp>
 
 <sp><speaker>ΣΙΜΥΛΟΣ</speaker><p>Ἐγέλασα· ἐραστὰς σὺ τηλικοῦτος ὤν, ὀδόντας
- τέτταρας ἔχων; <milestone unit="altchap" n="361"/> </p></sp>
+ τέτταρας ἔχων; </p></sp>
 
+
+<milestone unit="altchap" n="361"/>
 <sp><speaker>ΠΟΛΥΣΤΡΑΤΟΣ</speaker><p>Νὴ Δία, τοὺς ἀρίστους γε τῶν ἐν τῇ πόλει· καὶ
 γέροντά με καὶ φαλακρόν, ὡς ὁρᾷς, ὄντα καὶ λημῶντα
 προσέτι καὶ κορυζῶντα ὑπερήδοντο θεραπεύοντες,
@@ -1782,10 +1797,12 @@
 ἐκληρονόμησέ μου καὶ νῦν ἐν τοῖς εὐπατρίδαις
 ἀριθμεῖται ὑπεξυρημένος μὲν τὸ γένειον καὶ βαρβαρίζων,
 Κόδρου δὲ εὐγενέστερος καὶ Νιρέως καλλίων
- καὶ Ὀδυσσέως συνετώτερος λεγόμενος εἶναι. <milestone unit="altchap" n="363"/> </p></sp>
+ καὶ Ὀδυσσέως συνετώτερος λεγόμενος εἶναι. </p></sp>
 
+
+<milestone unit="altchap" n="363"/>
 <sp><speaker>ΣΙΜΥΛΟΣ</speaker><p>Οὔ μοι μέλει· καὶ στρατηγησάτω τῆς Ἑλλάδος,
-εἰ δοκεῖ, ἐκεῖνοι δὲ &lt;μὴ&gt;
+εἰ δοκεῖ, ἐκεῖνοι δὲ <add>μὴ</add>
 <note xml:lang="mul" n="7.100.1">μὴ om. Vett.. corr. recc..</note>
  κληρονομείτωσαν μόνον.</p></sp>
 </div>
@@ -1807,8 +1824,10 @@
 <pb n="v.7.p.102"/>
 
 μετὰ τούτων ἐμβῆτε, δέδια μὴ ὕστερον μετανοήσητε,
- καὶ μάλιστα ὁπόσοι νεῖν οὐκ ἐπίστασθε. <milestone unit="altchap" n="364"/> </p></sp>
+ καὶ μάλιστα ὁπόσοι νεῖν οὐκ ἐπίστασθε. </p></sp>
 
+
+<milestone unit="altchap" n="364"/>
 <sp><speaker>ΕΡΜΗΣ</speaker><p>Πῶς οὖν ποιήσαντες εὐπλοήσομεν;</p></sp>
 
 <sp><speaker>ΧΑΡΩΝ</speaker><p>Ἐγὼ ὑμῖν φράσω· γυμνοὺς ἐπιβαίνειν χρὴ τὰ
@@ -2056,8 +2075,8 @@
 <sp><speaker>ΦΙΛΟΣΟΦΟΣ</speaker><p>Σὺ γάρ, ὦ Μένιππε, οὐκ ἄχθῃ ἀποθανών;</p></sp>
 
 <sp><speaker>ΜΕΝΙΠΠΟΣ</speaker><p>Πῶς, ὃς ἔσπευσα ἐπὶ τὸν θάνατον καλέσαντος
- μηδενός;<milestone unit="altpage" n="375"/></p></sp></div>
-
+ μηδενός;</p></sp></div>
+ <milestone unit="altpage" n="375"/>
  <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg066.perseus-grc3:20" n="12">
  <sp><p>ἀλλὰ μεταξὺ λόγων οὐ κραυγή τις
 ἀκούεται ὥσπερ τινῶν ἀπὸ γῆς
@@ -2218,8 +2237,10 @@
 <sp><speaker>ΔΙΟΓΕΝΗΣ</speaker><p>Διήγησαι, ὦ Κράτης· ἔοικας γάρ τινα ἑωρακέναι
 <note xml:lang="mul" n="7.124.1">ἑωρακέναι γ: ἐρεῖν β.</note>
 
- παγγέλοια. <milestone unit="altchap" n="438"/> </p></sp>
+ παγγέλοια. </p></sp>
 
+
+<milestone unit="altchap" n="438"/>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg066.perseus-grc3:22" n="2">
@@ -2458,8 +2479,10 @@
 κινδυνεύειν ὑπέμενεν, ἐπεὶ καὶ ἐκράτησέ σου
  καὶ ταῦτα ἐπὶ
 <note xml:lang="mul" n="7.136.1">ἐπὶ γ: παρὰ β.</note>
- Τρωσὶ δικασταῖς. <milestone unit="altchap" n="450"/> </p></sp>
+ Τρωσὶ δικασταῖς. </p></sp>
 
+
+<milestone unit="altchap" n="450"/>
 <sp><speaker>ΑΙΑΣ</speaker><p>Οἶδα ἐγώ, ἥτις μου κατεδίκασεν· ἀλλ’ οὐ
 θέμις λέγειν τι περὶ τῶν θεῶν. τὸν δ’ οὖν Ὀδυσσέα
 μὴ οὐχὶ μισεῖν οὐκ ἂν δυναίμην, ὦ Ἀγάμεμνον,
@@ -2489,8 +2512,10 @@
 <sp><speaker>ΣΩΣΤΡΑΤΟΣ</speaker><p>Ἄκουσον, ὦ Μίνως, εἴ σοι δίκαια δόξω λέγειν.</p></sp>
 
 <sp><speaker>ΜΙΝΩΣ</speaker><p>Νῦν ἀκούσω αὖθις; οὐ γὰρ ἐξελήλεγξαι, ὦ
- Σώστρατε, πονηρὸς ὢν καὶ τοσούτους ἀπεκτονώς; <milestone unit="altchap" n="451"/> </p></sp>
+ Σώστρατε, πονηρὸς ὢν καὶ τοσούτους ἀπεκτονώς; </p></sp>
 
+
+<milestone unit="altchap" n="451"/>
 <sp><speaker>ΣΩΣΤΡΑΤΟΣ</speaker><p>Ἐλήλεγμαι μέν, ἀλλ’ ὅρα, εἰ δικαίως κολασθήσομαι.</p></sp>
 
 <sp><speaker>ΜΙΝΩΣ</speaker><p>Καὶ πάνυ, εἴ γε ἀποτίνειν τὴν ἀξίαν δίκαιον.</p></sp>
@@ -2537,8 +2562,10 @@
 <sp><speaker>ΣΩΣΤΡΑΤΟΣ</speaker><p> Εὖ γε, ὦ Μίνως, ὅτι καὶ ἐπιδαψιλεύῃ τῷ παραδείγματι.
 <milestone unit="altpage" n="453"/>  ἢν δέ τις ἀποστείλαντος τοῦ δεσπότου
 ἥκῃ αὐτὸς χρυσὸν ἢ ἄργυρον κομίζων, τίνι τὴν
- χάριν ἰστέον ἢ τίνα εὐεργέτην ἀναγραπτέον; <milestone unit="altchap" n="454"/> </p></sp>
+ χάριν ἰστέον ἢ τίνα εὐεργέτην ἀναγραπτέον; </p></sp>
 
+
+<milestone unit="altchap" n="454"/>
 <sp><speaker>ΜΙΝΩΣ</speaker><p>Τὸν πέμψαντα, ὦ Σώστρατε· διάκονος γὰρ ὁ
 κομίσας
 <note xml:lang="mul" n="7.140.3">ὁ κομίσας γ: ὁ πεμφθεὶς β.</note>
@@ -2990,8 +3017,10 @@
 ᾖ, καθικόμενον ἐν
 <note xml:lang="mul" n="7.166.1">ἐν codd.; del. edd..</note>
  τῇ ῥάβδῳ νεανίαν εὐθὺς
- καλὸν ἀπεργάσασθαι αὐτὸν, οἷος ἦν ἐκ τοῦ παστοῦ. <milestone unit="altchap" n="429"/> </p></sp>
+ καλὸν ἀπεργάσασθαι αὐτὸν, οἷος ἦν ἐκ τοῦ παστοῦ. </p></sp>
 
+
+<milestone unit="altchap" n="429"/>
 <sp><speaker>ΠΛΟΥΤΩΝ</speaker><p>Ἐπεὶ Φερσεφόνῃ συνδοκεῖ, ἀναγαγὼν τοῦτον
 αὖθις ποίησον νυμφίον· σὺ δὲ μέμνησο μίαν λαβὼν ἡμέραν.</p></sp>
 </div>

@@ -5,7 +5,7 @@
 <fileDesc>
 <titleStmt>
 <title xml:lang="grc">Τὰ πρὸς Κρόνον</title>
-<title>A Conversation with Cronus</title>
+<title xml:lang="eng">A Conversation with Cronus</title>
 <author>Lucian of Samosata</author>
 <editor>Kenneth Kilburn</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
@@ -35,7 +35,7 @@
             <biblStruct>
                 <monogr>
                     <author>Lucian of Samosata</author>
-                    <title>Lucian with an English Translation</title>
+                    <title xml:lang="eng">Lucian with an English Translation</title>
                     <editor>Kenneth Kilburn</editor>
                     <imprint>
                         <pubPlace>London</pubPlace>
@@ -547,7 +547,7 @@
 <pb n="v.6.p.114"/>
 
 αὐτοὺς ἄγειν ἄρτι μανθάνοντα
-<note xml:lang="mul" n="6.114.1">L. A. Post proposes &lt;ἀλλ’&gt; ἄρτι μανθάνοντα.</note>
+<note xml:lang="mul" n="6.114.1">L. A. Post proposes <add>ἀλλ’</add> ἄρτι μανθάνοντα.</note>
  ἐξέστω, ἤν τις
 ἐθέλῃ.
 <milestone unit="para"/>Σκώμματος μέτρον ἔστω τὸ ἄλυπον ἐπὶ πᾶσιν.

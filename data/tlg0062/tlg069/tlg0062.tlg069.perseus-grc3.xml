@@ -5,7 +5,7 @@
 <fileDesc>
 <titleStmt>
 <title xml:lang="grc">Ἑταιρικοὶ διάλογοι</title>
-<title>Dialogues of the Courtesans</title>
+<title xml:lang="eng">Dialogues of the Courtesans</title>
 <author>Lucian of Samosata</author>
 <editor>Matthew Donald Macleod</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
@@ -35,7 +35,7 @@
             <biblStruct>
                 <monogr>
                     <author>Lucian of Samosata</author>
-                    <title>Lucian with an English Translation</title>
+                    <title xml:lang="eng">Lucian with an English Translation</title>
                     <editor>Matthew Donald Macleod</editor>
                     <imprint>
                         <pubPlace>London</pubPlace>
@@ -459,7 +459,7 @@
 δεῖ μετὰ τῶν ἁλῶν καὶ ὀβολοὺς ἑπτὰ καὶ θεῖον καὶ
 δᾷδα. ταῦτα δὲ ἡ γραῦς λαμβάνει, καὶ κρατῆρα
 κεκερᾶσθαι δεῖ καὶ πίνειν ἐκείνην μόνην. δεήσει
-αὐτοῦ μέντοι &lt;τι&gt;
+αὐτοῦ μέντοι <add>τι</add>
 <note xml:lang="mul" n="7.376.3">τι supplevit Mras.</note>
  τοῦ ἀνδρὸς εἶναι, οἷον ἱμάτια ἢ
 κρηπῖδας ἢ ὀλίγας τῶν τριχῶν ἤ τι τῶν τοιούτων.</p></sp>
@@ -1646,7 +1646,7 @@
 <sp><speaker>ΛΕΟΝΤΙΧΟΣ</speaker><p>Ἐν δὲ τῇ πρὸς τοὺς Γαλάτας μάχῃ εἰπέ, ὦ
 Χηνίδα, ὅπως μὲν προεξήλασα τῶν ἄλλων ἱππέων
 ἐπὶ τοῦ ἵππου τοῦ λευκοῦ, ὅπως δὲ οἱ Γαλάται
-καίτοι ἄλκιμοι ὄντες ἔτρεσάν &lt;μ'&gt;
+καίτοι ἄλκιμοι ὄντες ἔτρεσάν <add>μ'</add>
 <note xml:lang="mul" n="7.444.1">μ' addidit Mras.</note>
  εὐθὺς ὡς εἶδον
 καὶ οὐθεὶς ἔτι ὑπέστη. τότε τοίνυν ἐγὼ τὴν μὲν

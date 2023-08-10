@@ -56,9 +56,12 @@ target="https://archive.org/details/worksoflucianofs04luciuoft/page/95/mode/1up"
 </fileDesc>
 <encodingDesc>
 <p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.</p>
-<refsDecl n="CTS">
-<cRefPattern n="section" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
-</refsDecl>
+ <refsDecl n="CTS">
+  <cRefPattern matchPattern="(\w+)"
+   replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+   <p>This pointer pattern extracts section.</p>
+  </cRefPattern>
+ </refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -71,7 +74,7 @@ target="https://archive.org/details/worksoflucianofs04luciuoft/page/95/mode/1up"
 <div type="translation" n="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4" xml:lang="eng">
 <head>THE RUNAWAYS</head>
 <head><label>Apollo</label>. <label>Zeus</label>. <label>Philosophy</label>. <label>Heracles</label>. <label>Hermes</label>. Three Masters. An Innkeeper. Orpheus. Innkeeper’s Wife. Three Runaway Slaves</head>
-<div type="textpart" subtype="section" n="1">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="1">
 <p><label>Apollo</label> Father, is this true, about a man’s publicly throwing himself upon a pyre, at the Olympian Games? He was quite an old man, it seems, and rather a good hand at anything in the sensational line. Selene told us about it: she says she actually saw him burning.</p>
 
 <p><label>Zeus</label> Quite true, my boy; only too true!</p>
@@ -82,7 +85,7 @@ target="https://archive.org/details/worksoflucianofs04luciuoft/page/95/mode/1up"
 
 
 
-<pb n="96"/>
+<pb n="v.4.p.96"/>
 
 
 
@@ -92,7 +95,7 @@ to the smell, which incommoded me extremely; the odour of roast man, I need hard
 </p></div>
 
 
-<div type="textpart" subtype="section" n="2">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="2">
 <p><label>Apollo</label> But what was his object, father? Was there anything to be got by jumping on to a pyre, and being converted to cinders?</p>
 
 <p><label>Zeus</label> Ah, if you come to that, you must call Empedocles to account first: be jumped into a crater, in Sicily.</p>
@@ -102,7 +105,7 @@ to the smell, which incommoded me extremely; the odour of roast man, I need hard
 <p><label>Zeus</label> I'll quote you his own words. He made a speech, explaining his motives to the public.</p></div>
 
 
-<div type="textpart" subtype="section" n="3">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="3">
 <p>As far as I remember, he said—but who comes here in such haste? There must be something wrong: she is crying; some one has been ill-treating her. Why, it is Philosophy, in a sad way, calling out to me. Why are you crying, child? and what brings you here, away from the world? More misdeeds of the ignorant herd? a repetition of the Socrates and Anytus affair? is that it?</p>
 
 <p><label>Philosophy</label> No, father, nothing of that kind. The common people have been most polite and respectful; they are my most devout admirers,—worshippers, I might almost say; not that they understand much of what I tell them. No; it was those—I don’t know what to call them—but the people who pretend to be on such friendly terms with me, and are always using my name;—the wretches!
@@ -110,14 +113,14 @@ to the smell, which incommoded me extremely; the odour of roast man, I need hard
 </p></div>
 
 
-<div type="textpart" subtype="section" n="4">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="4">
 <p><label>Zeus</label> Oh, it’s the philosophers who have been misbehaving themselves?</p>
 
 <p><label>Philosophy</label> No, no, father; they have been just as badly treated as I have.
 
 
 
-<pb n="97"/>
+<pb n="v.4.p.97"/>
 
 
 </p>
@@ -129,7 +132,7 @@ to the smell, which incommoded me extremely; the odour of roast man, I need hard
 </p></div>
 
 
-<div type="textpart" subtype="section" n="5">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="5">
 <p><label>Zeus</label> Poor child! it is too bad of them, And what have they been doing to you exactly?</p>
 
 <p><label>Philosophy</label> Judge for yourself whether the provocation was a slight one. When formerly you looked down upon the world, and saw that it was filled with iniquity and transgression, and was become the troubled abode of sin and folly, you had compassion on the frailty of ignorant mankind, and sent me down to them: you bade me see to it, that wickedness and violence and brutality should cease from among them; I was to lift their eyes upwards to the truth, and cause them to live together in unity. Remember your words on that occasion: ‘Behold, my daughter, the misdeeds of mankind; behold how ignorance has wrought upon them. I feel compassion for them, and have chosen you from among all the Gods to heal their ills; for who else should heal them?’
@@ -137,7 +140,7 @@ to the smell, which incommoded me extremely; the odour of roast man, I need hard
 </p></div>
 
 
-<div type="textpart" subtype="section" n="6">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="6">
 <p><label>Zeus</label> I said that, and more. Yes? and how did they reccive you at your first descent? and what is the trouble now?</p>
 
 <p><label>Philosophy</label> My first flight was not directed towards Greece. I
@@ -147,7 +150,7 @@ thought it best to begin with the hardest part of my task, which I took to be th
 
 
 
-<pb n="98"/>
+<pb n="v.4.p.98"/>
 
 
 
@@ -157,31 +160,31 @@ little trouble in persuading them to descend from their elephants and follow me.
 </p></div>
 
 
-<div type="textpart" subtype="section" n="7">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="7">
 <p><label>Zeus</label> Ah, to be sure: the Gymnosophists. I have heard a great deal of them. Among other things, they ascend gigantic pyres, and sit quietly burning to death without moving a muscle. However, that is no such great matter: I saw it done at Olympia only the other day. You would be there, no doubt,—when that old man burnt himself?</p>
 
 <p><label>Philosophy</label> No, father: I was afraid to go near Olympia, on account of those hateful men I was telling you of; I saw that numbers of them were going there, to make their barking clamour heard in the temple, and to abuse all comers. Accordingly I know nothing of this cremation.</p></div>
 
 
-<div type="textpart" subtype="section" n="8">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="8">
 <p>But to continue: after I had left the Brahmins, I went straight to Ethiopia, and thence to Egypt, where I associated with the priests and prophets, and taught them of the Gods. Then to Babylon, to instruct the Chaldaeans and Mages. Next came Scythia, and after Scythia,
 Thrace; here Eumolpus and Orpheus were my companions. I
 sent them on into Greece before me; Eumolpus, whom I had thoroughly instructed in theology, was to institute the sacred mysteries, Orpheus to win men by the power of music.</p></div>
 
 
-<div type="textpart" subtype="section" n="9">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="9">
 <p>I
-followed close behind them. On my first arrival, the Greeks received me without enthusiasm: they did not, however, wholly reject my advances; by slow degrees I gained over seven men to be my companions and disciples, and Samos, Ephesus, and Abdera,<note>Pythagoras, Heraclitus, Democritus.</note> each added one to the little company.</p></div>
+followed close behind them. On my first arrival, the Greeks received me without enthusiasm: they did not, however, wholly reject my advances; by slow degrees I gained over seven men to be my companions and disciples, and Samos, Ephesus, and Abdera,<note xml:lang="eng">Pythagoras, Heraclitus, Democritus.</note> each added one to the little company.</p></div>
 
 
-<div type="textpart" subtype="section" n="10">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="10">
 <p>And then there sprang up—I scarce know how—the tribe of sophists: men who had but little of my spirit, yet were not wholly alien to me; a motley Centaur breed, in whom vanity and
 
 
 
 
 
-<pb n="99"/>
+<pb n="v.4.p.99"/>
 
 
 
@@ -190,13 +193,13 @@ wisdom meeting were moulded into one incongruous whole:
 They clung not entirely to ignorance, but theirs was not the steady eye that could meet the gaze of Philosophy; and if at moments my semblance flashed phantom-like across their dulled vision, they held that in that dim shadow they had seen all that was to be seen. It was this pride that nourished the vain, unprofitable science that they mistook for invincible wisdom; the science of quaint conceits, ingenious paradoxes, and labyrinthine dilemmas.</p></div>
 
 
-<div type="textpart" subtype="section" n="11">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="11">
 <p>My followers would have restrained them, and exposed their errors: but they grew angry, and conspired against them, and in the end brought them under the power of the law, which condemned them to drink of hemlock. Doubttess I should have done well to renounce humanity there and then, and take my flight: but Antisthenes and Diogenes, and after them Crates, and our friend Menippus, prevailed upon me to tarry yet a little longer. Would that I had never yielded!' I should have been spared much pain in the sequel.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="12">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="12">
 <p><label>Zeus</label> But, my dear, you are merely giving way to your feelings, instead of telling me what your wrongs were.</p>
 
 <p><label>Philosophy</label> Then hear them, father. There is a vile race upon the earth, composed for the most part of serfs and menials, creatures whose occupations have never suffered them to become acquainted with philosophy; whose earliest years have been spent in the drudgery of the fields, in learning those base arts for which they are most fitted—the fuller’s trade, the joiner’s, the cobbler’s—or in carding wool, that housewives may have ease in their spinning, and the thread be fit for warp and woof,
@@ -205,7 +208,7 @@ Thus employed, they knew not in their youth so much as the name of Philosophy. B
 
 
 
-<pb n="100"/>
+<pb n="v.4.p.100"/>
 
 
 
@@ -213,21 +216,21 @@ Thus employed, they knew not in their youth so much as the name of Philosophy. B
 </p></div>
 
 
-<div type="textpart" subtype="section" n="13">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="13">
 <p>The learning, indeed, that befits a philosopher would have taken them long to acquire, if it was not utterly out of their reach. On the other hand, their own miserly handicrafts barely rewarded their toil with a sufficiency. To some, too, servitude was in itself an oppression: they knew it, in fact, for the intolerable thing it is. But they bethought them that there was still one chance left; their sheet-anchor, as sailors say,
 They took refuge with my lady Folly, called in the assistance of Boldness, Ignorance, and Impudence, ever their untiring coadjutors, and provided themselves with a stock of bran-new invectives; these they have ever ready on their tongues; ’tis their sole equipment; noble provision, is it not, for a philosopher? Nothing could be more plausible than the philosophic disguise they now assume, reminding one of the fabled ass of Cyme, in Aesop, who clothed himself in a lion’s skin, and, stoutly braying, sought to play the lion’s part; the beast, I doubt not, had his adherents.</p></div>
 
 
-<div type="textpart" subtype="section" n="14">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="14">
 <p>The externals of philosophy, as you know, are easily aped: it is a simple matter to assume the cloak and wallet, walk with a stick, and bawl, and bark, and bray, against all comers, They know that they are safe; their cloth protects them. Liberty is thus within their grasp: no need to ask their master’s leave; should he attempt to reclaim them, their sticks are at his service. No more short commons for them now, no more of crusts whose dryness is mitigated only by herbs or salt fish; they have choice of meats, drink the best of wines, and take money where they will, shearing the sheep, as they call it when they levy contributions, in the certainty that many will give, from respect to their garb or fear of their tongues.</p></div>
 
 
-<div type="textpart" subtype="section" n="15">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="15">
 <p>They foresee, of course, that they will be on the same footing as genuine philosophers; so long as their exterior is conformable, no one is likely to make critical distinctions. They take care not to risk exposure: at the first hint of a rational argument, they shout their opponent down, withdraw into the stronghold
 
 
 
-<pb n="101"/>
+<pb n="v.4.p.101"/>
 
 
 
@@ -235,26 +238,26 @@ They took refuge with my lady Folly, called in the assistance of Boldness, Ignor
 of personal abuse, and flourish their ever-ready cudgels. Question their practice, and you will hear much of their principles: offer to examine those principles, and you are referred to their conduct.</p></div>
 
 
-<div type="textpart" subtype="section" n="16">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="16">
 <p>The city swarms with these vermin, particularly with those who profess the tenets of Diogenes, Antisthenes, and Crates. Followers of the Dog, they care little to excel in the canine virtues; they are neither trusty guardians nor affectionate, faithful servants: but for noise and greed and thievery and wantonness, for cringing, fawning cupboard-love,—there, indeed, they are perfect.</p></div>
 
 
-<div type="textpart" subtype="section" n="17">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="17">
 <p>Before long you will see every trade at a standstill, the workmen all at large: for every man of them knows that, whilst he is bent over his work from morning to night, toiling and drudging for a starvation wage, idle impostors are living in the midst of plenty, commanding charity where they will, with no word of thanks to the giver, and a curse on him that withholds the gift. Surely (he will say to himself) the golden age is returned, and the heavens shall rain honey into my mouth.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="18">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="18">
 <p>And would that that were all! But they have other ways of bringing discredit upon us, besides the baseness of their origin. When beauty comes within the reach of these grave and reverend gentlemen, they are guilty of excesses that I will not pollute my lips with mentioning. They have been known, like Trojan Paris, to seduce the wives of their own hosts, and to quote the authority of Plato for leaving these fair converts at the disposal of all their acquaintance; they little knew the true meaning of that inspired philosopher’s community of women.</p></div>
 
 
-<div type="textpart" subtype="section" n="19">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="19">
 <p>I will not tire you with a description of their drunken orgies; observe, however, that these are the men who preach against drunkenness and adultery and avarice and lewdness. Could any contrast be greater than that presented by their words and their deeds? They speak their detestation of flattery: a Gnathonides and a Struthias are less fulsome than they. They bid
 
 
 
-<pb n="102"/>
+<pb n="v.4.p.102"/>
 
 
 
@@ -262,24 +265,24 @@ of personal abuse, and flourish their ever-ready cudgels. Question their practic
 men tell the truth: yet their own tongues cannot move but to utter lies. To hear them, you would say they were at war with pleasure, and Epicurus their bitterest foe: yet nothing do they do but for pleasure’s sake. Querulous, irritable, passionate as cradled babes, they are a derision to the beholder; the veriest trifle serves to move their ire, to bring the purple to their cheeks, ungoverned fury to their eyes, foam—call it rather venom—to their lips.</p></div>
 
 
-<div type="textpart" subtype="section" n="20">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="20">
 <p>Preserve me from their turbid rantings! Gold I ask not, nor silver; be one penny all my wealth, to purchase beans withal. And for my drink, a river, a spring, shall furnish me. But presently it turns out that what they want is not pence, nor shillings, but whole fortunes. He must be a thriving merchant, whose cargoes will bring him in such profits as these men suck out of philosophy. They are sufficiently provided at last, and then off goes the hated uniform: lands and houses are bought, and soft raiment, and comely pages. Inquire of them now for Crates’s wallet, Antisthenes’s cloak, Diogenes’s tub: they know nothing of the matter.</p></div>
 
 
-<div type="textpart" subtype="section" n="21">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="21">
 <p>When men see these things, they spit in the face of philosophy; they think that all philosophers are the same, and blame me their teacher. It is long since I have won over any to my side. I toil like Penelope at the loom, and one moment undoes all that I have done. Ignorance and Wickedness watch my unavailing labours, and smile.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="22">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="22">
 <p><label>Zeus</label> Really, Philosophy has been shamefully treated. We must take some measures with these rascals. Let us think what isto be done. The single stroke of the thunderbolt is too quick a death.</p>
 
 <p><label>Apollo</label> Father, I have a suggestion to make. By their neglect of the Muses, these vile quacks have incurred my own resentment as well as Philosophy’s. They are not worthy to die by your hand. Instead, I would advise your sending Hermes to them, with full authority to punish them at his discretion.
 
 
 
-<pb n="103"/>
+<pb n="v.4.p.103"/>
 
 
 
@@ -289,7 +292,7 @@ With his forensic experience, he will be at no loss to distinguish between the t
 </p></div>
 
 
-<div type="textpart" subtype="section" n="23">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="23">
 <p><label>Zeus</label> A sensible proposal. Heracles, you can go too; take Philosophy with you, and lose no time. Think: this will make your thirteenth Labour, and a creditable one too, the extermination of these reptiles.</p>
 
 <p><label>Hera</label> Rather than meddle with them, I would give the Augean stables a second clean-out. However, let us be starting,
@@ -300,7 +303,7 @@ Philosophy.</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="24">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="24">
 <p><label>Hera</label> Yes, come along, and we will polish off a few to-day.—
 Which way, Philosophy? You know where they are to be found. Somewhere in Greece, of course?</p>
 
@@ -315,14 +318,14 @@ Which way, Philosophy? You know where they are to be found. Somewhere in Greece,
 </p></div>
 
 
-<div type="textpart" subtype="section" n="25">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="25">
 <p><label>Hera</label> You see those two magnificent mountains (the big one is Haemus, and the other Rhodope), and the fertile plain that spreads between them, running to the very foot of either? Those three grand, rugged crests that stand out so proudly yonder form as it were a triple citadel to the city that lies beneath; you can see it now, look.</p>
 
 <p><label>Hera</label> Superb! A queen among cities; her splendours reach us even here. And what is the great river that flows so close beneath the walls?
 
 
 
-<pb n="104"/>
+<pb n="v.4.p.104"/>
 
 
 </p>
@@ -332,7 +335,7 @@ Which way, Philosophy? You know where they are to be found. Somewhere in Greece,
 </p></div>
 
 
-<div type="textpart" subtype="section" n="26">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="26">
 <p><label>Hera</label> Very good; and what comes next? How do we hunt our vermin down?</p>
 
 <p><label>Hera</label> Ah, that is where you come in, Mr. Crier: oblige us by crying them without loss of time.</p>
@@ -341,11 +344,11 @@ Which way, Philosophy? You know where they are to be found. Somewhere in Greece,
 and how shall I describe them?</p>
 
 <p><label>Philosophy</label> I am not sure of their names, as I have never come into contact with them. To judge from their grasping propensities, however, you can hardly go wrong with Cteso, Ctesippus,
-Ctesicles, Euctemon, Polyctetus<note>Ctesis is Greek for ‘gain.’</note>.
+Ctesicles, Euctemon, Polyctetus<note xml:lang="eng">Ctesis is Greek for ‘gain.’</note>.
 
 </p></div>
 
-<div type="textpart" subtype="section" n="27"><p><label>Hera</label> To be sure. But who are these men? They seem to be looking for something too. Why, they are coming up to speak to us.</p>
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="27"><p><label>Hera</label> To be sure. But who are these men? They seem to be looking for something too. Why, they are coming up to speak to us.</p>
 
 <p><label>Innkeeper and Masters</label> Excuse us, madam, and gentlemen, but have you come across a company of three rascals conducting a woman—a very masculine-looking female, with hair cut short in the Spartan fashion?</p>
 
@@ -362,7 +365,7 @@ For the present, let us make a joint proclamation.</p>
 
 
 
-<pb n="105"/>
+<pb n="v.4.p.105"/>
 
 
 
@@ -372,7 +375,7 @@ Dress; a coarse cloak with wallet. Temper: bad. Education: none. Voice: harsh. M
 </p></div>
 
 
-<div type="textpart" subtype="section" n="28">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="28">
 <p><label>First Master</label> Why, what is all this about? His name used to be Cantharus when he was with me. He had long hair, and no beard, and was apprenticed to my trade; I am a fuller, and he was in my shop, dressing cloth.</p>
 
 <p><label>Philosophy</label> Yes, it is the same; but he has dressed to some purpose this time, and has become a philosopher.</p>
@@ -384,7 +387,7 @@ Dress; a coarse cloak with wallet. Temper: bad. Education: none. Voice: harsh. M
 </p></div>
 
 
-<div type="textpart" subtype="section" n="29">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="29">
 <p><label>Philosophy</label> Heracles, who is this comely person with a lyre?</p>
 
 <p><label>Hera</label> It is Orpheus. I was on the Argo with him. He was the best of boatswains; it was quite a pleasure to row to his singing. Welcome, my musical friend: you have not forgotten Heracles, I hope?</p>
@@ -404,7 +407,7 @@ I have no wish to set eyes on him.
 </p></div>
 
 
-<div type="textpart" subtype="section" n="30">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="30">
 <p><label>Hera</label> Hush! Was that a woman’s voice, reciting Homer?</p>
 
 <p><label>Philosophy</label> It was. Let us listen.</p>
@@ -413,7 +416,7 @@ I have no wish to set eyes on him.
 
 
 
-<pb n="106"/>
+<pb n="v.4.p.106"/>
 
 
 </p>
@@ -437,7 +440,7 @@ First Master. My rascal to a T.</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="31">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="31">
 <p><label>Innkeeper</label> Wife, wife! the dogs have been too many for you; ay, and for your virtue, so men say.</p>
 
 <p><label>Hera</label> Hope for the best; some little Cerberus or Geryon shall call you father, and Heracles have employment again.—Ah, no need to knock: here they come.</p>
@@ -446,12 +449,12 @@ First Master. My rascal to a T.</p>
 
 <p><label>Hera</label> Bread, indeed! Gold, a purseful of it!</p>
 
-<p><label>Hera</label> That need not surprise you. In Greece, you see, he was a Cynic, but here he is all for golden Chrysippus. Next you will see him dangling, Cleanthes-like<note>See Cleanthes in Notes.</note>, by his beard, and serve the dirty fellow right.
+<p><label>Hera</label> That need not surprise you. In Greece, you see, he was a Cynic, but here he is all for golden Chrysippus. Next you will see him dangling, Cleanthes-like<note xml:lang="eng">See Cleanthes in Notes.</note>, by his beard, and serve the dirty fellow right.
 
 </p></div>
 
 
-<div type="textpart" subtype="section" n="32">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="32">
 <p><label>Second Master</label> Ha, you rascal there, am I mistaken, or are you my lost Lecythio? Lecythio it is, What a figure! Lecythio a philosopher! I'll believe anything after this.</p>
 
 <p><label>Hera</label> Does none of you know anything about this other?</p>
@@ -462,7 +465,7 @@ First Master. My rascal to a T.</p>
 
 
 
-<pb n="107"/>
+<pb n="v.4.p.107"/>
 
 
 </p>
@@ -484,7 +487,7 @@ First Master. My rascal to a T.</p>
 </p></div>
 
 
-<div type="textpart" subtype="section" n="33">
+<div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg043.perseus-eng4:" n="33">
 <p>Masters. We leave the rest to you, sir.</p>
 
 <p><label>Hera</label> This is my judgement. Let the woman return beneath her husband’s roof, or many-headed monsters will come of it. These two truant sparks I hand over to their owners: let them follow their trades as heretofore; Lecythio wash clothes, and Rosolio patch them;—not, however, before his back has felt the mallow-stalk, And for Cantharus, first let the men of pitch take him, and plaster him without mercy; and be their pitch the vilest procurable. Then let him be led forth to stand upon the snowy slopes of Haemus, naked and fettered.</p>
@@ -495,7 +498,7 @@ First Master. My rascal to a T.</p>
 
 
 
-<pb n="108"/>
+<pb n="v.4.p.108"/>
 
 
 
@@ -503,4 +506,4 @@ First Master. My rascal to a T.</p>
 </p></div>
 </div>
 
-</div></body></text></TEI>
+</body></text></TEI>

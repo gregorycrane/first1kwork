@@ -4,8 +4,8 @@
     <teiHeader xml:lang="eng">
 <fileDesc>
 <titleStmt>
+<title xml:lang="eng">The Scythian or Consul</title>
 <title xml:lang="grc">Σκύθης ἢ πρόξενος</title>
-<title>The Scythian or Consul</title>
 <author>Lucian of Samosata</author>
 <editor role="translator">Kenneth Kilburn</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
@@ -35,7 +35,7 @@
             <biblStruct>
                 <monogr>
                     <author>Lucian of Samosata</author>
-                    <title>Lucian with an English Translation</title>
+                    <title xml:lang="eng">Lucian with an English Translation</title>
                     <editor role="translator">Kenneth Kilburn</editor>
                     <imprint>
                         <pubPlace>London</pubPlace>
@@ -668,11 +668,11 @@ a cup, another a chalice, another a garland, and each of these may be of bronze,
 
 <sp><speaker>HERMOTIMUS</speaker><p>Yes, I know.</p></sp>
 
-<sp><speaker>LYCINUS</speaker><p>Then, since you have seen it from near at hand, you could give a better account of it than <milestone unit="altchapter" n="1"/></p></sp>
+<sp><speaker>LYCINUS</speaker><p>Then, since you have seen it from near at hand, you could give a better account of it than </p></sp>
 </div>
 
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg063.perseus-eng3" n="40">
-<sp><speaker>HERMOTIMUS</speaker><p>In former times, when Heracles was judge,
+<sp><speaker>HERMOTIMUS</speaker><p><milestone unit="altchapter" n="1"/>In former times, when Heracles was judge,
 bay-leaves . . .</p></sp>
 
 <sp><speaker>LYCINUS</speaker><p>Don’t tell me about former times, Hermotimus, but what you saw from near at hand.</p></sp>
